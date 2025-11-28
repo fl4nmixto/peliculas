@@ -1,0 +1,217 @@
+{
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "fotos": [
+        "563a5a632916c53546d2c534",
+        "563a5a632916c53546d2c535"
+    ],
+    "afis": [
+        "563a5a632916c53546d2c533"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "adson",
+        "arsat"
+    ],
+    "tit": "Balnearios",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "gens": [
+        {
+            "nom": "Comedia",
+            "style": "genero-INCAA-5",
+            "ab": "C",
+            "stylesec": "genero-INCAA-5-sec",
+            "home": false
+        },
+        {
+            "nom": "Documental",
+            "style": "genero-INCAA-6",
+            "ab": "D",
+            "stylesec": "genero-INCAA-6-sec",
+            "home": false
+        }
+    ],
+    "dura": 85,
+    "an": "2001",
+    "pers": {
+        "02": [
+            {
+                "nom": "Mariano Llinás",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 5
+            },
+            {
+                "nom": "Lucio Bonelli",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 6
+            },
+            {
+                "nom": "Gabriel Chwojnik",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Federico Esquerro",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Agustín Rolandelli",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Manuela Willimburgh",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            }
+        ],
+        "01": [
+            {
+                "nom": "Mariano Llinás",
+                "rol": "DIR",
+                "avatar": "563a5a632916c53546d2c532",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6124,
+                "impor": 1
+            },
+            {
+                "nom": "Verónica Llinás",
+                "rol": "INT",
+                "avatar": "563a54542916c53546d2c370",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6125,
+                "impor": 2
+            },
+            {
+                "nom": "Mario Mactas",
+                "rol": "INT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6126,
+                "impor": 3
+            },
+            {
+                "nom": "Ulises de la Orden",
+                "rol": "INT",
+                "avatar": "5c40bdfc2916c51a622d4a71",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6993,
+                "impor": 4
+            }
+        ]
+    },
+    "sino": "Documental antropológico en episodios, sobre distintas ciudades balnearias con condimentos de ficción ",
+    "nacios": [
+        "AR"
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "asociadas": [
+        {
+            "tit": "En carne viva",
+            "id": {
+                "source": "INCAA",
+                "sid": 5323
+            },
+            "afi": "5d4875af2916c51a0ede7964"
+        },
+        {
+            "tit": "Ama y haz lo que quieras",
+            "id": {
+                "source": "INCAA",
+                "sid": 8691
+            },
+            "afi": "6400ea6688bf77105b658b12"
+        },
+        {
+            "tit": "Siete latidos: Oficios de cine y TV",
+            "id": {
+                "source": "INCAA",
+                "sid": 6799
+            },
+            "afi": "5fb68c2188bf773aa0ab4ab3"
+        },
+        {
+            "tit": "Telma, el cine y el soldado",
+            "id": {
+                "source": "INCAA",
+                "sid": 9404
+            },
+            "afi": "65e5de0a2916c52efe4f24a8"
+        },
+        {
+            "tit": "Eso que pasa mientras esperamos que otra cosa pase",
+            "id": {
+                "source": "INCAA",
+                "sid": 9326
+            },
+            "afi": "65b3af2088bf7791ec189974"
+        },
+        {
+            "tit": "El día que los Beatles vinieron a la Argentina",
+            "id": {
+                "source": "INCAA",
+                "sid": 3958
+            },
+            "afi": "5873cc6f88bf77058a5b7e96"
+        }
+    ],
+    "id": {
+        "source": "INCAA",
+        "sid": 1389
+    },
+    "padres": []
+}

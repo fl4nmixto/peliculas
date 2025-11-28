@@ -1,0 +1,372 @@
+{
+    "afis": [
+        "64ecd9432916c52efe4f1d04"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 95,
+    "an": "2015",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 7236
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 5701,
+        "porcen": 100,
+        "fModif": "2024-04-10T22:47:50.514554"
+    },
+    "rProme": 4,
+    "fotos": [
+        "5ffc893288bf77105b656889",
+        "5ffc893288bf77105b65688a"
+    ],
+    "tit": "La luz incidente",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Ariel Rotter",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Nicolás Giussani",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Guillermo Nieto",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Mariano Loiacono",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Martín Litmanovich",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Eliane Katz",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Ailí Chen",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Ariel Rotter",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 10131,
+                "impor": 17
+            },
+            {
+                "nom": "Mónica Toschi",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9492,
+                "impor": 18
+            },
+            {
+                "nom": "Emmanuel Miño",
+                "rol": "MAQ",
+                "avatar": "5877b8b288bf77058a5b7ed8",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 10779,
+                "impor": 19
+            },
+            {
+                "nom": "Guillermo Rocamora",
+                "rol": "CPP",
+                "avatar": "67a0cfba2916c52efe4f2d2d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 13053,
+                "impor": 20
+            },
+            {
+                "nom": "Diego Amson",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 13062,
+                "impor": 21
+            },
+            {
+                "nom": "Ada Frontini",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10179,
+                "impor": 22
+            },
+            {
+                "nom": "Aire Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Tarea Fina",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 24
+            }
+        ],
+        "01": [
+            {
+                "nom": "Ariel Rotter",
+                "rol": "DIR",
+                "avatar": "563a5a5f2916c53546d2c511",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6473,
+                "impor": 1
+            },
+            {
+                "nom": "Érica Rivas",
+                "rol": "INT",
+                "avatar": "56586f7188bf777873120d0f",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6168,
+                "impor": 2
+            },
+            {
+                "nom": "Marcelo Subiotto",
+                "rol": "ELS",
+                "avatar": "58c8339d88bf77058a5b8457",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8871,
+                "impor": 3
+            },
+            {
+                "nom": "Susana Pampin",
+                "rol": "ELS",
+                "avatar": "66634acf2916c52efe4f2805",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7052,
+                "impor": 4
+            },
+            {
+                "nom": "Rosana Vezzoni",
+                "rol": "ELS",
+                "avatar": "56495fce88bf77787311f1ac",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 9440,
+                "impor": 5
+            },
+            {
+                "nom": "Elvira Onetto",
+                "rol": "ELS",
+                "avatar": "5f6b5e1788bf773aa0ab46a2",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 10358,
+                "impor": 6
+            },
+            {
+                "nom": "Roberto Suárez",
+                "rol": "ELS",
+                "avatar": "5d838cb62916c51a0ede7c55",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8397,
+                "impor": 7
+            }
+        ]
+    },
+    "rVotan": 609,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Argentina, años 60. Desde el accidente, Luisa no ha podido rearmar su vida. Pero cuando un misterioso y seductor desconocido entra en su vida y le propone con vehemencia volver a empezar, Luisa se enfrenta con el duelo que venía intentando evitar.",
+    "asociadas": [
+        {
+            "tit": "Vagón fumador",
+            "id": {
+                "source": "INCAA",
+                "sid": 658
+            },
+            "afi": "65df396d88bf7791ec189a9d"
+        },
+        {
+            "tit": "Alicia",
+            "id": {
+                "source": "INCAA",
+                "sid": 5307
+            },
+            "afi": "5d125ef72916c51a0ede76f3"
+        },
+        {
+            "tit": "Una casa lejos",
+            "id": {
+                "source": "INCAA",
+                "sid": 9463
+            },
+            "afi": "668578ea2916c52efe4f28ac"
+        },
+        {
+            "tit": "Pobre mi madre querida",
+            "id": {
+                "source": "INCAA",
+                "sid": 263
+            },
+            "afi": "563a50dc2916c53546d2c0ee"
+        },
+        {
+            "tit": "Coral",
+            "id": {
+                "source": "INCAA",
+                "sid": 5310
+            },
+            "afi": "5d35d2792916c51a0ede786d"
+        },
+        {
+            "tit": "¿¡Quién es?!",
+            "id": {
+                "source": "INCAA",
+                "sid": 9640
+            },
+            "afi": "678fe8f788bf7791ec18a36e"
+        },
+        {
+            "tit": "Eami",
+            "id": {
+                "source": "INCAA",
+                "sid": 8689
+            },
+            "afi": "64ecd9422916c52efe4f1cfe"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "64ecd9432916c52efe4f1d03",
+    "padres": [
+        {
+            "tit": "Sean eternos los laureles",
+            "id": {
+                "source": "INCAA",
+                "sid": 9400
+            },
+            "tags": [
+                "compi",
+                "espe"
+            ]
+        }
+    ]
+}

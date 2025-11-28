@@ -1,0 +1,347 @@
+{
+    "afis": [
+        "5fd7d56188bf77105b656736"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 120,
+    "an": "2020",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 770,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2021-02-10T23:59:00",
+                    "in": "2020-12-16T23:59:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 6204
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "rProme": 4.3,
+    "fotos": [
+        "5fd7d56088bf77105b656733",
+        "5fd7d56088bf77105b656734"
+    ],
+    "tit": "Las mil y una",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Clarisa Navas",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 6
+            },
+            {
+                "nom": "Lucas Gabriel Olivares",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Armin Marchesini Weihmüller",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Claudio Juárez",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Desdel Barro",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Mercedes Gaviria Jaramillo",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Florencia Gómez García",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Lucas Koziarski",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Diego Dubcovsky",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Lucía Chavarri",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Carolina Penelas",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 14137,
+                "impor": 16
+            },
+            {
+                "nom": "Clarisa Leiva",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 14138,
+                "impor": 17
+            },
+            {
+                "nom": "Anouk Clemenceau",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 14139,
+                "impor": 18
+            },
+            {
+                "nom": "Roberto Zambrino",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10142,
+                "impor": 19
+            },
+            {
+                "nom": "Autentika Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Varsovia Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            }
+        ],
+        "01": [
+            {
+                "nom": "Clarisa Navas",
+                "rol": "DIR",
+                "avatar": "5fb688122916c52d277cc2db",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 7627,
+                "impor": 1
+            },
+            {
+                "nom": "Sofía Cabrera",
+                "rol": "INT",
+                "avatar": "5fb6864688bf773aa0ab4ab1",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 14133,
+                "impor": 2
+            },
+            {
+                "nom": "Ana Carolina García",
+                "rol": "INT",
+                "avatar": "5fb6864688bf773aa0ab4ab2",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 14134,
+                "impor": 3
+            },
+            {
+                "nom": "Mauricio Vila",
+                "rol": "ELS",
+                "avatar": "5fb688122916c52d277cc2d9",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 14135,
+                "impor": 4
+            },
+            {
+                "nom": "Luis Molina",
+                "rol": "ELS",
+                "avatar": "5fb688122916c52d277cc2da",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 14136,
+                "impor": 5
+            }
+        ]
+    },
+    "rVotan": 258,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Cuando Iris conoce a Renata, entre los monoblocks de Las Mil viviendas, siente una atracción inexplicable. La nueva presencia de Renata incomoda y los prejuicios se esparcen. Ante la hostilidad, ellas y su pequeño grupo de amigos serán la resistencia queer.",
+    "asociadas": [
+        {
+            "tit": "De vuelta",
+            "id": {
+                "source": "INCAA",
+                "sid": 4665
+            },
+            "afi": "5ad4c6fa2916c55575e03839"
+        },
+        {
+            "tit": "Crónica de la muerte de Paco Uribe",
+            "id": {
+                "source": "INCAA",
+                "sid": 5318
+            },
+            "afi": "5d48642d88bf77160a53ee6c"
+        },
+        {
+            "tit": "Tres deseos. Una verdad",
+            "id": {
+                "source": "INCAA",
+                "sid": 8908
+            },
+            "afi": "658ad97a2916c52efe4f21ee"
+        },
+        {
+            "tit": "El mejor papá del mundo",
+            "id": {
+                "source": "INCAA",
+                "sid": 55
+            },
+            "afi": "563a4f2a2916c53546d2c011"
+        },
+        {
+            "tit": "La corporación ",
+            "id": {
+                "source": "INCAA",
+                "sid": 1303
+            },
+            "afi": "563a462c2916c53546d2be1c"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5fd7d56188bf77105b656735",
+    "padres": []
+}

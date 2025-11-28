@@ -1,0 +1,337 @@
+{
+    "afis": [
+        "563a5a632916c53546d2c52f"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 100,
+    "an": "2010",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 1388
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "rProme": 4.1,
+    "fotos": [
+        "563a5a632916c53546d2c530",
+        "563a5a632916c53546d2c531"
+    ],
+    "tit": "De caravana",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Rosendo Ruíz",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Manlio Zoppi",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Pablo González Galetto",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Andrés Oddone",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Lisandro Sona",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Rafael Caivano",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Guillermo Sempronii",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Agustín Goya",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Carolina Bravo",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Martín Rena",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Inés Moyano",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 4602,
+                "impor": 17
+            },
+            {
+                "nom": "Gabriela Cavallone",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 8049,
+                "impor": 18
+            },
+            {
+                "nom": "Belén Fontana",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 13098,
+                "impor": 19
+            },
+            {
+                "nom": "Christian Leiva",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 6405,
+                "impor": 20
+            },
+            {
+                "nom": "El Carro",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            }
+        ],
+        "01": [
+            {
+                "nom": "Rosendo Ruíz",
+                "rol": "DIR",
+                "avatar": "61a9053f2916c5095004468d",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 8412,
+                "impor": 1
+            },
+            {
+                "nom": "Francisco Colja",
+                "rol": "INT",
+                "avatar": "6633931a2916c52efe4f2680",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8408,
+                "impor": 2
+            },
+            {
+                "nom": "Yohana Pereyra",
+                "rol": "INT",
+                "avatar": "599c3adc88bf770b6df28b39",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8409,
+                "impor": 3
+            },
+            {
+                "nom": "Rodrigo Savina",
+                "rol": "INT",
+                "avatar": "6633931a2916c52efe4f2681",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8411,
+                "impor": 4
+            },
+            {
+                "nom": "Martín Rena",
+                "rol": "ELS",
+                "avatar": "59a835922916c529818a2259",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 5737,
+                "impor": 5
+            },
+            {
+                "nom": "Gustavo Almada",
+                "rol": "ELS",
+                "avatar": "5b71b9cc2916c51a622d41d3",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6432,
+                "impor": 6
+            }
+        ]
+    },
+    "rVotan": 22,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Una delirante aventura que toma como punto de partida lo que sucede durante un show de Carlos ”La Mona Jimenez”.",
+    "asociadas": [
+        {
+            "tit": "El seductor",
+            "id": {
+                "source": "INCAA",
+                "sid": 198
+            },
+            "afi": "64cc610b88bf7791ec1893a5"
+        },
+        {
+            "tit": "Puertas adentro",
+            "id": {
+                "source": "INCAA",
+                "sid": 4277
+            },
+            "afi": "5b4772042916c51a622d4034"
+        },
+        {
+            "tit": "Las tres ratas",
+            "id": {
+                "source": "INCAA",
+                "sid": 102
+            },
+            "afi": "55e0b329b98128433f85c6f6"
+        },
+        {
+            "tit": "La dama duende",
+            "id": {
+                "source": "INCAA",
+                "sid": 82
+            },
+            "afi": "563a4f332916c53546d2c02c"
+        },
+        {
+            "tit": "Medio millón por una mujer",
+            "id": {
+                "source": "INCAA",
+                "sid": 115
+            },
+            "afi": "563b5c8e2916c53546d2c828"
+        },
+        {
+            "tit": "La culpa la tuvo el otro",
+            "id": {
+                "source": "INCAA",
+                "sid": 220
+            },
+            "afi": "64cc610b88bf7791ec1893a7"
+        },
+        {
+            "tit": "Mar del plata",
+            "id": {
+                "source": "INCAA",
+                "sid": 5638
+            },
+            "afi": "5c93ce0988bf771db6faa2d3"
+        },
+        {
+            "tit": "Noches Áticas",
+            "id": {
+                "source": "INCAA",
+                "sid": 752
+            },
+            "afi": "563a45d92916c53546d2bdb2"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Comedia",
+            "style": "genero-INCAA-5",
+            "ab": "C",
+            "stylesec": "genero-INCAA-5-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "padres": []
+}

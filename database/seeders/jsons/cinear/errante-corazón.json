@@ -1,0 +1,510 @@
+{
+    "afis": [
+        "6818d84288bf7791ec18a541"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 107,
+    "an": "2021",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 9688
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "fotos": [
+        "681234392916c52efe4f2ee7",
+        "681234392916c52efe4f2ee8"
+    ],
+    "tit": "Errante corazón",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Leonardo Brzezicki",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Ana Bérard",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Pedro Sotero",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Nico Casal",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Javier Farina",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Roberto Espinoza",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Marta Velasco",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Eugenia Lestard",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Giancarlo Nasi",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Andrés Martín",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Rodrigo Teixeira",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Violeta Bava",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Rosa Martínez Rivero",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Marilia Garske",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 35753,
+                "impor": 23
+            },
+            {
+                "nom": "Mariana Cohelo",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 35752,
+                "impor": 24
+            },
+            {
+                "nom": "Giancarlo Nasi",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 11268,
+                "impor": 25
+            },
+            {
+                "nom": "Violeta Bava",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 8523,
+                "impor": 26
+            },
+            {
+                "nom": "Elena Manrique",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 35754,
+                "impor": 27
+            },
+            {
+                "nom": "Jam Monti",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 5760,
+                "impor": 28
+            },
+            {
+                "nom": "Dolores Giménez",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 35757,
+                "impor": 29
+            },
+            {
+                "nom": "Lucía Ciruelos",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 35760,
+                "impor": 30
+            },
+            {
+                "nom": "Gustavo Gonzalez",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 31824,
+                "impor": 31
+            },
+            {
+                "nom": "Ignacio Concilio",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 31825,
+                "impor": 32
+            },
+            {
+                "nom": "César Tercero",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 10114,
+                "impor": 33
+            },
+            {
+                "nom": "Sebastián Cichero",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 11935,
+                "impor": 34
+            },
+            {
+                "nom": "Paula Núñez",
+                "rol": "FXS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "FX",
+                "rolorden": "00024",
+                "grupo": "02",
+                "sid": 10196,
+                "impor": 35
+            },
+            {
+                "nom": "Vértigo Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 36
+            },
+            {
+                "nom": "Ruda Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 37
+            },
+            {
+                "nom": "RT Features",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 38
+            },
+            {
+                "nom": "Quijote Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 39
+            },
+            {
+                "nom": "Keplerfilms",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 40
+            }
+        ],
+        "01": [
+            {
+                "nom": "Leonardo Brzezicki",
+                "rol": "DIR",
+                "avatar": "5eb2e0b12916c52d277cafaa",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 7198,
+                "impor": 1
+            },
+            {
+                "nom": "Leonardo Sbaraglia",
+                "rol": "INT",
+                "avatar": "563a4a9e2916c53546d2bed5",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 5627,
+                "impor": 2
+            },
+            {
+                "nom": "Miranda de la Serna",
+                "rol": "INT",
+                "avatar": "6613ec8f88bf7791ec189bfd",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 5578,
+                "impor": 3
+            },
+            {
+                "nom": "Eva Llorach",
+                "rol": "INT",
+                "avatar": "6810ff3188bf7791ec18a52e",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 35747,
+                "impor": 4
+            },
+            {
+                "nom": "Iván González",
+                "rol": "INT",
+                "avatar": "6092cf6e88bf77105b656e56",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6221,
+                "impor": 5
+            },
+            {
+                "nom": "Alberto Ajaka",
+                "rol": "ELS",
+                "avatar": "563a49c22916c53546d2bebe",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8293,
+                "impor": 6
+            },
+            {
+                "nom": "Thalita Carauta",
+                "rol": "ELS",
+                "avatar": "6810ff3188bf7791ec18a52f",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 35748,
+                "impor": 7
+            },
+            {
+                "nom": "Tuca Andrada",
+                "rol": "ELS",
+                "avatar": "6810ff3188bf7791ec18a530",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 35749,
+                "impor": 8
+            },
+            {
+                "nom": "Rodrigo Dos Santos",
+                "rol": "ELS",
+                "avatar": "6818d7352916c52efe4f2efb",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 35758,
+                "impor": 9
+            }
+        ]
+    },
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Lo que parece ser un verano caótico en Argentina y en Brasil, termina siendo un punto de inflexión en las vidas y en el vínculo de Santiago y su hija, Laila.",
+    "asociadas": [
+        {
+            "tit": "El campo",
+            "id": {
+                "source": "INCAA",
+                "sid": 729
+            },
+            "afi": "563a46282916c53546d2bde7"
+        },
+        {
+            "tit": "Tao, el camino",
+            "id": {
+                "source": "INCAA",
+                "sid": 1169
+            },
+            "afi": "564f959088bf77787311f2ff"
+        },
+        {
+            "tit": "Breve historia del planeta verde",
+            "id": {
+                "source": "INCAA",
+                "sid": 6172
+            },
+            "afi": "5e8e1bec2916c52d277cabdb"
+        },
+        {
+            "tit": "El retorno",
+            "id": {
+                "source": "INCAA",
+                "sid": 1187
+            },
+            "afi": "564f9b9a88bf77787311f319"
+        },
+        {
+            "tit": "Maria y Juan",
+            "id": {
+                "source": "INCAA",
+                "sid": 4150
+            },
+            "afi": "593ac5472916c56e6bceab93"
+        },
+        {
+            "tit": "Trato",
+            "id": {
+                "source": "INCAA",
+                "sid": 4685
+            },
+            "afi": "5b59d6202916c51a622d40f2"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "6818d94d88bf7791ec18a542",
+    "padres": []
+}

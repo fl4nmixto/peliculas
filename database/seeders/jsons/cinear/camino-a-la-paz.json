@@ -1,0 +1,430 @@
+{
+    "afis": [
+        "678015b62916c52efe4f2c9e"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 85,
+    "an": "2014",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 9560
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "fotos": [
+        "678015b72916c52efe4f2ca0",
+        "678015b72916c52efe4f2c9f"
+    ],
+    "tit": "Camino a la paz",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Francisco Varone",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Fabián Forte",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Christian Cottet",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Vox Dei",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Manuel De Andrés",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Federico Peretti",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Alberto Ponce",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Daniela Podcaminsky",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Juan Taratuto",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Julius Ponten",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Gema Juárez Allen",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Omar Jadur",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Dolores Llosas",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Gunter Hanfgarn",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Francisco Varone",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Philip Harthoorn",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Sebastián Perillo",
+                "rol": "PEJ",
+                "avatar": "5fa01e902916c52d277cc17a",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 10252,
+                "impor": 24
+            },
+            {
+                "nom": "Gema Juárez Allen",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 8976,
+                "impor": 25
+            },
+            {
+                "nom": "Delfina De Forteza",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 13284,
+                "impor": 26
+            },
+            {
+                "nom": "Franca Gallo",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 4223,
+                "impor": 27
+            },
+            {
+                "nom": "Luisa Cavanagh",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10209,
+                "impor": 28
+            },
+            {
+                "nom": "Franco Burattini",
+                "rol": "FXS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "FX",
+                "rolorden": "00024",
+                "grupo": "02",
+                "sid": 29129,
+                "impor": 29
+            },
+            {
+                "nom": "No Problem",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 30
+            },
+            {
+                "nom": "Gema Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 31
+            },
+            {
+                "nom": "Concreto Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 32
+            }
+        ],
+        "01": [
+            {
+                "nom": "Francisco Varone",
+                "rol": "DIR",
+                "avatar": "67800f5e2916c52efe4f2c9b",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 33007,
+                "impor": 1
+            },
+            {
+                "nom": "Rodrigo de la Serna",
+                "rol": "INT",
+                "avatar": "6780117b88bf7791ec18a327",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6308,
+                "impor": 2
+            },
+            {
+                "nom": "Ernesto Suárez",
+                "rol": "INT",
+                "avatar": "5e3d6a702916c50926157482",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 11130,
+                "impor": 3
+            },
+            {
+                "nom": "Elisa Carricajo",
+                "rol": "INT",
+                "avatar": "5d30c85788bf77160a53ed5a",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7345,
+                "impor": 4
+            },
+            {
+                "nom": "María Canale",
+                "rol": "ELS",
+                "avatar": "64593c0488bf77105b658d54",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8622,
+                "impor": 5
+            },
+            {
+                "nom": "Juan Manuel Alari",
+                "rol": "ELS",
+                "avatar": "685b0e3988bf7791ec18a625",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 9987,
+                "impor": 6
+            },
+            {
+                "nom": "Alicia Palmes",
+                "rol": "ELS",
+                "avatar": "6780106d2916c52efe4f2c9c",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 35490,
+                "impor": 7
+            }
+        ]
+    },
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Sebastián, un treintañero desempleado, termina fruto de la casualidad trabajando de remisero. En sus viajes, conoce a Muslim, un anciano musulmán muy poco amigable y de delicada salud. Muslim necesita hacer un viaje urgente y a cambio de mucho dinero le propone a Sebas que sea su chofer.",
+    "asociadas": [
+        {
+            "tit": "Una mujer en el bosque",
+            "id": {
+                "source": "INCAA",
+                "sid": 4674
+            },
+            "afi": "5af30c872916c55575e03928"
+        },
+        {
+            "tit": "Revolución",
+            "id": {
+                "source": "INCAA",
+                "sid": 1484
+            },
+            "afi": "611d27c088bf77105b65736a"
+        },
+        {
+            "tit": "Lloronas",
+            "id": {
+                "source": "INCAA",
+                "sid": 797
+            },
+            "afi": "563d0d802916c5262fe93bc8"
+        },
+        {
+            "tit": "Estacionamiento",
+            "id": {
+                "source": "INCAA",
+                "sid": 4648
+            },
+            "afi": "5ba8f8162916c51a622d4492"
+        },
+        {
+            "tit": "Instrucciones para Adela",
+            "id": {
+                "source": "INCAA",
+                "sid": 6757
+            },
+            "afi": "658ad97a2916c52efe4f21ef"
+        },
+        {
+            "tit": "El conductor",
+            "id": {
+                "source": "INCAA",
+                "sid": 5093
+            },
+            "afi": "5b3cdc552916c55575e03bd3"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "678015b72916c52efe4f2ca1",
+    "padres": []
+}

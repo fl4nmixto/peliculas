@@ -1,0 +1,441 @@
+{
+    "afis": [
+        "64ecd9432916c52efe4f1d09"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 103,
+    "an": "2020",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 581,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2020-04-08T23:59:00",
+                    "in": "2020-02-12T23:59:00"
+                },
+                "act": true
+            },
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 618,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2020-05-07T23:59:00",
+                    "in": "2020-04-09T01:00:00"
+                },
+                "act": true
+            },
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 619,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2020-05-18T23:59:00",
+                    "in": "2020-05-08T01:00:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 6110
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "rProme": 4.4,
+    "fotos": [
+        "5e46c1cb2916c509261574b7",
+        "5e46c2d02916c509261574b8"
+    ],
+    "tit": "Los sonámbulos",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Paula Hernández",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Mariano Biasin",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Ivan Gierasinchuk",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Pedro Onetto",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Federico Moreira",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Martín Grignaschi",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Rosario Suárez",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Ailí Chen",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Paula Hernández",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 10131,
+                "impor": 19
+            },
+            {
+                "nom": "Mónica Toschi",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9492,
+                "impor": 20
+            },
+            {
+                "nom": "Ángela Garacija",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 12709,
+                "impor": 21
+            },
+            {
+                "nom": "Jorge Russo",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10225,
+                "impor": 22
+            },
+            {
+                "nom": "Tarea Fina",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            }
+        ],
+        "01": [
+            {
+                "nom": "Paula Hernández",
+                "rol": "DIR",
+                "avatar": "563a4d0e2916c53546d2bf9a",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6540,
+                "impor": 1
+            },
+            {
+                "nom": "Érica Rivas",
+                "rol": "INT",
+                "avatar": "56586f7188bf777873120d0f",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6168,
+                "impor": 2
+            },
+            {
+                "nom": "Ornella D'Elia",
+                "rol": "INT",
+                "avatar": "5df3b5b82916c509261572d2",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 12827,
+                "impor": 3
+            },
+            {
+                "nom": "Marilú Marini",
+                "rol": "ELS",
+                "avatar": "5874f7e688bf77058a5b7ea9",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7876,
+                "impor": 4
+            },
+            {
+                "nom": "Luis Ziembrowski",
+                "rol": "ELS",
+                "avatar": "565d9cc288bf777873121f64",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6396,
+                "impor": 5
+            },
+            {
+                "nom": "Daniel Hendler",
+                "rol": "ELS",
+                "avatar": "5693b99d88bf777873123728",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6323,
+                "impor": 6
+            },
+            {
+                "nom": "Valeria Lois",
+                "rol": "ELS",
+                "avatar": "58c8339d88bf77058a5b8455",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8617,
+                "impor": 7
+            },
+            {
+                "nom": "Rafael Federman",
+                "rol": "ELS",
+                "avatar": "6172d16e88bf77105b6576e2",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 4157,
+                "impor": 8
+            }
+        ]
+    },
+    "rVotan": 675,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Una mujer, Luisa, y su hija de 14 años, sonámbula, en pleno despertar. Un matrimonio en los bordes de una crisis silenciada. Una familia ritualista y endogámica. Abuela, hermanos, primos. Verano, sudor, alcohol, tradiciones. Cuerpos desnudos, cuerpos que cambian y la miradas sobre esos nuevos cuerpos. Un festejo de fin de año en la casona histórica familiar, es la encerrona calurosa y necesaria para que los sonámbulos despierten.",
+    "asociadas": [
+        {
+            "tit": "Leyenda del Ceibo",
+            "id": {
+                "source": "INCAA",
+                "sid": 1500
+            },
+            "afi": "564b4f8088bf77787311f21c"
+        },
+        {
+            "tit": "La luz incidente",
+            "id": {
+                "source": "INCAA",
+                "sid": 7236
+            },
+            "afi": "64ecd9432916c52efe4f1d04"
+        },
+        {
+            "tit": "Toda mi alegría",
+            "id": {
+                "source": "INCAA",
+                "sid": 6093
+            },
+            "afi": "5e1783ce88bf7709e737b1f5"
+        },
+        {
+            "tit": "Invisible",
+            "id": {
+                "source": "INCAA",
+                "sid": 7986
+            },
+            "afi": "620672ee2916c50950044994"
+        },
+        {
+            "tit": "Animal",
+            "id": {
+                "source": "INCAA",
+                "sid": 7994
+            },
+            "afi": "625f143c88bf77105b657f8a"
+        },
+        {
+            "tit": "Carla",
+            "id": {
+                "source": "INCAA",
+                "sid": 6088
+            },
+            "afi": "5e17883188bf7709e737b1fc"
+        },
+        {
+            "tit": "Evita",
+            "id": {
+                "source": "INCAA",
+                "sid": 494
+            },
+            "afi": "62e7f9bf88bf77105b658398"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "64ecd9432916c52efe4f1d08",
+    "padres": []
+}

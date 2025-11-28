@@ -1,0 +1,357 @@
+{
+    "afis": [
+        "5b1034e82916c55575e03a43"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 99,
+    "an": "2012",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 4914
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 5929,
+        "porcen": 100,
+        "fModif": "2020-06-14T02:14:23.111411"
+    },
+    "rProme": 3.4,
+    "fotos": [
+        "5b1034e82916c55575e03a44",
+        "5b1034e82916c55575e03a45"
+    ],
+    "tit": "Villegas",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Gonzalo Tobal",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Mariano Turek",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Lucas Gaynor",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Nacho Rodríguez Baiguera",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Francisco Pedemonte",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Delfina Castagnino",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Julieta Dolinsky",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Matias Roveda",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Benjamín Domenech",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 8002,
+                "impor": 15
+            },
+            {
+                "nom": "Santiago Gallelli",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 4606,
+                "impor": 16
+            },
+            {
+                "nom": "Juan Manuel Villegas",
+                "rol": "PEJ",
+                "avatar": "563a527a2916c53546d2c292",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 6759,
+                "impor": 17
+            },
+            {
+                "nom": "Sandra Fink",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9258,
+                "impor": 18
+            },
+            {
+                "nom": "Sandra Fink",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 9258,
+                "impor": 19
+            },
+            {
+                "nom": "Luisa Cavanagh",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10209,
+                "impor": 20
+            },
+            {
+                "nom": "Tresmilmundos",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Rei Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            }
+        ],
+        "01": [
+            {
+                "nom": "Gonzalo Tobal",
+                "rol": "DIR",
+                "avatar": "5b1034e82916c55575e03a47",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 8733,
+                "impor": 1
+            },
+            {
+                "nom": "Esteban Lamothe",
+                "rol": "INT",
+                "avatar": "5c055ec988bf771db6fa9dfe",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6720,
+                "impor": 2
+            },
+            {
+                "nom": "Esteban Bigliardi",
+                "rol": "INT",
+                "avatar": "582c74f788bf77058a5b79eb",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8039,
+                "impor": 3
+            },
+            {
+                "nom": "Paula Carruega",
+                "rol": "INT",
+                "avatar": "5b1034e82916c55575e03a46",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 9914,
+                "impor": 4
+            },
+            {
+                "nom": "Raul Sanchez",
+                "rol": "ELS",
+                "avatar": "56a6362e88bf77718ed08c9d",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 9374,
+                "impor": 5
+            },
+            {
+                "nom": "Mauricio Minetti",
+                "rol": "ELS",
+                "avatar": "590372b52916c56e6bcea8f8",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 5418,
+                "impor": 6
+            }
+        ]
+    },
+    "rVotan": 363,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "adson",
+        "arsat"
+    ],
+    "sino": "Tras un tiempo sin verse, dos primos deben reunirse para ir en auto al entierro del abuelo en Villegas, una pequeña ciudad del interior. Este retorno se convierte pronto en un intenso viaje emocional marcado por los reencuentros, el peso del pasado y el fin de una era.",
+    "asociadas": [
+        {
+            "tit": "La zona caliente",
+            "id": {
+                "source": "INCAA",
+                "sid": 7819
+            },
+            "afi": "6171b0102916c5095004448c"
+        },
+        {
+            "tit": "Las hormigas",
+            "id": {
+                "source": "INCAA",
+                "sid": 4273
+            },
+            "afi": "5b59d6202916c51a622d40ef"
+        },
+        {
+            "tit": "El plan ",
+            "id": {
+                "source": "INCAA",
+                "sid": 4672
+            },
+            "afi": "5af30c862916c55575e03926"
+        },
+        {
+            "tit": "Homúnculo",
+            "id": {
+                "source": "INCAA",
+                "sid": 4653
+            },
+            "afi": "5a8f15aa88bf77155d322639"
+        },
+        {
+            "tit": "El agua de los sueños",
+            "id": {
+                "source": "INCAA",
+                "sid": 6749
+            },
+            "afi": "5f8de45d2916c52d277cc064"
+        },
+        {
+            "tit": "Toy complicado",
+            "id": {
+                "source": "INCAA",
+                "sid": 9320
+            },
+            "afi": "65a012d02916c52efe4f226a"
+        },
+        {
+            "tit": "La omisión",
+            "id": {
+                "source": "INCAA",
+                "sid": 6635
+            },
+            "afi": "5f46977a2916c52d277cbc55"
+        },
+        {
+            "tit": "Florecer lunar",
+            "id": {
+                "source": "INCAA",
+                "sid": 8839
+            },
+            "afi": "6434443288bf77105b658c30"
+        },
+        {
+            "tit": "Villicum",
+            "id": {
+                "source": "INCAA",
+                "sid": 9147
+            },
+            "afi": "6520173d2916c52efe4f1ee9"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5b115aa82916c55575e03a52",
+    "padres": []
+}

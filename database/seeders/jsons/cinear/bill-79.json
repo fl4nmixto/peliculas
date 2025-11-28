@@ -1,0 +1,430 @@
+{
+    "afis": [
+        "6596d10d88bf7791ec1898e7"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 79,
+    "an": "2024",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 400,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 1140,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2024-04-04T00:00:00",
+                    "in": "2024-01-11T00:00:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 9277
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 4739,
+        "porcen": 100,
+        "fModif": "2025-11-12T18:02:48.113267"
+    },
+    "rProme": 4.4,
+    "fotos": [
+        "6596d10d88bf7791ec1898e6",
+        "6596d10d88bf7791ec1898e5"
+    ],
+    "tit": "Bill 79",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Mariano Galperín",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Marcos Vigo",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Alejandro Guiliani",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Diego Tuñon",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Pablo Bustamante",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Guillemo Picco",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Pablo Gamberg",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Andrés Tambornino",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Alejo Santos",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Lorena Ventimiglia",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Chopy Casariego",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Mariano Galperín",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Julieta Lopez Acosta",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 11109,
+                "impor": 24
+            },
+            {
+                "nom": "Alberto Moccia",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 9080,
+                "impor": 25
+            },
+            {
+                "nom": "Julián De Luca",
+                "rol": "COL",
+                "avatar": "647e2ee32916c5095004591b",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10858,
+                "impor": 26
+            },
+            {
+                "nom": "Puentes Verdes",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 27
+            }
+        ],
+        "01": [
+            {
+                "nom": "Mariano Galperín",
+                "rol": "DIR",
+                "avatar": "619d048888bf77105b6578a0",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 5577,
+                "impor": 1
+            },
+            {
+                "nom": "Diego Gentile",
+                "rol": "INT",
+                "avatar": "5bf428862916c51a622d47a9",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8336,
+                "impor": 2
+            },
+            {
+                "nom": "Marina Bellati",
+                "rol": "INT",
+                "avatar": "58d9325f88bf77058a5b857a",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 9524,
+                "impor": 3
+            },
+            {
+                "nom": "Marcelo Xicarts",
+                "rol": "ELS",
+                "avatar": "623a04d72916c50950044ac8",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 30127,
+                "impor": 4
+            },
+            {
+                "nom": "Walter Jakob",
+                "rol": "ELS",
+                "avatar": "597f7cbe88bf770b6df289ab",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7432,
+                "impor": 5
+            },
+            {
+                "nom": "Julia Martínez Rubio",
+                "rol": "ELS",
+                "avatar": "5f5a454188bf773aa0ab4595",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7904,
+                "impor": 6
+            },
+            {
+                "nom": "Paco Gorriz",
+                "rol": "ELS",
+                "avatar": "689ca6942916c52efe4f310a",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8178,
+                "impor": 7
+            },
+            {
+                "nom": "Alejandro Jovic",
+                "rol": "ELS",
+                "avatar": "58810dca88bf77058a5b800a",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 9029,
+                "impor": 8
+            },
+            {
+                "nom": "Guido Botto Fiora",
+                "rol": "ELS",
+                "avatar": "58caa0d188bf77058a5b8491",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 3994,
+                "impor": 9
+            },
+            {
+                "nom": "Elvira Onetto",
+                "rol": "ELS",
+                "avatar": "5f6b5e1788bf773aa0ab46a2",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 10358,
+                "impor": 10
+            },
+            {
+                "nom": "Martín Pavlovsky",
+                "rol": "ELS",
+                "avatar": "5fbfe65188bf773aa0ab4b95",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7542,
+                "impor": 11
+            }
+        ]
+    },
+    "rVotan": 33,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Luego de los suicidios de su hermano y el de su ex mujer, Bill Evans, el pianista de jazz más importante de su generación, llega a la Argentina junto a sus músicos y la manager para realizar una serie de conciertos.",
+    "asociadas": [
+        {
+            "tit": "Sandro",
+            "id": {
+                "source": "INCAA",
+                "sid": 8224
+            },
+            "afi": "62c47f552916c50950044ea7"
+        },
+        {
+            "tit": "Tango Bar",
+            "id": {
+                "source": "INCAA",
+                "sid": 537
+            },
+            "afi": "6577597f88bf7791ec189821"
+        },
+        {
+            "tit": "La cabalgata del circo",
+            "id": {
+                "source": "INCAA",
+                "sid": 78
+            },
+            "afi": "563a4f322916c53546d2c027"
+        },
+        {
+            "tit": "Besos brujos",
+            "id": {
+                "source": "INCAA",
+                "sid": 13
+            },
+            "afi": "55ddae2eb981283fe6a18c3c"
+        },
+        {
+            "tit": "Joel",
+            "id": {
+                "source": "INCAA",
+                "sid": 6618
+            },
+            "afi": "5f29b95488bf773aa0ab4200"
+        },
+        {
+            "tit": "Somos calentura",
+            "id": {
+                "source": "INCAA",
+                "sid": 7990
+            },
+            "afi": "6205479f2916c5095004497a"
+        },
+        {
+            "tit": "Cuesta abajo",
+            "id": {
+                "source": "INCAA",
+                "sid": 146
+            },
+            "afi": "64b1a42a88bf7791ec1892c3"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        },
+        {
+            "nom": "Musical",
+            "style": "genero-INCAA-11",
+            "ab": "M",
+            "stylesec": "genero-INCAA-11-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "6596d10d88bf7791ec1898e4",
+    "padres": []
+}

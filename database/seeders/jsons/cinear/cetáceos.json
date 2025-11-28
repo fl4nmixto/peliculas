@@ -1,0 +1,359 @@
+{
+    "afis": [
+        "5d30c75388bf77160a53ed57"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 74,
+    "an": "2018",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 5717
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 1184,
+        "secsDura": 4452,
+        "porcen": 100,
+        "fModif": "2023-06-11T02:20:04.691487"
+    },
+    "rProme": 4,
+    "fotos": [
+        "5d30c75388bf77160a53ed58",
+        "5d30c75488bf77160a53ed59"
+    ],
+    "tit": "Cetaceos",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Florencia Percia",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Wenchi Bonelli",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Lucio Bonelli",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Matteo Carbone",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Adriano Salgado",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Andrés Quaranta",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 24
+            },
+            {
+                "nom": "Ana Cambre",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 25
+            },
+            {
+                "nom": "Mercedes Córdova",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 26
+            },
+            {
+                "nom": "Valeria Forster",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 27
+            },
+            {
+                "nom": "Florencia Percia",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 28
+            },
+            {
+                "nom": "Valeria Forster",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor Ejecutivo",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 11939,
+                "impor": 6
+            },
+            {
+                "nom": "Mercedes Cordova",
+                "rol": "PEJ",
+                "avatar": "6695291e2916c52efe4f28ed",
+                "roldesc": "Productor Ejecutivo",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 11940,
+                "impor": 10
+            },
+            {
+                "nom": "Jam Monti",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 5760,
+                "impor": 7
+            },
+            {
+                "nom": "Valeria Correa",
+                "rol": "MAQ",
+                "avatar": "6685766388bf7791ec189f6a",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 8547,
+                "impor": 5
+            },
+            {
+                "nom": "Gustavo Biazzi",
+                "rol": "COL",
+                "avatar": "5c0e995188bf771db6fa9e42",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 6350,
+                "impor": 1
+            }
+        ],
+        "01": [
+            {
+                "nom": "Florencia Percia",
+                "rol": "DIR",
+                "avatar": "5d30c85788bf77160a53ed5b",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 11938,
+                "impor": 2
+            },
+            {
+                "nom": "Elisa Carricajo",
+                "rol": "INT",
+                "avatar": "5d30c85788bf77160a53ed5a",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7345,
+                "impor": 4
+            },
+            {
+                "nom": "Rafael Spregelburd",
+                "rol": "INT",
+                "avatar": "61b0b1eb2916c509500446d7",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7339,
+                "impor": 9
+            },
+            {
+                "nom": "Susana Pampin",
+                "rol": "INT",
+                "avatar": "66634acf2916c52efe4f2805",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7052,
+                "impor": 12
+            },
+            {
+                "nom": "Esteban Bigliardi",
+                "rol": "INT",
+                "avatar": "582c74f788bf77058a5b79eb",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8039,
+                "impor": 14
+            },
+            {
+                "nom": "Carla Crespo",
+                "rol": "ELS",
+                "avatar": "574ded0088bf7761113ba1c4",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6971,
+                "impor": 3
+            },
+            {
+                "nom": "Abian Vainstein",
+                "rol": "ELS",
+                "avatar": "5aafe86a2916c535179f4bbb",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8406,
+                "impor": 8
+            },
+            {
+                "nom": "Horacio Marassi",
+                "rol": "ELS",
+                "avatar": "64062dff2916c50950045641",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6644,
+                "impor": 11
+            },
+            {
+                "nom": "Andrea Strenitz",
+                "rol": "ELS",
+                "avatar": "5993511588bf770b6df28abd",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8815,
+                "impor": 13
+            },
+            {
+                "nom": "Pablo Seijo",
+                "rol": "ELS",
+                "avatar": "5649dcde88bf77787311f1dc",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8221,
+                "impor": 15
+            },
+            {
+                "nom": "Valeria Correa",
+                "rol": "ELS",
+                "avatar": "6685766388bf7791ec189f6a",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8547,
+                "impor": 16
+            },
+            {
+                "nom": "Laura Paredes",
+                "rol": "ELS",
+                "avatar": "58c8339d88bf77058a5b8456",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 9965,
+                "impor": 17
+            },
+            {
+                "nom": "Evan Leed",
+                "rol": "ELS",
+                "avatar": "5ab3ba522916c535179f4be7",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 11197,
+                "impor": 18
+            }
+        ]
+    },
+    "rVotan": 563,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Clara y Alejandro se mudan a una casa nueva, pocos días después él viaja por trabajo y ella se queda sola, rodeada de cajas cerradas. Ese desorden la impulsa a aceptar una serie de invitaciones azarosas que la alejarán del mundo cerrado en el que vive.",
+    "asociadas": [
+        {
+            "tit": "Otra historia del mundo",
+            "id": {
+                "source": "INCAA",
+                "sid": 6150
+            },
+            "afi": "5e459f5588bf7709e737b31d"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Comedia Romántica",
+            "style": "genero-INCAA-29",
+            "ab": "CR",
+            "stylesec": "genero-INCAA-29-sec",
+            "home": false
+        },
+        {
+            "nom": "Comedia Dramática",
+            "style": "genero-INCAA-24",
+            "ab": "CD",
+            "stylesec": "genero-INCAA-24-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5d372f5188bf77160a53edaf",
+    "padres": []
+}

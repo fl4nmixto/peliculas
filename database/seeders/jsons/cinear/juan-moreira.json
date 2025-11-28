@@ -1,0 +1,298 @@
+{
+  "afis": [
+    "64ecd9422916c52efe4f1d02"
+  ],
+  "playeruri": "https://player.cine.ar/odeon/",
+  "dura": 99,
+  "an": "1973",
+  "tipos": [
+    {
+      "text": "Películas",
+      "tag": "larg",
+      "orden": 0
+    }
+  ],
+  "objsturi": "https://img.cine.ar/image",
+  "id": {
+    "source": "INCAA",
+    "sid": 405
+  },
+  "vista": {
+    "completa": false,
+    "secsTranscu": 2666,
+    "secsDura": 5910,
+    "porcen": 45,
+    "fModif": "2024-10-13T02:46:39.045706"
+  },
+  "rProme": 4.6,
+  "fotos": [
+    "563b5c9a2916c53546d2c840",
+    "563b5c9a2916c53546d2c841"
+  ],
+  "tit": "Juan Moreira",
+  "playerurimobile": "https://player.cine.ar/odeon/",
+  "pers": {
+    "02": [
+      {
+        "nom": "Jorge Zuhair Jury",
+        "rol": "GUI",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Guion",
+        "rolorden": "00011",
+        "grupo": "02",
+        "sid": null,
+        "impor": 8
+      },
+      {
+        "nom": "Rodolfo Mórtola",
+        "rol": "ADI",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Asistente de dirección",
+        "rolorden": "00012",
+        "grupo": "02",
+        "sid": null,
+        "impor": 9
+      },
+      {
+        "nom": "Juan Carlos Desanzo",
+        "rol": "FOT",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Dirección de Fotografía",
+        "rolorden": "00013",
+        "grupo": "02",
+        "sid": null,
+        "impor": 10
+      },
+      {
+        "nom": "Pocho Leyes",
+        "rol": "MUS",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Música",
+        "rolorden": "00014",
+        "grupo": "02",
+        "sid": null,
+        "impor": 11
+      },
+      {
+        "nom": "Luis María Serra",
+        "rol": "MUS",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Música",
+        "rolorden": "00014",
+        "grupo": "02",
+        "sid": null,
+        "impor": 12
+      },
+      {
+        "nom": "Miguel Babuini",
+        "rol": "SON",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Dirección de Sonido",
+        "rolorden": "00015",
+        "grupo": "02",
+        "sid": null,
+        "impor": 13
+      },
+      {
+        "nom": "Antonio Ripoll",
+        "rol": "MON",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Montaje",
+        "rolorden": "00016",
+        "grupo": "02",
+        "sid": null,
+        "impor": 14
+      },
+      {
+        "nom": "Miguel Angel Lumaldo",
+        "rol": "ART",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Dirección de Arte",
+        "rolorden": "00017",
+        "grupo": "02",
+        "sid": null,
+        "impor": 15
+      },
+      {
+        "nom": "Juan Sires",
+        "rol": "PRO",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Producción",
+        "rolorden": "00018",
+        "grupo": "02",
+        "sid": null,
+        "impor": 16
+      },
+      {
+        "nom": "Juan Sires",
+        "rol": "PEJ",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Producción ejecutiva",
+        "rolorden": "00019",
+        "grupo": "02",
+        "sid": 4577,
+        "impor": 17
+      },
+      {
+        "nom": "Leonor Puga Sabate",
+        "rol": "VES",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Vestuario",
+        "rolorden": "00020",
+        "grupo": "02",
+        "sid": 9587,
+        "impor": 18
+      },
+      {
+        "nom": "Orlando Viloni",
+        "rol": "MAQ",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Maquillaje",
+        "rolorden": "00021",
+        "grupo": "02",
+        "sid": 10394,
+        "impor": 19
+      }
+    ],
+    "01": [
+      {
+        "nom": "Leonardo Favio",
+        "rol": "DIR",
+        "avatar": "57d99eba2916c530fe06707e",
+        "roldesc": "Dirección",
+        "rolorden": "00001",
+        "grupo": "01",
+        "sid": 4895,
+        "impor": 1
+      },
+      {
+        "nom": "Rodolfo Bebán",
+        "rol": "INT",
+        "avatar": "62f9116b88bf77105b658420",
+        "roldesc": "Protagonistas",
+        "rolorden": "00003",
+        "grupo": "01",
+        "sid": 4912,
+        "impor": 2
+      },
+      {
+        "nom": "Jorge Villalba",
+        "rol": "ELS",
+        "avatar": "59c278bf2916c529818a2379",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 5453,
+        "impor": 3
+      },
+      {
+        "nom": "Edgardo Suárez",
+        "rol": "ELS",
+        "avatar": "563a510e2916c53546d2c1b0",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 5314,
+        "impor": 4
+      },
+      {
+        "nom": "Alba Mujica",
+        "rol": "ELS",
+        "avatar": "579a24e32916c530fe066d26",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 4595,
+        "impor": 5
+      },
+      {
+        "nom": "Carlos Muñoz",
+        "rol": "ELS",
+        "avatar": "57ff9b312916c530fe067295",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 5924,
+        "impor": 6
+      },
+      {
+        "nom": "Elcira Olivera Garcés",
+        "rol": "ELS",
+        "avatar": "563a69e12916c53546d2c71a",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 4938,
+        "impor": 7
+      }
+    ]
+  },
+  "rVotan": 716,
+  "tags": [
+    "larg",
+    "atp",
+    "publi",
+    "adson",
+    "arsat"
+  ],
+  "sino": "A fines de Siglo XIX, Juan Moreira es objeto de abusos y humillaciones por parte de los poderosos. Las injusticias lo llevan a ser considerado un \"gaucho malo\", siendo proscrito. Su historia es difundida entre los paisanos y trabajadores, obteniendo así el respeto y la admiración del pueblo.",
+  "asociadas": [
+    {
+      "tit": "Enroque",
+      "id": {
+        "source": "INCAA",
+        "sid": 6153
+      },
+      "afi": "642af0cd2916c5095004575b"
+    },
+    {
+      "tit": "Evita",
+      "id": {
+        "source": "INCAA",
+        "sid": 494
+      },
+      "afi": "62e7f9bf88bf77105b658398"
+    },
+    {
+      "tit": "La Madre María",
+      "id": {
+        "source": "INCAA",
+        "sid": 418
+      },
+      "afi": "563a51102916c53546d2c1c0"
+    }
+  ],
+  "gens": [
+    {
+      "nom": "Drama",
+      "style": "genero-INCAA-7",
+      "ab": "D",
+      "stylesec": "genero-INCAA-7-sec",
+      "home": false
+    },
+    {
+      "nom": "Histórico",
+      "style": "genero-INCAA-8",
+      "ab": "H",
+      "stylesec": "genero-INCAA-8-sec",
+      "home": false
+    }
+  ],
+  "nacios": [
+    "AR"
+  ],
+  "ban": "64ecd9422916c52efe4f1d01",
+  "padres": [
+    {
+      "tit": "Día del director audiovisual",
+      "id": {
+        "source": "INCAA",
+        "sid": 3512
+      },
+      "tags": [
+        "compi",
+        "espe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+    "afis": [
+        "5c0e7a7788bf771db6fa9e38"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 105,
+    "an": "2018",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 374,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2019-02-06T23:59:00",
+                    "in": "2018-12-12T23:59:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 5403
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "rProme": 4.1,
+    "fotos": [
+        "5c0e7a7888bf771db6fa9e39",
+        "5c0e7a7888bf771db6fa9e3a"
+    ],
+    "tit": "Rojo",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Benjamín Naishtat",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Ana Bérard",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Pedro Sotero",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Vicent van Warmerdam",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Fernando Ribero",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Andrés Quaranta",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Julieta Dolinsky",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Bárbara Sarasola-Day",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Federico Eibuszyc",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Federico Eibuszyc",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 11245,
+                "impor": 19
+            },
+            {
+                "nom": "Bárbara Sarasola-Day",
+                "rol": "PEJ",
+                "avatar": "5c0f9e772916c51a622d48e3",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 4500,
+                "impor": 20
+            },
+            {
+                "nom": "Jam Monti",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 5760,
+                "impor": 21
+            },
+            {
+                "nom": "Loli Giménez",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 10148,
+                "impor": 22
+            },
+            {
+                "nom": "Melanie Schapiro",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 6790,
+                "impor": 23
+            },
+            {
+                "nom": "Eduardo Sierra",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 4910,
+                "impor": 24
+            },
+            {
+                "nom": "Viking Film",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 25
+            },
+            {
+                "nom": "Desvia",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 26
+            },
+            {
+                "nom": "Ecce Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 27
+            },
+            {
+                "nom": "Pucará Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 28
+            },
+            {
+                "nom": "Sutor Kolonko",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 29
+            }
+        ],
+        "01": [
+            {
+                "nom": "Benjamín Naishtat",
+                "rol": "DIR",
+                "avatar": "576064152916c530fe06699a",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 7504,
+                "impor": 1
+            },
+            {
+                "nom": "Darío Grandinetti",
+                "rol": "INT",
+                "avatar": "563a48f92916c53546d2be91",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 5688,
+                "impor": 2
+            },
+            {
+                "nom": "Andrea Frigerio",
+                "rol": "INT",
+                "avatar": "5bf45c4e88bf771db6fa9d26",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 5628,
+                "impor": 3
+            },
+            {
+                "nom": "Alfredo Castro",
+                "rol": "INT",
+                "avatar": "5c0e7c4d88bf771db6fa9e3c",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 4598,
+                "impor": 4
+            },
+            {
+                "nom": "Diego Cremonesi",
+                "rol": "ELS",
+                "avatar": "5a843e0c88bf77155d3225c1",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6877,
+                "impor": 5
+            },
+            {
+                "nom": "Laura Grandinetti",
+                "rol": "ELS",
+                "avatar": "5c0e7e322916c51a622d48c5",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7305,
+                "impor": 6
+            },
+            {
+                "nom": "Claudio Martínez Bel",
+                "rol": "ELS",
+                "avatar": "5c0e7e322916c51a622d48c6",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7864,
+                "impor": 7
+            },
+            {
+                "nom": "Susana Pampin",
+                "rol": "ELS",
+                "avatar": "66634acf2916c52efe4f2805",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7052,
+                "impor": 8
+            },
+            {
+                "nom": "Rafael Federman",
+                "rol": "ELS",
+                "avatar": "6172d16e88bf77105b6576e2",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 4157,
+                "impor": 9
+            }
+        ]
+    },
+    "rVotan": 352,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Claudio, un conocido abogado, discute fuertemente con un extraño en un restaurante. Más tarde, junto a su mujer, son interceptados por el extraño que busca venganza. El abogado inicia un camino sin retorno de muerte y silencios.",
+    "asociadas": [
+        {
+            "tit": "Pescador",
+            "id": {
+                "source": "INCAA",
+                "sid": 7933
+            },
+            "afi": "61e1bc6288bf77105b657b2e"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Policial",
+            "style": "genero-INCAA-12",
+            "ab": "P",
+            "stylesec": "genero-INCAA-12-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5c0e7a7888bf771db6fa9e3b",
+    "padres": []
+}

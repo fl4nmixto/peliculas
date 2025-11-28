@@ -1,0 +1,406 @@
+{
+    "afis": [
+        "680a358588bf7791ec18a525"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 92,
+    "an": "2017",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 7580
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "fotos": [
+        "680a37b02916c52efe4f2ec2",
+        "680a37b02916c52efe4f2ec1"
+    ],
+    "tit": "Una especie de familia",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "María Meira",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Diego Lerman",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Bruno Roberti",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Wojciech Staron",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "José Villalobos",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Leandro de Loredo",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Alejandro Brodersohn",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Marcos Pedroso",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Nicolás Avruj",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Diego Lerman",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Nicolás Avruj",
+                "rol": "PEJ",
+                "avatar": "5649650d88bf77787311f1ce",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 9450,
+                "impor": 17
+            },
+            {
+                "nom": "Valentina Bari",
+                "rol": "VES",
+                "avatar": "59540e712916c56e6bceacd6",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9346,
+                "impor": 18
+            },
+            {
+                "nom": "Nancy Marignac",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 31479,
+                "impor": 19
+            },
+            {
+                "nom": "Alejo Saravia",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 10174,
+                "impor": 20
+            },
+            {
+                "nom": "Josefina Castillo Carrillo",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 10184,
+                "impor": 21
+            },
+            {
+                "nom": "Olesya Kireeva",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 35744,
+                "impor": 22
+            },
+            {
+                "nom": "Bossa Nova Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Campo Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 24
+            },
+            {
+                "nom": "Staron Film",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 25
+            },
+            {
+                "nom": "27 Films Productions",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 26
+            },
+            {
+                "nom": "Bellota Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 27
+            },
+            {
+                "nom": "MG Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 28
+            }
+        ],
+        "01": [
+            {
+                "nom": "Diego Lerman",
+                "rol": "DIR",
+                "avatar": "563a49162916c53546d2bea5",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6815,
+                "impor": 1
+            },
+            {
+                "nom": "Bárbara Lennie",
+                "rol": "INT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 35746,
+                "impor": 2
+            },
+            {
+                "nom": "Daniel Aráoz",
+                "rol": "INT",
+                "avatar": "563a6a102916c53546d2c7dc",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6026,
+                "impor": 3
+            },
+            {
+                "nom": "Claudio Tolcachir",
+                "rol": "INT",
+                "avatar": "57d70f632916c530fe067046",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7877,
+                "impor": 4
+            },
+            {
+                "nom": "Yanina Ávila",
+                "rol": "INT",
+                "avatar": "5f356a7c2916c52d277cbb1b",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 13637,
+                "impor": 5
+            },
+            {
+                "nom": "Paula Cohen",
+                "rol": "INT",
+                "avatar": "680a38c388bf7791ec18a526",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 35745,
+                "impor": 6
+            }
+        ]
+    },
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Malena es una doctora de 38 años, de clase media, de Buenos Aires. Una tarde le informan que debe viajar inmediatamente al norte del país: el bebé que ella estaba esperando está a punto de nacer. De manera inesperada, Malena emprende un viaje incierto, lleno de encrucijadas.",
+    "asociadas": [
+        {
+            "tit": "Todo lo que vendrá",
+            "id": {
+                "source": "INCAA",
+                "sid": 9370
+            },
+            "afi": "6616988f2916c52efe4f25d0"
+        },
+        {
+            "tit": "Superdulce",
+            "id": {
+                "source": "INCAA",
+                "sid": 6092
+            },
+            "afi": "5e17883288bf7709e737b202"
+        },
+        {
+            "tit": "Nina",
+            "id": {
+                "source": "INCAA",
+                "sid": 4875
+            },
+            "afi": "5f6cbf0788bf773aa0ab46b7"
+        },
+        {
+            "tit": "Testigos en cadena",
+            "id": {
+                "source": "INCAA",
+                "sid": 9557
+            },
+            "afi": "66c6336d2916c52efe4f29e9"
+        },
+        {
+            "tit": "De muestra basta un botón",
+            "id": {
+                "source": "INCAA",
+                "sid": 1161
+            },
+            "afi": "564f959188bf77787311f30a"
+        },
+        {
+            "tit": "De padre desconocido",
+            "id": {
+                "source": "INCAA",
+                "sid": 176
+            },
+            "afi": "59c2727e88bf770b6df28d42"
+        },
+        {
+            "tit": "11:40",
+            "id": {
+                "source": "INCAA",
+                "sid": 6094
+            },
+            "afi": "5e25c0ec2916c509261573e8"
+        },
+        {
+            "tit": "Una casa lejos",
+            "id": {
+                "source": "INCAA",
+                "sid": 9463
+            },
+            "afi": "668578ea2916c52efe4f28ac"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Drama",
+            "style": "genero-INCAA-7",
+            "ab": "D",
+            "stylesec": "genero-INCAA-7-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "680a37af2916c52efe4f2ebe",
+    "padres": []
+}

@@ -19,6 +19,10 @@ class ImportCinearJsons extends Command
 
     protected $description = 'Importa películas desde archivos JSON descargados de CINE.AR';
 
+    protected const PLACEHOLDER_AVATAR_IDS = [
+        '561d5f562916c53546d2bd0d',
+    ];
+
     public function handle(): int
     {
         $path = base_path($this->argument('path'));
@@ -91,6 +95,7 @@ class ImportCinearJsons extends Command
                 'rating' => $this->ratingFromTags(Arr::get($data, 'tags', [])),
                 'score' => (int) round(Arr::get($data, 'rProme', 0)),
                 'image_url' => $this->buildPosterUrl($data),
+                'trailer_url' => $this->buildTrailerUrl($data),
             ]
         );
 
@@ -182,7 +187,18 @@ class ImportCinearJsons extends Command
             return null;
         }
 
+        if (in_array($avatar, self::PLACEHOLDER_AVATAR_IDS, true)) {
+            return null;
+        }
+
         return rtrim($base, '/') . '/' . $avatar . '/context/avatar';
+    }
+
+    protected function buildTrailerUrl(array $data): ?string
+    {
+        return Arr::get($data, 'trailer')
+            ?? Arr::get($data, 'playeruri')
+            ?? Arr::get($data, 'playerurimobile');
     }
 
     protected function persistPerson(array $data, ?string $imageBase): ?Person
@@ -193,13 +209,18 @@ class ImportCinearJsons extends Command
             return null;
         }
 
-        return Person::updateOrCreate(
-            ['slug' => Str::slug($name)],
-            [
-                'name' => $name,
-                'image_url' => $this->buildAvatarUrl($imageBase, Arr::get($data, 'avatar')),
-            ]
-        );
+        $person = Person::firstOrNew(['slug' => Str::slug($name)]);
+        $person->name = $name;
+
+        $imageUrl = $this->buildAvatarUrl($imageBase, Arr::get($data, 'avatar'));
+
+        if ($imageUrl) {
+            $person->image_url = $imageUrl;
+        }
+
+        $person->save();
+
+        return $person;
     }
 
     protected function resolveRole(array $data): Role

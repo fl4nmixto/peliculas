@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Str;
 
 class Movie extends Model
 {
@@ -49,5 +50,34 @@ class Movie extends Model
     public function getRouteKeyName(): string
     {
         return 'slug';
+    }
+
+    public function getTrailerEmbedUrlAttribute(): ?string
+    {
+        if (! $this->trailer_url) {
+            return null;
+        }
+
+        $url = $this->trailer_url;
+        $host = parse_url($url, PHP_URL_HOST) ?? '';
+
+        if (Str::contains($host, ['youtube.com'])) {
+            parse_str(parse_url($url, PHP_URL_QUERY) ?? '', $query);
+            $videoId = $query['v'] ?? null;
+
+            if ($videoId) {
+                return 'https://www.youtube.com/embed/' . $videoId;
+            }
+        }
+
+        if (Str::contains($host, ['youtu.be'])) {
+            $path = trim((string) parse_url($url, PHP_URL_PATH), '/');
+
+            if ($path) {
+                return 'https://www.youtube.com/embed/' . $path;
+            }
+        }
+
+        return $url;
     }
 }

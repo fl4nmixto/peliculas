@@ -11,15 +11,6 @@
                 class="max-h-[300px] w-auto rounded-2xl border border-white/15 bg-slate-900/40 p-2 shadow-xl"
                 src="{{ $movie->image_url }}"
                 alt="Afiche de {{ $movie->title }}" />
-            @if ($movie->trailer_url)
-            <a
-                href="{{ $movie->trailer_url }}"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="rounded-full bg-sky-300/80 px-4 py-1 text-[0.7rem] font-semibold uppercase tracking-[0.3em] text-slate-900 transition hover:bg-sky-200">
-                Ver tráiler
-            </a>
-            @endif
             <div class="flex w-full flex-col gap-3 text-center text-sm text-slate-200 md:text-left">
                 <h1 class="font-['Space_Grotesk'] text-3xl font-semibold text-white">{{ $movie->title }}</h1>
                 @if ($movie->tagline)
@@ -72,9 +63,20 @@
                 @if ($people->isNotEmpty())
                 <div>
                     <p class="text-slate-400">{{ $label }}:</p>
-                    <ul class="mt-1 flex flex-wrap gap-2 text-sm font-semibold text-white">
+                    <ul class="mt-3 flex flex-wrap gap-3">
                         @foreach ($people as $person)
-                        <li>
+                        <li class="flex items-center gap-2 rounded-2xl border border-white/10 bg-white/5 px-3 py-2 text-sm font-semibold text-white">
+                            @if ($person->image_url)
+                            <img
+                                src="{{ $person->image_url }}"
+                                alt="Foto de {{ $person->name }}"
+                                class="h-10 w-10 rounded-full border border-white/10 object-cover" />
+                            @else
+                            <div
+                                class="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/10 text-xs font-bold uppercase text-white">
+                                {{ mb_strtoupper(mb_substr($person->name, 0, 1)) }}
+                            </div>
+                            @endif
                             <a href="{{ route('people.show', $person) }}" class="hover:text-sky-300">
                                 {{ $person->name }}
                             </a>
@@ -113,6 +115,19 @@
         @if ($crewByRole->isNotEmpty())
         <section class="rounded-2xl border border-white/10 bg-white/5 p-4 text-sm text-slate-200">
             <h2 class="mb-2 font-['Space_Grotesk'] text-lg uppercase tracking-[0.2em] text-white">Equipo</h2>
+            @if ($movie->trailer_embed_url)
+            <div class="mb-4 overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
+                <div class="relative w-full" style="padding-bottom: 56.25%;">
+                    <iframe
+                        src="{{ $movie->trailer_embed_url }}"
+                        title="Tráiler de {{ $movie->title }}"
+                        class="absolute left-0 top-0 h-full w-full"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+            @endif
             <div class="space-y-3">
                 @foreach ($crewByRole as $roleName => $people)
                 <div>

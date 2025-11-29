@@ -6,10 +6,17 @@
 <section class="flex flex-col gap-5">
     <div class="mx-auto flex w-full max-w-4xl flex-col gap-4 rounded-3xl border border-white/10 bg-white/5 p-6 text-slate-200 shadow-2xl md:flex-row md:items-center">
         <div class="flex-shrink-0">
+            @if ($person->image_url)
             <img
-                src="{{ $person->image_url ?? 'https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=300&q=80' }}"
+                src="{{ $person->image_url }}"
                 alt="Foto de {{ $person->name }}"
                 class="h-32 w-32 rounded-full border border-white/10 object-cover shadow-xl" />
+            @else
+            <div
+                class="flex h-32 w-32 items-center justify-center rounded-full border border-white/10 bg-white/10 text-4xl font-bold uppercase text-white shadow-xl">
+                {{ mb_strtoupper(mb_substr($person->name, 0, 1)) }}
+            </div>
+            @endif
         </div>
         <div class="flex-1 space-y-3">
             <div>

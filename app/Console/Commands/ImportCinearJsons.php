@@ -33,9 +33,18 @@ class ImportCinearJsons extends Command
             return self::FAILURE;
         }
 
-        $files = collect(File::files($path))->filter(function ($file) {
-            return Str::of($file->getFilename())->lower()->endsWith('.json');
-        });
+        if (File::isFile($path)) {
+            if (! Str::of($path)->lower()->endsWith('.json')) {
+                $this->warn("El archivo {$path} no es un JSON.");
+                return self::SUCCESS;
+            }
+
+            $files = collect([$path]);
+        } else {
+            $files = collect(File::files($path))
+                ->map(fn ($file) => $file->getPathname())
+                ->filter(fn ($filePath) => Str::of($filePath)->lower()->endsWith('.json'));
+        }
 
         if ($files->isEmpty()) {
             $this->warn('No se encontraron archivos JSON en la ruta proporcionada.');
@@ -44,9 +53,9 @@ class ImportCinearJsons extends Command
 
         $dryRun = $this->option('dry-run');
 
-        foreach ($files as $file) {
-            $this->line("Procesando {$file->getFilename()}...");
-            $data = json_decode(File::get($file), true);
+        foreach ($files as $filePath) {
+            $this->line("Procesando " . basename($filePath) . "...");
+            $data = json_decode(File::get($filePath), true);
 
             if (! is_array($data)) {
                 $this->error('El archivo no contiene JSON válido, se omite.');

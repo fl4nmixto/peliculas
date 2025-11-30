@@ -1,0 +1,440 @@
+{
+    "afis": [
+        "60a7eae088bf77105b656f52"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "dura": 79,
+    "an": "2022",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "sino": "Clota y Stella son madre e hija, viven solas, encorsetadas en una rutina endogámica. Inician un viaje, para conocer unos departamentos que Stella heredó. Stella siente que es su última posibilidad de independizarse, Clota, una separación quirúrgica y aterradora.",
+    "usucalif": 5,
+    "objsturi": "https://img.cine.ar/image",
+    "asociadas": [
+        {
+            "tit": "Zapallares",
+            "id": {
+                "source": "INCAA",
+                "sid": 782
+            },
+            "afi": "563a4d122916c53546d2bfc1"
+        },
+        {
+            "tit": "Rebelado",
+            "id": {
+                "source": "INCAA",
+                "sid": 8891
+            },
+            "afi": "64bebd4e88bf7791ec189332"
+        },
+        {
+            "tit": "Madrermana",
+            "id": {
+                "source": "INCAA",
+                "sid": 9056
+            },
+            "afi": "64de2c2b2916c52efe4f1ca0"
+        },
+        {
+            "tit": "La zona caliente",
+            "id": {
+                "source": "INCAA",
+                "sid": 7819
+            },
+            "afi": "6171b0102916c5095004448c"
+        },
+        {
+            "tit": "Don Quijote del altillo",
+            "id": {
+                "source": "INCAA",
+                "sid": 37
+            },
+            "afi": "64cc5c2088bf7791ec18939f"
+        },
+        {
+            "tit": "Mujeres que trabajan",
+            "id": {
+                "source": "INCAA",
+                "sid": 8912
+            },
+            "afi": "646cb6f188bf77105b658dbe"
+        },
+        {
+            "tit": "Recreo",
+            "id": {
+                "source": "INCAA",
+                "sid": 6027
+            },
+            "afi": "5e41711e88bf7709e737b2fa"
+        },
+        {
+            "tit": "Antonio",
+            "id": {
+                "source": "INCAA",
+                "sid": 8921
+            },
+            "afi": "64888c8188bf7791ec189180"
+        }
+    ],
+    "id": {
+        "source": "INCAA",
+        "sid": 6877
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 4714,
+        "porcen": 100,
+        "fModif": "2025-08-19T23:23:29.978254"
+    },
+    "rProme": 4.5,
+    "fotos": [
+        "60a7eae288bf77105b656f55",
+        "60a7eae188bf77105b656f54"
+    ],
+    "tit": "Las siamesas",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "gens": [
+        {
+            "nom": "Comedia Dramática",
+            "style": "genero-INCAA-24",
+            "ab": "CD",
+            "stylesec": "genero-INCAA-24-sec",
+            "home": false
+        }
+    ],
+    "pers": {
+        "02": [
+            {
+                "nom": "Paula Hernández",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 6
+            },
+            {
+                "nom": "Leonel D'Agostino",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 7
+            },
+            {
+                "nom": "Mariano Biasin",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 8
+            },
+            {
+                "nom": "Ivan Gierasinchuk",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 9
+            },
+            {
+                "nom": "Ulises Conti",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Catriel Vildosola",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "Rosario Suárez",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Julieta Dolinsky",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 10131,
+                "impor": 15
+            },
+            {
+                "nom": "Mónica Toschi",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9492,
+                "impor": 16
+            },
+            {
+                "nom": "Laura Donari",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9500,
+                "impor": 17
+            },
+            {
+                "nom": "Néstor Burgos",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 10189,
+                "impor": 18
+            },
+            {
+                "nom": "Ninon Cottet",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 10961,
+                "impor": 19
+            },
+            {
+                "nom": "Maximiliano Pérez",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10145,
+                "impor": 20
+            },
+            {
+                "nom": "Jorge Avalos",
+                "rol": "FXS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "FX",
+                "rolorden": "00024",
+                "grupo": "02",
+                "sid": 12506,
+                "impor": 21
+            },
+            {
+                "nom": "Tarea Fina",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            }
+        ],
+        "01": [
+            {
+                "nom": "Paula Hernández",
+                "rol": "DIR",
+                "avatar": "563a4d0e2916c53546d2bf9a",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6540,
+                "impor": 1
+            },
+            {
+                "nom": "Rita Cortese",
+                "rol": "INT",
+                "avatar": "58065f972916c530fe067340",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 6110,
+                "impor": 2
+            },
+            {
+                "nom": "Valeria Lois",
+                "rol": "INT",
+                "avatar": "58c8339d88bf77058a5b8455",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8617,
+                "impor": 3
+            },
+            {
+                "nom": "Sergio Prina",
+                "rol": "ELS",
+                "avatar": "5e386d8a88bf7709e737b2c8",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8846,
+                "impor": 4
+            },
+            {
+                "nom": "Edgardo Castro",
+                "rol": "ELS",
+                "avatar": "5e3ada182916c5092615746f",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7289,
+                "impor": 5
+            }
+        ]
+    },
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 90,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 821,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2021-07-21T17:59:00",
+                    "in": "2021-05-26T17:59:00"
+                },
+                "act": true
+            },
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 90,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 839,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2021-08-18T20:59:00",
+                    "in": "2021-07-21T22:00:00"
+                },
+                "act": true
+            },
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 90,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 893,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2022-03-23T23:59:00",
+                    "in": "2022-01-26T23:59:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "rVotan": 391,
+    "ban": "60a7eae188bf77105b656f53",
+    "padres": []
+}

@@ -8,6 +8,7 @@ use App\Models\Person;
 use App\Models\Role;
 use App\Models\MovieSource;
 use App\Models\Provider;
+use App\Support\RoleCatalog;
 use Illuminate\Console\Command;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\File;
@@ -21,36 +22,6 @@ class ImportCinearJsons extends Command
 
     protected const PLACEHOLDER_AVATAR_IDS = [
         '561d5f562916c53546d2bd0d',
-    ];
-
-    protected const ROLE_ALIAS = [
-        'protagonistas' => 'cast-featured',
-        'elenco-secundario' => 'cast',
-        'direccion' => 'director',
-        'director' => 'director',
-        'direccion-general' => 'director',
-        'codireccion' => 'director',
-    ];
-
-    protected const CANONICAL_ROLES = [
-        'cast-featured' => [
-            'name' => 'Protagonistas',
-            'category' => 'cast',
-            'is_featured' => true,
-            'position' => 1,
-        ],
-        'cast' => [
-            'name' => 'Elenco',
-            'category' => 'cast',
-            'is_featured' => false,
-            'position' => 10,
-        ],
-        'director' => [
-            'name' => 'Dirección',
-            'category' => 'director',
-            'is_featured' => true,
-            'position' => 0,
-        ],
     ];
 
     public function handle(): int
@@ -255,20 +226,18 @@ class ImportCinearJsons extends Command
 
     protected function resolveRole(array $data): Role
     {
-        $code = $this->normalizeRole($data);
-        $canonicalCode = self::ROLE_ALIAS[$code] ?? $code;
+        $rawCode = $this->normalizeRole($data);
+        $name = Arr::get($data, 'roldesc') ?? Arr::get($data, 'rol') ?? Str::headline($rawCode);
 
-        if (isset(self::CANONICAL_ROLES[$canonicalCode])) {
+        if ($match = RoleCatalog::match($rawCode, $name)) {
             return Role::updateOrCreate(
-                ['code' => $canonicalCode],
-                self::CANONICAL_ROLES[$canonicalCode]
+                ['code' => $match['code']],
+                $match['attributes']
             );
         }
 
-        $name = Arr::get($data, 'roldesc') ?? Arr::get($data, 'rol') ?? Str::headline($code);
-
         return Role::updateOrCreate(
-            ['code' => $code],
+            ['code' => $rawCode],
             [
                 'name' => $name,
                 'category' => $this->determineRoleCategory($data),

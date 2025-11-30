@@ -29,6 +29,14 @@ php artisan tmdb:import-jsons
 
 También acepta `--path=` para apuntar a otra carpeta y `--dry-run` para listar el contenido sin escribir en la base.
 
+Si en algún momento necesitas unificar nombres/códigos de roles (por ejemplo cuando mezclás datos de TMDb y CINE.AR), ejecutá:
+
+```
+php artisan roles:normalize
+```
+
+Ese comando consolida los roles duplicados apuntándolos al catálogo canónico y mantiene los nombres mostrados en español.
+
 ## Enlaces desde OK.ru
 
 Para buscar y anexar automáticamente enlaces de reproducción disponibles en [OK.ru](https://ok.ru):

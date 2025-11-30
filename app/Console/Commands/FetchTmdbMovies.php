@@ -23,7 +23,7 @@ class FetchTmdbMovies extends Command
         ['title' => 'El hombre de al lado', 'year' => 2009],
         ['title' => 'El suplente', 'year' => 2022],
         ['title' => 'Los delincuentes', 'year' => 2023],
-        ['title' => 'Rompecabezas', 'year' => 2009],
+        ['title' => 'Rompecabezas', 'tmdb_id' => 41272],
         ['title' => 'Tomando estado'],
         ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
         ['title' => 'Valentín', 'year' => 2002],

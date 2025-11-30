@@ -11,6 +11,34 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+## TMDb Import Command
+
+Para descargar la información de las 27 películas adicionales desde [themoviedb.org](https://www.themoviedb.org/):
+
+1. Solicita una API key (v3) en TMDb y colócala en tu `.env` como `TMDB_API_KEY=xxxxx`.
+2. Ejecuta `php artisan tmdb:fetch-movies`. El comando genera archivos JSON (uno por película) en `database/seeders/jsons/tmdb` con los datos obtenidos (fichas, reparto, equipo, trailers, imágenes).
+3. Puedes personalizar el idioma o la ruta de salida con `--language=es-ES` y `--path=...`.
+
+Luego podrás adaptar el importador actual o crear uno nuevo para consumir estos JSON y poblar la base.
+
+Para importar esos archivos en la base:
+
+```
+php artisan tmdb:import-jsons
+```
+
+También acepta `--path=` para apuntar a otra carpeta y `--dry-run` para listar el contenido sin escribir en la base.
+
+## Enlaces desde OK.ru
+
+Para buscar y anexar automáticamente enlaces de reproducción disponibles en [OK.ru](https://ok.ru):
+
+```
+php artisan okru:fetch-links
+```
+
+El comando recorre las películas existentes, busca resultados por título + año y, si encuentra un video, crea/actualiza la fuente correspondiente en `movie_sources` bajo el proveedor “OK.ru”. Puedes limitarlo a un título concreto con `--movie=slug` o hacer una prueba sin escribir con `--dry-run`.
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.

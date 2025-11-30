@@ -1,0 +1,209 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 539055,
+    "slug": "los-hermanos-karaoke",
+    "title": "Los hermanos karaoke",
+    "original_title": "Los hermanos karaoke",
+    "overview": "Una comedia, que entre la parodia y el humor inesperado, plantea un trío amoroso imperdible.",
+    "runtime": 77,
+    "release_date": "2017-04-17",
+    "year": 2017,
+    "tagline": "",
+    "genres": [
+        "Comedia",
+        "Música"
+    ],
+    "countries": [],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/nWsNXRDLj7Vw6x6qiaiv0AmJDDK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/q2fCFYaB70AaM6A9twImQvf5bbf.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 2582713,
+            "name": "Maru Zapata",
+            "character": "",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 2582714,
+            "name": "Agustín Gregori",
+            "character": "",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 2582715,
+            "name": "Bernardo Francese",
+            "character": "",
+            "order": 2,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 2582718,
+            "name": "Ignacio Laxalde",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 2582714,
+            "name": "Agustín Gregori",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 2582715,
+            "name": "Bernardo Francese",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/q2fCFYaB70AaM6A9twImQvf5bbf.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 10402,
+                "name": "Música"
+            }
+        ],
+        "homepage": "",
+        "id": 539055,
+        "imdb_id": "tt7416814",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Los hermanos karaoke",
+        "overview": "Una comedia, que entre la parodia y el humor inesperado, plantea un trío amoroso imperdible.",
+        "popularity": 0,
+        "poster_path": "/nWsNXRDLj7Vw6x6qiaiv0AmJDDK.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2017-04-17",
+        "revenue": 0,
+        "runtime": 77,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Los hermanos karaoke",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2582713,
+                    "known_for_department": "Acting",
+                    "name": "Maru Zapata",
+                    "original_name": "Maru Zapata",
+                    "popularity": 0.0404,
+                    "profile_path": null,
+                    "cast_id": 1,
+                    "character": "",
+                    "credit_id": "5e809881ce5d820011ea3a74",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2582714,
+                    "known_for_department": "Acting",
+                    "name": "Agustín Gregori",
+                    "original_name": "Agustín Gregori",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "",
+                    "credit_id": "5e8098991d6c5f00161d24d6",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2582715,
+                    "known_for_department": "Acting",
+                    "name": "Bernardo Francese",
+                    "original_name": "Bernardo Francese",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "5e8098bea4f03c0012b6f665",
+                    "order": 2
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2582718,
+                    "known_for_department": "Directing",
+                    "name": "Ignacio Laxalde",
+                    "original_name": "Ignacio Laxalde",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5e809989af85de00166005ba",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2582714,
+                    "known_for_department": "Acting",
+                    "name": "Agustín Gregori",
+                    "original_name": "Agustín Gregori",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5e8099f3a127e5001656c606",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2582715,
+                    "known_for_department": "Acting",
+                    "name": "Bernardo Francese",
+                    "original_name": "Bernardo Francese",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "5e809a171d6c5f00161d26c4",
+                    "department": "Directing",
+                    "job": "Director"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

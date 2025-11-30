@@ -1,0 +1,625 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 49318,
+    "slug": "la-nube",
+    "title": "La nube",
+    "original_title": "La nube",
+    "overview": "En Buenos Aires llueve incesantemente desde hace más de 1600 días. Un grupo de actores realiza esfuerzos y sufre muchas desventuras defendiendo su viejo teatro independiente a punto de ser vendido, acosados por los problemas cotidianos y sus propios conflictos: el amor, la soledad, la búsqueda de empleo, el reclamo de justicia, las promesas de los funcionarios y la espera. Entre la esperanza y la resignación, los personajes resisten con dignidad el retroceso de los tiempos nublados.",
+    "runtime": 120,
+    "release_date": "1998-09-03",
+    "year": 1998,
+    "tagline": "",
+    "genres": [
+        "Drama"
+    ],
+    "countries": [
+        "France",
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/pJ9jRPiSgYxYCnBb2duRXIaahR8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/keOrZTkAuijdpUNskdvjRmdKsmM.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1733341,
+            "name": "Eduardo Pavlovsky",
+            "character": "Max",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/2TmNqbvQ6ZZ9hGyfTpDlXigoegS.jpg"
+        },
+        {
+            "id": 103432,
+            "name": "Leonor Manso",
+            "character": "",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/9yf4r5tXZNLssehxIeoD0HwWhO4.jpg"
+        },
+        {
+            "id": 1028517,
+            "name": "Cristina Banegas",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/8emCBHR63qIZlS7KusOOf8CeSGM.jpg"
+        },
+        {
+            "id": 24487,
+            "name": "Christophe Malavoy",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/rM0laRjTHsZMICcQOYZPHcsZQ2w.jpg"
+        },
+        {
+            "id": 992529,
+            "name": "Laura Novoa",
+            "character": "",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/nFRY0qc9l8nzFpXQ3WRZUVv1oc.jpg"
+        },
+        {
+            "id": 3856364,
+            "name": "Angelo Correa",
+            "character": "Fulo",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 1108146,
+            "name": "Franklin Caicedo",
+            "character": "",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 99119,
+            "name": "Favio Posca",
+            "character": "Periodista",
+            "order": 7,
+            "image_url": null
+        },
+        {
+            "id": 2850883,
+            "name": "Francesco Napoli",
+            "character": "Alfonso",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/8v0wVpXqolMDXDPQj5UzKHmb9I5.jpg"
+        },
+        {
+            "id": 6015,
+            "name": "Bernard Le Coq",
+            "character": "",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/6MrSyBpuJliK1KW8Gpjy8KLe3pU.jpg"
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "character": "",
+            "order": 10,
+            "image_url": "https://image.tmdb.org/t/p/original/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 1733341,
+            "name": "Eduardo Pavlovsky",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/2TmNqbvQ6ZZ9hGyfTpDlXigoegS.jpg"
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+        },
+        {
+            "id": 2916773,
+            "name": "Gerardo Gandini",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+        },
+        {
+            "id": 140557,
+            "name": "Luis César D'Angiolillo",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1919418,
+            "name": "Horace Lannes",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+        },
+        {
+            "id": 52244,
+            "name": "Juan Diego Solanas",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/39HbNT2ar7yhuW0Gnu4nkILM2ru.jpg"
+        },
+        {
+            "id": 14589,
+            "name": "Hoang Thanh At",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 1056103,
+            "name": "Marisa Amenta",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 1805710,
+            "name": "Néstor Pumar",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist",
+            "image_url": null
+        },
+        {
+            "id": 1145440,
+            "name": "Jonathan Liebling",
+            "department": "Sound",
+            "job": "Foley Artist",
+            "image_url": null
+        },
+        {
+            "id": 1902625,
+            "name": "Philippe Cosson",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 1271308,
+            "name": "Pedro D'Angelo",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/keOrZTkAuijdpUNskdvjRmdKsmM.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 49318,
+        "imdb_id": "tt0168594",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "La nube",
+        "overview": "En Buenos Aires llueve incesantemente desde hace más de 1600 días. Un grupo de actores realiza esfuerzos y sufre muchas desventuras defendiendo su viejo teatro independiente a punto de ser vendido, acosados por los problemas cotidianos y sus propios conflictos: el amor, la soledad, la búsqueda de empleo, el reclamo de justicia, las promesas de los funcionarios y la espera. Entre la esperanza y la resignación, los personajes resisten con dignidad el retroceso de los tiempos nublados.",
+        "popularity": 2.0249,
+        "poster_path": "/pJ9jRPiSgYxYCnBb2duRXIaahR8.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "1998-09-03",
+        "revenue": 0,
+        "runtime": 120,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "La nube",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 9,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1733341,
+                    "known_for_department": "Acting",
+                    "name": "Eduardo Pavlovsky",
+                    "original_name": "Eduardo Pavlovsky",
+                    "popularity": 0.0966,
+                    "profile_path": "/2TmNqbvQ6ZZ9hGyfTpDlXigoegS.jpg",
+                    "cast_id": 2,
+                    "character": "Max",
+                    "credit_id": "5e95862c2dda890014cf9a79",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 103432,
+                    "known_for_department": "Acting",
+                    "name": "Leonor Manso",
+                    "original_name": "Leonor Manso",
+                    "popularity": 0.0638,
+                    "profile_path": "/9yf4r5tXZNLssehxIeoD0HwWhO4.jpg",
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "5e958632db72c00019ad53ae",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1028517,
+                    "known_for_department": "Acting",
+                    "name": "Cristina Banegas",
+                    "original_name": "Cristina Banegas",
+                    "popularity": 0.1642,
+                    "profile_path": "/8emCBHR63qIZlS7KusOOf8CeSGM.jpg",
+                    "cast_id": 4,
+                    "character": "",
+                    "credit_id": "5e958638a34911001c41b8d5",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 24487,
+                    "known_for_department": "Acting",
+                    "name": "Christophe Malavoy",
+                    "original_name": "Christophe Malavoy",
+                    "popularity": 0.2115,
+                    "profile_path": "/rM0laRjTHsZMICcQOYZPHcsZQ2w.jpg",
+                    "cast_id": 5,
+                    "character": "",
+                    "credit_id": "5e95863faf58cb0014dbf39a",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 992529,
+                    "known_for_department": "Acting",
+                    "name": "Laura Novoa",
+                    "original_name": "Laura Novoa",
+                    "popularity": 0.2188,
+                    "profile_path": "/nFRY0qc9l8nzFpXQ3WRZUVv1oc.jpg",
+                    "cast_id": 13,
+                    "character": "",
+                    "credit_id": "67048196222ead1edabff792",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 3856364,
+                    "known_for_department": "Acting",
+                    "name": "Angelo Correa",
+                    "original_name": "Angelo Correa",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 14,
+                    "character": "Fulo",
+                    "credit_id": "670481a6322d3ea8311d2f33",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1108146,
+                    "known_for_department": "Acting",
+                    "name": "Franklin Caicedo",
+                    "original_name": "Franklin Caicedo",
+                    "popularity": 0.6323,
+                    "profile_path": null,
+                    "cast_id": 15,
+                    "character": "",
+                    "credit_id": "670481b8222ead1edabff7ab",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 99119,
+                    "known_for_department": "Acting",
+                    "name": "Favio Posca",
+                    "original_name": "Favio Posca",
+                    "popularity": 0.0915,
+                    "profile_path": null,
+                    "cast_id": 16,
+                    "character": "Periodista",
+                    "credit_id": "670481d01b96b8ef4c69b5e8",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2850883,
+                    "known_for_department": "Acting",
+                    "name": "Francesco Napoli",
+                    "original_name": "Francesco Napoli",
+                    "popularity": 0.0743,
+                    "profile_path": "/8v0wVpXqolMDXDPQj5UzKHmb9I5.jpg",
+                    "cast_id": 17,
+                    "character": "Alfonso",
+                    "credit_id": "670481fdbd7cd86da51d2e85",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 6015,
+                    "known_for_department": "Acting",
+                    "name": "Bernard Le Coq",
+                    "original_name": "Bernard Le Coq",
+                    "popularity": 0.2549,
+                    "profile_path": "/6MrSyBpuJliK1KW8Gpjy8KLe3pU.jpg",
+                    "cast_id": 18,
+                    "character": "",
+                    "credit_id": "6704820c1b96b8ef4c69b5f6",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1073,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "cast_id": 19,
+                    "character": "",
+                    "credit_id": "670482265f95892488bff8d9",
+                    "order": 10
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1733341,
+                    "known_for_department": "Acting",
+                    "name": "Eduardo Pavlovsky",
+                    "original_name": "Eduardo Pavlovsky",
+                    "popularity": 0.0966,
+                    "profile_path": "/2TmNqbvQ6ZZ9hGyfTpDlXigoegS.jpg",
+                    "credit_id": "6063ce121f98d100538072aa",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1073,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "credit_id": "6063ce1b4da3d40055bccb8b",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2916773,
+                    "known_for_department": "Sound",
+                    "name": "Gerardo Gandini",
+                    "original_name": "Gerardo Gandini",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6063ce7cd6d64d0029ded577",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1073,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "credit_id": "6065f88d03bf840058548deb",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 140557,
+                    "known_for_department": "Editing",
+                    "name": "Luis César D'Angiolillo",
+                    "original_name": "Luis César D'Angiolillo",
+                    "popularity": 0.0721,
+                    "profile_path": null,
+                    "credit_id": "6065f8c8ebb99d0070248cf1",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1919418,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Horace Lannes",
+                    "original_name": "Horace Lannes",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6065f905fea0d70040cf5857",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1073,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "credit_id": "52fe478ec3a36847f813c1a5",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 52244,
+                    "known_for_department": "Directing",
+                    "name": "Juan Diego Solanas",
+                    "original_name": "Juan Diego Solanas",
+                    "popularity": 0.0988,
+                    "profile_path": "/39HbNT2ar7yhuW0Gnu4nkILM2ru.jpg",
+                    "credit_id": "6704823a322d3ea8311d2f6f",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 14589,
+                    "known_for_department": "Art",
+                    "name": "Hoang Thanh At",
+                    "original_name": "Hoang Thanh At",
+                    "popularity": 0.0704,
+                    "profile_path": null,
+                    "credit_id": "6704824b4b0c5b9d7169b63c",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1056103,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Marisa Amenta",
+                    "original_name": "Marisa Amenta",
+                    "popularity": 0.0546,
+                    "profile_path": null,
+                    "credit_id": "6704825dbd7cd86da51d2e9c",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1805710,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Néstor Pumar",
+                    "original_name": "Néstor Pumar",
+                    "popularity": 0.102,
+                    "profile_path": null,
+                    "credit_id": "67048267322d3ea8311d2f85",
+                    "department": "Costume & Make-Up",
+                    "job": "Hairstylist"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1145440,
+                    "known_for_department": "Sound",
+                    "name": "Jonathan Liebling",
+                    "original_name": "Jonathan Liebling",
+                    "popularity": 0.2734,
+                    "profile_path": null,
+                    "credit_id": "670482714b0c5b9d7169b653",
+                    "department": "Sound",
+                    "job": "Foley Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1902625,
+                    "known_for_department": "Production",
+                    "name": "Philippe Cosson",
+                    "original_name": "Philippe Cosson",
+                    "popularity": 0.051,
+                    "profile_path": null,
+                    "credit_id": "670482874b0c5b9d7169b661",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1271308,
+                    "known_for_department": "Production",
+                    "name": "Pedro D'Angelo",
+                    "original_name": "Pedro D'Angelo",
+                    "popularity": 0.0516,
+                    "profile_path": null,
+                    "credit_id": "67048290322d3ea8311d2fab",
+                    "department": "Production",
+                    "job": "Producer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 2727,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/pJ9jRPiSgYxYCnBb2duRXIaahR8.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1819
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 750,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/AjMTzwQtqIOuEkPhNwAjDt1zkOj.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 500
+                }
+            ]
+        }
+    }
+}

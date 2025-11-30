@@ -14,7 +14,10 @@ class PersonController extends Controller
         $person->load(['movies.genres']);
         $this->loadRolesForMovies($person->movies);
 
-        $movies = $person->movies->sortBy('title');
+        $movies = $person->movies
+            ->unique('id')
+            ->sortBy('title')
+            ->values();
 
         return view('people.show', [
             'person' => $person,

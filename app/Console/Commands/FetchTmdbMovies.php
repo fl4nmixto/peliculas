@@ -1,0 +1,225 @@
+<?php
+
+namespace App\Console\Commands;
+
+use Illuminate\Console\Command;
+use Illuminate\Http\Client\PendingRequest;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Str;
+
+class FetchTmdbMovies extends Command
+{
+    protected $signature = 'tmdb:fetch-movies {--path=database/seeders/jsons/tmdb} {--language=es-ES}';
+
+    protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
+
+    protected const MOVIES = [
+        ['title' => 'Bahía Blanca', 'year' => 2021],
+        ['title' => 'Bolivia', 'year' => 2001],
+        ['title' => 'El Abrazo Partido', 'year' => 2004],
+        ['title' => 'El asaltante', 'year' => 2007],
+        ['title' => 'El hombre de al lado', 'year' => 2009],
+        ['title' => 'El suplente', 'year' => 2022],
+        ['title' => 'Los delincuentes', 'year' => 2023],
+        ['title' => 'Rompecabezas', 'year' => 2009],
+        ['title' => 'Tomando estado'],
+        ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
+        ['title' => 'Valentín', 'year' => 2002],
+        ['title' => 'El aura', 'year' => 2005],
+        ['title' => 'Infancia clandestina', 'year' => 2012],
+        ['title' => 'La deuda interna', 'year' => 1988],
+        ['title' => 'La nube', 'year' => 1998],
+        ['title' => 'Sur', 'year' => 1988],
+        ['title' => 'El exilio de Gardel', 'year' => 1985],
+        ['title' => 'Esperando la carroza', 'year' => 1985],
+        ['title' => 'El otro', 'year' => 2007],
+        ['title' => 'Un oso rojo', 'year' => 2002],
+        ['title' => 'Felicidades', 'year' => 2000],
+        ['title' => 'Relatos salvajes', 'year' => 2014],
+        ['title' => 'Tiempo de valientes', 'year' => 2005],
+        ['title' => 'Los guantes mágicos', 'year' => 2003],
+        ['title' => 'Silvia Prieto', 'year' => 1999],
+        ['title' => 'Los hermanos karaoke'],
+    ];
+
+    public function handle(): int
+    {
+        $apiKey = config('services.tmdb.key');
+
+        if (! $apiKey) {
+            $this->error('Configura la variable TMDB_API_KEY en tu archivo .env.');
+            return self::FAILURE;
+        }
+
+        $outputPath = base_path($this->option('path'));
+        File::ensureDirectoryExists($outputPath);
+
+        $language = $this->option('language');
+        $client = $this->buildClient($apiKey);
+
+        foreach (self::MOVIES as $movieSpec) {
+            $title = $movieSpec['title'];
+            $this->line("Buscando «{$title}»...");
+
+            $movieId = $this->resolveMovieId($client, $movieSpec, $language);
+
+            if (! $movieId) {
+                $this->warn("No se encontró un resultado para {$title}, se omite.");
+                continue;
+            }
+
+            $details = $this->fetchMovieDetails($client, $movieId, $language);
+
+            if (! $details) {
+                $this->warn("No se pudo obtener la información detallada de {$title}.");
+                continue;
+            }
+
+            $payload = $this->formatPayload($details);
+            $filename = $outputPath . '/' . $payload['slug'] . '.json';
+            File::put($filename, json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+
+            $this->info("Guardado: {$filename}");
+        }
+
+        $this->info('Descarga finalizada.');
+        return self::SUCCESS;
+    }
+
+    protected function buildClient(string $apiKey): PendingRequest
+    {
+        return Http::baseUrl(config('services.tmdb.base_url'))
+            ->withQueryParameters(['api_key' => $apiKey])
+            ->retry(3, 250);
+    }
+
+    protected function resolveMovieId(PendingRequest $client, array $movieSpec, string $language): ?int
+    {
+        $response = $client->get('search/movie', array_filter([
+            'query' => $movieSpec['title'],
+            'year' => $movieSpec['year'] ?? null,
+            'language' => $language,
+            'include_adult' => false,
+        ]));
+
+        if ($response->failed()) {
+            $this->warn("Error buscando {$movieSpec['title']}: {$response->body()}");
+            return null;
+        }
+
+        $results = collect($response->json('results', []));
+
+        if ($results->isEmpty()) {
+            return null;
+        }
+
+        if (isset($movieSpec['year'])) {
+            $match = $results->first(function ($result) use ($movieSpec) {
+                return Str::of($result['release_date'] ?? '')->startsWith((string) $movieSpec['year']);
+            });
+
+            if ($match) {
+                return (int) $match['id'];
+            }
+        }
+
+        return (int) $results->first()['id'];
+    }
+
+    protected function fetchMovieDetails(PendingRequest $client, int $movieId, string $language): ?array
+    {
+        $response = $client->get("movie/{$movieId}", [
+            'language' => $language,
+            'append_to_response' => 'credits,videos,images',
+        ]);
+
+        if ($response->failed()) {
+            $this->warn("Error obteniendo detalles del ID {$movieId}: {$response->body()}");
+            return null;
+        }
+
+        return $response->json();
+    }
+
+    protected function formatPayload(array $details): array
+    {
+        $slug = Str::slug($details['title'] ?? $details['original_title'] ?? 'pelicula');
+        $imagesBaseUrl = config('services.tmdb.images_base_url');
+
+        $posterUrl = $this->buildImageUrl($details['poster_path'] ?? null, $imagesBaseUrl);
+        $backdropUrl = $this->buildImageUrl($details['backdrop_path'] ?? null, $imagesBaseUrl);
+
+        $trailer = collect(data_get($details, 'videos.results', []))
+            ->first(function ($video) {
+                return Str::lower($video['site'] ?? '') === 'youtube'
+                    && Str::lower($video['type'] ?? '') === 'trailer';
+            });
+
+        $cast = collect(data_get($details, 'credits.cast', []))
+            ->take(20)
+            ->map(function ($person) use ($imagesBaseUrl) {
+                return [
+                    'id' => $person['id'],
+                    'name' => $person['name'],
+                    'character' => $person['character'],
+                    'order' => $person['order'],
+                    'image_url' => $this->buildImageUrl($person['profile_path'] ?? null, $imagesBaseUrl),
+                ];
+            })
+            ->values();
+
+        $crew = collect(data_get($details, 'credits.crew', []))
+            ->map(function ($person) use ($imagesBaseUrl) {
+                return [
+                    'id' => $person['id'],
+                    'name' => $person['name'],
+                    'department' => $person['department'],
+                    'job' => $person['job'],
+                    'image_url' => $this->buildImageUrl($person['profile_path'] ?? null, $imagesBaseUrl),
+                ];
+            })
+            ->values();
+
+        return [
+            'source' => 'tmdb',
+            'tmdb_id' => $details['id'],
+            'slug' => $slug,
+            'title' => $details['title'],
+            'original_title' => $details['original_title'],
+            'overview' => $details['overview'],
+            'runtime' => $details['runtime'],
+            'release_date' => $details['release_date'],
+            'year' => $this->extractYear($details['release_date'] ?? null),
+            'tagline' => $details['tagline'],
+            'genres' => Arr::pluck($details['genres'] ?? [], 'name'),
+            'countries' => Arr::pluck($details['production_countries'] ?? [], 'name'),
+            'spoken_languages' => Arr::pluck($details['spoken_languages'] ?? [], 'name'),
+            'poster_url' => $posterUrl,
+            'backdrop_url' => $backdropUrl,
+            'trailer' => $trailer ? 'https://www.youtube.com/watch?v=' . $trailer['key'] : null,
+            'cast' => $cast,
+            'crew' => $crew,
+            'raw' => $details,
+        ];
+    }
+
+    protected function buildImageUrl(?string $path, string $baseUrl): ?string
+    {
+        if (! $path) {
+            return null;
+        }
+
+        return rtrim($baseUrl, '/') . $path;
+    }
+
+    protected function extractYear(?string $date): ?int
+    {
+        if (! $date) {
+            return null;
+        }
+
+        return (int) Str::substr($date, 0, 4);
+    }
+}

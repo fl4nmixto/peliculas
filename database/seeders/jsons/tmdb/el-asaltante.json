@@ -1,0 +1,393 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 6636,
+    "slug": "el-asaltante",
+    "title": "El asaltante",
+    "original_title": "El asaltante",
+    "overview": "Un hombre ejecuta un plan que estuvo preparando minuciosamente. Mientras la cámara lo sigue en prácticamente todos sus movimientos, el espectador se convierte en testigo privilegiado de momentos íntimos de ansiedad, solapada desesperación, o del instante que precede una decisión de vida o muerte.",
+    "runtime": 67,
+    "release_date": "2017-04-01",
+    "year": 2017,
+    "tagline": "",
+    "genres": [
+        "Drama"
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/mJ7YX5VvHdTurXVgnTcXfXe6ZQy.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 50929,
+            "name": "Arturo Goetz",
+            "character": "Ramos",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+        },
+        {
+            "id": 50931,
+            "name": "Bárbara Lombardo",
+            "character": "Mesera",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/fPyrrbeWN1P83FOr9XkaIinyMy2.jpg"
+        },
+        {
+            "id": 50927,
+            "name": "Guillermo Arengo",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg"
+        },
+        {
+            "id": 50930,
+            "name": "Maya Lesca",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/cWpF1RMrTKMWYvCRnyCVGIlXJKY.jpg"
+        },
+        {
+            "id": 50928,
+            "name": "Germán de Silva",
+            "character": "",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+        },
+        {
+            "id": 50932,
+            "name": "Verónica Piaggio",
+            "character": "",
+            "order": 5,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 50922,
+            "name": "Pablo Fendrik",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+        },
+        {
+            "id": 50923,
+            "name": "Juan Pablo Gugliotta",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 50924,
+            "name": "Cobi Migliora",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 50925,
+            "name": "Leandro Aste",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 50926,
+            "name": "Victoría Pedemonte",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 50922,
+            "name": "Pablo Fendrik",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/mJ7YX5VvHdTurXVgnTcXfXe6ZQy.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 6636,
+        "imdb_id": "tt1006823",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "El asaltante",
+        "overview": "Un hombre ejecuta un plan que estuvo preparando minuciosamente. Mientras la cámara lo sigue en prácticamente todos sus movimientos, el espectador se convierte en testigo privilegiado de momentos íntimos de ansiedad, solapada desesperación, o del instante que precede una decisión de vida o muerte.",
+        "popularity": 0.3365,
+        "poster_path": "/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
+        "production_companies": [
+            {
+                "id": 52162,
+                "logo_path": "/eH7ljgi5kSmkATrtjnWq5FILrov.png",
+                "name": "Magma Cine",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2017-04-01",
+        "revenue": 0,
+        "runtime": 67,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "El asaltante",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50929,
+                    "known_for_department": "Acting",
+                    "name": "Arturo Goetz",
+                    "original_name": "Arturo Goetz",
+                    "popularity": 0.0924,
+                    "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
+                    "cast_id": 9,
+                    "character": "Ramos",
+                    "credit_id": "52fe4460c3a36847f80925af",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 50931,
+                    "known_for_department": "Acting",
+                    "name": "Bárbara Lombardo",
+                    "original_name": "Bárbara Lombardo",
+                    "popularity": 0.2384,
+                    "profile_path": "/fPyrrbeWN1P83FOr9XkaIinyMy2.jpg",
+                    "cast_id": 11,
+                    "character": "Mesera",
+                    "credit_id": "52fe4460c3a36847f80925b7",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50927,
+                    "known_for_department": "Acting",
+                    "name": "Guillermo Arengo",
+                    "original_name": "Guillermo Arengo",
+                    "popularity": 0.3286,
+                    "profile_path": "/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
+                    "cast_id": 7,
+                    "character": "",
+                    "credit_id": "52fe4460c3a36847f80925a7",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 50930,
+                    "known_for_department": "Acting",
+                    "name": "Maya Lesca",
+                    "original_name": "Maya Lesca",
+                    "popularity": 0.0143,
+                    "profile_path": "/cWpF1RMrTKMWYvCRnyCVGIlXJKY.jpg",
+                    "cast_id": 10,
+                    "character": "",
+                    "credit_id": "52fe4460c3a36847f80925b3",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50928,
+                    "known_for_department": "Acting",
+                    "name": "Germán de Silva",
+                    "original_name": "Germán de Silva",
+                    "popularity": 0.174,
+                    "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
+                    "cast_id": 8,
+                    "character": "",
+                    "credit_id": "52fe4460c3a36847f80925ab",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 50932,
+                    "known_for_department": "Acting",
+                    "name": "Verónica Piaggio",
+                    "original_name": "Verónica Piaggio",
+                    "popularity": 0.0429,
+                    "profile_path": null,
+                    "cast_id": 12,
+                    "character": "",
+                    "credit_id": "52fe4460c3a36847f80925bb",
+                    "order": 5
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50922,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Fendrik",
+                    "original_name": "Pablo Fendrik",
+                    "popularity": 0.0575,
+                    "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
+                    "credit_id": "52fe4460c3a36847f8092585",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 50923,
+                    "known_for_department": "Production",
+                    "name": "Juan Pablo Gugliotta",
+                    "original_name": "Juan Pablo Gugliotta",
+                    "popularity": 0.0409,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f8092591",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50924,
+                    "known_for_department": "Camera",
+                    "name": "Cobi Migliora",
+                    "original_name": "Cobi Migliora",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f8092597",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 50925,
+                    "known_for_department": "Editing",
+                    "name": "Leandro Aste",
+                    "original_name": "Leandro Aste",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f809259d",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 50926,
+                    "known_for_department": "Art",
+                    "name": "Victoría Pedemonte",
+                    "original_name": "Victoría Pedemonte",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f80925a3",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50922,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Fendrik",
+                    "original_name": "Pablo Fendrik",
+                    "popularity": 0.0575,
+                    "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
+                    "credit_id": "5e1c4dee6a300b00115e1566",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [
+                {
+                    "aspect_ratio": 1.778,
+                    "height": 1080,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/mJ7YX5VvHdTurXVgnTcXfXe6ZQy.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 1920
+                }
+            ],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1600,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1067
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 2119,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/hqXmvpkyAktj7iAQhxo0BGMC4p4.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1413
+                },
+                {
+                    "aspect_ratio": 0.752,
+                    "height": 838,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/vQ8zIvCwBt40aVB3Erw2tB734Yk.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 630
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 2119,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/7NTUzf5RaTbWUqVQds4i8hA2soT.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 1413
+                }
+            ]
+        }
+    }
+}

@@ -21,12 +21,15 @@
         <div class="flex-1 space-y-3">
             <div>
                 <h1 class="font-['Space_Grotesk'] text-4xl font-semibold text-white">{{ $person->name }}</h1>
+                @php
+                    $uniqueMoviesCount = $movies->unique('id')->count();
+                @endphp
                 <p class="mt-1 text-sm text-slate-300">
-                    Participó en {{ $movies->count() }}
-                    {{ \Illuminate\Support\Str::plural('producción', $movies->count()) }} del catálogo.
+                    Participó en {{ $uniqueMoviesCount }}
+                    {{ \Illuminate\Support\Str::plural('producción', $uniqueMoviesCount) }} del catálogo.
                 </p>
             </div>
-            <p class="text-sm text-slate-200">{{ $person->bio ?? 'Artista destacado dentro del cine nacional.' }}</p>
+            <p class="text-sm text-slate-200">{{ $person->bio ?? '' }}</p>
             @php
                 $roleBadges = $movies
                     ->map(fn ($movie) => optional($movie->pivot->role))
@@ -45,7 +48,9 @@
 
     <div class="mx-auto w-full max-w-4xl space-y-4">
         @php
-            $moviesByRole = $movies->groupBy(fn ($movie) => optional($movie->pivot->role)->name ?? 'Participaciones');
+            $moviesByRole = $movies
+                ->groupBy(fn ($movie) => optional($movie->pivot->role)->name ?? 'Participaciones')
+                ->map(fn ($group) => $group->unique('id'));
         @endphp
         @foreach ($moviesByRole as $role => $moviesGroup)
         <section class="rounded-2xl border border-white/10 bg-white/5 p-4 text-sm text-slate-200">

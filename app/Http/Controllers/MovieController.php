@@ -53,7 +53,7 @@ class MovieController extends Controller
     {
         return [
             'directors' => $people->filter(function ($person) {
-                return optional($person->pivot->role)->category === 'director';
+                return optional($person->pivot->role)->code === 'director';
             })->values(),
             'featuredCast' => $people->filter(function ($person) {
                 $role = optional($person->pivot->role);
@@ -64,7 +64,17 @@ class MovieController extends Controller
                 return $role && $role->category === 'cast' && ! $role->is_featured;
             })->values(),
             'crew' => $people->filter(function ($person) {
-                return optional($person->pivot->role)->category === 'crew';
+                $role = optional($person->pivot->role);
+
+                if (! $role) {
+                    return false;
+                }
+
+                if ($role->category === 'crew') {
+                    return true;
+                }
+
+                return $role->category === 'director' && $role->code !== 'director';
             })->values(),
         ];
     }

@@ -75,6 +75,8 @@ class FetchTmdbMovies extends Command
         ['title' => 'Medianeras', 'year' => 2011],
         ['title' => 'excursiones', 'year' => 2010],
         ['title' => 'el premio', 'year' => 2011],
+        ['title' => 'Sangre en la boca', 'year' => 2016],
+        ['title' => 'Todos tenemos un plan', 'year' => 2012],
     ];
 
     public function handle(): int

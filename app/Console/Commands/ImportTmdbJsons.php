@@ -111,7 +111,8 @@ class ImportTmdbJsons extends Command
         $this->attachCast($movie, Arr::get($data, 'cast', []));
         $this->attachCrew($movie, Arr::get($data, 'crew', []));
 
-        $this->attachMovieSource($movie, Arr::get($data, 'tmdb_id'));
+        $this->attachTmdbSource($movie, Arr::get($data, 'tmdb_id'));
+        $this->attachOkRuSource($movie, Arr::get($data, 'okru_url'));
     }
 
     protected function syncGenres(Movie $movie, array $genres): void
@@ -261,7 +262,7 @@ class ImportTmdbJsons extends Command
         };
     }
 
-    protected function attachMovieSource(Movie $movie, ?int $tmdbId): void
+    protected function attachTmdbSource(Movie $movie, ?int $tmdbId): void
     {
         if (! $tmdbId) {
             return;
@@ -279,6 +280,28 @@ class ImportTmdbJsons extends Command
             ],
             [
                 'url' => 'https://www.themoviedb.org/movie/' . $tmdbId,
+            ]
+        );
+    }
+
+    protected function attachOkRuSource(Movie $movie, ?string $url): void
+    {
+        if (! $url) {
+            return;
+        }
+
+        $provider = Provider::firstOrCreate(
+            ['slug' => 'ok-ru'],
+            ['name' => 'ok.ru']
+        );
+
+        MovieSource::updateOrCreate(
+            [
+                'movie_id' => $movie->id,
+                'provider_id' => $provider->id,
+            ],
+            [
+                'url' => $url,
             ]
         );
     }

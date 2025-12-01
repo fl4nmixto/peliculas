@@ -1,0 +1,454 @@
+{
+    "afis": [
+        "5f90832788bf773aa0ab48ab"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 95,
+    "an": "2015",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 6221
+    },
+    "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+    },
+    "rProme": 4.3,
+    "fotos": [
+        "5f90832888bf773aa0ab48ac",
+        "5f90832888bf773aa0ab48ad"
+    ],
+    "tit": "Como funcionan casi todas las cosas",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Fernando Salem",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 10
+            },
+            {
+                "nom": "Esteban Garelli",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 11
+            },
+            {
+                "nom": "German Castelnuovo",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 12
+            },
+            {
+                "nom": "Georgina Pretto",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Juan Ignacio Bernardis",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Juan Ignacio Bernardis",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Emiliano Fardaus",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Carina Luján",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Diego Amson",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Leandro Borrell",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Sebastián Mignogna",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Fernando Salem",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Verónica Cura",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Paula Massa",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 24
+            },
+            {
+                "nom": "Diego Amson",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 13062,
+                "impor": 25
+            },
+            {
+                "nom": "Juan Pablo Miller",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 10131,
+                "impor": 26
+            },
+            {
+                "nom": "Fernando Salem",
+                "rol": "PEJ",
+                "avatar": "569412be88bf777873123783",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 9597,
+                "impor": 27
+            },
+            {
+                "nom": "Paula Massa",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Producción ejecutiva",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 13965,
+                "impor": 28
+            },
+            {
+                "nom": "Laura Donari",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9500,
+                "impor": 29
+            },
+            {
+                "nom": "Daniela Deglise",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 8390,
+                "impor": 30
+            },
+            {
+                "nom": "Georgina Pretto",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 10165,
+                "impor": 31
+            },
+            {
+                "nom": "Tarea Fina",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 32
+            },
+            {
+                "nom": "Utopica Group",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 33
+            },
+            {
+                "nom": "El perro en la Luna",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 34
+            },
+            {
+                "nom": "Flora Films",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa Productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 35
+            }
+        ],
+        "01": [
+            {
+                "nom": "Fernando Salem",
+                "rol": "DIR",
+                "avatar": "569412be88bf777873123783",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 9597,
+                "impor": 1
+            },
+            {
+                "nom": "Verónica Gerez",
+                "rol": "INT",
+                "avatar": "5e84b32888bf7709e737b792",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 9806,
+                "impor": 2
+            },
+            {
+                "nom": "Pilar Gamboa",
+                "rol": "ELS",
+                "avatar": "56a8f8d388bf77718ed08d2e",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7474,
+                "impor": 3
+            },
+            {
+                "nom": "Esteban Bigliardi",
+                "rol": "ELS",
+                "avatar": "582c74f788bf77058a5b79eb",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 8039,
+                "impor": 4
+            },
+            {
+                "nom": "Miriam Odorico",
+                "rol": "ELS",
+                "avatar": "5a9820c72916c51c01d2e593",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 4238,
+                "impor": 5
+            },
+            {
+                "nom": "Marilú Marini",
+                "rol": "ELS",
+                "avatar": "5874f7e688bf77058a5b7ea9",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7876,
+                "impor": 6
+            },
+            {
+                "nom": "Rafael Spregelburd",
+                "rol": "ELS",
+                "avatar": "61b0b1eb2916c509500446d7",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7339,
+                "impor": 7
+            },
+            {
+                "nom": "María Ucedo",
+                "rol": "ELS",
+                "avatar": "5a451e3588bf770b6df2932f",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 6474,
+                "impor": 8
+            },
+            {
+                "nom": "Sergio Pángaro",
+                "rol": "ELS",
+                "avatar": "564cab8c88bf77787311f28b",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7554,
+                "impor": 9
+            }
+        ]
+    },
+    "rVotan": 662,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Celina trabaja en una casilla de peaje en una ruta remota en un desierto. Pocos días antes de Navidad, su padre muere y se pone a vender enciclopedias para ganar dinero y viajar a Italia para encontrar a su madre. ",
+    "asociadas": [
+        {
+            "tit": "Forever",
+            "id": {
+                "source": "INCAA",
+                "sid": 8074
+            },
+            "afi": "623224be88bf77105b657d8e"
+        },
+        {
+            "tit": "Yo, mi mujer y mi mujer muerta",
+            "id": {
+                "source": "INCAA",
+                "sid": 7398
+            },
+            "afi": "608c1c6788bf77105b656e1b"
+        },
+        {
+            "tit": "Subte-Polska",
+            "id": {
+                "source": "INCAA",
+                "sid": 9465
+            },
+            "afi": "664640a888bf7791ec189dc6"
+        },
+        {
+            "tit": "La señora de Pérez se divorcia",
+            "id": {
+                "source": "INCAA",
+                "sid": 97
+            },
+            "afi": "55e0b32ab98128433f85c6f9"
+        },
+        {
+            "tit": "Sandro",
+            "id": {
+                "source": "INCAA",
+                "sid": 8224
+            },
+            "afi": "62c47f552916c50950044ea7"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Comedia Dramática",
+            "style": "genero-INCAA-24",
+            "ab": "CD",
+            "stylesec": "genero-INCAA-24-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5f90832988bf773aa0ab48ae",
+    "padres": []
+}

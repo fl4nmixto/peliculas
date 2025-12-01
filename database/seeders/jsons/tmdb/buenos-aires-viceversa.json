@@ -1,0 +1,1758 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 328341,
+    "slug": "buenos-aires-viceversa",
+    "title": "Buenos Aires Viceversa",
+    "original_title": "Buenos Aires viceversa",
+    "overview": "Historias cruzadas en una Buenos Aires de fin de siglo XX, atravesada por filósofos de bar, pícaros de la calle, jóvenes confundidos y represores encubiertos. Jóvenes desorientados, dos de ellos son hijos de padres desaparecidos en la última dictadura, entrelazan sus vidas con adultos llevando la acción a un final tan dramático como simbólico del pasado reciente, cuyos efectos perduran en pensamientos y acciones de los protagonistas.",
+    "runtime": 114,
+    "release_date": "1996-11-01",
+    "year": 1996,
+    "tagline": "",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "countries": [
+        "Argentina",
+        "Spain"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8HICXpf8TLDQLH9ycQTaBsKVANz.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/dDxe8wXQCufyCLA6gv6feHDncDZ.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1036281,
+            "name": "Vera Fogwill",
+            "character": "Daniela",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg"
+        },
+        {
+            "id": 374448,
+            "name": "Nicolás Pauls",
+            "character": "Damián",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/uZ8jlzbzVugqYGbxPtWyAAGcqgk.jpg"
+        },
+        {
+            "id": 536259,
+            "name": "Fernán Mirás",
+            "character": "Mario",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+        },
+        {
+            "id": 1036284,
+            "name": "Mirta Busnelli",
+            "character": "Loca de la TV",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg"
+        },
+        {
+            "id": 105741,
+            "name": "Carlos Roffé",
+            "character": "TV service",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/sE5WbAHsP36SttszUXR9W9op1Ow.jpg"
+        },
+        {
+            "id": 992951,
+            "name": "Mario Paolucci",
+            "character": "Amigo",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/6MWnVBljKFyLsMxAEGTcfMTpqnc.jpg"
+        },
+        {
+            "id": 941750,
+            "name": "Laura Melillo",
+            "character": "Ciega",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 94886,
+            "name": "Harry Havilio",
+            "character": "Uncle",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/85ces5W6VVXtlJpU7Yj0ypadHYS.jpg"
+        },
+        {
+            "id": 230219,
+            "name": "Nazareno Casero",
+            "character": "Bocha",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/aRgNxKZWX95kWWtkIJ92BoAmU7G.jpg"
+        },
+        {
+            "id": 1074969,
+            "name": "Carlos Galettini",
+            "character": "Don Nicolás",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/pmELFlQoiMu2cFxHwtiXwCoXf6u.jpg"
+        },
+        {
+            "id": 1095017,
+            "name": "Floria Bloise",
+            "character": "Doña Amalia",
+            "order": 10,
+            "image_url": "https://image.tmdb.org/t/p/original/zhZ9AI31FooEJvq20ulaVFQ0g46.jpg"
+        },
+        {
+            "id": 1282575,
+            "name": "Inés Molina",
+            "character": "Chica loft",
+            "order": 11,
+            "image_url": null
+        },
+        {
+            "id": 1502594,
+            "name": "Sergio Poves Campos",
+            "character": "Adoptive father",
+            "order": 12,
+            "image_url": null
+        },
+        {
+            "id": 5055233,
+            "name": "Rolando Epstein",
+            "character": "Mazur",
+            "order": 13,
+            "image_url": null
+        },
+        {
+            "id": 2833605,
+            "name": "Susana Cortínez",
+            "character": "Madre adoptiva",
+            "order": 14,
+            "image_url": null
+        },
+        {
+            "id": 105740,
+            "name": "Lorenzo Quinteros",
+            "character": "TV host",
+            "order": 15,
+            "image_url": "https://image.tmdb.org/t/p/original/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg"
+        },
+        {
+            "id": 5497516,
+            "name": "Raúl Cárdenas",
+            "character": "Boxeador",
+            "order": 16,
+            "image_url": null
+        },
+        {
+            "id": 1816013,
+            "name": "Axel Pauls",
+            "character": "Borracho bar",
+            "order": 17,
+            "image_url": null
+        },
+        {
+            "id": 948544,
+            "name": "Bettina Brenna",
+            "character": "Novia Mario",
+            "order": 18,
+            "image_url": null
+        },
+        {
+            "id": 1147419,
+            "name": "Sebastián Polonski",
+            "character": "Guru",
+            "order": 19,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 2235653,
+            "name": "Pablo Ramos",
+            "department": "Camera",
+            "job": "Assistant Camera",
+            "image_url": null
+        },
+        {
+            "id": 2235653,
+            "name": "Pablo Ramos",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 2194958,
+            "name": "Horacio Almada",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1444577,
+            "name": "Fernando Soldevila",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": "https://image.tmdb.org/t/p/original/zBkXWRr5rLe8Y1vJozwEFC8Bd4R.jpg"
+        },
+        {
+            "id": 5137242,
+            "name": "Ramiro Aisenson",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 5497510,
+            "name": "Constanzo Novick",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": null
+        },
+        {
+            "id": 1979550,
+            "name": "Guillermo Kohen",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": null
+        },
+        {
+            "id": 21038,
+            "name": "Paul M. van Brugge",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "https://image.tmdb.org/t/p/original/nPtwxpAODX2RuWKaI1jLUQtNwul.jpg"
+        },
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 21040,
+            "name": "Alejandro Brodersohn",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1735314,
+            "name": "Paula Zyngierman",
+            "department": "Production",
+            "job": "Production Manager",
+            "image_url": "https://image.tmdb.org/t/p/original/zfZtllbfimOihSrSpW5MOp1Ldc1.jpg"
+        },
+        {
+            "id": 996068,
+            "name": "Emjay Rechsteiner",
+            "department": "Production",
+            "job": "Co-Producer",
+            "image_url": null
+        },
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 2964980,
+            "name": "Axel Harding",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 21031,
+            "name": "Alejandro Agresti",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": "https://image.tmdb.org/t/p/original/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+        },
+        {
+            "id": 5137242,
+            "name": "Ramiro Aisenson",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 2190205,
+            "name": "Marcelo Moreno",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 2396411,
+            "name": "Hans Bonato",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 2182060,
+            "name": "María Laura Luczkow",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 5497574,
+            "name": "Alejandro Puente",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 1534200,
+            "name": "Daniel Rosenfeld",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 2742461,
+            "name": "Betina Brewda",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": null
+        },
+        {
+            "id": 433332,
+            "name": "Vanessa Ragone",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": "https://image.tmdb.org/t/p/original/shZJsGK427dkrxEuF11zgLClpMx.jpg"
+        },
+        {
+            "id": 5497577,
+            "name": "Sergio Agresti",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": null
+        },
+        {
+            "id": 5207929,
+            "name": "Alicia Castelli",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": null
+        },
+        {
+            "id": 141760,
+            "name": "Diego Kaplan",
+            "department": "Directing",
+            "job": "Second Unit Director",
+            "image_url": "https://image.tmdb.org/t/p/original/6ewQgnokiYvAYBjpz5iiikcYAwb.jpg"
+        },
+        {
+            "id": 2396411,
+            "name": "Hans Bonato",
+            "department": "Camera",
+            "job": "Second Unit Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 2236698,
+            "name": "Marcelo Altmark",
+            "department": "Production",
+            "job": "Delegated Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/wFKassXcrlqO7S5YXy2cGZhn5Ec.jpg"
+        },
+        {
+            "id": 2194958,
+            "name": "Horacio Almada",
+            "department": "Sound",
+            "job": "Sound Recordist",
+            "image_url": null
+        },
+        {
+            "id": 1444577,
+            "name": "Fernando Soldevila",
+            "department": "Sound",
+            "job": "Sound Assistant",
+            "image_url": "https://image.tmdb.org/t/p/original/zBkXWRr5rLe8Y1vJozwEFC8Bd4R.jpg"
+        },
+        {
+            "id": 2353026,
+            "name": "Martin Schvartzapel",
+            "department": "Sound",
+            "job": "Sound Assistant",
+            "image_url": null
+        },
+        {
+            "id": 433332,
+            "name": "Vanessa Ragone",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": "https://image.tmdb.org/t/p/original/shZJsGK427dkrxEuF11zgLClpMx.jpg"
+        },
+        {
+            "id": 2742461,
+            "name": "Betina Brewda",
+            "department": "Production",
+            "job": "Post Producer",
+            "image_url": null
+        },
+        {
+            "id": 5497574,
+            "name": "Alejandro Puente",
+            "department": "Production",
+            "job": "Post Producer",
+            "image_url": null
+        },
+        {
+            "id": 1534200,
+            "name": "Daniel Rosenfeld",
+            "department": "Production",
+            "job": "Post Producer",
+            "image_url": null
+        },
+        {
+            "id": 5497581,
+            "name": "Annemarie Kalma",
+            "department": "Production",
+            "job": "Post Producer",
+            "image_url": null
+        },
+        {
+            "id": 39981,
+            "name": "Mauricio Rubinstein",
+            "department": "Lighting",
+            "job": "Gaffer",
+            "image_url": null
+        },
+        {
+            "id": 5497583,
+            "name": "Rodolfo Fernández",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 1304989,
+            "name": "Jan van Sandwijk",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 1300822,
+            "name": "Benoît Biral",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": "https://image.tmdb.org/t/p/original/kH4cUgLeJSddqliq0v2QE7x3rit.jpg"
+        },
+        {
+            "id": 5497584,
+            "name": "Patrick Pesto",
+            "department": "Sound",
+            "job": "Foley",
+            "image_url": null
+        },
+        {
+            "id": 5253862,
+            "name": "Romy de Haan",
+            "department": "Editing",
+            "job": "Negative Cutter",
+            "image_url": null
+        },
+        {
+            "id": 5497585,
+            "name": "Marijke Van Zwietering",
+            "department": "Editing",
+            "job": "Negative Cutter",
+            "image_url": null
+        },
+        {
+            "id": 4215337,
+            "name": "Dick Troeleman",
+            "department": "Editing",
+            "job": "Color Grading",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/dDxe8wXQCufyCLA6gv6feHDncDZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 328341,
+        "imdb_id": "tt0115773",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Buenos Aires viceversa",
+        "overview": "Historias cruzadas en una Buenos Aires de fin de siglo XX, atravesada por filósofos de bar, pícaros de la calle, jóvenes confundidos y represores encubiertos. Jóvenes desorientados, dos de ellos son hijos de padres desaparecidos en la última dictadura, entrelazan sus vidas con adultos llevando la acción a un final tan dramático como simbólico del pasado reciente, cuyos efectos perduran en pensamientos y acciones de los protagonistas.",
+        "popularity": 3.4396,
+        "poster_path": "/8HICXpf8TLDQLH9ycQTaBsKVANz.jpg",
+        "production_companies": [
+            {
+                "id": 264940,
+                "logo_path": null,
+                "name": "Agresti Harding Films",
+                "origin_country": ""
+            },
+            {
+                "id": 7300,
+                "logo_path": null,
+                "name": "Staccato Films",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "1996-11-01",
+        "revenue": 0,
+        "runtime": 114,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Buenos Aires Viceversa",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 10,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1036281,
+                    "known_for_department": "Acting",
+                    "name": "Vera Fogwill",
+                    "original_name": "Vera Fogwill",
+                    "popularity": 0.1297,
+                    "profile_path": "/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg",
+                    "cast_id": 1,
+                    "character": "Daniela",
+                    "credit_id": "5eef91846f6a990038ce1dd1",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 374448,
+                    "known_for_department": "Acting",
+                    "name": "Nicolás Pauls",
+                    "original_name": "Nicolás Pauls",
+                    "popularity": 0.3048,
+                    "profile_path": "/uZ8jlzbzVugqYGbxPtWyAAGcqgk.jpg",
+                    "cast_id": 2,
+                    "character": "Damián",
+                    "credit_id": "5eef919ad2b209003400ee9d",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 536259,
+                    "known_for_department": "Acting",
+                    "name": "Fernán Mirás",
+                    "original_name": "Fernán Mirás",
+                    "popularity": 0.1825,
+                    "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
+                    "cast_id": 3,
+                    "character": "Mario",
+                    "credit_id": "5eef91a5ed2ac200349c8f95",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1036284,
+                    "known_for_department": "Acting",
+                    "name": "Mirta Busnelli",
+                    "original_name": "Mirta Busnelli",
+                    "popularity": 0.0778,
+                    "profile_path": "/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg",
+                    "cast_id": 4,
+                    "character": "Loca de la TV",
+                    "credit_id": "5eef91bbb0cd200034b79114",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 105741,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Roffé",
+                    "original_name": "Carlos Roffé",
+                    "popularity": 0.116,
+                    "profile_path": "/sE5WbAHsP36SttszUXR9W9op1Ow.jpg",
+                    "cast_id": 5,
+                    "character": "TV service",
+                    "credit_id": "5eef91d2ed2ac200349c8fb5",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 992951,
+                    "known_for_department": "Acting",
+                    "name": "Mario Paolucci",
+                    "original_name": "Mario Paolucci",
+                    "popularity": 0.0932,
+                    "profile_path": "/6MWnVBljKFyLsMxAEGTcfMTpqnc.jpg",
+                    "cast_id": 6,
+                    "character": "Amigo",
+                    "credit_id": "5eef91dfb0cd200037b7309a",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 941750,
+                    "known_for_department": "Acting",
+                    "name": "Laura Melillo",
+                    "original_name": "Laura Melillo",
+                    "popularity": 0.0439,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Ciega",
+                    "credit_id": "5eef91ee6e3deb0038a22d30",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 94886,
+                    "known_for_department": "Acting",
+                    "name": "Harry Havilio",
+                    "original_name": "Harry Havilio",
+                    "popularity": 0.0923,
+                    "profile_path": "/85ces5W6VVXtlJpU7Yj0ypadHYS.jpg",
+                    "cast_id": 8,
+                    "character": "Uncle",
+                    "credit_id": "5eef91ffed2ac200329ddd90",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 230219,
+                    "known_for_department": "Acting",
+                    "name": "Nazareno Casero",
+                    "original_name": "Nazareno Casero",
+                    "popularity": 0.5621,
+                    "profile_path": "/aRgNxKZWX95kWWtkIJ92BoAmU7G.jpg",
+                    "cast_id": 9,
+                    "character": "Bocha",
+                    "credit_id": "5eef920e6e3deb0037a22afb",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1074969,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Galettini",
+                    "original_name": "Carlos Galettini",
+                    "popularity": 0.0859,
+                    "profile_path": "/pmELFlQoiMu2cFxHwtiXwCoXf6u.jpg",
+                    "cast_id": 11,
+                    "character": "Don Nicolás",
+                    "credit_id": "5eef9243d2b20900360054e0",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1095017,
+                    "known_for_department": "Acting",
+                    "name": "Floria Bloise",
+                    "original_name": "Floria Bloise",
+                    "popularity": 0.5042,
+                    "profile_path": "/zhZ9AI31FooEJvq20ulaVFQ0g46.jpg",
+                    "cast_id": 10,
+                    "character": "Doña Amalia",
+                    "credit_id": "5eef922bf12cf4003757d82a",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1282575,
+                    "known_for_department": "Acting",
+                    "name": "Inés Molina",
+                    "original_name": "Inés Molina",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 12,
+                    "character": "Chica loft",
+                    "credit_id": "5eef9250d2b2090033ff6674",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1502594,
+                    "known_for_department": "Acting",
+                    "name": "Sergio Poves Campos",
+                    "original_name": "Sergio Poves Campos",
+                    "popularity": 0.0256,
+                    "profile_path": null,
+                    "cast_id": 13,
+                    "character": "Adoptive father",
+                    "credit_id": "5eef927ed2b2090035ffbe6a",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5055233,
+                    "known_for_department": "Acting",
+                    "name": "Rolando Epstein",
+                    "original_name": "Rolando Epstein",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "cast_id": 35,
+                    "character": "Mazur",
+                    "credit_id": "6848ce4dec73293cd7bb3a55",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2833605,
+                    "known_for_department": "Acting",
+                    "name": "Susana Cortínez",
+                    "original_name": "Susana Cortínez",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 36,
+                    "character": "Madre adoptiva",
+                    "credit_id": "6848ce61d374eef39f3fcf74",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 105740,
+                    "known_for_department": "Acting",
+                    "name": "Lorenzo Quinteros",
+                    "original_name": "Lorenzo Quinteros",
+                    "popularity": 0.0622,
+                    "profile_path": "/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg",
+                    "cast_id": 14,
+                    "character": "TV host",
+                    "credit_id": "5eef928f6f6a990036cd6ed0",
+                    "order": 15
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497516,
+                    "known_for_department": "Acting",
+                    "name": "Raúl Cárdenas",
+                    "original_name": "Raúl Cárdenas",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 37,
+                    "character": "Boxeador",
+                    "credit_id": "6848cec355d594d3a69f5794",
+                    "order": 16
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1816013,
+                    "known_for_department": "Acting",
+                    "name": "Axel Pauls",
+                    "original_name": "Axel Pauls",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "cast_id": 38,
+                    "character": "Borracho bar",
+                    "credit_id": "6848ced30ab37193533e0757",
+                    "order": 17
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 948544,
+                    "known_for_department": "Acting",
+                    "name": "Bettina Brenna",
+                    "original_name": "Bettina Brenna",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 16,
+                    "character": "Novia Mario",
+                    "credit_id": "5eef92c1f12cf4003757d903",
+                    "order": 18
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1147419,
+                    "known_for_department": "Acting",
+                    "name": "Sebastián Polonski",
+                    "original_name": "Sebastián Polonski",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 17,
+                    "character": "Guru",
+                    "credit_id": "5eef92d2f12cf4003857a13b",
+                    "order": 19
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497517,
+                    "known_for_department": "Acting",
+                    "name": "María Cherniajovsky",
+                    "original_name": "María Cherniajovsky",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 39,
+                    "character": "Novia Gurú",
+                    "credit_id": "6848cf0a9a51d12c3d3e07d1",
+                    "order": 20
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "cast_id": 18,
+                    "character": "Blind man",
+                    "credit_id": "5eef92e5b0cd200034b792b1",
+                    "order": 21
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497518,
+                    "known_for_department": "Acting",
+                    "name": "Verónica Aguilera",
+                    "original_name": "Verónica Aguilera",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "cast_id": 40,
+                    "character": "Vendedora flores",
+                    "credit_id": "6848cf25c7bcb9f7443e0785",
+                    "order": 22
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497520,
+                    "known_for_department": "Acting",
+                    "name": "Verena Von Scoenfelot",
+                    "original_name": "Verena Von Scoenfelot",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 41,
+                    "character": "Meteoróloga",
+                    "credit_id": "6848cf428c72ca56d31eb24b",
+                    "order": 23
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497521,
+                    "known_for_department": "Acting",
+                    "name": "Paco Sombrero",
+                    "original_name": "Paco Sombrero",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 42,
+                    "character": "Encargado hotel",
+                    "credit_id": "6848cf541f6d18e6513fd378",
+                    "order": 24
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497523,
+                    "known_for_department": "Acting",
+                    "name": "Agustín Castro",
+                    "original_name": "Agustín Castro",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "cast_id": 43,
+                    "character": "Vendedor autos",
+                    "credit_id": "6848cf7f69887655e9de79b6",
+                    "order": 25
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497524,
+                    "known_for_department": "Acting",
+                    "name": "Ada Quiñones",
+                    "original_name": "Ada Quiñones",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 44,
+                    "character": "Vendedora discos",
+                    "credit_id": "6848cf91d374eef39f3fcf8c",
+                    "order": 26
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497525,
+                    "known_for_department": "Acting",
+                    "name": "Miguel Ángel Acuña",
+                    "original_name": "Miguel Ángel Acuña",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 45,
+                    "character": "Recepcionista hotel",
+                    "credit_id": "6848cfa57f3def6f813021f3",
+                    "order": 27
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497526,
+                    "known_for_department": "Acting",
+                    "name": "Reynaldo Pereira",
+                    "original_name": "Reynaldo Pereira",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 46,
+                    "character": "Recepcionista hotel",
+                    "credit_id": "6848cfb37a71a3dba3bb3888",
+                    "order": 28
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497531,
+                    "known_for_department": "Acting",
+                    "name": "Miguel Ángel Gutiérrez",
+                    "original_name": "Miguel Ángel Gutiérrez",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 47,
+                    "character": "Barra del bar",
+                    "credit_id": "6848cfcd26eb5330533e07cf",
+                    "order": 29
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497533,
+                    "known_for_department": "Acting",
+                    "name": "Romualdo García",
+                    "original_name": "Romualdo García",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 48,
+                    "character": "Barra del bar",
+                    "credit_id": "6848cfdf8d1f28663e3fd2cb",
+                    "order": 30
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497534,
+                    "known_for_department": "Acting",
+                    "name": "Héctor Giménez",
+                    "original_name": "Héctor Giménez",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 49,
+                    "character": "Barra del bar",
+                    "credit_id": "6848cfeba0c6e5041ebb3ab1",
+                    "order": 31
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497535,
+                    "known_for_department": "Acting",
+                    "name": "Alberto Florez",
+                    "original_name": "Alberto Florez",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 50,
+                    "character": "Barra del bar",
+                    "credit_id": "6848cff57a71a3dba3bb3894",
+                    "order": 32
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497536,
+                    "known_for_department": "Acting",
+                    "name": "Carolin Scaglia",
+                    "original_name": "Carolin Scaglia",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 51,
+                    "character": "Cliente hotel",
+                    "credit_id": "6848d0043a1dc97feade7a1d",
+                    "order": 33
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1137607,
+                    "known_for_department": "Acting",
+                    "name": "Cristian Medrano",
+                    "original_name": "Cristian Medrano",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "cast_id": 52,
+                    "character": "Cliente hotel",
+                    "credit_id": "6848d013631b06539a1eb30e",
+                    "order": 34
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497539,
+                    "known_for_department": "Acting",
+                    "name": "Diego Blasi",
+                    "original_name": "Diego Blasi",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 53,
+                    "character": "Cliente hotel",
+                    "credit_id": "6848d061884f6aa1ec9f5753",
+                    "order": 35
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497540,
+                    "known_for_department": "Acting",
+                    "name": "Héctor Delgado",
+                    "original_name": "Héctor Delgado",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 54,
+                    "character": "Cliente hotel",
+                    "credit_id": "6848d06d7a71a3dba3bb38ae",
+                    "order": 36
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497564,
+                    "known_for_department": "Acting",
+                    "name": "Natalia Calvo",
+                    "original_name": "Natalia Calvo",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 55,
+                    "character": "Chica sueño boxeador",
+                    "credit_id": "6848d2cba5f6b5c9ab293729",
+                    "order": 37
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497565,
+                    "known_for_department": "Acting",
+                    "name": "Verónica Gonzáles",
+                    "original_name": "Verónica Gonzáles",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 56,
+                    "character": "Chica sueño boxeador",
+                    "credit_id": "6848d2d6d669235de0bb3ae4",
+                    "order": 38
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "56f4c4d69251417a440011c4",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2235653,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Ramos",
+                    "original_name": "Pablo Ramos",
+                    "popularity": 0.6413,
+                    "profile_path": null,
+                    "credit_id": "660cb108d400f3017d05b69a",
+                    "department": "Camera",
+                    "job": "Assistant Camera"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2235653,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Ramos",
+                    "original_name": "Pablo Ramos",
+                    "popularity": 0.6413,
+                    "profile_path": null,
+                    "credit_id": "660cb1169c97bd017ca5f530",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "5eef958ad2b2090035ffc101",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2194958,
+                    "known_for_department": "Sound",
+                    "name": "Horacio Almada",
+                    "original_name": "Horacio Almada",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "6848cd0bbbfe31cc902936c1",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1444577,
+                    "known_for_department": "Sound",
+                    "name": "Fernando Soldevila",
+                    "original_name": "Fernando Soldevila",
+                    "popularity": 0.0819,
+                    "profile_path": "/zBkXWRr5rLe8Y1vJozwEFC8Bd4R.jpg",
+                    "credit_id": "6848cd1c7f3def6f813021c8",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5137242,
+                    "known_for_department": "Camera",
+                    "name": "Ramiro Aisenson",
+                    "original_name": "Ramiro Aisenson",
+                    "popularity": 0.0412,
+                    "profile_path": null,
+                    "credit_id": "6848cd2dd3c8daa0aa9f5817",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497510,
+                    "known_for_department": "Art",
+                    "name": "Constanzo Novick",
+                    "original_name": "Constanzo Novick",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "6848cd47e9ca8a7b3c3fd125",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1979550,
+                    "known_for_department": "Directing",
+                    "name": "Guillermo Kohen",
+                    "original_name": "Guillermo Kohen",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848cd5257b71a9036302442",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21038,
+                    "known_for_department": "Sound",
+                    "name": "Paul M. van Brugge",
+                    "original_name": "Paul M. van Brugge",
+                    "popularity": 0.0504,
+                    "profile_path": "/nPtwxpAODX2RuWKaI1jLUQtNwul.jpg",
+                    "credit_id": "6848cd6798d4b1b8f3343203",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "6848cd71d87a151c53342e95",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "6848cd9c0ab37193533e074c",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21040,
+                    "known_for_department": "Editing",
+                    "name": "Alejandro Brodersohn",
+                    "original_name": "Alejandro Brodersohn",
+                    "popularity": 0.0368,
+                    "profile_path": null,
+                    "credit_id": "6848cda649572790b6302298",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1735314,
+                    "known_for_department": "Production",
+                    "name": "Paula Zyngierman",
+                    "original_name": "Paula Zyngierman",
+                    "popularity": 0.0432,
+                    "profile_path": "/zfZtllbfimOihSrSpW5MOp1Ldc1.jpg",
+                    "credit_id": "6848cdbc7f3def6f813021d9",
+                    "department": "Production",
+                    "job": "Production Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 996068,
+                    "known_for_department": "Production",
+                    "name": "Emjay Rechsteiner",
+                    "original_name": "Emjay Rechsteiner",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6848cdc8b6a9aac54e1eb069",
+                    "department": "Production",
+                    "job": "Co-Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "6848cdd7c4906be91f293921",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2964980,
+                    "known_for_department": "Production",
+                    "name": "Axel Harding",
+                    "original_name": "Axel Harding",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6848cde09e85afcb97343216",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21031,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Agresti",
+                    "original_name": "Alejandro Agresti",
+                    "popularity": 0.1308,
+                    "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+                    "credit_id": "6848d2fe884f6aa1ec9f575e",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5137242,
+                    "known_for_department": "Camera",
+                    "name": "Ramiro Aisenson",
+                    "original_name": "Ramiro Aisenson",
+                    "popularity": 0.0412,
+                    "profile_path": null,
+                    "credit_id": "6848d30e075e60e6f93430a4",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2190205,
+                    "known_for_department": "Crew",
+                    "name": "Marcelo Moreno",
+                    "original_name": "Marcelo Moreno",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d323ef546c95c529383d",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2396411,
+                    "known_for_department": "Crew",
+                    "name": "Hans Bonato",
+                    "original_name": "Hans Bonato",
+                    "popularity": 0.0357,
+                    "profile_path": null,
+                    "credit_id": "6848d339d87f3cf7c43e07b7",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2182060,
+                    "known_for_department": "Camera",
+                    "name": "María Laura Luczkow",
+                    "original_name": "María Laura Luczkow",
+                    "popularity": 0.0362,
+                    "profile_path": null,
+                    "credit_id": "6848d34601d8bb96902937c8",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497574,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Puente",
+                    "original_name": "Alejandro Puente",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d39300207c4cd23e07ae",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1534200,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Rosenfeld",
+                    "original_name": "Daniel Rosenfeld",
+                    "popularity": 0.0431,
+                    "profile_path": null,
+                    "credit_id": "6848d3a126eb5330533e07e4",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2742461,
+                    "known_for_department": "Production",
+                    "name": "Betina Brewda",
+                    "original_name": "Betina Brewda",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d3b0631b06539a1eb328",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 433332,
+                    "known_for_department": "Production",
+                    "name": "Vanessa Ragone",
+                    "original_name": "Vanessa Ragone",
+                    "popularity": 0.0445,
+                    "profile_path": "/shZJsGK427dkrxEuF11zgLClpMx.jpg",
+                    "credit_id": "6848d3b95ca95ae7163021bd",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497577,
+                    "known_for_department": "Production",
+                    "name": "Sergio Agresti",
+                    "original_name": "Sergio Agresti",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6848d3c64bcc38bcd8302321",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5207929,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Alicia Castelli",
+                    "original_name": "Alicia Castelli",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6848d3cfb68cba1afa1eb227",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 141760,
+                    "known_for_department": "Directing",
+                    "name": "Diego Kaplan",
+                    "original_name": "Diego Kaplan",
+                    "popularity": 0.081,
+                    "profile_path": "/6ewQgnokiYvAYBjpz5iiikcYAwb.jpg",
+                    "credit_id": "6848d3db175a517eb5de77b5",
+                    "department": "Directing",
+                    "job": "Second Unit Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2396411,
+                    "known_for_department": "Crew",
+                    "name": "Hans Bonato",
+                    "original_name": "Hans Bonato",
+                    "popularity": 0.0357,
+                    "profile_path": null,
+                    "credit_id": "6848d3e8e64b722f409f583a",
+                    "department": "Camera",
+                    "job": "Second Unit Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2236698,
+                    "known_for_department": "Production",
+                    "name": "Marcelo Altmark",
+                    "original_name": "Marcelo Altmark",
+                    "popularity": 0.0143,
+                    "profile_path": "/wFKassXcrlqO7S5YXy2cGZhn5Ec.jpg",
+                    "credit_id": "6848d3f8e9ca8a7b3c3fd14e",
+                    "department": "Production",
+                    "job": "Delegated Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2194958,
+                    "known_for_department": "Sound",
+                    "name": "Horacio Almada",
+                    "original_name": "Horacio Almada",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "6848d4052435c5cb9d302e08",
+                    "department": "Sound",
+                    "job": "Sound Recordist"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1444577,
+                    "known_for_department": "Sound",
+                    "name": "Fernando Soldevila",
+                    "original_name": "Fernando Soldevila",
+                    "popularity": 0.0819,
+                    "profile_path": "/zBkXWRr5rLe8Y1vJozwEFC8Bd4R.jpg",
+                    "credit_id": "6848d42ab68cba1afa1eb22a",
+                    "department": "Sound",
+                    "job": "Sound Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2353026,
+                    "known_for_department": "Directing",
+                    "name": "Martin Schvartzapel",
+                    "original_name": "Martin Schvartzapel",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6848d4393a27cc2a0830219b",
+                    "department": "Sound",
+                    "job": "Sound Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 433332,
+                    "known_for_department": "Production",
+                    "name": "Vanessa Ragone",
+                    "original_name": "Vanessa Ragone",
+                    "popularity": 0.0445,
+                    "profile_path": "/shZJsGK427dkrxEuF11zgLClpMx.jpg",
+                    "credit_id": "6848d4497a1db9c21a293735",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2742461,
+                    "known_for_department": "Production",
+                    "name": "Betina Brewda",
+                    "original_name": "Betina Brewda",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d45f175a0163d13e07e3",
+                    "department": "Production",
+                    "job": "Post Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497574,
+                    "known_for_department": "Directing",
+                    "name": "Alejandro Puente",
+                    "original_name": "Alejandro Puente",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d46bc4906be91f293934",
+                    "department": "Production",
+                    "job": "Post Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1534200,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Rosenfeld",
+                    "original_name": "Daniel Rosenfeld",
+                    "popularity": 0.0431,
+                    "profile_path": null,
+                    "credit_id": "6848d4793f83a7a421bb39d5",
+                    "department": "Production",
+                    "job": "Post Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497581,
+                    "known_for_department": "Production",
+                    "name": "Annemarie Kalma",
+                    "original_name": "Annemarie Kalma",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6848d4896cd879a4bd9f577b",
+                    "department": "Production",
+                    "job": "Post Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 39981,
+                    "known_for_department": "Camera",
+                    "name": "Mauricio Rubinstein",
+                    "original_name": "Mauricio Rubinstein",
+                    "popularity": 0.0805,
+                    "profile_path": null,
+                    "credit_id": "6848d49d789ef510931eb287",
+                    "department": "Lighting",
+                    "job": "Gaffer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497583,
+                    "known_for_department": "Lighting",
+                    "name": "Rodolfo Fernández",
+                    "original_name": "Rodolfo Fernández",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6848d4b65152def6a22936a4",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1304989,
+                    "known_for_department": "Sound",
+                    "name": "Jan van Sandwijk",
+                    "original_name": "Jan van Sandwijk",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "6848d4ca1fbdd9fa2fbb3b92",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1300822,
+                    "known_for_department": "Sound",
+                    "name": "Benoît Biral",
+                    "original_name": "Benoît Biral",
+                    "popularity": 0.0882,
+                    "profile_path": "/kH4cUgLeJSddqliq0v2QE7x3rit.jpg",
+                    "credit_id": "6848d4d6deddbe6d723e07bf",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497584,
+                    "known_for_department": "Sound",
+                    "name": "Patrick Pesto",
+                    "original_name": "Patrick Pesto",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6848d4ee70d4939ab03e07d8",
+                    "department": "Sound",
+                    "job": "Foley"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5253862,
+                    "known_for_department": "Editing",
+                    "name": "Romy de Haan",
+                    "original_name": "Romy de Haan",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "credit_id": "6848d4fb5b8d2a1845bb3ac7",
+                    "department": "Editing",
+                    "job": "Negative Cutter"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5497585,
+                    "known_for_department": "Editing",
+                    "name": "Marijke Van Zwietering",
+                    "original_name": "Marijke Van Zwietering",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "6848d51a69887655e9de79ca",
+                    "department": "Editing",
+                    "job": "Negative Cutter"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4215337,
+                    "known_for_department": "Editing",
+                    "name": "Dick Troeleman",
+                    "original_name": "Dick Troeleman",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6848d5279966b96afcde78d9",
+                    "department": "Editing",
+                    "job": "Color Grading"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 3000,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/8HICXpf8TLDQLH9ycQTaBsKVANz.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 2000
+                },
+                {
+                    "aspect_ratio": 0.661,
+                    "height": 986,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/eq2aMT7KQSWmZeqSuJQQdJ1uA72.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 652
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 123450,
+    "slug": "sabado",
+    "title": "Sábado",
+    "original_title": "Sábado",
+    "overview": "Un sábado en una Buenos Aires desolada y casi irreconocible. Una pareja casi acostumbrada a su aburrimiento cotidiano, una chica que ya decidió que quiere estar sola, su novio que no quiere aceptarlo, un actor famoso que no parece estar a gusto en ningún lado y una chica que cree divertirse sin notar que se aburre todo el tiempo. Una comedia melancólica sobre la incomodidad y el miedo.",
+    "runtime": 72,
+    "release_date": "2002-08-22",
+    "year": 2002,
+    "tagline": "",
+    "genres": [
+        "Comedia"
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/utqHhOrD8rIA7ANymPv7yLc8M5V.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [
+        {
+            "id": 119671,
+            "name": "Gastón Pauls",
+            "character": "Gastón Pauls",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg"
+        },
+        {
+            "id": 131867,
+            "name": "Daniel Hendler",
+            "character": "Martín",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+        },
+        {
+            "id": 1006305,
+            "name": "Camila Toker",
+            "character": "Camila",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg"
+        },
+        {
+            "id": 544958,
+            "name": "Mariana Anghileri",
+            "character": "Natalia",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg"
+        },
+        {
+            "id": 1078227,
+            "name": "Leonardo Murúa",
+            "character": "Leopoldo",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 1078228,
+            "name": "Eva Sola",
+            "character": "Andrea",
+            "order": 5,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 557735,
+            "name": "Juan Villegas",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+        },
+        {
+            "id": 1409126,
+            "name": "Paola Rizzi",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 557735,
+            "name": "Juan Villegas",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 123450,
+        "imdb_id": "tt0284537",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Sábado",
+        "overview": "Un sábado en una Buenos Aires desolada y casi irreconocible. Una pareja casi acostumbrada a su aburrimiento cotidiano, una chica que ya decidió que quiere estar sola, su novio que no quiere aceptarlo, un actor famoso que no parece estar a gusto en ningún lado y una chica que cree divertirse sin notar que se aburre todo el tiempo. Una comedia melancólica sobre la incomodidad y el miedo.",
+        "popularity": 0.9439,
+        "poster_path": "/utqHhOrD8rIA7ANymPv7yLc8M5V.jpg",
+        "production_companies": [
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            },
+            {
+                "id": 216198,
+                "logo_path": null,
+                "name": "Universidad Del Cine",
+                "origin_country": ""
+            },
+            {
+                "id": 122153,
+                "logo_path": null,
+                "name": "Fundación Antorchas",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2002-08-22",
+        "revenue": 0,
+        "runtime": 72,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Sábado",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 6,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 119671,
+                    "known_for_department": "Acting",
+                    "name": "Gastón Pauls",
+                    "original_name": "Gastón Pauls",
+                    "popularity": 0.9213,
+                    "profile_path": "/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg",
+                    "cast_id": 2,
+                    "character": "Gastón Pauls",
+                    "credit_id": "52fe4a95c3a368484e15be31",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 131867,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Hendler",
+                    "original_name": "Daniel Hendler",
+                    "popularity": 1.5111,
+                    "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
+                    "cast_id": 3,
+                    "character": "Martín",
+                    "credit_id": "52fe4a95c3a368484e15be35",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1006305,
+                    "known_for_department": "Directing",
+                    "name": "Camila Toker",
+                    "original_name": "Camila Toker",
+                    "popularity": 0.0919,
+                    "profile_path": "/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg",
+                    "cast_id": 4,
+                    "character": "Camila",
+                    "credit_id": "52fe4a95c3a368484e15be39",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 544958,
+                    "known_for_department": "Acting",
+                    "name": "Mariana Anghileri",
+                    "original_name": "Mariana Anghileri",
+                    "popularity": 0.2108,
+                    "profile_path": "/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg",
+                    "cast_id": 5,
+                    "character": "Natalia",
+                    "credit_id": "52fe4a95c3a368484e15be3d",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1078227,
+                    "known_for_department": "Acting",
+                    "name": "Leonardo Murúa",
+                    "original_name": "Leonardo Murúa",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "Leopoldo",
+                    "credit_id": "52fe4a95c3a368484e15be41",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1078228,
+                    "known_for_department": "Acting",
+                    "name": "Eva Sola",
+                    "original_name": "Eva Sola",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Andrea",
+                    "credit_id": "52fe4a95c3a368484e15be45",
+                    "order": 5
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557735,
+                    "known_for_department": "Directing",
+                    "name": "Juan Villegas",
+                    "original_name": "Juan Villegas",
+                    "popularity": 0.0825,
+                    "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
+                    "credit_id": "52fe4a95c3a368484e15be2d",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1409126,
+                    "known_for_department": "Crew",
+                    "name": "Paola Rizzi",
+                    "original_name": "Paola Rizzi",
+                    "popularity": 0.0382,
+                    "profile_path": null,
+                    "credit_id": "627a7a5eeea34d00656f96a0",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557735,
+                    "known_for_department": "Directing",
+                    "name": "Juan Villegas",
+                    "original_name": "Juan Villegas",
+                    "popularity": 0.0825,
+                    "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
+                    "credit_id": "5e58905fa6d93100145ed4b2",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

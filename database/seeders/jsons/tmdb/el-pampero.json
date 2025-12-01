@@ -1,0 +1,457 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 480882,
+    "slug": "el-pampero",
+    "title": "El Pampero",
+    "original_title": "El Pampero",
+    "overview": "Un hombre y una mujer, que nunca se han visto antes, viajan en un velero. Él sólo sabe que lo espera su destino al final del viaje. Ella huye de un crimen que dice no haber cometido. No tienen nada que perder. Sólo los contiene el río y la esperanza de la libertad si logran llegar al otro lado. Pero, en el camino, un guardacosta interviene para complicar sus planes.",
+    "runtime": 77,
+    "release_date": "2017-08-03",
+    "year": 2017,
+    "tagline": "No se puede escapar de uno mismo.",
+    "genres": [
+        "Suspense",
+        "Drama"
+    ],
+    "countries": [
+        "Argentina",
+        "France",
+        "Uruguay"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/9GcOFLjKlAkG2Jj3Kh1hrG6dpYE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/yPQ6I7GcooDj4Qe2Q4TkdU2asjC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JyKa-ZkRB_8",
+    "cast": [
+        {
+            "id": 583126,
+            "name": "Julio Chávez",
+            "character": "Fernando",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg"
+        },
+        {
+            "id": 1086355,
+            "name": "Pilar Gamboa",
+            "character": "Carla",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+        },
+        {
+            "id": 54190,
+            "name": "César Troncoso",
+            "character": "Mario",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
+        },
+        {
+            "id": 1549751,
+            "name": "Alvin Astorga",
+            "character": "Marinero",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1051325,
+            "name": "Ignacio Toselli",
+            "character": "Marcos",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/sCVWAC9Eof7f5n5wmoX2PGohsYH.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 1323143,
+            "name": "Matías Lucchesi",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg"
+        },
+        {
+            "id": 1323145,
+            "name": "Gonzalo Salaya",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 1323143,
+            "name": "Matías Lucchesi",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg"
+        },
+        {
+            "id": 1144948,
+            "name": "Delfina Castagnino",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg"
+        },
+        {
+            "id": 1623998,
+            "name": "Martín Litmanovich",
+            "department": "Sound",
+            "job": "Sound Director",
+            "image_url": null
+        },
+        {
+            "id": 2181946,
+            "name": "Adrián Suárez",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": "https://image.tmdb.org/t/p/original/mt33qMlepQz8xAj5IQZvMKidkVV.jpg"
+        },
+        {
+            "id": 983278,
+            "name": "Guillermo Nieto",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 1769624,
+            "name": "Laura Donari",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": "https://image.tmdb.org/t/p/original/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg"
+        },
+        {
+            "id": 2732311,
+            "name": "Julia Baglietto",
+            "department": "Art",
+            "job": "Art Department Assistant",
+            "image_url": null
+        },
+        {
+            "id": 4948390,
+            "name": "Daniel Ladner",
+            "department": "Art",
+            "job": "Props",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/yPQ6I7GcooDj4Qe2Q4TkdU2asjC.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Suspense"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 480882,
+        "imdb_id": "tt4210344",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "El Pampero",
+        "overview": "Un hombre y una mujer, que nunca se han visto antes, viajan en un velero. Él sólo sabe que lo espera su destino al final del viaje. Ella huye de un crimen que dice no haber cometido. No tienen nada que perder. Sólo los contiene el río y la esperanza de la libertad si logran llegar al otro lado. Pero, en el camino, un guardacosta interviene para complicar sus planes.",
+        "popularity": 0.1681,
+        "poster_path": "/9GcOFLjKlAkG2Jj3Kh1hrG6dpYE.jpg",
+        "production_companies": [
+            {
+                "id": 26593,
+                "logo_path": null,
+                "name": "Metaluna Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 70085,
+                "logo_path": null,
+                "name": "Salta la Liebre",
+                "origin_country": "AR"
+            },
+            {
+                "id": 103723,
+                "logo_path": null,
+                "name": "Séacuàtico",
+                "origin_country": ""
+            },
+            {
+                "id": 64499,
+                "logo_path": "/5HGLr0kVceenzykDT2FviwS2rtF.png",
+                "name": "Tarea Fina",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "UY",
+                "name": "Uruguay"
+            }
+        ],
+        "release_date": "2017-08-03",
+        "revenue": 0,
+        "runtime": 77,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "No se puede escapar de uno mismo.",
+        "title": "El Pampero",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 5,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 583126,
+                    "known_for_department": "Acting",
+                    "name": "Julio Chávez",
+                    "original_name": "Julio Chávez",
+                    "popularity": 0.1612,
+                    "profile_path": "/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg",
+                    "cast_id": 3,
+                    "character": "Fernando",
+                    "credit_id": "5ade64740e0a267aa60002b2",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1086355,
+                    "known_for_department": "Acting",
+                    "name": "Pilar Gamboa",
+                    "original_name": "Pilar Gamboa",
+                    "popularity": 0.6689,
+                    "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg",
+                    "cast_id": 5,
+                    "character": "Carla",
+                    "credit_id": "5ade64ea0e0a267aa9000335",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 54190,
+                    "known_for_department": "Acting",
+                    "name": "César Troncoso",
+                    "original_name": "César Troncoso",
+                    "popularity": 0.3237,
+                    "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg",
+                    "cast_id": 4,
+                    "character": "Mario",
+                    "credit_id": "5ade64c20e0a267aa60002d5",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1549751,
+                    "known_for_department": "Acting",
+                    "name": "Alvin Astorga",
+                    "original_name": "Alvin Astorga",
+                    "popularity": 0.0453,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Marinero",
+                    "credit_id": "5ef212486e3deb0035a64c38",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1051325,
+                    "known_for_department": "Acting",
+                    "name": "Ignacio Toselli",
+                    "original_name": "Ignacio Toselli",
+                    "popularity": 0.0357,
+                    "profile_path": "/sCVWAC9Eof7f5n5wmoX2PGohsYH.jpg",
+                    "cast_id": 6,
+                    "character": "Marcos",
+                    "credit_id": "5ade65099251417654000353",
+                    "order": 4
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1323143,
+                    "known_for_department": "Directing",
+                    "name": "Matías Lucchesi",
+                    "original_name": "Matías Lucchesi",
+                    "popularity": 0.0814,
+                    "profile_path": "/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg",
+                    "credit_id": "59dfb973c3a36861df0b4bba",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1323145,
+                    "known_for_department": "Writing",
+                    "name": "Gonzalo Salaya",
+                    "original_name": "Gonzalo Salaya",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5ade64289251417656000296",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1323143,
+                    "known_for_department": "Directing",
+                    "name": "Matías Lucchesi",
+                    "original_name": "Matías Lucchesi",
+                    "popularity": 0.0814,
+                    "profile_path": "/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg",
+                    "credit_id": "5ade6417925141766800021c",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1144948,
+                    "known_for_department": "Editing",
+                    "name": "Delfina Castagnino",
+                    "original_name": "Delfina Castagnino",
+                    "popularity": 0.0239,
+                    "profile_path": "/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg",
+                    "credit_id": "5ef21aae6c84d60033af929b",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1623998,
+                    "known_for_department": "Sound",
+                    "name": "Martín Litmanovich",
+                    "original_name": "Martín Litmanovich",
+                    "popularity": 0.0661,
+                    "profile_path": null,
+                    "credit_id": "5ef21aeb6e3deb0036aa8f24",
+                    "department": "Sound",
+                    "job": "Sound Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2181946,
+                    "known_for_department": "Art",
+                    "name": "Adrián Suárez",
+                    "original_name": "Adrián Suárez",
+                    "popularity": 0.0286,
+                    "profile_path": "/mt33qMlepQz8xAj5IQZvMKidkVV.jpg",
+                    "credit_id": "5ef21ad643cd5400337a0ba3",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 983278,
+                    "known_for_department": "Camera",
+                    "name": "Guillermo Nieto",
+                    "original_name": "Guillermo Nieto",
+                    "popularity": 0.0362,
+                    "profile_path": null,
+                    "credit_id": "5f0f2461e267de0034ab0393",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1769624,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Laura Donari",
+                    "original_name": "Laura Donari",
+                    "popularity": 0.0286,
+                    "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
+                    "credit_id": "5f0f25335c071b003476e815",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2732311,
+                    "known_for_department": "Art",
+                    "name": "Julia Baglietto",
+                    "original_name": "Julia Baglietto",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "68b8875de2761164679bb00a",
+                    "department": "Art",
+                    "job": "Art Department Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4948390,
+                    "known_for_department": "Art",
+                    "name": "Daniel Ladner",
+                    "original_name": "Daniel Ladner",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "credit_id": "68b88767b4b474000c1f3d97",
+                    "department": "Art",
+                    "job": "Props"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Julio Chávez \"El Pampero\" Trailer Oficial",
+                    "key": "JyKa-ZkRB_8",
+                    "published_at": "2017-03-08T14:57:00.000Z",
+                    "site": "YouTube",
+                    "size": 1080,
+                    "type": "Trailer",
+                    "official": false,
+                    "id": "5ade678a0e0a267aa90008a9"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [
+                {
+                    "aspect_ratio": 1.778,
+                    "height": 1080,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/yPQ6I7GcooDj4Qe2Q4TkdU2asjC.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1920
+                }
+            ],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

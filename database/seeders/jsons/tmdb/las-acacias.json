@@ -1,0 +1,549 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 85549,
+    "slug": "las-acacias",
+    "title": "Las acacias",
+    "original_title": "Las acacias",
+    "overview": "Las acacias de Pablo Giorgelli cuenta el viaje que emprenden, entre la ciudad paraguaya de Asunción y Buenos Aires, la capital de Argentina, un camionero y una mujer que carga con un bebé. Un film que habla del dolor de la pérdida, de la soledad y de los infinitos caminos que ofrece la vida cuando parece que se ha convertido en un callejón sin salida.",
+    "runtime": 85,
+    "release_date": "2011-10-14",
+    "year": 2011,
+    "tagline": "",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "countries": [
+        "Argentina",
+        "Spain"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/18Or1npceKFzayR2Np6HWM9Dabc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/nmAZEPceLBRHoiUYRwS4tr4aebu.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 50928,
+            "name": "Germán de Silva",
+            "character": "Rubén",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+        },
+        {
+            "id": 1061428,
+            "name": "Hebe Duarte",
+            "character": "Jacinta",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/zVRIjEDaNqBPJmBGxG49vkkANqJ.jpg"
+        },
+        {
+            "id": 1080023,
+            "name": "Nayra Calle Mamani",
+            "character": "Anahí",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 1080024,
+            "name": "Monica Coca",
+            "character": "Shop assistant",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1827740,
+            "name": "Lili Lopez",
+            "character": "",
+            "order": 4,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 932318,
+            "name": "Pablo Giorgelli",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
+        },
+        {
+            "id": 932318,
+            "name": "Pablo Giorgelli",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
+        },
+        {
+            "id": 1022346,
+            "name": "Salvador Roselli",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 976674,
+            "name": "Diego Poleri",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg"
+        },
+        {
+            "id": 1506959,
+            "name": "María Astrauskas",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1310722,
+            "name": "Javier Braier",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
+        },
+        {
+            "id": 56248,
+            "name": "Verónica Cura",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 1417461,
+            "name": "Javier Ibarretxe",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 932318,
+            "name": "Pablo Giorgelli",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
+        },
+        {
+            "id": 69318,
+            "name": "Alex Zito",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/bcqApi33Ccl8mbIPlybSD5dD4CQ.jpg"
+        },
+        {
+            "id": 2713693,
+            "name": "Diego Amson",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1391916,
+            "name": "Eduardo Carneros",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 1769624,
+            "name": "Laura Donari",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": "https://image.tmdb.org/t/p/original/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg"
+        },
+        {
+            "id": 2423587,
+            "name": "Yamila Fontán",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 583125,
+            "name": "Ariel Rotter",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/66blcJnWsBrbjP8hODoJMLSiWGM.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/nmAZEPceLBRHoiUYRwS4tr4aebu.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 85549,
+        "imdb_id": "tt1754078",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Las acacias",
+        "overview": "Las acacias de Pablo Giorgelli cuenta el viaje que emprenden, entre la ciudad paraguaya de Asunción y Buenos Aires, la capital de Argentina, un camionero y una mujer que carga con un bebé. Un film que habla del dolor de la pérdida, de la soledad y de los infinitos caminos que ofrece la vida cuando parece que se ha convertido en un callejón sin salida.",
+        "popularity": 1.5133,
+        "poster_path": "/18Or1npceKFzayR2Np6HWM9Dabc.jpg",
+        "production_companies": [
+            {
+                "id": 59275,
+                "logo_path": null,
+                "name": "AireCine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 51901,
+                "logo_path": null,
+                "name": "Utópica Cine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 86518,
+                "logo_path": null,
+                "name": "Travesía Producciones",
+                "origin_country": "AR"
+            },
+            {
+                "id": 64499,
+                "logo_path": "/5HGLr0kVceenzykDT2FviwS2rtF.png",
+                "name": "Tarea Fina",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2011-10-14",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Las acacias",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 42,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50928,
+                    "known_for_department": "Acting",
+                    "name": "Germán de Silva",
+                    "original_name": "Germán de Silva",
+                    "popularity": 0.2956,
+                    "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
+                    "cast_id": 1003,
+                    "character": "Rubén",
+                    "credit_id": "52fe494b9251416c910a8b17",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1061428,
+                    "known_for_department": "Acting",
+                    "name": "Hebe Duarte",
+                    "original_name": "Hebe Duarte",
+                    "popularity": 0.0919,
+                    "profile_path": "/zVRIjEDaNqBPJmBGxG49vkkANqJ.jpg",
+                    "cast_id": 1004,
+                    "character": "Jacinta",
+                    "credit_id": "52fe494b9251416c910a8b1b",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1080023,
+                    "known_for_department": "Acting",
+                    "name": "Nayra Calle Mamani",
+                    "original_name": "Nayra Calle Mamani",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 1005,
+                    "character": "Anahí",
+                    "credit_id": "52fe494b9251416c910a8b1f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1080024,
+                    "known_for_department": "Acting",
+                    "name": "Monica Coca",
+                    "original_name": "Monica Coca",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 1006,
+                    "character": "Shop assistant",
+                    "credit_id": "52fe494b9251416c910a8b23",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1827740,
+                    "known_for_department": "Acting",
+                    "name": "Lili Lopez",
+                    "original_name": "Lili Lopez",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 1010,
+                    "character": "",
+                    "credit_id": "59329929c3a3685a0b00acf0",
+                    "order": 4
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 932318,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Giorgelli",
+                    "original_name": "Pablo Giorgelli",
+                    "popularity": 0.084,
+                    "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
+                    "credit_id": "52fe494b9251416c910a8b0d",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 932318,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Giorgelli",
+                    "original_name": "Pablo Giorgelli",
+                    "popularity": 0.084,
+                    "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
+                    "credit_id": "52fe494b9251416c910a8b07",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1022346,
+                    "known_for_department": "Writing",
+                    "name": "Salvador Roselli",
+                    "original_name": "Salvador Roselli",
+                    "popularity": 0.0404,
+                    "profile_path": null,
+                    "credit_id": "52fe494b9251416c910a8b13",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 976674,
+                    "known_for_department": "Camera",
+                    "name": "Diego Poleri",
+                    "original_name": "Diego Poleri",
+                    "popularity": 0.0533,
+                    "profile_path": "/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg",
+                    "credit_id": "52fe494b9251416c910a8b29",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1506959,
+                    "known_for_department": "Editing",
+                    "name": "María Astrauskas",
+                    "original_name": "María Astrauskas",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "55eec4279251413e41018b99",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1310722,
+                    "known_for_department": "Production",
+                    "name": "Javier Braier",
+                    "original_name": "Javier Braier",
+                    "popularity": 0.0459,
+                    "profile_path": null,
+                    "credit_id": "55eec416c3a368090c008fff",
+                    "department": "Production",
+                    "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 56248,
+                    "known_for_department": "Production",
+                    "name": "Verónica Cura",
+                    "original_name": "Verónica Cura",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "5f0fe0ac2d8ef300383b9329",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1417461,
+                    "known_for_department": "Production",
+                    "name": "Javier Ibarretxe",
+                    "original_name": "Javier Ibarretxe",
+                    "popularity": 0.0404,
+                    "profile_path": null,
+                    "credit_id": "5f0fe0c0dff66e00377a0f34",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 932318,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Giorgelli",
+                    "original_name": "Pablo Giorgelli",
+                    "popularity": 0.084,
+                    "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
+                    "credit_id": "5f0fe0b62a210c0036ec7c75",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 69318,
+                    "known_for_department": "Production",
+                    "name": "Alex Zito",
+                    "original_name": "Alex Zito",
+                    "popularity": 0.1185,
+                    "profile_path": "/bcqApi33Ccl8mbIPlybSD5dD4CQ.jpg",
+                    "credit_id": "5f0fe0d96743fa0035cf4cc6",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2713693,
+                    "known_for_department": "Production",
+                    "name": "Diego Amson",
+                    "original_name": "Diego Amson",
+                    "popularity": 0.0758,
+                    "profile_path": null,
+                    "credit_id": "5f0fe0992495ab0034341220",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1391916,
+                    "known_for_department": "Production",
+                    "name": "Eduardo Carneros",
+                    "original_name": "Eduardo Carneros",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5f0fe0a3dff66e00377a0ea7",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1769624,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Laura Donari",
+                    "original_name": "Laura Donari",
+                    "popularity": 0.0286,
+                    "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
+                    "credit_id": "5f0fe08d6743fa0034cf4993",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2423587,
+                    "known_for_department": "Art",
+                    "name": "Yamila Fontán",
+                    "original_name": "Yamila Fontán",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5f0fe08523d278003508c122",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 583125,
+                    "known_for_department": "Directing",
+                    "name": "Ariel Rotter",
+                    "original_name": "Ariel Rotter",
+                    "popularity": 0.1325,
+                    "profile_path": "/66blcJnWsBrbjP8hODoJMLSiWGM.jpg",
+                    "credit_id": "5f0fe0ca7cffda0037281c2f",
+                    "department": "Production",
+                    "job": "Producer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1500,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/18Or1npceKFzayR2Np6HWM9Dabc.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 1000
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 750,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/gvRzOWGmd5dIZixkXI33bF9swiR.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 500
+                }
+            ]
+        }
+    }
+}

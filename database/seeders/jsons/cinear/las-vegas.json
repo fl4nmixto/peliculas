@@ -1,0 +1,403 @@
+{
+    "afis": [
+        "5eb0483e88bf773aa0ab371c"
+    ],
+    "playeruri": "https://player.cine.ar/odeon/",
+    "dura": 70,
+    "an": "2018",
+    "tipos": [
+        {
+            "text": "Películas",
+            "tag": "larg",
+            "orden": 0
+        }
+    ],
+    "tvod": {
+        "rentals": [
+            {
+                "csts": [
+                    {
+                        "ccy": "ARS",
+                        "cty": [
+                            "AR"
+                        ],
+                        "val": 30,
+                        "tags": [
+                            "estr"
+                        ]
+                    }
+                ],
+                "geo": {
+                    "inc": [
+                        "AR"
+                    ]
+                },
+                "id": 269,
+                "per": {
+                    "disp": {
+                        "hs": 48,
+                        "days": 15
+                    },
+                    "out": "2018-08-02T23:59:00",
+                    "in": "2018-06-06T23:59:00"
+                },
+                "act": true
+            }
+        ]
+    },
+    "objsturi": "https://img.cine.ar/image",
+    "id": {
+        "source": "INCAA",
+        "sid": 5141
+    },
+    "vista": {
+        "completa": true,
+        "secsTranscu": 4044,
+        "secsDura": 4382,
+        "porcen": 100,
+        "fModif": "2022-10-23T00:20:10.722670"
+    },
+    "rProme": 4,
+    "fotos": [
+        "5b155aa32916c55575e03a7d",
+        "5b155aa32916c55575e03a7e"
+    ],
+    "tit": "Las vegas",
+    "playerurimobile": "https://player.cine.ar/odeon/",
+    "pers": {
+        "02": [
+            {
+                "nom": "Juan Villegas",
+                "rol": "GUI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Guion",
+                "rolorden": "00011",
+                "grupo": "02",
+                "sid": null,
+                "impor": 13
+            },
+            {
+                "nom": "Ana Berard",
+                "rol": "ADI",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Asistente de dirección",
+                "rolorden": "00012",
+                "grupo": "02",
+                "sid": null,
+                "impor": 14
+            },
+            {
+                "nom": "Inés Duacastella",
+                "rol": "FOT",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Dirección de fotografía",
+                "rolorden": "00013",
+                "grupo": "02",
+                "sid": null,
+                "impor": 15
+            },
+            {
+                "nom": "Gabriel Chwojnik",
+                "rol": "MUS",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Música",
+                "rolorden": "00014",
+                "grupo": "02",
+                "sid": null,
+                "impor": 16
+            },
+            {
+                "nom": "Mercedes Gaviria",
+                "rol": "SON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Sonido",
+                "rolorden": "00015",
+                "grupo": "02",
+                "sid": null,
+                "impor": 17
+            },
+            {
+                "nom": "Andrés Quaranta",
+                "rol": "MON",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Montaje",
+                "rolorden": "00016",
+                "grupo": "02",
+                "sid": null,
+                "impor": 18
+            },
+            {
+                "nom": "Angeles Frinchaboy",
+                "rol": "ART",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Arte",
+                "rolorden": "00017",
+                "grupo": "02",
+                "sid": null,
+                "impor": 19
+            },
+            {
+                "nom": "Felicitas Raffo",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 20
+            },
+            {
+                "nom": "Andrés Longares",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 21
+            },
+            {
+                "nom": "Celina Murga",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 22
+            },
+            {
+                "nom": "Juan Villegas",
+                "rol": "PRO",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor",
+                "rolorden": "00018",
+                "grupo": "02",
+                "sid": null,
+                "impor": 23
+            },
+            {
+                "nom": "Pamela Livia Delgado",
+                "rol": "PEJ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Productor Ejecutivo",
+                "rolorden": "00019",
+                "grupo": "02",
+                "sid": 6384,
+                "impor": 6
+            },
+            {
+                "nom": "Paola Delgado",
+                "rol": "VES",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Vestuario",
+                "rolorden": "00020",
+                "grupo": "02",
+                "sid": 9544,
+                "impor": 7
+            },
+            {
+                "nom": "Mariela García",
+                "rol": "MAQ",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Maquillaje",
+                "rolorden": "00021",
+                "grupo": "02",
+                "sid": 10613,
+                "impor": 5
+            },
+            {
+                "nom": "Horacio Sereno",
+                "rol": "CPP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Coordinación de post producción",
+                "rolorden": "00022",
+                "grupo": "02",
+                "sid": 6592,
+                "impor": 2
+            },
+            {
+                "nom": "Inés Duacastella",
+                "rol": "COL",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Colorista",
+                "rolorden": "00023",
+                "grupo": "02",
+                "sid": 4673,
+                "impor": 8
+            },
+            {
+                "nom": "Julián Giulianelli",
+                "rol": "FXS",
+                "avatar": "5be0465a88bf771db6fa9c20",
+                "roldesc": "FX",
+                "rolorden": "00024",
+                "grupo": "02",
+                "sid": 4636,
+                "impor": 9
+            },
+            {
+                "nom": "Cepa Audiovisual",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 24
+            },
+            {
+                "nom": "Tresmilmundos Cine",
+                "rol": "CAP",
+                "avatar": "561d5f562916c53546d2bd0d",
+                "roldesc": "Casa productora",
+                "rolorden": "00025",
+                "grupo": "02",
+                "sid": null,
+                "impor": 25
+            }
+        ],
+        "01": [
+            {
+                "nom": "Juan Manuel Villegas",
+                "rol": "DIR",
+                "avatar": "563a527a2916c53546d2c292",
+                "roldesc": "Dirección",
+                "rolorden": "00001",
+                "grupo": "01",
+                "sid": 6759,
+                "impor": 1
+            },
+            {
+                "nom": "Pilar Gamboa",
+                "rol": "INT",
+                "avatar": "56a8f8d388bf77718ed08d2e",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 7474,
+                "impor": 4
+            },
+            {
+                "nom": "Santiago Gobernori",
+                "rol": "INT",
+                "avatar": "5b155aa32916c55575e03a7c",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 9433,
+                "impor": 11
+            },
+            {
+                "nom": "Valentin Oliva",
+                "rol": "INT",
+                "avatar": "5b155aa32916c55575e03a7a",
+                "roldesc": "Protagonistas",
+                "rolorden": "00003",
+                "grupo": "01",
+                "sid": 8955,
+                "impor": 12
+            },
+            {
+                "nom": "Camila Fabbri",
+                "rol": "ELS",
+                "avatar": "65fc305888bf7791ec189b6e",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 7569,
+                "impor": 3
+            },
+            {
+                "nom": "Valeria Santa",
+                "rol": "ELS",
+                "avatar": "5b155aa32916c55575e03a7b",
+                "roldesc": "Elenco Secundario",
+                "rolorden": "00004",
+                "grupo": "01",
+                "sid": 5979,
+                "impor": 10
+            }
+        ]
+    },
+    "rVotan": 494,
+    "tags": [
+        "larg",
+        "sam18",
+        "publi",
+        "arsat"
+    ],
+    "sino": "Por azar, Martín y Laura viajan a Villa Gesell en los mismos días. Hoy están separados pero hace 18 años concibieron allí a su hijo Pablo. Pronto su encuentro generará situaciones tan absurdas como emotivas.",
+    "asociadas": [
+        {
+            "tit": "Haciendo escenas",
+            "id": {
+                "source": "INCAA",
+                "sid": 5646
+            },
+            "afi": "5ca60a7988bf771db6faa3f6"
+        },
+        {
+            "tit": "Vacas",
+            "id": {
+                "source": "INCAA",
+                "sid": 3341
+            },
+            "afi": "56e0333888bf7761113b9e50"
+        },
+        {
+            "tit": "Cuchi",
+            "id": {
+                "source": "INCAA",
+                "sid": 5320
+            },
+            "afi": "5d4867ae2916c51a0ede795f"
+        },
+        {
+            "tit": "Isabelita",
+            "id": {
+                "source": "INCAA",
+                "sid": 73
+            },
+            "afi": "56537e1888bf77787311f3a3"
+        },
+        {
+            "tit": "Familia Fortone",
+            "id": {
+                "source": "INCAA",
+                "sid": 780
+            },
+            "afi": "563a45ec2916c53546d2bdcb"
+        },
+        {
+            "tit": "En la trinchera ",
+            "id": {
+                "source": "INCAA",
+                "sid": 1502
+            },
+            "afi": "564b54bf88bf77787311f22e"
+        },
+        {
+            "tit": "Divorcio en Montevideo",
+            "id": {
+                "source": "INCAA",
+                "sid": 35
+            },
+            "afi": "565e02ee88bf777873122098"
+        }
+    ],
+    "gens": [
+        {
+            "nom": "Comedia",
+            "style": "genero-INCAA-5",
+            "ab": "C",
+            "stylesec": "genero-INCAA-5-sec",
+            "home": false
+        }
+    ],
+    "nacios": [
+        "AR"
+    ],
+    "ban": "5b18416b2916c55575e03a92",
+    "padres": []
+}

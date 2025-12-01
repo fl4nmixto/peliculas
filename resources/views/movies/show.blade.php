@@ -103,9 +103,13 @@
                                 {{ mb_strtoupper(mb_substr($person->name, 0, 1)) }}
                             </div>
                             @endif
+                            @if ($person->slug)
                             <a href="{{ route('people.show', $person) }}" class="hover:text-sky-300">
                                 {{ $person->name }}
                             </a>
+                            @else
+                            <span>{{ $person->name }}</span>
+                            @endif
                         </li>
                         @endforeach
                     </ul>
@@ -150,12 +154,16 @@
                                 <ul class="mt-1 space-y-1 font-medium text-white">
                                     @foreach ($people as $person)
                                         <li>
-                                            <a
-                                                href="{{ route('people.show', $person) }}"
-                                                class="text-white transition hover:text-sky-300"
-                                            >
-                                                {{ $person->name }}
-                                            </a>
+                                            @if ($person->slug)
+                                                <a
+                                                    href="{{ route('people.show', $person) }}"
+                                                    class="text-white transition hover:text-sky-300"
+                                                >
+                                                    {{ $person->name }}
+                                                </a>
+                                            @else
+                                                <span>{{ $person->name }}</span>
+                                            @endif
                                         </li>
                                     @endforeach
                                 </ul>

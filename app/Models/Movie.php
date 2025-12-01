@@ -80,4 +80,23 @@ class Movie extends Model
 
         return $url;
     }
+
+    public function getOkRuEmbedUrlAttribute(): ?string
+    {
+        $source = $this->sources
+            ->first(fn ($source) => optional($source->provider)->slug === 'ok-ru');
+
+        if (! $source || ! $source->url) {
+            return null;
+        }
+
+        $path = parse_url($source->url, PHP_URL_PATH) ?? '';
+        $videoId = Str::of($path)->afterLast('/')->before('?')->before('#')->trim();
+
+        if ($videoId->isEmpty()) {
+            return null;
+        }
+
+        return 'https://ok.ru/videoembed/' . $videoId;
+    }
 }

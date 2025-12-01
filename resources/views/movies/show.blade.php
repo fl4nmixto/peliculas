@@ -35,6 +35,19 @@
                     <span class="text-xs uppercase tracking-[0.3em] text-slate-400">{{ $movie->score }}/5</span>
                 </div>
                 <p><span class="text-slate-400">Clasificación:</span> {{ $movie->rating ?? 'Sin información' }}</p>
+                @if ($movie->trailer_embed_url)
+                <div class="mt-4 w-full overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
+                    <div class="relative w-full" style="padding-bottom: 56.25%;">
+                        <iframe
+                            src="{{ $movie->trailer_embed_url }}"
+                            title="Tráiler de {{ $movie->title }}"
+                            class="absolute left-0 top-0 h-full w-full"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                </div>
+                @endif
             </div>
         </div>
         @php
@@ -45,6 +58,19 @@
             ];
         @endphp
         <div class="flex flex-col gap-4 text-sm text-slate-200">
+            @if ($movie->ok_ru_embed_url)
+            <div class="overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
+                <div class="relative w-full" style="padding-bottom: 56.25%;">
+                    <iframe
+                        src="{{ $movie->ok_ru_embed_url }}"
+                        title="Reproductor de {{ $movie->title }} en OK.ru"
+                        class="absolute left-0 top-0 h-full w-full"
+                        allow="autoplay; fullscreen"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+            @endif
             @if ($movie->synopsis)
             <div>
                 <h3 class="text-[0.65rem] font-semibold uppercase tracking-[0.3em] text-slate-400">Sinopsis</h3>
@@ -115,19 +141,6 @@
         @if ($crewByRole->isNotEmpty())
         <section class="rounded-2xl border border-white/10 bg-white/5 p-4 text-sm text-slate-200">
             <h2 class="mb-2 font-['Space_Grotesk'] text-lg uppercase tracking-[0.2em] text-white">Equipo</h2>
-            @if ($movie->trailer_embed_url)
-            <div class="mb-4 overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
-                <div class="relative w-full" style="padding-bottom: 56.25%;">
-                    <iframe
-                        src="{{ $movie->trailer_embed_url }}"
-                        title="Tráiler de {{ $movie->title }}"
-                        class="absolute left-0 top-0 h-full w-full"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                    </iframe>
-                </div>
-            </div>
-            @endif
             <div class="space-y-3">
                 @foreach ($crewByRole as $roleName => $people)
                 <div>

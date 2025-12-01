@@ -16,6 +16,7 @@ class FetchTmdbMovies extends Command
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
 
     protected const MOVIES = [
+        /*
         ['title' => 'Bahía Blanca', 'year' => 2021],
         ['title' => 'Bolivia', 'year' => 2001],
         ['title' => 'El Abrazo Partido', 'year' => 2004],
@@ -74,6 +75,9 @@ class FetchTmdbMovies extends Command
         ['title' => 'Blondi', 'year' => 2023],
         ['title' => 'Medianeras', 'year' => 2011],
         ['title' => 'excursiones', 'year' => 2010],
+        */
+        ['title' => 'el premio', 'year' => 2011],
+
     ];
 
     public function handle(): int

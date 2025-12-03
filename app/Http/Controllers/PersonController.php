@@ -16,7 +16,9 @@ class PersonController extends Controller
 
         $movies = $person->movies
             ->unique('id')
-            ->sortBy('title')
+            ->sortByDesc(function ($movie) {
+                return (int) $movie->year ?: 0;
+            })
             ->values();
 
         return view('people.show', [

@@ -93,13 +93,19 @@ class ImportTmdbJsons extends Command
             ['slug' => $slug],
             [
                 'title' => $title,
+                'original_title' => Arr::get($data, 'original_title'),
+                'tmdb_id' => Arr::get($data, 'tmdb_id'),
                 'tagline' => Arr::get($data, 'tagline'),
                 'synopsis' => Arr::get($data, 'overview'),
+                'release_date' => Arr::get($data, 'release_date'),
                 'duration' => Arr::get($data, 'runtime'),
                 'year' => Arr::get($data, 'year'),
                 'rating' => null,
                 'score' => $this->scoreFromVoteAverage(Arr::get($data, 'raw.vote_average')),
                 'image_url' => Arr::get($data, 'poster_url'),
+                'backdrop_url' => Arr::get($data, 'backdrop_url'),
+                'countries' => Arr::get($data, 'countries', []),
+                'spoken_languages' => Arr::get($data, 'spoken_languages', []),
                 'trailer_url' => $this->resolveTrailerUrl($data),
             ]
         );
@@ -111,6 +117,8 @@ class ImportTmdbJsons extends Command
         $this->attachCast($movie, Arr::get($data, 'cast', []));
         $this->attachCrew($movie, Arr::get($data, 'crew', []));
 
+        $this->syncGalleryImages($movie, $data);
+
         $this->attachTmdbSource($movie, Arr::get($data, 'tmdb_id'));
         $this->attachOkRuSource($movie, Arr::get($data, 'okru_url'));
     }
@@ -118,11 +126,50 @@ class ImportTmdbJsons extends Command
     protected function syncGenres(Movie $movie, array $genres): void
     {
         $genreIds = collect($genres)
-            ->filter()
-            ->map(function ($name) {
+            ->map(function ($genre) {
+                $tmdbId = null;
+                $name = null;
+
+                if (is_array($genre)) {
+                    $tmdbId = Arr::get($genre, 'id');
+                    $name = Arr::get($genre, 'name');
+                } else {
+                    $name = $genre;
+                }
+
+                if (! $name) {
+                    return null;
+                }
+
                 $slug = Str::slug($name);
-                return Genre::firstOrCreate(['slug' => $slug], ['name' => $name])->id;
+
+                $existing = null;
+
+                if ($tmdbId) {
+                    $existing = Genre::query()->where('tmdb_id', $tmdbId)->first();
+                }
+
+                if (! $existing) {
+                    $existing = Genre::query()->where('slug', $slug)->first();
+                }
+
+                if (! $existing) {
+                    $existing = new Genre();
+                }
+
+                if ($tmdbId) {
+                    $existing->tmdb_id = $tmdbId;
+                }
+
+                $existing->name = $name;
+                $existing->slug = $slug;
+                $existing->save();
+
+                return $existing->id;
             })
+            ->filter()
+            ->unique()
+            ->values()
             ->all();
 
         if (! empty($genreIds)) {
@@ -260,6 +307,42 @@ class ImportTmdbJsons extends Command
             'cast' => 10,
             default => 20,
         };
+    }
+
+    protected function syncGalleryImages(Movie $movie, array $data): void
+    {
+        $baseUrl = config('services.tmdb.images_base_url');
+
+        if (! $baseUrl) {
+            return;
+        }
+
+        $backdrops = collect(Arr::get($data, 'raw.images.backdrops', []));
+        $posters = collect(Arr::get($data, 'raw.images.posters', []));
+
+        $images = $backdrops->isNotEmpty() ? $backdrops : $posters;
+
+        $gallery = $images
+            ->map(fn ($image) => $image['file_path'] ?? null)
+            ->filter()
+            ->unique()
+            ->values()
+            ->map(fn ($path) => rtrim($baseUrl, '/') . $path)
+            ->take(12);
+
+        $movie->galleryImages()->delete();
+
+        if ($gallery->isEmpty()) {
+            return;
+        }
+
+        $movie->galleryImages()->createMany(
+            $gallery->map(fn ($url, $index) => [
+                'image_url' => $url,
+                'position' => $index + 1,
+            ])
+            ->all()
+        );
     }
 
     protected function attachTmdbSource(Movie $movie, ?int $tmdbId): void

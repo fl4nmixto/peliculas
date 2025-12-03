@@ -14,14 +14,26 @@ class Movie extends Model
     protected $fillable = [
         'title',
         'slug',
+        'original_title',
+        'tmdb_id',
         'tagline',
         'synopsis',
+        'release_date',
         'duration',
         'year',
         'rating',
         'score',
         'image_url',
+        'backdrop_url',
+        'countries',
+        'spoken_languages',
         'trailer_url',
+    ];
+
+    protected $casts = [
+        'release_date' => 'date',
+        'countries' => 'array',
+        'spoken_languages' => 'array',
     ];
 
     public function genres()

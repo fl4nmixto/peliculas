@@ -13,27 +13,45 @@
                 alt="Afiche de {{ $movie->title }}" />
             <div class="flex w-full flex-col gap-3 text-center text-sm text-slate-200 md:text-left">
                 <h1 class="font-['Space_Grotesk'] text-3xl font-semibold text-white">{{ $movie->title }}</h1>
-                @if ($movie->tagline)
-                <p class="text-base font-medium text-white/80">{{ $movie->tagline }}</p>
-                @endif
                 @php
-                $meta = collect([
-                $movie->year,
-                $movie->duration ? $movie->duration . ' min' : null,
-                ])->filter()->implode(' • ');
+                    $countries = collect($movie->countries ?? [])->filter()->implode(', ');
+                    $languages = collect($movie->spoken_languages ?? [])->filter()->implode(', ');
+                    $meta = collect([
+                        $movie->year
+                            ? '<a href="' . route('years.show', $movie->year) . '" class="text-sky-300 hover:underline">' . e($movie->year) . '</a>'
+                            : null,
+                        $movie->duration ? $movie->duration . ' min' : null,
+                    ])->filter()->implode(' • ');
                 @endphp
                 @if ($meta)
-                <p class="text-slate-400">{{ $meta }}</p>
+                <p class="text-slate-400">{!! $meta !!}</p>
                 @endif
-                <div class="flex items-center justify-center gap-3 md:justify-start">
-                    <div class="flex gap-1.5">
-                        @for ($i = 1; $i <= 5; $i++)
-                            <span
-                            class="h-2.5 w-2.5 rounded-full {{ $i <= $movie->score ? 'bg-emerald-300' : 'bg-white/20' }}"></span>
-                            @endfor
+                @if ($movie->original_title && strcasecmp($movie->original_title, $movie->title) !== 0)
+                <p class="text-sm text-slate-300">
+                    <span class="text-slate-400">Título original:</span>
+                    {{ $movie->original_title }}
+                </p>
+                @endif
+                @if ($countries || $languages)
+                <dl class="mt-2 space-y-1 text-xs uppercase tracking-[0.3em] text-slate-400">
+                    @if ($countries)
+                    <div>
+                        <dt>Países</dt>
+                        <dd class="text-sm font-medium normal-case tracking-normal text-white/90">
+                            {{ $countries }}
+                        </dd>
                     </div>
-                    <span class="text-xs uppercase tracking-[0.3em] text-slate-400">{{ $movie->score }}/5</span>
-                </div>
+                    @endif
+                    @if ($languages)
+                    <div>
+                        <dt>Idiomas</dt>
+                        <dd class="text-sm font-medium normal-case tracking-normal text-white/90">
+                            {{ $languages }}
+                        </dd>
+                    </div>
+                    @endif
+                </dl>
+                @endif
                 <p><span class="text-slate-400">Clasificación:</span> {{ $movie->rating ?? 'Sin información' }}</p>
                 @if ($movie->trailer_embed_url)
                 <div class="mt-4 w-full overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
@@ -82,7 +100,13 @@
             <div>
                 <p class="text-slate-400">Géneros:</p>
                 <p class="mt-1">
-                    {{ $movie->genres->isNotEmpty() ? $movie->genres->pluck('name')->implode(', ') : 'Sin género asignado' }}
+                    @if ($movie->genres->isNotEmpty())
+                        {!! $movie->genres->map(function ($genre) {
+                                return '<a href="' . route('genres.show', $genre) . '" class="text-sky-300 hover:underline">' . e($genre->name) . '</a>';
+                            })->implode(', ') !!}
+                    @else
+                        Sin género asignado
+                    @endif
                 </p>
             </div>
             @foreach ($topCredits as $label => $people)
@@ -173,5 +197,6 @@
         </section>
         @endif
     </div>
+
 </section>
 @endsection

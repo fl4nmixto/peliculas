@@ -10,7 +10,10 @@
     "year": 2017,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina"
@@ -67,11 +70,11 @@
     ],
     "crew": [
         {
-            "id": 50922,
-            "name": "Pablo Fendrik",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/original/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+            "id": 50926,
+            "name": "Victoría Pedemonte",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
         },
         {
             "id": 50923,
@@ -88,17 +91,17 @@
             "image_url": null
         },
         {
+            "id": 50922,
+            "name": "Pablo Fendrik",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+        },
+        {
             "id": 50925,
             "name": "Leandro Aste",
             "department": "Editing",
             "job": "Editor",
-            "image_url": null
-        },
-        {
-            "id": 50926,
-            "name": "Victoría Pedemonte",
-            "department": "Art",
-            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -129,7 +132,7 @@
         "original_language": "es",
         "original_title": "El asaltante",
         "overview": "Un hombre ejecuta un plan que estuvo preparando minuciosamente. Mientras la cámara lo sigue en prácticamente todos sus movimientos, el espectador se convierte en testigo privilegiado de momentos íntimos de ansiedad, solapada desesperación, o del instante que precede una decisión de vida o muerte.",
-        "popularity": 0.3365,
+        "popularity": 0.1304,
         "poster_path": "/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
         "production_companies": [
             {
@@ -170,7 +173,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.0924,
+                    "popularity": 0.1401,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 9,
                     "character": "Ramos",
@@ -184,7 +187,7 @@
                     "known_for_department": "Acting",
                     "name": "Bárbara Lombardo",
                     "original_name": "Bárbara Lombardo",
-                    "popularity": 0.2384,
+                    "popularity": 0.3256,
                     "profile_path": "/fPyrrbeWN1P83FOr9XkaIinyMy2.jpg",
                     "cast_id": 11,
                     "character": "Mesera",
@@ -198,7 +201,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Arengo",
                     "original_name": "Guillermo Arengo",
-                    "popularity": 0.3286,
+                    "popularity": 0.2539,
                     "profile_path": "/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
                     "cast_id": 7,
                     "character": "",
@@ -212,7 +215,7 @@
                     "known_for_department": "Acting",
                     "name": "Maya Lesca",
                     "original_name": "Maya Lesca",
-                    "popularity": 0.0143,
+                    "popularity": 0.0214,
                     "profile_path": "/cWpF1RMrTKMWYvCRnyCVGIlXJKY.jpg",
                     "cast_id": 10,
                     "character": "",
@@ -226,7 +229,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.174,
+                    "popularity": 0.2364,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 8,
                     "character": "",
@@ -240,7 +243,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Piaggio",
                     "original_name": "Verónica Piaggio",
-                    "popularity": 0.0429,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "",
@@ -251,16 +254,16 @@
             "crew": [
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 50922,
-                    "known_for_department": "Directing",
-                    "name": "Pablo Fendrik",
-                    "original_name": "Pablo Fendrik",
-                    "popularity": 0.0575,
-                    "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
-                    "credit_id": "52fe4460c3a36847f8092585",
-                    "department": "Directing",
-                    "job": "Director"
+                    "gender": 0,
+                    "id": 50926,
+                    "known_for_department": "Art",
+                    "name": "Victoría Pedemonte",
+                    "original_name": "Victoría Pedemonte",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f80925a3",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -269,7 +272,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Pablo Gugliotta",
                     "original_name": "Juan Pablo Gugliotta",
-                    "popularity": 0.0409,
+                    "popularity": 0.0432,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f8092591",
                     "department": "Production",
@@ -282,37 +285,11 @@
                     "known_for_department": "Camera",
                     "name": "Cobi Migliora",
                     "original_name": "Cobi Migliora",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f8092597",
                     "department": "Camera",
                     "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 50925,
-                    "known_for_department": "Editing",
-                    "name": "Leandro Aste",
-                    "original_name": "Leandro Aste",
-                    "popularity": 0.0261,
-                    "profile_path": null,
-                    "credit_id": "52fe4460c3a36847f809259d",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 50926,
-                    "known_for_department": "Art",
-                    "name": "Victoría Pedemonte",
-                    "original_name": "Victoría Pedemonte",
-                    "popularity": 0.0214,
-                    "profile_path": null,
-                    "credit_id": "52fe4460c3a36847f80925a3",
-                    "department": "Art",
-                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -321,7 +298,33 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Fendrik",
                     "original_name": "Pablo Fendrik",
-                    "popularity": 0.0575,
+                    "popularity": 0.0362,
+                    "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
+                    "credit_id": "52fe4460c3a36847f8092585",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 50925,
+                    "known_for_department": "Editing",
+                    "name": "Leandro Aste",
+                    "original_name": "Leandro Aste",
+                    "popularity": 0.0482,
+                    "profile_path": null,
+                    "credit_id": "52fe4460c3a36847f809259d",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50922,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Fendrik",
+                    "original_name": "Pablo Fendrik",
+                    "popularity": 0.0362,
                     "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
                     "credit_id": "5e1c4dee6a300b00115e1566",
                     "department": "Writing",

@@ -26,6 +26,7 @@ class FetchTmdbMovies extends Command
         ['title' => 'Rompecabezas', 'tmdb_id' => 41272],
         ['title' => 'Tomando estado'],
         ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
+        /*
         ['title' => 'Valentín', 'year' => 2002],
         ['title' => 'El aura', 'year' => 2005],
         ['title' => 'Infancia clandestina', 'year' => 2012],
@@ -77,6 +78,7 @@ class FetchTmdbMovies extends Command
         ['title' => 'el premio', 'year' => 2011],
         ['title' => 'Sangre en la boca', 'year' => 2016],
         ['title' => 'Todos tenemos un plan', 'year' => 2012],
+        */
     ];
 
     public function handle(): int
@@ -217,6 +219,15 @@ class FetchTmdbMovies extends Command
             })
             ->values();
 
+        $countries = collect($details['production_countries'] ?? []);
+        $argentineOnly = $countries->filter(function ($country) {
+            return ($country['iso_3166_1'] ?? null) === 'AR';
+        });
+
+        if ($argentineOnly->isEmpty()) {
+            $argentineOnly = $countries;
+        }
+
         return [
             'source' => 'tmdb',
             'tmdb_id' => $details['id'],
@@ -228,8 +239,11 @@ class FetchTmdbMovies extends Command
             'release_date' => $details['release_date'],
             'year' => $this->extractYear($details['release_date'] ?? null),
             'tagline' => $details['tagline'],
-            'genres' => Arr::pluck($details['genres'] ?? [], 'name'),
-            'countries' => Arr::pluck($details['production_countries'] ?? [], 'name'),
+            'genres' => collect($details['genres'] ?? [])
+                ->map(fn ($genre) => Arr::only($genre, ['id', 'name']))
+                ->filter(fn ($genre) => isset($genre['name']))
+                ->values(),
+            'countries' => $argentineOnly->pluck('name')->values(),
             'spoken_languages' => Arr::pluck($details['spoken_languages'] ?? [], 'name'),
             'poster_url' => $posterUrl,
             'backdrop_url' => $backdropUrl,

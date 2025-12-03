@@ -21,8 +21,23 @@
                 >
                     peliculas
                 </a>
-                <nav class="flex flex-wrap gap-4 text-[0.65rem] font-semibold uppercase tracking-[0.3em] text-slate-400">
-                </nav>
+                @if (! empty($currentGenre ?? null) || ! empty($currentYear ?? null))
+                    <div class="flex flex-wrap items-center gap-3 text-right">
+                        <span class="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">
+                            @if (! empty($currentGenre ?? null))
+                                {{ $currentGenre->name }}
+                            @elseif (! empty($currentYear ?? null))
+                                {{ $currentYear }}
+                            @endif
+                        </span>
+                        <a
+                            href="{{ url('/') }}"
+                            class="rounded-full border border-white/10 px-4 py-1 text-[0.65rem] font-semibold uppercase tracking-[0.3em] text-slate-300 transition hover:border-sky-300 hover:text-sky-300"
+                        >
+                            Ver todo
+                        </a>
+                    </div>
+                @endif
             </header>
 
             @yield('content')

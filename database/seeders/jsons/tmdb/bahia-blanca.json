@@ -10,8 +10,14 @@
     "year": 2021,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Suspense"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Suspense"
+        }
     ],
     "countries": [
         "Argentina"
@@ -96,11 +102,11 @@
     ],
     "crew": [
         {
-            "id": 3006715,
-            "name": "Renata Montalbano",
-            "department": "Art",
-            "job": "Art Direction",
-            "image_url": null
+            "id": 2644784,
+            "name": "Rodrigo Caprotti",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
         },
         {
             "id": 3006711,
@@ -110,59 +116,24 @@
             "image_url": null
         },
         {
-            "id": 3006711,
-            "name": "Teresa Saporiti",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 2644784,
-            "name": "Rodrigo Caprotti",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
-        },
-        {
-            "id": 1758441,
-            "name": "Sofía Straface",
-            "department": "Sound",
-            "job": "Sound",
-            "image_url": null
-        },
-        {
-            "id": 3006714,
-            "name": "Cecilia Taybo",
-            "department": "Art",
-            "job": "Art Direction",
-            "image_url": null
-        },
-        {
             "id": 2644784,
             "name": "Rodrigo Caprotti",
             "department": "Production",
             "job": "Producer",
             "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
-        },
-        {
-            "id": 2739346,
-            "name": "Max Ruggieri",
-            "department": "Camera",
-            "job": "Director of Photography",
-            "image_url": null
-        },
-        {
-            "id": 2230521,
-            "name": "Julia Straface",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": null
         },
         {
             "id": 3006707,
             "name": "Bárbara Scotto",
             "department": "Production",
             "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 3006713,
+            "name": "Guillermo Beluzo",
+            "department": "Art",
+            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -180,10 +151,45 @@
             "image_url": null
         },
         {
-            "id": 3006713,
-            "name": "Guillermo Beluzo",
-            "department": "Art",
-            "job": "Art Direction",
+            "id": 3006711,
+            "name": "Teresa Saporiti",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1758441,
+            "name": "Sofía Straface",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 3006707,
+            "name": "Bárbara Scotto",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 2644784,
+            "name": "Rodrigo Caprotti",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
+        },
+        {
+            "id": 2739346,
+            "name": "Max Ruggieri",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 2230521,
+            "name": "Julia Straface",
+            "department": "Editing",
+            "job": "Editor",
             "image_url": null
         },
         {
@@ -196,22 +202,22 @@
         {
             "id": 2644784,
             "name": "Rodrigo Caprotti",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
-        },
-        {
-            "id": 2644784,
-            "name": "Rodrigo Caprotti",
             "department": "Writing",
             "job": "Writer",
             "image_url": "https://image.tmdb.org/t/p/original/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
         },
         {
-            "id": 3006707,
-            "name": "Bárbara Scotto",
-            "department": "Writing",
-            "job": "Writer",
+            "id": 3006714,
+            "name": "Cecilia Taybo",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 3006715,
+            "name": "Renata Montalbano",
+            "department": "Art",
+            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -232,15 +238,15 @@
             "id": 4362225,
             "name": "Juan Bahurlet",
             "department": "Production",
-            "job": "Producer",
+            "job": "Production Assistant",
             "image_url": null
         },
         {
-            "id": 4362224,
-            "name": "Facundo Aybar",
+            "id": 4362225,
+            "name": "Juan Bahurlet",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/original/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg"
+            "image_url": null
         },
         {
             "id": 4362224,
@@ -250,11 +256,11 @@
             "image_url": "https://image.tmdb.org/t/p/original/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg"
         },
         {
-            "id": 4362225,
-            "name": "Juan Bahurlet",
+            "id": 4362224,
+            "name": "Facundo Aybar",
             "department": "Production",
-            "job": "Production Assistant",
-            "image_url": null
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg"
         }
     ],
     "raw": {
@@ -281,7 +287,7 @@
         "original_language": "es",
         "original_title": "Bahía Blanca",
         "overview": "Mario, docente universitario, utiliza una investigación sobre el escritor Ezequiel Martínez Estrada para huir de su pasado. Establecido en Bahía Blanca, la nueva ciudad parece ser el lugar ideal para el olvido, hasta que un encuentro fortuito con un viejo amigo desencadena el peor de los peligros.",
-        "popularity": 0.0855,
+        "popularity": 0.0854,
         "poster_path": "/jpaq1QopSc1Hf6F6IAllFZBYmIt.jpg",
         "production_companies": [
             {
@@ -334,7 +340,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Pfening",
                     "original_name": "Guillermo Pfening",
-                    "popularity": 0.7036,
+                    "popularity": 1.3908,
                     "profile_path": "/1UciaaaWUaVPduXFlkfjYouB0Qt.jpg",
                     "cast_id": 18,
                     "character": "Mario",
@@ -348,7 +354,7 @@
                     "known_for_department": "Acting",
                     "name": "Elisa Carricajo",
                     "original_name": "Elisa Carricajo",
-                    "popularity": 0.1959,
+                    "popularity": 0.1295,
                     "profile_path": "/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg",
                     "cast_id": 19,
                     "character": "Patricia",
@@ -362,7 +368,7 @@
                     "known_for_department": "Acting",
                     "name": "Javier Drolas",
                     "original_name": "Javier Drolas",
-                    "popularity": 0.3976,
+                    "popularity": 0.3283,
                     "profile_path": "/tZOiQME91PuApfAOO9W1ERxgo9R.jpg",
                     "cast_id": 20,
                     "character": "Ernesto",
@@ -376,7 +382,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Subiotto",
                     "original_name": "Marcelo Subiotto",
-                    "popularity": 0.3896,
+                    "popularity": 0.6953,
                     "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
                     "cast_id": 21,
                     "character": "Vecino",
@@ -390,7 +396,7 @@
                     "known_for_department": "Acting",
                     "name": "Ailín Salas",
                     "original_name": "Ailín Salas",
-                    "popularity": 1.1199,
+                    "popularity": 2.2842,
                     "profile_path": "/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg",
                     "cast_id": 22,
                     "character": "Chica locutorio",
@@ -404,7 +410,7 @@
                     "known_for_department": "Acting",
                     "name": "Julia Martínez Rubio",
                     "original_name": "Julia Martínez Rubio",
-                    "popularity": 0.1331,
+                    "popularity": 0.0886,
                     "profile_path": "/l5vItU9QRcwybFhm2nYc8arxbCB.jpg",
                     "cast_id": 24,
                     "character": "Becaria",
@@ -418,7 +424,7 @@
                     "known_for_department": "Acting",
                     "name": "Violeta Palukas",
                     "original_name": "Violeta Palukas",
-                    "popularity": 0.0538,
+                    "popularity": 0.0409,
                     "profile_path": null,
                     "cast_id": 23,
                     "character": "Catequista mujer",
@@ -460,7 +466,7 @@
                     "known_for_department": "Writing",
                     "name": "Martín Kohan",
                     "original_name": "Martín Kohan",
-                    "popularity": 0.07,
+                    "popularity": 0.072,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Secretario de investigación",
@@ -472,15 +478,15 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3006715,
-                    "known_for_department": "Art",
-                    "name": "Renata Montalbano",
-                    "original_name": "Renata Montalbano",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "604a59ff9e45860045ad880b",
-                    "department": "Art",
-                    "job": "Art Direction"
+                    "id": 2644784,
+                    "known_for_department": "Directing",
+                    "name": "Rodrigo Caprotti",
+                    "original_name": "Rodrigo Caprotti",
+                    "popularity": 0.0336,
+                    "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
+                    "credit_id": "604a5971c8a5ac004576a63f",
+                    "department": "Editing",
+                    "job": "Editor"
                 },
                 {
                     "adult": false,
@@ -489,7 +495,7 @@
                     "known_for_department": "Production",
                     "name": "Teresa Saporiti",
                     "original_name": "Teresa Saporiti",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "604a59be90b87e0058ed89bf",
                     "department": "Production",
@@ -498,63 +504,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3006711,
-                    "known_for_department": "Production",
-                    "name": "Teresa Saporiti",
-                    "original_name": "Teresa Saporiti",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "604a59c8439be100583d6abe",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 2644784,
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0609,
-                    "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
-                    "credit_id": "604a5971c8a5ac004576a63f",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1758441,
-                    "known_for_department": "Sound",
-                    "name": "Sofía Straface",
-                    "original_name": "Sofía Straface",
-                    "popularity": 0.0461,
-                    "profile_path": null,
-                    "credit_id": "604a5a09d8e225006f3e5405",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3006714,
-                    "known_for_department": "Art",
-                    "name": "Cecilia Taybo",
-                    "original_name": "Cecilia Taybo",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "604a59f4ec4552002abd9973",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2644784,
-                    "known_for_department": "Directing",
-                    "name": "Rodrigo Caprotti",
-                    "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0609,
+                    "popularity": 0.0336,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a596d8a0e9b00468e7491",
                     "department": "Production",
@@ -563,65 +517,13 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 2739346,
-                    "known_for_department": "Crew",
-                    "name": "Max Ruggieri",
-                    "original_name": "Max Ruggieri",
-                    "popularity": 0.0723,
-                    "profile_path": null,
-                    "credit_id": "604a59d35f622b002afc407b",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2230521,
-                    "known_for_department": "Editing",
-                    "name": "Julia Straface",
-                    "original_name": "Julia Straface",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "604a59da9e458600243e4632",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 3006707,
                     "known_for_department": "Writing",
                     "name": "Bárbara Scotto",
                     "original_name": "Bárbara Scotto",
-                    "popularity": 0.0574,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "604a59a1982f74006d9fe6fa",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2373498,
-                    "known_for_department": "Writing",
-                    "name": "Nicolás Allegro",
-                    "original_name": "Nicolás Allegro",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "604a59868741c400460812f5",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3006710,
-                    "known_for_department": "Production",
-                    "name": "Luisina Pozzo Ardizzi",
-                    "original_name": "Luisina Pozzo Ardizzi",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "604a59b5ec4552002abd9923",
                     "department": "Production",
                     "job": "Executive Producer"
                 },
@@ -641,11 +543,115 @@
                 {
                     "adult": false,
                     "gender": 0,
+                    "id": 2373498,
+                    "known_for_department": "Writing",
+                    "name": "Nicolás Allegro",
+                    "original_name": "Nicolás Allegro",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "604a59868741c400460812f5",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3006710,
+                    "known_for_department": "Production",
+                    "name": "Luisina Pozzo Ardizzi",
+                    "original_name": "Luisina Pozzo Ardizzi",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "604a59b5ec4552002abd9923",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3006711,
+                    "known_for_department": "Production",
+                    "name": "Teresa Saporiti",
+                    "original_name": "Teresa Saporiti",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "604a59c8439be100583d6abe",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1758441,
+                    "known_for_department": "Sound",
+                    "name": "Sofía Straface",
+                    "original_name": "Sofía Straface",
+                    "popularity": 0.0505,
+                    "profile_path": null,
+                    "credit_id": "604a5a09d8e225006f3e5405",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3006707,
+                    "known_for_department": "Writing",
+                    "name": "Bárbara Scotto",
+                    "original_name": "Bárbara Scotto",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "604a598cfa4046006d5ae624",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2644784,
+                    "known_for_department": "Directing",
+                    "name": "Rodrigo Caprotti",
+                    "original_name": "Rodrigo Caprotti",
+                    "popularity": 0.0336,
+                    "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
+                    "credit_id": "604a595e66a0d300296a558b",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2739346,
+                    "known_for_department": "Crew",
+                    "name": "Max Ruggieri",
+                    "original_name": "Max Ruggieri",
+                    "popularity": 0.0573,
+                    "profile_path": null,
+                    "credit_id": "604a59d35f622b002afc407b",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2230521,
+                    "known_for_department": "Editing",
+                    "name": "Julia Straface",
+                    "original_name": "Julia Straface",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "604a59da9e458600243e4632",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
                     "id": 3006717,
                     "known_for_department": "Sound",
                     "name": "Juan Polito",
                     "original_name": "Juan Polito",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "604a5a0fd8e2250025e103e9",
                     "department": "Sound",
@@ -658,20 +664,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0609,
-                    "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
-                    "credit_id": "604a595e66a0d300296a558b",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2644784,
-                    "known_for_department": "Directing",
-                    "name": "Rodrigo Caprotti",
-                    "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0609,
+                    "popularity": 0.0336,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a5975ec4552006e18a1c6",
                     "department": "Writing",
@@ -680,15 +673,28 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3006707,
-                    "known_for_department": "Writing",
-                    "name": "Bárbara Scotto",
-                    "original_name": "Bárbara Scotto",
-                    "popularity": 0.0574,
+                    "id": 3006714,
+                    "known_for_department": "Art",
+                    "name": "Cecilia Taybo",
+                    "original_name": "Cecilia Taybo",
+                    "popularity": 0.0071,
                     "profile_path": null,
-                    "credit_id": "604a598cfa4046006d5ae624",
-                    "department": "Writing",
-                    "job": "Writer"
+                    "credit_id": "604a59f4ec4552002abd9973",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3006715,
+                    "known_for_department": "Art",
+                    "name": "Renata Montalbano",
+                    "original_name": "Renata Montalbano",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "604a59ff9e45860045ad880b",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -697,7 +703,7 @@
                     "known_for_department": "Writing",
                     "name": "Martín Kohan",
                     "original_name": "Martín Kohan",
-                    "popularity": 0.07,
+                    "popularity": 0.072,
                     "profile_path": null,
                     "credit_id": "604a5c3c90fca3005a8af02a",
                     "department": "Writing",
@@ -725,6 +731,19 @@
                     "original_name": "Juan Bahurlet",
                     "popularity": 0.0143,
                     "profile_path": null,
+                    "credit_id": "654a2b87fd4f80013cea6fc0",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4362225,
+                    "known_for_department": "Production",
+                    "name": "Juan Bahurlet",
+                    "original_name": "Juan Bahurlet",
+                    "popularity": 0.0143,
+                    "profile_path": null,
                     "credit_id": "654a237e2866fa00fe00f432",
                     "department": "Production",
                     "job": "Producer"
@@ -736,20 +755,7 @@
                     "known_for_department": "Production",
                     "name": "Facundo Aybar",
                     "original_name": "Facundo Aybar",
-                    "popularity": 0,
-                    "profile_path": "/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg",
-                    "credit_id": "654a23722866fa0138a89759",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 4362224,
-                    "known_for_department": "Production",
-                    "name": "Facundo Aybar",
-                    "original_name": "Facundo Aybar",
-                    "popularity": 0,
+                    "popularity": 0.0243,
                     "profile_path": "/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg",
                     "credit_id": "654a2b5067b61300afc842d8",
                     "department": "Camera",
@@ -758,15 +764,15 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 4362225,
+                    "id": 4362224,
                     "known_for_department": "Production",
-                    "name": "Juan Bahurlet",
-                    "original_name": "Juan Bahurlet",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "654a2b87fd4f80013cea6fc0",
+                    "name": "Facundo Aybar",
+                    "original_name": "Facundo Aybar",
+                    "popularity": 0.0243,
+                    "profile_path": "/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg",
+                    "credit_id": "654a23722866fa0138a89759",
                     "department": "Production",
-                    "job": "Production Assistant"
+                    "job": "Producer"
                 }
             ]
         },

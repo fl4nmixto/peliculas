@@ -13,6 +13,7 @@ class Genre extends Model
     protected $fillable = [
         'name',
         'slug',
+        'tmdb_id',
     ];
 
     public function movies()

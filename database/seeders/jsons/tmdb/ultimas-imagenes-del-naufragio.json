@@ -10,10 +10,12 @@
     "year": 1989,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
-        "Spain",
         "Argentina"
     ],
     "spoken_languages": [
@@ -103,18 +105,18 @@
             "image_url": null
         },
         {
-            "id": 1788701,
-            "name": "Cátulo Castillo",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/original/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg"
-        },
-        {
             "id": 2235930,
             "name": "Marcela Sáenz",
             "department": "Editing",
             "job": "Editor",
             "image_url": null
+        },
+        {
+            "id": 1788701,
+            "name": "Cátulo Castillo",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "https://image.tmdb.org/t/p/original/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg"
         },
         {
             "id": 81116,
@@ -165,7 +167,7 @@
         "original_language": "es",
         "original_title": "Últimas imágenes del naufragio",
         "overview": "Roberto es un vendedor de seguros que sueña con escribir su propia novela. Cuando conoce a Estela, una joven a punto de suicidarse, le sirve como material para elaborar esa obra.",
-        "popularity": 0.2133,
+        "popularity": 0.1351,
         "poster_path": "/lgF2eaIIqvifAbl1tzuys3AsqLO.jpg",
         "production_companies": [],
         "production_countries": [
@@ -203,7 +205,7 @@
                     "known_for_department": "Acting",
                     "name": "Lorenzo Quinteros",
                     "original_name": "Lorenzo Quinteros",
-                    "popularity": 0.0847,
+                    "popularity": 0.0637,
                     "profile_path": "/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg",
                     "cast_id": 1,
                     "character": "Roberto",
@@ -217,7 +219,7 @@
                     "known_for_department": "Acting",
                     "name": "Noemí Frenkel",
                     "original_name": "Noemí Frenkel",
-                    "popularity": 0.0459,
+                    "popularity": 0.0827,
                     "profile_path": "/3YVBC99201rKYS8HxPl8z8BsbI3.jpg",
                     "cast_id": 2,
                     "character": "Estela",
@@ -231,7 +233,7 @@
                     "known_for_department": "Acting",
                     "name": "Hugo Soto",
                     "original_name": "Hugo Soto",
-                    "popularity": 0.0572,
+                    "popularity": 0.186,
                     "profile_path": "/aqmO6SQ69f1o1GWypF9wfwXrqUs.jpg",
                     "cast_id": 3,
                     "character": "Claudio",
@@ -245,7 +247,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Brichta",
                     "original_name": "Pablo Brichta",
-                    "popularity": 0.0602,
+                    "popularity": 0.0322,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "José",
@@ -259,7 +261,7 @@
                     "known_for_department": "Acting",
                     "name": "Sara Benítez",
                     "original_name": "Sara Benítez",
-                    "popularity": 0.0629,
+                    "popularity": 0.0387,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "Mother",
@@ -287,7 +289,7 @@
                     "known_for_department": "Acting",
                     "name": "Alicia Aller",
                     "original_name": "Alicia Aller",
-                    "popularity": 0.1098,
+                    "popularity": 0.0409,
                     "profile_path": "/r9z7YNi8k1Ih4cguEH97wyVcdAk.jpg",
                     "cast_id": 7,
                     "character": "Wife",
@@ -329,7 +331,7 @@
                     "known_for_department": "Acting",
                     "name": "Vivi Tellas",
                     "original_name": "Vivi Tellas",
-                    "popularity": 0.1003,
+                    "popularity": 0.0468,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "",
@@ -345,24 +347,11 @@
                     "known_for_department": "Production",
                     "name": "Hugo E. Lauría",
                     "original_name": "Hugo E. Lauría",
-                    "popularity": 0.0382,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "613b5b19a6ddcb002c620f9c",
                     "department": "Production",
                     "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1788701,
-                    "known_for_department": "Sound",
-                    "name": "Cátulo Castillo",
-                    "original_name": "Cátulo Castillo",
-                    "popularity": 0.0429,
-                    "profile_path": "/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg",
-                    "credit_id": "613b5b459653f60043e4f875",
-                    "department": "Sound",
-                    "job": "Music"
                 },
                 {
                     "adult": false,
@@ -371,7 +360,7 @@
                     "known_for_department": "Editing",
                     "name": "Marcela Sáenz",
                     "original_name": "Marcela Sáenz",
-                    "popularity": 0.0214,
+                    "popularity": 0.0487,
                     "profile_path": null,
                     "credit_id": "613b5b5fa6ddcb008aebd1ac",
                     "department": "Editing",
@@ -380,11 +369,24 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 1788701,
+                    "known_for_department": "Sound",
+                    "name": "Cátulo Castillo",
+                    "original_name": "Cátulo Castillo",
+                    "popularity": 0.0357,
+                    "profile_path": "/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg",
+                    "credit_id": "613b5b459653f60043e4f875",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 81116,
                     "known_for_department": "Directing",
                     "name": "Eliseo Subiela",
                     "original_name": "Eliseo Subiela",
-                    "popularity": 0.0969,
+                    "popularity": 0.1391,
                     "profile_path": "/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg",
                     "credit_id": "53dbd2840e0a264819000369",
                     "department": "Directing",
@@ -397,7 +399,7 @@
                     "known_for_department": "Sound",
                     "name": "Pedro Aznar",
                     "original_name": "Pedro Aznar",
-                    "popularity": 0.0938,
+                    "popularity": 0.0615,
                     "profile_path": "/f15azbgeJNbaiOP9uDBKeGEDfOw.jpg",
                     "credit_id": "5bf1fb1dc3a36818b607a148",
                     "department": "Sound",
@@ -410,7 +412,7 @@
                     "known_for_department": "Directing",
                     "name": "Eliseo Subiela",
                     "original_name": "Eliseo Subiela",
-                    "popularity": 0.0969,
+                    "popularity": 0.1391,
                     "profile_path": "/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg",
                     "credit_id": "5bf1fb2d9251415cc106bc39",
                     "department": "Writing",
@@ -423,7 +425,7 @@
                     "known_for_department": "Camera",
                     "name": "Alberto Basail",
                     "original_name": "Alberto Basail",
-                    "popularity": 0.0143,
+                    "popularity": 0.0409,
                     "profile_path": null,
                     "credit_id": "5bf1fb390e0a26267406f970",
                     "department": "Crew",

@@ -1,11 +1,19 @@
 @extends('layouts.app')
 
-@section('title', 'Catálogo')
+@php
+    $pageTitle = 'Catálogo';
+
+    if (! empty($currentGenre)) {
+        $pageTitle .= ' · ' . $currentGenre->name;
+    } elseif (! empty($currentYear)) {
+        $pageTitle .= ' · ' . $currentYear;
+    }
+@endphp
+
+@section('title', $pageTitle)
 
 @section('content')
     <section class="flex flex-col gap-5" id="catalogo">
-        <div class="flex flex-wrap items-baseline justify-between gap-3">
-        </div>
 
         @if ($movies->isNotEmpty())
             <div class="grid gap-3 grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6">
@@ -23,13 +31,20 @@
                         </a>
                         <h3 class="text-sm font-semibold text-white">{{ $movie->title }}</h3>
                         @php
-                            $meta = collect([
-                                $movie->genres->pluck('name')->implode(', '),
-                                $movie->year,
-                                $movie->duration ? $movie->duration . ' min' : null,
-                            ])->filter()->implode(' • ');
+                            $genreLinks = $movie->genres->map(function ($genre) {
+                                return '<a href="' . route('genres.show', $genre) . '" class="text-sky-300 hover:underline">' . e($genre->name) . '</a>';
+                            })->implode(', ');
+                            $yearLink = $movie->year
+                                ? '<a href="' . route('years.show', $movie->year) . '" class="text-sky-300 hover:underline">' . e($movie->year) . '</a>'
+                                : null;
+                            $duration = $movie->duration ? $movie->duration . ' min' : null;
+                            $extraMeta = collect([$yearLink, $duration])->filter()->implode(' • ');
+                            $metaParts = array_filter([$genreLinks ?: null, $extraMeta ?: null]);
+                            $metaText = implode(' • ', $metaParts);
                         @endphp
-                        <p class="text-[0.6rem] text-slate-400">{{ $meta }}</p>
+                        <p class="text-[0.6rem] text-slate-400">
+                            {!! $metaText !!}
+                        </p>
                     </article>
                 @endforeach
             </div>

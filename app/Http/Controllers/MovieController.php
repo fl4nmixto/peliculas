@@ -11,9 +11,36 @@ class MovieController extends Controller
 {
     public function index()
     {
+        return $this->renderCatalog();
+    }
+
+    public function byGenre(Genre $genre)
+    {
+        return $this->renderCatalog($genre);
+    }
+
+    public function byYear(string $year)
+    {
+        return $this->renderCatalog(null, $year);
+    }
+
+    protected function renderCatalog(?Genre $genre = null, ?string $year = null)
+    {
+        $query = Movie::query()->with('genres')->orderBy('year', 'desc');
+
+        if ($genre) {
+            $query->whereHas('genres', fn ($builder) => $builder->where('genres.id', $genre->id));
+        }
+
+        if ($year) {
+            $query->where('year', $year);
+        }
+
         return view('welcome', [
-            'movies' => Movie::query()->with('genres')->orderBy('year', 'desc')->get(),
+            'movies' => $query->get(),
             'genres' => Genre::query()->orderBy('name')->get(),
+            'currentGenre' => $genre,
+            'currentYear' => $year,
         ]);
     }
 

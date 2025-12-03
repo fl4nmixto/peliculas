@@ -1,0 +1,401 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 29952,
+    "slug": "bombon-el-perro",
+    "title": "Bombón el perro",
+    "original_title": "El perro",
+    "overview": "Patagonia, Argentina. Un mecánico que sueña con una vida diferente comienza a pensar a lo grande cuando Bombón, un cachorro al que ha adoptado, gana un primer premio en una exposición canina local.",
+    "runtime": 95,
+    "release_date": "2004-09-23",
+    "year": 2004,
+    "tagline": "Una historia de instintos y amistades",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/inCQFCbjaeSTnUBaexwmDnV70Ew.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/sY0thMd2lBKUmOfRFP8tY6VCuAz.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1038479,
+            "name": "Walter Donado",
+            "character": "Walter Donado",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/nTilBL59HqfLaHnbrUzvCZvLIdj.jpg"
+        },
+        {
+            "id": 1038480,
+            "name": "Rosa Valsecchi",
+            "character": "Susana (as Rosa Valsechi)",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 1038481,
+            "name": "Mariela Díaz",
+            "character": "Coco's daughter",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 1038482,
+            "name": "Claudina Fazzini",
+            "character": "Claudina",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1038483,
+            "name": "Kita Ca",
+            "character": "Claudina's mother",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 1038484,
+            "name": "Carlos Rossi",
+            "character": "Bank Manager",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 1038485,
+            "name": "Rolando Zadra",
+            "character": "Buselli",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 1038486,
+            "name": "Pascual Condito",
+            "character": "Pascual",
+            "order": 7,
+            "image_url": null
+        },
+        {
+            "id": 1038487,
+            "name": "Adrián Giampani",
+            "character": "Galván",
+            "order": 8,
+            "image_url": null
+        },
+        {
+            "id": 4334253,
+            "name": "Juan Villegas",
+            "character": "Juan Villegas",
+            "order": 9,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        },
+        {
+            "id": 1521609,
+            "name": "Santiago Calori",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "https://image.tmdb.org/t/p/original/ekVW2dkUthSSkp1oVcemmGjWfti.jpg"
+        },
+        {
+            "id": 1022346,
+            "name": "Salvador Roselli",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/sY0thMd2lBKUmOfRFP8tY6VCuAz.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 29952,
+        "imdb_id": "tt0420548",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "El perro",
+        "overview": "Patagonia, Argentina. Un mecánico que sueña con una vida diferente comienza a pensar a lo grande cuando Bombón, un cachorro al que ha adoptado, gana un primer premio en una exposición canina local.",
+        "popularity": 3.5962,
+        "poster_path": "/inCQFCbjaeSTnUBaexwmDnV70Ew.jpg",
+        "production_companies": [
+            {
+                "id": 21914,
+                "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+                "name": "K & S Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 3963,
+                "logo_path": null,
+                "name": "Guacamole Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 10046,
+                "logo_path": "/3guxqdOBP4xtfmSy6YMZPVGTfro.png",
+                "name": "Wanda Visión",
+                "origin_country": "ES"
+            },
+            {
+                "id": 74895,
+                "logo_path": null,
+                "name": "Romikin S.A.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2004-09-23",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Una historia de instintos y amistades",
+        "title": "Bombón el perro",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 52,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1038479,
+                    "known_for_department": "Acting",
+                    "name": "Walter Donado",
+                    "original_name": "Walter Donado",
+                    "popularity": 0.3277,
+                    "profile_path": "/nTilBL59HqfLaHnbrUzvCZvLIdj.jpg",
+                    "cast_id": 3,
+                    "character": "Walter Donado",
+                    "credit_id": "52fe4607c3a368484e07ca57",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038480,
+                    "known_for_department": "Acting",
+                    "name": "Rosa Valsecchi",
+                    "original_name": "Rosa Valsecchi",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Susana (as Rosa Valsechi)",
+                    "credit_id": "52fe4607c3a368484e07ca5b",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038481,
+                    "known_for_department": "Acting",
+                    "name": "Mariela Díaz",
+                    "original_name": "Mariela Díaz",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "cast_id": 5,
+                    "character": "Coco's daughter",
+                    "credit_id": "52fe4607c3a368484e07ca5f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038482,
+                    "known_for_department": "Acting",
+                    "name": "Claudina Fazzini",
+                    "original_name": "Claudina Fazzini",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "Claudina",
+                    "credit_id": "52fe4607c3a368484e07ca63",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038483,
+                    "known_for_department": "Acting",
+                    "name": "Kita Ca",
+                    "original_name": "Kita Ca",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Claudina's mother",
+                    "credit_id": "52fe4607c3a368484e07ca67",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038484,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Rossi",
+                    "original_name": "Carlos Rossi",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 8,
+                    "character": "Bank Manager",
+                    "credit_id": "52fe4607c3a368484e07ca6b",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038485,
+                    "known_for_department": "Acting",
+                    "name": "Rolando Zadra",
+                    "original_name": "Rolando Zadra",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 9,
+                    "character": "Buselli",
+                    "credit_id": "52fe4607c3a368484e07ca6f",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1038486,
+                    "known_for_department": "Acting",
+                    "name": "Pascual Condito",
+                    "original_name": "Pascual Condito",
+                    "popularity": 2.1473,
+                    "profile_path": null,
+                    "cast_id": 10,
+                    "character": "Pascual",
+                    "credit_id": "52fe4607c3a368484e07ca73",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1038487,
+                    "known_for_department": "Acting",
+                    "name": "Adrián Giampani",
+                    "original_name": "Adrián Giampani",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 11,
+                    "character": "Galván",
+                    "credit_id": "52fe4607c3a368484e07ca77",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4334253,
+                    "known_for_department": "Acting",
+                    "name": "Juan Villegas",
+                    "original_name": "Juan Villegas",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 15,
+                    "character": "Juan Villegas",
+                    "credit_id": "6535998191f0ea00fe1a5fce",
+                    "order": 9
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 1.0326,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "52fe4607c3a368484e07ca53",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1521609,
+                    "known_for_department": "Directing",
+                    "name": "Santiago Calori",
+                    "original_name": "Santiago Calori",
+                    "popularity": 0.0338,
+                    "profile_path": "/ekVW2dkUthSSkp1oVcemmGjWfti.jpg",
+                    "credit_id": "5f6d0a441fa1c8003712f0f0",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1022346,
+                    "known_for_department": "Writing",
+                    "name": "Salvador Roselli",
+                    "original_name": "Salvador Roselli",
+                    "popularity": 0.0193,
+                    "profile_path": null,
+                    "credit_id": "5f6d0a88cee2f600364453ec",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 2493,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/inCQFCbjaeSTnUBaexwmDnV70Ew.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1662
+                }
+            ]
+        }
+    }
+}

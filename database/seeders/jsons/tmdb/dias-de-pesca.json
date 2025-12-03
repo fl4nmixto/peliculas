@@ -1,0 +1,587 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 128070,
+    "slug": "dias-de-pesca",
+    "title": "Días de pesca",
+    "original_title": "Días de pesca",
+    "overview": "Marco es un hombre que ha llegado a la cincuentena y que trabaja como viajante de comercio. Tiene graves problemas con el alcohol y ha llegado a su punto límite, necesita cambiar de vida y empezar desde cero si no quiere autodestruirse. Será entonces cuando inicie un tratamiento de desintoxicación para alejarlo de su adicción. Una de las partes del difícil tratamiento consiste en que Marco se relaje practicando actividades tranquilas que le gusten, que desarrolle algún tipo de afición. Él se decidirá por la pesca y se marchará a la Patagonia para iniciarse en la pesca del tiburón. Sin embargo, en su camino, no se encuentra solo esa meta, sino también encontrar a Ana, su hija, con la que no tiene contacto prácticamente desde hace años y que vive por esa zona.",
+    "runtime": 80,
+    "release_date": "2012-09-07",
+    "year": 2012,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Familia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/arQGwCQYfiHNu4U1TERRjNgR5LK.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [
+        {
+            "id": 74912,
+            "name": "Alejandro Awada",
+            "character": "Marco",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/eSmf8JANABLuxrkJtzQ5JKLbcdI.jpg"
+        },
+        {
+            "id": 1132081,
+            "name": "Victoria Almeida",
+            "character": "Ana",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 1132082,
+            "name": "Oscar Ayala",
+            "character": "Mánager",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 3099034,
+            "name": "Diego Caballero",
+            "character": "José",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 3099035,
+            "name": "Daniel Keller",
+            "character": "Daniel",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 3099036,
+            "name": "Martín Galíndez",
+            "character": "Fito",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 3099037,
+            "name": "Santiago Sorín",
+            "character": "Gianni",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 3099038,
+            "name": "Romina Medina",
+            "character": "Pupila",
+            "order": 7,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1310725,
+            "name": "José Luis Díaz",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 87512,
+            "name": "Nicolás Sorin",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1310729,
+            "name": "Leticia Cristi",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 1310730,
+            "name": "Matías Mosteirín",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg"
+        },
+        {
+            "id": 557732,
+            "name": "Hugo Sigman",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        },
+        {
+            "id": 557711,
+            "name": "Julián Apezteguia",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg"
+        },
+        {
+            "id": 557712,
+            "name": "Mohamed Rajid",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1310723,
+            "name": "Ruth Fischerman",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 3099042,
+            "name": "Mario Malher",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
+        },
+        {
+            "id": 1275908,
+            "name": "Inés Vera",
+            "department": "Production",
+            "job": "Production Manager",
+            "image_url": null
+        },
+        {
+            "id": 1376045,
+            "name": "Fabiana Tiscornia",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        },
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Familia"
+            }
+        ],
+        "homepage": "http://www.diasdepescaenpatagonia.com",
+        "id": 128070,
+        "imdb_id": "tt2379436",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Días de pesca",
+        "overview": "Marco es un hombre que ha llegado a la cincuentena y que trabaja como viajante de comercio. Tiene graves problemas con el alcohol y ha llegado a su punto límite, necesita cambiar de vida y empezar desde cero si no quiere autodestruirse. Será entonces cuando inicie un tratamiento de desintoxicación para alejarlo de su adicción. Una de las partes del difícil tratamiento consiste en que Marco se relaje practicando actividades tranquilas que le gusten, que desarrolle algún tipo de afición. Él se decidirá por la pesca y se marchará a la Patagonia para iniciarse en la pesca del tiburón. Sin embargo, en su camino, no se encuentra solo esa meta, sino también encontrar a Ana, su hija, con la que no tiene contacto prácticamente desde hace años y que vive por esa zona.",
+        "popularity": 3.0436,
+        "poster_path": "/arQGwCQYfiHNu4U1TERRjNgR5LK.jpg",
+        "production_companies": [
+            {
+                "id": 3963,
+                "logo_path": null,
+                "name": "Guacamole Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 21914,
+                "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+                "name": "K & S Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2012-09-07",
+        "revenue": 0,
+        "runtime": 80,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Días de pesca",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 11,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 74912,
+                    "known_for_department": "Acting",
+                    "name": "Alejandro Awada",
+                    "original_name": "Alejandro Awada",
+                    "popularity": 0.1376,
+                    "profile_path": "/eSmf8JANABLuxrkJtzQ5JKLbcdI.jpg",
+                    "cast_id": 2,
+                    "character": "Marco",
+                    "credit_id": "52fe4b11c3a368484e175e47",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1132081,
+                    "known_for_department": "Acting",
+                    "name": "Victoria Almeida",
+                    "original_name": "Victoria Almeida",
+                    "popularity": 0.1449,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "Ana",
+                    "credit_id": "52fe4b11c3a368484e175e4b",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1132082,
+                    "known_for_department": "Acting",
+                    "name": "Oscar Ayala",
+                    "original_name": "Oscar Ayala",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Mánager",
+                    "credit_id": "52fe4b11c3a368484e175e4f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099034,
+                    "known_for_department": "Acting",
+                    "name": "Diego Caballero",
+                    "original_name": "Diego Caballero",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "José",
+                    "credit_id": "60a8a4d2af85de00402f552d",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099035,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Keller",
+                    "original_name": "Daniel Keller",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Daniel",
+                    "credit_id": "60a8a5316ee3d70077988561",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099036,
+                    "known_for_department": "Acting",
+                    "name": "Martín Galíndez",
+                    "original_name": "Martín Galíndez",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 8,
+                    "character": "Fito",
+                    "credit_id": "60a8a5446ee3d70040802fe5",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099037,
+                    "known_for_department": "Acting",
+                    "name": "Santiago Sorín",
+                    "original_name": "Santiago Sorín",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 9,
+                    "character": "Gianni",
+                    "credit_id": "60a8a58566e469005ab08147",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099038,
+                    "known_for_department": "Acting",
+                    "name": "Romina Medina",
+                    "original_name": "Romina Medina",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 10,
+                    "character": "Pupila",
+                    "credit_id": "60a8a597bbd0b0005984b290",
+                    "order": 7
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1310725,
+                    "known_for_department": "Sound",
+                    "name": "José Luis Díaz",
+                    "original_name": "José Luis Díaz",
+                    "popularity": 0.0935,
+                    "profile_path": null,
+                    "credit_id": "60a8a5e785702e00580b8ca4",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87512,
+                    "known_for_department": "Sound",
+                    "name": "Nicolás Sorin",
+                    "original_name": "Nicolás Sorin",
+                    "popularity": 0.0646,
+                    "profile_path": null,
+                    "credit_id": "60a8a64085702e0040627ca1",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1310729,
+                    "known_for_department": "Production",
+                    "name": "Leticia Cristi",
+                    "original_name": "Leticia Cristi",
+                    "popularity": 0.0995,
+                    "profile_path": null,
+                    "credit_id": "60a8a65785702e006eef59c7",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1310730,
+                    "known_for_department": "Production",
+                    "name": "Matías Mosteirín",
+                    "original_name": "Matías Mosteirín",
+                    "popularity": 0.2684,
+                    "profile_path": "/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg",
+                    "credit_id": "60a8a65f0398ab0077c770e6",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557732,
+                    "known_for_department": "Production",
+                    "name": "Hugo Sigman",
+                    "original_name": "Hugo Sigman",
+                    "popularity": 0.0289,
+                    "profile_path": null,
+                    "credit_id": "60a8a668c6006d002a72b5af",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 1.0326,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "60a8a681d55e4d006ee6ff28",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557711,
+                    "known_for_department": "Camera",
+                    "name": "Julián Apezteguia",
+                    "original_name": "Julián Apezteguia",
+                    "popularity": 0.0306,
+                    "profile_path": "/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg",
+                    "credit_id": "60a8a68b4b0c63002a8c3872",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557712,
+                    "known_for_department": "Editing",
+                    "name": "Mohamed Rajid",
+                    "original_name": "Mohamed Rajid",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "60a8a694bbd0b00079de4ecc",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1310723,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Ruth Fischerman",
+                    "original_name": "Ruth Fischerman",
+                    "popularity": 0.0281,
+                    "profile_path": null,
+                    "credit_id": "60a8a6ad501cf20026d39f7c",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3099042,
+                    "known_for_department": "Production",
+                    "name": "Mario Malher",
+                    "original_name": "Mario Malher",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "60a8a6b8142ef17418853078",
+                    "department": "Production",
+                    "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1275908,
+                    "known_for_department": "Production",
+                    "name": "Inés Vera",
+                    "original_name": "Inés Vera",
+                    "popularity": 0.118,
+                    "profile_path": null,
+                    "credit_id": "60a8a6ee85702e006eef5a4e",
+                    "department": "Production",
+                    "job": "Production Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1376045,
+                    "known_for_department": "Directing",
+                    "name": "Fabiana Tiscornia",
+                    "original_name": "Fabiana Tiscornia",
+                    "popularity": 0.0554,
+                    "profile_path": null,
+                    "credit_id": "60a8a7009a64c10058c4db3b",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 1.0326,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "52fe4b11c3a368484e175e43",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 1.0326,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "52fe4b11c3a368484e175e55",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1200,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/arQGwCQYfiHNu4U1TERRjNgR5LK.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 800
+                },
+                {
+                    "aspect_ratio": 0.707,
+                    "height": 1200,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/yUKh0UUhwMQVA2rsBHrtcSNOc5e.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 848
+                }
+            ]
+        }
+    }
+}

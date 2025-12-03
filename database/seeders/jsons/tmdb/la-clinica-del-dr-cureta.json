@@ -1,0 +1,784 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 504950,
+    "slug": "la-clinica-del-dr-cureta",
+    "title": "La clínica del Dr. Cureta",
+    "original_title": "La clínica del Dr. Cureta",
+    "overview": "La película basada en la historieta publicada por la revista Humor en la década del '80, tiene como protagonista al corrupto doctor Cureta, que sin ningún escrúpulo desarrolla todo tipo de artimañas para lucrar con su clínica a costa de los sufridos pacientes y sus explotados empleados.",
+    "runtime": 85,
+    "release_date": "1987-08-06",
+    "year": 1987,
+    "tagline": "En esta Clínica se Puede Morir de Risa",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/3QS2Te0mAZvXJ77DGJFkTnKAUJy.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4yYfFzBoL5z0XcIhEWPp0xbv2en.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gmxugamRstc",
+    "cast": [
+        {
+            "id": 1070717,
+            "name": "Gianni Lunadei",
+            "character": "Dr. Saúl Cureta",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/k1xbrAiB0G26DpUHQ6FAv1a6RLJ.jpg"
+        },
+        {
+            "id": 220230,
+            "name": "Soledad Silveyra",
+            "character": "",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
+        },
+        {
+            "id": 74901,
+            "name": "Juan Manuel Tenuta",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/dA3YGLGlSaDLNSSjJ2BiWl4ucW.jpg"
+        },
+        {
+            "id": 1069977,
+            "name": "Camila Perissé",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/fcFveN3PrgaPZIjiokVMCE0F59X.jpg"
+        },
+        {
+            "id": 932365,
+            "name": "Ricardo Bauleo",
+            "character": "",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/pyolo1BzzQ3QTgiVOkcPbqYJNqc.jpg"
+        },
+        {
+            "id": 1016570,
+            "name": "Mario Alarcón",
+            "character": "",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/2V0IBpQrKMTmQ4kwC4bdWsHlIYB.jpg"
+        },
+        {
+            "id": 105738,
+            "name": "Jean Pierre Noher",
+            "character": "",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/bOhQmfBYSJeNtn6vlsj3tKoOLfc.jpg"
+        },
+        {
+            "id": 1532088,
+            "name": "Alejandra Aquino",
+            "character": "",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/zNflS4ViRMsQxfAdLBFsla8Ef8i.jpg"
+        },
+        {
+            "id": 990731,
+            "name": "Tina Serrano",
+            "character": "",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/y5FTS9P77cZ6BCVptAUmexgOuOX.jpg"
+        },
+        {
+            "id": 975208,
+            "name": "Arturo Maly",
+            "character": "",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/1xgyAEm3PUKZcNtjhXeMCkv2ZM4.jpg"
+        },
+        {
+            "id": 240142,
+            "name": "Maurice Jouvet",
+            "character": "",
+            "order": 10,
+            "image_url": "https://image.tmdb.org/t/p/original/jY5rTV4q0ZJuepYQN83hfl6dgN4.jpg"
+        },
+        {
+            "id": 1075280,
+            "name": "Edda Bustamante",
+            "character": "",
+            "order": 11,
+            "image_url": "https://image.tmdb.org/t/p/original/uZVmkoa3euDnTl62K7hdL8OMV2r.jpg"
+        },
+        {
+            "id": 1977383,
+            "name": "Victoria Shocrón",
+            "character": "",
+            "order": 12,
+            "image_url": null
+        },
+        {
+            "id": 589484,
+            "name": "Gustavo Garzón",
+            "character": "",
+            "order": 13,
+            "image_url": "https://image.tmdb.org/t/p/original/nB4cWI8JQF01chqNtqxt9NTg8np.jpg"
+        },
+        {
+            "id": 52125,
+            "name": "María Socas",
+            "character": "",
+            "order": 14,
+            "image_url": "https://image.tmdb.org/t/p/original/1YoDT8IilZzPejOuhqGLysSK5B9.jpg"
+        },
+        {
+            "id": 1028332,
+            "name": "Carlos Moreno",
+            "character": "",
+            "order": 15,
+            "image_url": null
+        },
+        {
+            "id": 2170855,
+            "name": "Estela Garelli",
+            "character": "",
+            "order": 16,
+            "image_url": "https://image.tmdb.org/t/p/original/6q6vPxffu2FzrzbtuQyGr8w0dHs.jpg"
+        },
+        {
+            "id": 1240535,
+            "name": "Juan Darthés",
+            "character": "",
+            "order": 17,
+            "image_url": "https://image.tmdb.org/t/p/original/6gDMRGeN8Ktg4GPsB44SdMaqOMh.jpg"
+        },
+        {
+            "id": 2881097,
+            "name": "Oscar Boccia",
+            "character": "",
+            "order": 18,
+            "image_url": null
+        },
+        {
+            "id": 3205082,
+            "name": "Horacio Minujen",
+            "character": "",
+            "order": 19,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1544192,
+            "name": "María Inés Teyssié",
+            "department": "Camera",
+            "job": "Still Photographer",
+            "image_url": null
+        },
+        {
+            "id": 1069965,
+            "name": "Santiago Elder",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 995375,
+            "name": "Carlos Torlaschi",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": "https://image.tmdb.org/t/p/original/r8LJjzUqmhTfSQUYBPYCifZbIg2.jpg"
+        },
+        {
+            "id": 1748496,
+            "name": "Darío Tedesco",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1935348,
+            "name": "Ulises Butrón",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1977388,
+            "name": "Salvador D'Antonio",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1977384,
+            "name": "Jorge Garayoa",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 105208,
+            "name": "Víctor Bó",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/hVELREtcHYUCJ7u0IaoSBEUbzlk.jpg"
+        },
+        {
+            "id": 1075239,
+            "name": "Alberto Fischerman",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 5528300,
+            "name": "Jorge Meijide",
+            "department": "Writing",
+            "job": "Original Story",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/4yYfFzBoL5z0XcIhEWPp0xbv2en.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 504950,
+        "imdb_id": "tt0090857",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "La clínica del Dr. Cureta",
+        "overview": "La película basada en la historieta publicada por la revista Humor en la década del '80, tiene como protagonista al corrupto doctor Cureta, que sin ningún escrúpulo desarrolla todo tipo de artimañas para lucrar con su clínica a costa de los sufridos pacientes y sus explotados empleados.",
+        "popularity": 1.4165,
+        "poster_path": "/3QS2Te0mAZvXJ77DGJFkTnKAUJy.jpg",
+        "production_companies": [
+            {
+                "id": 100951,
+                "logo_path": null,
+                "name": "Victor Bo Producciones",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "1987-08-06",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "En esta Clínica se Puede Morir de Risa",
+        "title": "La clínica del Dr. Cureta",
+        "video": false,
+        "vote_average": 5.188,
+        "vote_count": 8,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1070717,
+                    "known_for_department": "Acting",
+                    "name": "Gianni Lunadei",
+                    "original_name": "Gianni Lunadei",
+                    "popularity": 0.0478,
+                    "profile_path": "/k1xbrAiB0G26DpUHQ6FAv1a6RLJ.jpg",
+                    "cast_id": 1,
+                    "character": "Dr. Saúl Cureta",
+                    "credit_id": "5a82a4e50e0a26083b006c21",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 220230,
+                    "known_for_department": "Acting",
+                    "name": "Soledad Silveyra",
+                    "original_name": "Soledad Silveyra",
+                    "popularity": 0.2317,
+                    "profile_path": "/hfxpBj3E5g8QeBu135IGCYlAqid.jpg",
+                    "cast_id": 6,
+                    "character": "",
+                    "credit_id": "5a82a5830e0a260838007015",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 74901,
+                    "known_for_department": "Acting",
+                    "name": "Juan Manuel Tenuta",
+                    "original_name": "Juan Manuel Tenuta",
+                    "popularity": 0.0664,
+                    "profile_path": "/dA3YGLGlSaDLNSSjJ2BiWl4ucW.jpg",
+                    "cast_id": 7,
+                    "character": "",
+                    "credit_id": "5a82a5930e0a260832006a97",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1069977,
+                    "known_for_department": "Acting",
+                    "name": "Camila Perissé",
+                    "original_name": "Camila Perissé",
+                    "popularity": 0.0679,
+                    "profile_path": "/fcFveN3PrgaPZIjiokVMCE0F59X.jpg",
+                    "cast_id": 2,
+                    "character": "",
+                    "credit_id": "5a82a5050e0a26083b006c53",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 932365,
+                    "known_for_department": "Acting",
+                    "name": "Ricardo Bauleo",
+                    "original_name": "Ricardo Bauleo",
+                    "popularity": 0.0773,
+                    "profile_path": "/pyolo1BzzQ3QTgiVOkcPbqYJNqc.jpg",
+                    "cast_id": 9,
+                    "character": "",
+                    "credit_id": "5a82a5c00e0a260832006ac1",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1016570,
+                    "known_for_department": "Acting",
+                    "name": "Mario Alarcón",
+                    "original_name": "Mario Alarcón",
+                    "popularity": 1.2256,
+                    "profile_path": "/2V0IBpQrKMTmQ4kwC4bdWsHlIYB.jpg",
+                    "cast_id": 12,
+                    "character": "",
+                    "credit_id": "5a82a5ef925141168400d7ed",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 105738,
+                    "known_for_department": "Acting",
+                    "name": "Jean Pierre Noher",
+                    "original_name": "Jean Pierre Noher",
+                    "popularity": 0.2588,
+                    "profile_path": "/bOhQmfBYSJeNtn6vlsj3tKoOLfc.jpg",
+                    "cast_id": 14,
+                    "character": "",
+                    "credit_id": "5a82a6090e0a26083e00708f",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1532088,
+                    "known_for_department": "Acting",
+                    "name": "Alejandra Aquino",
+                    "original_name": "Alejandra Aquino",
+                    "popularity": 0.0361,
+                    "profile_path": "/zNflS4ViRMsQxfAdLBFsla8Ef8i.jpg",
+                    "cast_id": 16,
+                    "character": "",
+                    "credit_id": "5a82a63c925141167500d7b3",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 990731,
+                    "known_for_department": "Acting",
+                    "name": "Tina Serrano",
+                    "original_name": "Tina Serrano",
+                    "popularity": 0.0423,
+                    "profile_path": "/y5FTS9P77cZ6BCVptAUmexgOuOX.jpg",
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "5a82a518c3a3684cdf00ed38",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 975208,
+                    "known_for_department": "Acting",
+                    "name": "Arturo Maly",
+                    "original_name": "Arturo Maly",
+                    "popularity": 1.4458,
+                    "profile_path": "/1xgyAEm3PUKZcNtjhXeMCkv2ZM4.jpg",
+                    "cast_id": 5,
+                    "character": "",
+                    "credit_id": "5a82a576c3a3684cdb00f1b8",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 240142,
+                    "known_for_department": "Acting",
+                    "name": "Maurice Jouvet",
+                    "original_name": "Maurice Jouvet",
+                    "popularity": 0.1244,
+                    "profile_path": "/jY5rTV4q0ZJuepYQN83hfl6dgN4.jpg",
+                    "cast_id": 8,
+                    "character": "",
+                    "credit_id": "5a82a5b3c3a3684cf100e87d",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1075280,
+                    "known_for_department": "Acting",
+                    "name": "Edda Bustamante",
+                    "original_name": "Edda Bustamante",
+                    "popularity": 0.1383,
+                    "profile_path": "/uZVmkoa3euDnTl62K7hdL8OMV2r.jpg",
+                    "cast_id": 10,
+                    "character": "",
+                    "credit_id": "5a82a5d0c3a3684cd500d39c",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1977383,
+                    "known_for_department": "Acting",
+                    "name": "Victoria Shocrón",
+                    "original_name": "Victoria Shocrón",
+                    "popularity": 0.0193,
+                    "profile_path": null,
+                    "cast_id": 11,
+                    "character": "",
+                    "credit_id": "5a82a5e10e0a26083b006d29",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 589484,
+                    "known_for_department": "Acting",
+                    "name": "Gustavo Garzón",
+                    "original_name": "Gustavo Garzón",
+                    "popularity": 0.162,
+                    "profile_path": "/nB4cWI8JQF01chqNtqxt9NTg8np.jpg",
+                    "cast_id": 13,
+                    "character": "",
+                    "credit_id": "5a82a5fd0e0a26082f00601d",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 52125,
+                    "known_for_department": "Acting",
+                    "name": "María Socas",
+                    "original_name": "María Socas",
+                    "popularity": 0.3459,
+                    "profile_path": "/1YoDT8IilZzPejOuhqGLysSK5B9.jpg",
+                    "cast_id": 15,
+                    "character": "",
+                    "credit_id": "5a82a6170e0a260841006e5b",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1028332,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Moreno",
+                    "original_name": "Carlos Moreno",
+                    "popularity": 0.0623,
+                    "profile_path": null,
+                    "cast_id": 22,
+                    "character": "",
+                    "credit_id": "5ddad0ca0cd44600192a7a96",
+                    "order": 15
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2170855,
+                    "known_for_department": "Acting",
+                    "name": "Estela Garelli",
+                    "original_name": "Estela Garelli",
+                    "popularity": 0.0904,
+                    "profile_path": "/6q6vPxffu2FzrzbtuQyGr8w0dHs.jpg",
+                    "cast_id": 23,
+                    "character": "",
+                    "credit_id": "61e5b8feb7abb5001a22b10d",
+                    "order": 16
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1240535,
+                    "known_for_department": "Acting",
+                    "name": "Juan Darthés",
+                    "original_name": "Juan Darthés",
+                    "popularity": 0.0718,
+                    "profile_path": "/6gDMRGeN8Ktg4GPsB44SdMaqOMh.jpg",
+                    "cast_id": 24,
+                    "character": "",
+                    "credit_id": "61e5b9062d9375001c0da35b",
+                    "order": 17
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2881097,
+                    "known_for_department": "Acting",
+                    "name": "Oscar Boccia",
+                    "original_name": "Oscar Boccia",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 25,
+                    "character": "",
+                    "credit_id": "61e5b9316aa8e00069f4be79",
+                    "order": 18
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3205082,
+                    "known_for_department": "Acting",
+                    "name": "Horacio Minujen",
+                    "original_name": "Horacio Minujen",
+                    "popularity": 0.0621,
+                    "profile_path": null,
+                    "cast_id": 26,
+                    "character": "",
+                    "credit_id": "61e5b942a402c1001c0f5534",
+                    "order": 19
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2387853,
+                    "known_for_department": "Acting",
+                    "name": "Hugo Gorban",
+                    "original_name": "Hugo Gorban",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "",
+                    "credit_id": "61e5b94aa410c800669d933d",
+                    "order": 20
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1689132,
+                    "known_for_department": "Acting",
+                    "name": "Miguel Ángel Porro",
+                    "original_name": "Miguel Ángel Porro",
+                    "popularity": 0.0239,
+                    "profile_path": null,
+                    "cast_id": 28,
+                    "character": "",
+                    "credit_id": "61e5b96d6aa8e0008cc3982b",
+                    "order": 21
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1516512,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Trigo",
+                    "original_name": "Carlos Trigo",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 29,
+                    "character": "",
+                    "credit_id": "61e5b977b7abb5001a22b225",
+                    "order": 22
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1544192,
+                    "known_for_department": "Camera",
+                    "name": "María Inés Teyssié",
+                    "original_name": "María Inés Teyssié",
+                    "popularity": 0.0239,
+                    "profile_path": null,
+                    "credit_id": "6535bffbc8a5ac011cf06d53",
+                    "department": "Camera",
+                    "job": "Still Photographer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1069965,
+                    "known_for_department": "Art",
+                    "name": "Santiago Elder",
+                    "original_name": "Santiago Elder",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6535bfea2b210800e23ceb4a",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 995375,
+                    "known_for_department": "Camera",
+                    "name": "Carlos Torlaschi",
+                    "original_name": "Carlos Torlaschi",
+                    "popularity": 0.0214,
+                    "profile_path": "/r8LJjzUqmhTfSQUYBPYCifZbIg2.jpg",
+                    "credit_id": "6535bfbd02842000ffb5aa46",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1748496,
+                    "known_for_department": "Editing",
+                    "name": "Darío Tedesco",
+                    "original_name": "Darío Tedesco",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6535bfdbc8a5ac0139ab32ff",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1935348,
+                    "known_for_department": "Acting",
+                    "name": "Ulises Butrón",
+                    "original_name": "Ulises Butrón",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6535bfcd8cfcc700aa02f2d8",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1977388,
+                    "known_for_department": "Production",
+                    "name": "Salvador D'Antonio",
+                    "original_name": "Salvador D'Antonio",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5a82a7a3925141167800d53a",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1977384,
+                    "known_for_department": "Writing",
+                    "name": "Jorge Garayoa",
+                    "original_name": "Jorge Garayoa",
+                    "popularity": 0.0546,
+                    "profile_path": null,
+                    "credit_id": "5a82a6dfc3a3684cdf00ef06",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 105208,
+                    "known_for_department": "Acting",
+                    "name": "Víctor Bó",
+                    "original_name": "Víctor Bó",
+                    "popularity": 1.7367,
+                    "profile_path": "/hVELREtcHYUCJ7u0IaoSBEUbzlk.jpg",
+                    "credit_id": "5a82a7390e0a260832006c29",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1075239,
+                    "known_for_department": "Directing",
+                    "name": "Alberto Fischerman",
+                    "original_name": "Alberto Fischerman",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5a82a6cb0e0a26083800718e",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5528300,
+                    "known_for_department": "Writing",
+                    "name": "Jorge Meijide",
+                    "original_name": "Jorge Meijide",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "685cee15e71fdd0f387b3da6",
+                    "department": "Writing",
+                    "job": "Original Story"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "La Clinica del Doctor Cureta Trailer 1987",
+                    "key": "gmxugamRstc",
+                    "published_at": "2012-07-30T21:01:30.000Z",
+                    "site": "YouTube",
+                    "size": 360,
+                    "type": "Trailer",
+                    "official": false,
+                    "id": "5ba7c673c3a3680e6102c794"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1500,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/3QS2Te0mAZvXJ77DGJFkTnKAUJy.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1000
+                }
+            ]
+        }
+    }
+}

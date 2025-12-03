@@ -231,6 +231,90 @@ class RoleCatalog
                 'casa-productora',
             ],
         ],
+        'casting' => [
+            'name' => 'Casting',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 26,
+            'aliases' => [
+                'casting',
+                'casting-director',
+                'director-de-casting',
+                'casting-assistant',
+            ],
+        ],
+        'continuity' => [
+            'name' => 'Continuidad',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 27,
+            'aliases' => [
+                'continuity',
+                'script-supervisor',
+                'supervisor-de-continuidad',
+                'continuista',
+            ],
+        ],
+        'art-department' => [
+            'name' => 'Departamento de arte',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 28,
+            'aliases' => [
+                'art-department',
+                'art-department-coordinator',
+                'set-decorator',
+                'decorador',
+            ],
+        ],
+        'stunts' => [
+            'name' => 'Especialistas',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 29,
+            'aliases' => [
+                'stunts',
+                'stunt',
+                'stunt-coordinator',
+                'stunt-performer',
+                'doble',
+            ],
+        ],
+        'assistant-camera' => [
+            'name' => 'Asistente de cámara',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 30,
+            'aliases' => [
+                'assistant-camera',
+                'first-assistant-camera',
+                'second-assistant-camera',
+                'ac',
+            ],
+        ],
+        'gaffer' => [
+            'name' => 'Jefe de iluminación',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 31,
+            'aliases' => [
+                'gaffer',
+                'chief-lighting-technician',
+                'iluminacion',
+                'iluminación',
+            ],
+        ],
+        'grip' => [
+            'name' => 'Grip',
+            'category' => 'crew',
+            'is_featured' => false,
+            'position' => 32,
+            'aliases' => [
+                'grip',
+                'key-grip',
+                'best-boy-grip',
+            ],
+        ],
     ];
 
     public static function match(?string $code, ?string $name): ?array

@@ -16,7 +16,11 @@ class FetchTmdbMovies extends Command
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
 
     protected const MOVIES = [
-        ['title' => 'Bahía Blanca', 'year' => 2021],
+        /*
+        ['title' => 'Gelbard: la historia secreta del último burgués nacional', 'year' => 2006],
+        ['title' => 'Hombre mirando al sudeste', 'year' => 1987],
+        ['title' => 'Las puertitas del Sr. López', 'year' => 1988],
+        ['title' => 'La clínica del Dr. Cureta', 'year' => 1987],
         ['title' => 'Bolivia', 'year' => 2001],
         ['title' => 'El Abrazo Partido', 'year' => 2004],
         ['title' => 'El asaltante', 'year' => 2007],
@@ -26,6 +30,18 @@ class FetchTmdbMovies extends Command
         ['title' => 'Rompecabezas', 'tmdb_id' => 41272],
         ['title' => 'Tomando estado'],
         ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
+        ['title' => 'Distancia de rescate', 'year' => 2021],
+        ['title' => 'Los ladrones', 'year' => 2022],
+        ['title' => 'Hotel Descanso', 'year' => 2002],
+        ['title' => 'Un mundo misterioso', 'year' => 2011],
+        ['title' => 'Historias mínimas', 'year' => 2002],
+        ['title' => 'El perro', 'year' => 2004],
+        ['title' => 'Días de pesca', 'year' => 2012],
+        ['title' => 'El otro verano', 'year' => 2018],
+        ['title' => 'Rapado', 'year' => 1992],
+        ['title' => 'Derecho de familia', 'year' => 2006],
+        ['title' => 'Pajaros volando', 'year' => 2010],
+        ['title' => 'El coso', 'year' => 2022],
         /*
         ['title' => 'Valentín', 'year' => 2002],
         ['title' => 'El aura', 'year' => 2005],

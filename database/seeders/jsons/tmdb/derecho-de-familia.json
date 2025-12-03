@@ -1,0 +1,362 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 97548,
+    "slug": "derecho-de-familia",
+    "title": "Derecho de familia",
+    "original_title": "Derecho de familia",
+    "overview": "Perelman hijo (Daniel Hendler) es un joven que estudia derecho que no quiere parecerse más a su padre (Arturo Goetz), un prestigioso abogado, pero cuanto más trata de diferenciarse, más se parece a él. Como una forma de encontrarse, busca la manera de descubrir qué es lo que más lo representa, y así despegarse de la imagen paterna. Ahora que ya es un adulto, está casado, tiene un hijo y la vida se le presenta en permanente transformación.",
+    "runtime": 102,
+    "release_date": "2006-03-23",
+    "year": 2006,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español",
+        "עִבְרִית"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/50lgEhfkMuwLH55EmMnZUNU2lMm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ktPneDl4YnYw5zL4UKpWpxcPimA.jpg",
+    "trailer": "https://www.youtube.com/watch?v=GcK2KQLsgms",
+    "cast": [
+        {
+            "id": 131867,
+            "name": "Daniel Hendler",
+            "character": "Ariel Perelman",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+        },
+        {
+            "id": 50929,
+            "name": "Arturo Goetz",
+            "character": "Bernardo Perelman",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+        },
+        {
+            "id": 1013995,
+            "name": "Eloy Burman",
+            "character": "Gastón Perelman",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 584336,
+            "name": "Adriana Aizemberg",
+            "character": "Norita",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg"
+        },
+        {
+            "id": 140542,
+            "name": "Julieta Díaz",
+            "character": "Sandra",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/9zJGNtye3SXLPRJYZEQhbOZ0r4P.jpg"
+        },
+        {
+            "id": 995616,
+            "name": "Damián Dreizik",
+            "character": "",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 584335,
+            "name": "Daniel Burman",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg"
+        },
+        {
+            "id": 584335,
+            "name": "Daniel Burman",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg"
+        },
+        {
+            "id": 947469,
+            "name": "Diego Dubcovsky",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/ktPneDl4YnYw5zL4UKpWpxcPimA.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 97548,
+        "imdb_id": "tt0474622",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Derecho de familia",
+        "overview": "Perelman hijo (Daniel Hendler) es un joven que estudia derecho que no quiere parecerse más a su padre (Arturo Goetz), un prestigioso abogado, pero cuanto más trata de diferenciarse, más se parece a él. Como una forma de encontrarse, busca la manera de descubrir qué es lo que más lo representa, y así despegarse de la imagen paterna. Ahora que ya es un adulto, está casado, tiene un hijo y la vida se le presenta en permanente transformación.",
+        "popularity": 1.3588,
+        "poster_path": "/50lgEhfkMuwLH55EmMnZUNU2lMm.jpg",
+        "production_companies": [
+            {
+                "id": 35449,
+                "logo_path": null,
+                "name": "Classic Films",
+                "origin_country": ""
+            },
+            {
+                "id": 9962,
+                "logo_path": null,
+                "name": "BD Cine",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "2006-03-23",
+        "revenue": 1058584,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "Hebrew",
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Derecho de familia",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 21,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 131867,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Hendler",
+                    "original_name": "Daniel Hendler",
+                    "popularity": 2.0036,
+                    "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
+                    "cast_id": 2,
+                    "character": "Ariel Perelman",
+                    "credit_id": "52fe49e49251416c750d6bc9",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50929,
+                    "known_for_department": "Acting",
+                    "name": "Arturo Goetz",
+                    "original_name": "Arturo Goetz",
+                    "popularity": 0.1401,
+                    "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
+                    "cast_id": 3,
+                    "character": "Bernardo Perelman",
+                    "credit_id": "52fe49e49251416c750d6bcd",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1013995,
+                    "known_for_department": "Acting",
+                    "name": "Eloy Burman",
+                    "original_name": "Eloy Burman",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Gastón Perelman",
+                    "credit_id": "52fe49e49251416c750d6bd1",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 584336,
+                    "known_for_department": "Acting",
+                    "name": "Adriana Aizemberg",
+                    "original_name": "Adriana Aizemberg",
+                    "popularity": 0.1208,
+                    "profile_path": "/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg",
+                    "cast_id": 6,
+                    "character": "Norita",
+                    "credit_id": "52fe49e49251416c750d6bd9",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 140542,
+                    "known_for_department": "Acting",
+                    "name": "Julieta Díaz",
+                    "original_name": "Julieta Díaz",
+                    "popularity": 0.791,
+                    "profile_path": "/9zJGNtye3SXLPRJYZEQhbOZ0r4P.jpg",
+                    "cast_id": 7,
+                    "character": "Sandra",
+                    "credit_id": "590312999251413e3500853c",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 995616,
+                    "known_for_department": "Acting",
+                    "name": "Damián Dreizik",
+                    "original_name": "Damián Dreizik",
+                    "popularity": 0.7089,
+                    "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
+                    "cast_id": 10,
+                    "character": "",
+                    "credit_id": "653aceed519bbb011b43a381",
+                    "order": 5
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584335,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Burman",
+                    "original_name": "Daniel Burman",
+                    "popularity": 0.1668,
+                    "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
+                    "credit_id": "625f0f5abefb090051f0ed67",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584335,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Burman",
+                    "original_name": "Daniel Burman",
+                    "popularity": 0.1668,
+                    "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
+                    "credit_id": "52fe49e49251416c750d6bc5",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 947469,
+                    "known_for_department": "Production",
+                    "name": "Diego Dubcovsky",
+                    "original_name": "Diego Dubcovsky",
+                    "popularity": 0.0338,
+                    "profile_path": "/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg",
+                    "credit_id": "63d7868e955c65008c7add60",
+                    "department": "Production",
+                    "job": "Producer"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Tráiler Oficial de DERECHO DE FAMILIA",
+                    "key": "GcK2KQLsgms",
+                    "site": "YouTube",
+                    "size": 360,
+                    "type": "Trailer",
+                    "official": false,
+                    "published_at": "2012-11-28T11:31:13.000Z",
+                    "id": "6243afc47caa470047684615"
+                },
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Derecho de Familia (Trailer)",
+                    "key": "8wnVNxLb5ls",
+                    "published_at": "2006-12-02T11:26:03.000Z",
+                    "site": "YouTube",
+                    "size": 360,
+                    "type": "Trailer",
+                    "official": false,
+                    "id": "533ec6dac3a368544800811a"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 3000,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/50lgEhfkMuwLH55EmMnZUNU2lMm.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 2000
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1200,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/oWw1q1u4ETFpetyhbZBZzqwvqKp.jpg",
+                    "vote_average": 1.75,
+                    "vote_count": 2,
+                    "width": 800
+                }
+            ]
+        }
+    }
+}

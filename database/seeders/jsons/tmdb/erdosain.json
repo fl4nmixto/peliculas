@@ -1,0 +1,547 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 696917,
+    "slug": "erdosain",
+    "title": "Erdosain",
+    "original_title": "Erdosain",
+    "overview": "Adaptación de la serie \"Los siete locos y los lanzallamas\", estrenada en la TV Pública en 2015.",
+    "runtime": 127,
+    "release_date": "2020-04-26",
+    "year": 2020,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/wwtcAr8occuUXDgLAW7EEvhOwlh.jpg",
+    "backdrop_url": null,
+    "trailer": "https://www.youtube.com/watch?v=2-fVlSrXEtI",
+    "cast": [
+        {
+            "id": 96479,
+            "name": "Diego Velázquez",
+            "character": "Remo Erdosain",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/tmb2hDI6RnJF1R4E3QoSB3N4pzE.jpg"
+        },
+        {
+            "id": 131867,
+            "name": "Daniel Hendler",
+            "character": "Fischbein",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+        },
+        {
+            "id": 1125516,
+            "name": "Fabio Alberti",
+            "character": "Ergueta",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 130753,
+            "name": "Carlos Belloso",
+            "character": "El astrólogo",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/zP0dVhtnTJHEUj814WyELtlvWbz.jpg"
+        },
+        {
+            "id": 140541,
+            "name": "Daniel Fanego",
+            "character": "El rufián melancólico",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg"
+        },
+        {
+            "id": 237081,
+            "name": "Belén Blanco",
+            "character": "Elsa",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/tG6Q8xk1V1xhFtu2Nn50YjKQHdt.jpg"
+        },
+        {
+            "id": 230212,
+            "name": "Pompeyo Audivert",
+            "character": "El buscador de oro",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/nEBRzo7t9YsYtfzEGbM6hXrFRTT.jpg"
+        },
+        {
+            "id": 145025,
+            "name": "Julieta Zylberberg",
+            "character": "Hipólita",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg"
+        },
+        {
+            "id": 1059972,
+            "name": "Claudio Rissi",
+            "character": "El mayor",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/szQiObvrLjeJxz7y3yhC7gcs16R.jpg"
+        },
+        {
+            "id": 1500062,
+            "name": "Marcelo Subiotto",
+            "character": "Bromberg",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
+        },
+        {
+            "id": 74910,
+            "name": "Pablo Cedrón",
+            "character": "Barsut",
+            "order": 10,
+            "image_url": "https://image.tmdb.org/t/p/original/5Ql1ytFSWqxlz9ZomZ2dKZ7jVKa.jpg"
+        },
+        {
+            "id": 103432,
+            "name": "Leonor Manso",
+            "character": "Doña Ignacia",
+            "order": 11,
+            "image_url": "https://image.tmdb.org/t/p/original/9yf4r5tXZNLssehxIeoD0HwWhO4.jpg"
+        },
+        {
+            "id": 141572,
+            "name": "Martín Slipak",
+            "character": "El abogado",
+            "order": 12,
+            "image_url": "https://image.tmdb.org/t/p/original/eimnNoD0sfVhSg26FDulWSmyz5Y.jpg"
+        },
+        {
+            "id": 544958,
+            "name": "Mariana Anghileri",
+            "character": "Aurora",
+            "order": 13,
+            "image_url": "https://image.tmdb.org/t/p/original/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg"
+        },
+        {
+            "id": 995388,
+            "name": "Fabián Arenillas",
+            "character": "El capitán",
+            "order": 14,
+            "image_url": "https://image.tmdb.org/t/p/original/cc4sLjGi1gCp5uhJjtiPpNYXBtr.jpg"
+        },
+        {
+            "id": 966349,
+            "name": "Magdalena Capobianco",
+            "character": "La bizca",
+            "order": 15,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1084273,
+            "name": "Fernando Spiner",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/hvWWtWbATn3JYyCzDvnpnu28vZj.jpg"
+        },
+        {
+            "id": 1075101,
+            "name": "Ana Piterbarg",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/QWtz0496KukTDPnp1kv4SX25HP.jpg"
+        },
+        {
+            "id": 1646650,
+            "name": "Leonel D'Agostino",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 1099202,
+            "name": "Ricardo Piglia",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 2174578,
+            "name": "Roberto Arlt",
+            "department": "Writing",
+            "job": "Novel",
+            "image_url": "https://image.tmdb.org/t/p/original/57zg6TD8EVn8GRjq9RbNALvRw0l.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 696917,
+        "imdb_id": "tt37504922",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Erdosain",
+        "overview": "Adaptación de la serie \"Los siete locos y los lanzallamas\", estrenada en la TV Pública en 2015.",
+        "popularity": 2.4892,
+        "poster_path": "/wwtcAr8occuUXDgLAW7EEvhOwlh.jpg",
+        "production_companies": [
+            {
+                "id": 121259,
+                "logo_path": null,
+                "name": "TVP",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2020-04-26",
+        "revenue": 0,
+        "runtime": 127,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Erdosain",
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 2,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 96479,
+                    "known_for_department": "Acting",
+                    "name": "Diego Velázquez",
+                    "original_name": "Diego Velázquez",
+                    "popularity": 0.941,
+                    "profile_path": "/tmb2hDI6RnJF1R4E3QoSB3N4pzE.jpg",
+                    "cast_id": 5,
+                    "character": "Remo Erdosain",
+                    "credit_id": "5ee2013e590086001f4e2a16",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 131867,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Hendler",
+                    "original_name": "Daniel Hendler",
+                    "popularity": 2.0036,
+                    "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
+                    "cast_id": 6,
+                    "character": "Fischbein",
+                    "credit_id": "5ee2016f4c1bb00020a46f1f",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1125516,
+                    "known_for_department": "Acting",
+                    "name": "Fabio Alberti",
+                    "original_name": "Fabio Alberti",
+                    "popularity": 0.052,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Ergueta",
+                    "credit_id": "5ee2019090dde00020a950f8",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 130753,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Belloso",
+                    "original_name": "Carlos Belloso",
+                    "popularity": 0.2348,
+                    "profile_path": "/zP0dVhtnTJHEUj814WyELtlvWbz.jpg",
+                    "cast_id": 8,
+                    "character": "El astrólogo",
+                    "credit_id": "5ee2019f4c1bb0001da39899",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 140541,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Fanego",
+                    "original_name": "Daniel Fanego",
+                    "popularity": 0.8547,
+                    "profile_path": "/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg",
+                    "cast_id": 9,
+                    "character": "El rufián melancólico",
+                    "credit_id": "5ee201adf36a32001e8eb0ca",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 237081,
+                    "known_for_department": "Acting",
+                    "name": "Belén Blanco",
+                    "original_name": "Belén Blanco",
+                    "popularity": 0.9905,
+                    "profile_path": "/tG6Q8xk1V1xhFtu2Nn50YjKQHdt.jpg",
+                    "cast_id": 10,
+                    "character": "Elsa",
+                    "credit_id": "5ee201e190dde00021aa4dbc",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 230212,
+                    "known_for_department": "Acting",
+                    "name": "Pompeyo Audivert",
+                    "original_name": "Pompeyo Audivert",
+                    "popularity": 1.0351,
+                    "profile_path": "/nEBRzo7t9YsYtfzEGbM6hXrFRTT.jpg",
+                    "cast_id": 11,
+                    "character": "El buscador de oro",
+                    "credit_id": "5ee202024c1bb0001da398c5",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 145025,
+                    "known_for_department": "Acting",
+                    "name": "Julieta Zylberberg",
+                    "original_name": "Julieta Zylberberg",
+                    "popularity": 0.5385,
+                    "profile_path": "/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg",
+                    "cast_id": 12,
+                    "character": "Hipólita",
+                    "credit_id": "5ee2020d4c1bb00020a46fc2",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1059972,
+                    "known_for_department": "Acting",
+                    "name": "Claudio Rissi",
+                    "original_name": "Claudio Rissi",
+                    "popularity": 0.2452,
+                    "profile_path": "/szQiObvrLjeJxz7y3yhC7gcs16R.jpg",
+                    "cast_id": 13,
+                    "character": "El mayor",
+                    "credit_id": "5ee202214c1bb0001ea4f74b",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1500062,
+                    "known_for_department": "Acting",
+                    "name": "Marcelo Subiotto",
+                    "original_name": "Marcelo Subiotto",
+                    "popularity": 0.6953,
+                    "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
+                    "cast_id": 14,
+                    "character": "Bromberg",
+                    "credit_id": "5ee2023159008600214e2cd0",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 74910,
+                    "known_for_department": "Acting",
+                    "name": "Pablo Cedrón",
+                    "original_name": "Pablo Cedrón",
+                    "popularity": 0.2521,
+                    "profile_path": "/5Ql1ytFSWqxlz9ZomZ2dKZ7jVKa.jpg",
+                    "cast_id": 16,
+                    "character": "Barsut",
+                    "credit_id": "5ee2029897eab4001fe06f5b",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 103432,
+                    "known_for_department": "Acting",
+                    "name": "Leonor Manso",
+                    "original_name": "Leonor Manso",
+                    "popularity": 0.0801,
+                    "profile_path": "/9yf4r5tXZNLssehxIeoD0HwWhO4.jpg",
+                    "cast_id": 18,
+                    "character": "Doña Ignacia",
+                    "credit_id": "686410913893a2858e414906",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 141572,
+                    "known_for_department": "Acting",
+                    "name": "Martín Slipak",
+                    "original_name": "Martín Slipak",
+                    "popularity": 0.0713,
+                    "profile_path": "/eimnNoD0sfVhSg26FDulWSmyz5Y.jpg",
+                    "cast_id": 19,
+                    "character": "El abogado",
+                    "credit_id": "6864109ba8ab8bdbeb4d0ded",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 544958,
+                    "known_for_department": "Acting",
+                    "name": "Mariana Anghileri",
+                    "original_name": "Mariana Anghileri",
+                    "popularity": 0.19,
+                    "profile_path": "/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg",
+                    "cast_id": 20,
+                    "character": "Aurora",
+                    "credit_id": "686410ad3ffb9f27872be31a",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 995388,
+                    "known_for_department": "Acting",
+                    "name": "Fabián Arenillas",
+                    "original_name": "Fabián Arenillas",
+                    "popularity": 0.2023,
+                    "profile_path": "/cc4sLjGi1gCp5uhJjtiPpNYXBtr.jpg",
+                    "cast_id": 21,
+                    "character": "El capitán",
+                    "credit_id": "686410cddeebb6411f2be1a1",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 966349,
+                    "known_for_department": "Acting",
+                    "name": "Magdalena Capobianco",
+                    "original_name": "Magdalena Capobianco",
+                    "popularity": 0.0604,
+                    "profile_path": null,
+                    "cast_id": 22,
+                    "character": "La bizca",
+                    "credit_id": "68642ba5422f8415e7f84084",
+                    "order": 15
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1084273,
+                    "known_for_department": "Directing",
+                    "name": "Fernando Spiner",
+                    "original_name": "Fernando Spiner",
+                    "popularity": 0.0789,
+                    "profile_path": "/hvWWtWbATn3JYyCzDvnpnu28vZj.jpg",
+                    "credit_id": "5ee2008d97eab4001ee0d47e",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1075101,
+                    "known_for_department": "Writing",
+                    "name": "Ana Piterbarg",
+                    "original_name": "Ana Piterbarg",
+                    "popularity": 0.0607,
+                    "profile_path": "/QWtz0496KukTDPnp1kv4SX25HP.jpg",
+                    "credit_id": "5ee2009f4c1bb0001ea4f50f",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1646650,
+                    "known_for_department": "Writing",
+                    "name": "Leonel D'Agostino",
+                    "original_name": "Leonel D'Agostino",
+                    "popularity": 0.073,
+                    "profile_path": null,
+                    "credit_id": "5ee202614c1bb0001ea4f7cf",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1099202,
+                    "known_for_department": "Writing",
+                    "name": "Ricardo Piglia",
+                    "original_name": "Ricardo Piglia",
+                    "popularity": 0.044,
+                    "profile_path": null,
+                    "credit_id": "5ee20121f36a32001e8eb03d",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2174578,
+                    "known_for_department": "Writing",
+                    "name": "Roberto Arlt",
+                    "original_name": "Roberto Arlt",
+                    "popularity": 0.0582,
+                    "profile_path": "/57zg6TD8EVn8GRjq9RbNALvRw0l.jpg",
+                    "credit_id": "6837e0c3707f755c794155f8",
+                    "department": "Writing",
+                    "job": "Novel"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Trailer Erdosain | Centro Cultural Kirchner",
+                    "key": "2-fVlSrXEtI",
+                    "site": "YouTube",
+                    "size": 1080,
+                    "type": "Trailer",
+                    "official": false,
+                    "published_at": "2020-04-23T21:27:19.000Z",
+                    "id": "686416fdfd344308758c2552"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

@@ -15,8 +15,14 @@ class FetchTmdbMovies extends Command
 
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
 
-    protected const MOVIES = [
+    protected const MOVIES = [        
         /*
+        ['title' => 'Erdosain', 'year' => 2020],
+        ['title' => 'El crítico', 'year' => 2014],
+        ['title' => 'El fondo del mar', 'year' => 2003],
+        ['title' => 'Una novia errante', 'year' => 2007],
+        ['title' => 'Vaquero', 'year' => 2011],
+        ['title' => 'Los dueños', 'year' => 2014],
         ['title' => 'Gelbard: la historia secreta del último burgués nacional', 'year' => 2006],
         ['title' => 'Hombre mirando al sudeste', 'year' => 1987],
         ['title' => 'Las puertitas del Sr. López', 'year' => 1988],

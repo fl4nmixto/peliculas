@@ -17,6 +17,10 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [        
         /*
+        ['title' => "Whisky", 'year' => 2004],
+        ['title' => 'Acné', 'year' => 2008],
+        ['title' => 'La vida útil', 'year' => 2010],
+        ['title' => "Chile '76", 'year' => 2022],
         ['title' => 'Erdosain', 'year' => 2020],
         ['title' => 'El crítico', 'year' => 2014],
         ['title' => 'El fondo del mar', 'year' => 2003],
@@ -44,7 +48,6 @@ class FetchTmdbMovies extends Command
         ['title' => 'El perro', 'year' => 2004],
         ['title' => 'Días de pesca', 'year' => 2012],
         ['title' => 'El otro verano', 'year' => 2018],
-        ['title' => 'Rapado', 'year' => 1992],
         ['title' => 'Derecho de familia', 'year' => 2006],
         ['title' => 'Pajaros volando', 'year' => 2010],
         ['title' => 'El coso', 'year' => 2022],

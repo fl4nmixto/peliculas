@@ -13,6 +13,7 @@ class MovieSource extends Model
         'movie_id',
         'provider_id',
         'url',
+        'quality',
     ];
 
     public function movie()

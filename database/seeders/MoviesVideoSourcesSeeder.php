@@ -80,7 +80,7 @@ class MoviesVideoSourcesSeeder extends Seeder
 
     private function updateTrailer(Movie $movie, ?string $youtubeKey): void
     {
-        if ($movie->trailer_url || ! $youtubeKey) {
+        if (! $youtubeKey) {
             return;
         }
 

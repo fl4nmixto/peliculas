@@ -26,7 +26,7 @@ class MovieController extends Controller
 
     protected function renderCatalog(?Genre $genre = null, ?string $year = null)
     {
-        $query = Movie::query()->with('genres')->orderBy('year', 'desc');
+        $query = Movie::query()->with('genres')->orderBy('title');
 
         if ($genre) {
             $query->whereHas('genres', fn ($builder) => $builder->where('genres.id', $genre->id));

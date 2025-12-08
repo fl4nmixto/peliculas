@@ -41,6 +41,12 @@ class MoviesVideoSourcesSeeder extends Seeder
             $this->updateTrailer($movie, $record['youtube_trailer'] ?? null);
             $this->updateSource($movie, $providers['ok-ru'], $record['ok_ru_id'] ?? null, $record['ok_ru_quality'] ?? null);
             $this->updateSource($movie, $providers['youtube'], $record['youtube_id'] ?? null, $record['youtube_quality'] ?? null);
+            $this->updateSource(
+                $movie,
+                $providers['vimeo'],
+                $record['vimeo_url'] ?? $record['vimeo_id'] ?? $record['vimeo'] ?? null,
+                $record['vimeo_quality'] ?? null
+            );
         }
     }
 
@@ -75,6 +81,10 @@ class MoviesVideoSourcesSeeder extends Seeder
                 ['slug' => 'youtube'],
                 ['name' => 'YouTube']
             ),
+            'vimeo' => Provider::firstOrCreate(
+                ['slug' => 'vimeo'],
+                ['name' => 'Vimeo']
+            ),
         ];
     }
 
@@ -96,9 +106,12 @@ class MoviesVideoSourcesSeeder extends Seeder
         }
 
         $source = $movie->sources()->firstOrNew(['provider_id' => $provider->id]);
-        $source->url = $provider->slug === 'ok-ru'
-            ? $this->buildOkRuUrl($videoId)
-            : $this->buildYoutubeUrl($videoId);
+        $source->url = match ($provider->slug) {
+            'ok-ru' => $this->buildOkRuUrl($videoId),
+            'youtube' => $this->buildYoutubeUrl($videoId),
+            'vimeo' => $this->buildVimeoUrl($videoId),
+            default => $videoId,
+        };
         $source->quality = $quality;
         $source->save();
     }
@@ -115,5 +128,14 @@ class MoviesVideoSourcesSeeder extends Seeder
         }
 
         return 'https://www.youtube.com/watch?v=' . $videoId;
+    }
+
+    private function buildVimeoUrl(string $videoId): string
+    {
+        if (str_contains($videoId, 'http://') || str_contains($videoId, 'https://')) {
+            return $videoId;
+        }
+
+        return 'https://vimeo.com/' . ltrim($videoId, '/');
     }
 }

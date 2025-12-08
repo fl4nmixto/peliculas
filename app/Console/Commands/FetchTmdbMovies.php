@@ -16,6 +16,7 @@ class FetchTmdbMovies extends Command
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
 
     protected const MOVIES = [        
+        ['title' => "Che: Un Hombre Nuevo", 'year' => 2010],
         /*
         ['title' => "El asadito", 'year' => 2000],
         ['title' => "Whisky", 'year' => 2004],

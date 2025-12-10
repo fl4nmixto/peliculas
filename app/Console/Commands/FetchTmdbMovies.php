@@ -17,6 +17,7 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [        
         /*
+        ['title' => "Los paranoicos", 'year' => 2008],
         ['title' => "Che: Un Hombre Nuevo", 'year' => 2010],
         ['title' => "El asadito", 'year' => 2000],
         ['title' => "Whisky", 'year' => 2004],

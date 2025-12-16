@@ -42,7 +42,7 @@
 
             @yield('content')
 
-            <footer class="mt-auto border-t border-white/10 pt-4 text-sm text-slate-400">
+            <footer class="mt-auto border-t border-white/10 pt-4 text-right text-sm text-slate-400">
                 ¿Qué se puede hacer salvo ver películas?
             </footer>
         </main>

@@ -1,0 +1,952 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 69985,
+    "cinear_id": null,
+    "slug": "el-gato-desaparece",
+    "title": "El gato desaparece",
+    "original_title": "El gato desaparece",
+    "overview": "El gato desaparece comienza cuando Beatriz (Beatriz Spelzini) va a buscar a su marido a la clínica neuropsiquiátrica donde ha estado internado tras sufrir un brote psicótico inesperado y violento. El día se desarrolla en calma, salvo un hecho: Donatello, el gato, se espanta y da alaridos cuando ve entrar a Luis (Luis Luque) en la cocina. Cuando Luis trata de tomarlo el animal se retuerce entre sus manos, saca sus garras y tras herirlo en su rostro sale disparado al exterior. Beatriz no puede disimular una cierta inquietud por saber si Luis es, después de la internación, realmente el mismo, si aquel oscuro episodio puede volver a repetirse, mientras tanto extraños sucesos se irán manifestando modificando la rutina de aquellos personajes.",
+    "runtime": 89,
+    "release_date": "2011-04-21",
+    "year": 2011,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Suspense"
+        },
+        {
+            "id": 27,
+            "name": "Terror"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español",
+        "English"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/qBV7k0eO3cwuQ9kxmQ9js5qycpm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/lQoEdfbYS6BHCM9HSUVP9ZdSAD5.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 557733,
+            "name": "Beatriz Spelzini",
+            "character": "Beatriz",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/vNNcSfpW2rCypUWvWm3RKK700vG.jpg"
+        },
+        {
+            "id": 103431,
+            "name": "Luis Luque",
+            "character": "Luis",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg"
+        },
+        {
+            "id": 557713,
+            "name": "María Abadi",
+            "character": "Verónica Romero",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/aT872ebRbxYz5A1dkPAYMcAiqvg.jpg"
+        },
+        {
+            "id": 132551,
+            "name": "Norma Argentina",
+            "character": "Ángela",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/6cRCLvntQ3OQKigrInFqNQLHPRK.jpg"
+        },
+        {
+            "id": 557720,
+            "name": "Damián Guitián",
+            "character": "Rodolfo",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 557732,
+            "name": "Hugo Sigman",
+            "character": "Dr. Anaya",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 557727,
+            "name": "Javier Niklison",
+            "character": "Fourcade",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg"
+        },
+        {
+            "id": 557726,
+            "name": "Alfredo Martín",
+            "character": "Dr. Albirastain",
+            "order": 7,
+            "image_url": null
+        },
+        {
+            "id": 557730,
+            "name": "Hugo Pisa",
+            "character": "Dr. Perelman",
+            "order": 8,
+            "image_url": null
+        },
+        {
+            "id": 557717,
+            "name": "Kiko Cerone",
+            "character": "Secretario Juzgado",
+            "order": 9,
+            "image_url": null
+        },
+        {
+            "id": 557721,
+            "name": "Guillermo Hönig",
+            "character": "Psiquiatra Forense",
+            "order": 10,
+            "image_url": null
+        },
+        {
+            "id": 557734,
+            "name": "Matías Tapia",
+            "character": "Martín",
+            "order": 11,
+            "image_url": null
+        },
+        {
+            "id": 557716,
+            "name": "Emma Jayne Carlton",
+            "character": "Elizabeth",
+            "order": 12,
+            "image_url": null
+        },
+        {
+            "id": 557718,
+            "name": "Tristán Colombo",
+            "character": "Hijo",
+            "order": 13,
+            "image_url": null
+        },
+        {
+            "id": 557731,
+            "name": "Samuel Shaw",
+            "character": "Hijo menor",
+            "order": 14,
+            "image_url": null
+        },
+        {
+            "id": 557728,
+            "name": "Marta Paccamicci",
+            "character": "Vecina",
+            "order": 15,
+            "image_url": null
+        },
+        {
+            "id": 557714,
+            "name": "Gisela Aringoli",
+            "character": "Empleada Agencia Viajes",
+            "order": 16,
+            "image_url": null
+        },
+        {
+            "id": 557729,
+            "name": "Isabel Panasiuk",
+            "character": "Encargada Peluquería",
+            "order": 17,
+            "image_url": null
+        },
+        {
+            "id": 557723,
+            "name": "Lucas Laurens",
+            "character": "Esteban",
+            "order": 18,
+            "image_url": null
+        },
+        {
+            "id": 557724,
+            "name": "Mario Mahler",
+            "character": "Veterinario",
+            "order": 19,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        },
+        {
+            "id": 87510,
+            "name": "Carlos Sorín",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+        },
+        {
+            "id": 557709,
+            "name": "Patricia Bustamante",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 557710,
+            "name": "Alejandro Cacetta",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 146279,
+            "name": "Juan Pablo Galli",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 141761,
+            "name": "Juan Vera",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/1oBbk4Y2EtPmKxTRk7n8bNvGcsA.jpg"
+        },
+        {
+            "id": 87512,
+            "name": "Nicolás Sorin",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 557712,
+            "name": "Mohamed Rajid",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1324521,
+            "name": "Margarita Jusid",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 32356,
+            "name": "Alberto Moccia",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Designer",
+            "image_url": null
+        },
+        {
+            "id": 4298323,
+            "name": "Anabel Álvarez",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 1376045,
+            "name": "Fabiana Tiscornia",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 1310725,
+            "name": "José Luis Díaz",
+            "department": "Sound",
+            "job": "Supervising Sound Editor",
+            "image_url": null
+        },
+        {
+            "id": 3002701,
+            "name": "Alan Badan",
+            "department": "Lighting",
+            "job": "Gaffer",
+            "image_url": "https://image.tmdb.org/t/p/original/xu9jNWDgAJaagxo6224SYxi4JcF.jpg"
+        },
+        {
+            "id": 557711,
+            "name": "Julián Apezteguia",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/lQoEdfbYS6BHCM9HSUVP9ZdSAD5.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Suspense"
+            },
+            {
+                "id": 27,
+                "name": "Terror"
+            }
+        ],
+        "homepage": "",
+        "id": 69985,
+        "imdb_id": "tt1841584",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "El gato desaparece",
+        "overview": "El gato desaparece comienza cuando Beatriz (Beatriz Spelzini) va a buscar a su marido a la clínica neuropsiquiátrica donde ha estado internado tras sufrir un brote psicótico inesperado y violento. El día se desarrolla en calma, salvo un hecho: Donatello, el gato, se espanta y da alaridos cuando ve entrar a Luis (Luis Luque) en la cocina. Cuando Luis trata de tomarlo el animal se retuerce entre sus manos, saca sus garras y tras herirlo en su rostro sale disparado al exterior. Beatriz no puede disimular una cierta inquietud por saber si Luis es, después de la internación, realmente el mismo, si aquel oscuro episodio puede volver a repetirse, mientras tanto extraños sucesos se irán manifestando modificando la rutina de aquellos personajes.",
+        "popularity": 0.7095,
+        "poster_path": "/qBV7k0eO3cwuQ9kxmQ9js5qycpm.jpg",
+        "production_companies": [
+            {
+                "id": 3963,
+                "logo_path": null,
+                "name": "Guacamole Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 2562,
+                "logo_path": "/hQcSVwfXKkjXzD4oO9BmHKoyfkh.png",
+                "name": "Patagonik",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2011-04-21",
+        "revenue": 0,
+        "runtime": 89,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "El gato desaparece",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 27,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 557733,
+                    "known_for_department": "Acting",
+                    "name": "Beatriz Spelzini",
+                    "original_name": "Beatriz Spelzini",
+                    "popularity": 0.2869,
+                    "profile_path": "/vNNcSfpW2rCypUWvWm3RKK700vG.jpg",
+                    "cast_id": 33,
+                    "character": "Beatriz",
+                    "credit_id": "52fe47e4c3a368484e0df3b7",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 103431,
+                    "known_for_department": "Acting",
+                    "name": "Luis Luque",
+                    "original_name": "Luis Luque",
+                    "popularity": 0.4495,
+                    "profile_path": "/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg",
+                    "cast_id": 22,
+                    "character": "Luis",
+                    "credit_id": "52fe47e4c3a368484e0df38b",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 557713,
+                    "known_for_department": "Acting",
+                    "name": "María Abadi",
+                    "original_name": "María Abadi",
+                    "popularity": 0.6149,
+                    "profile_path": "/aT872ebRbxYz5A1dkPAYMcAiqvg.jpg",
+                    "cast_id": 10,
+                    "character": "Verónica Romero",
+                    "credit_id": "52fe47e4c3a368484e0df35b",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 132551,
+                    "known_for_department": "Acting",
+                    "name": "Norma Argentina",
+                    "original_name": "Norma Argentina",
+                    "popularity": 0.2123,
+                    "profile_path": "/6cRCLvntQ3OQKigrInFqNQLHPRK.jpg",
+                    "cast_id": 11,
+                    "character": "Ángela",
+                    "credit_id": "52fe47e4c3a368484e0df35f",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557720,
+                    "known_for_department": "Acting",
+                    "name": "Damián Guitián",
+                    "original_name": "Damián Guitián",
+                    "popularity": 0.1021,
+                    "profile_path": null,
+                    "cast_id": 18,
+                    "character": "Rodolfo",
+                    "credit_id": "52fe47e4c3a368484e0df37b",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557732,
+                    "known_for_department": "Production",
+                    "name": "Hugo Sigman",
+                    "original_name": "Hugo Sigman",
+                    "popularity": 0.1504,
+                    "profile_path": null,
+                    "cast_id": 31,
+                    "character": "Dr. Anaya",
+                    "credit_id": "52fe47e4c3a368484e0df3af",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557727,
+                    "known_for_department": "Acting",
+                    "name": "Javier Niklison",
+                    "original_name": "Javier Niklison",
+                    "popularity": 0.2056,
+                    "profile_path": "/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg",
+                    "cast_id": 26,
+                    "character": "Fourcade",
+                    "credit_id": "52fe47e4c3a368484e0df39b",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557726,
+                    "known_for_department": "Acting",
+                    "name": "Alfredo Martín",
+                    "original_name": "Alfredo Martín",
+                    "popularity": 0.1218,
+                    "profile_path": null,
+                    "cast_id": 25,
+                    "character": "Dr. Albirastain",
+                    "credit_id": "52fe47e4c3a368484e0df397",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557730,
+                    "known_for_department": "Acting",
+                    "name": "Hugo Pisa",
+                    "original_name": "Hugo Pisa",
+                    "popularity": 0.0743,
+                    "profile_path": null,
+                    "cast_id": 29,
+                    "character": "Dr. Perelman",
+                    "credit_id": "52fe47e4c3a368484e0df3a7",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557717,
+                    "known_for_department": "Acting",
+                    "name": "Kiko Cerone",
+                    "original_name": "Kiko Cerone",
+                    "popularity": 0.0892,
+                    "profile_path": null,
+                    "cast_id": 15,
+                    "character": "Secretario Juzgado",
+                    "credit_id": "52fe47e4c3a368484e0df36f",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557721,
+                    "known_for_department": "Acting",
+                    "name": "Guillermo Hönig",
+                    "original_name": "Guillermo Hönig",
+                    "popularity": 0.0434,
+                    "profile_path": null,
+                    "cast_id": 19,
+                    "character": "Psiquiatra Forense",
+                    "credit_id": "52fe47e4c3a368484e0df37f",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557734,
+                    "known_for_department": "Acting",
+                    "name": "Matías Tapia",
+                    "original_name": "Matías Tapia",
+                    "popularity": 0.1177,
+                    "profile_path": null,
+                    "cast_id": 34,
+                    "character": "Martín",
+                    "credit_id": "52fe47e4c3a368484e0df3bb",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557716,
+                    "known_for_department": "Acting",
+                    "name": "Emma Jayne Carlton",
+                    "original_name": "Emma Jayne Carlton",
+                    "popularity": 0.09,
+                    "profile_path": null,
+                    "cast_id": 14,
+                    "character": "Elizabeth",
+                    "credit_id": "52fe47e4c3a368484e0df36b",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557718,
+                    "known_for_department": "Acting",
+                    "name": "Tristán Colombo",
+                    "original_name": "Tristán Colombo",
+                    "popularity": 0.0429,
+                    "profile_path": null,
+                    "cast_id": 16,
+                    "character": "Hijo",
+                    "credit_id": "52fe47e4c3a368484e0df373",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557731,
+                    "known_for_department": "Acting",
+                    "name": "Samuel Shaw",
+                    "original_name": "Samuel Shaw",
+                    "popularity": 0.0545,
+                    "profile_path": null,
+                    "cast_id": 30,
+                    "character": "Hijo menor",
+                    "credit_id": "52fe47e4c3a368484e0df3ab",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557728,
+                    "known_for_department": "Acting",
+                    "name": "Marta Paccamicci",
+                    "original_name": "Marta Paccamicci",
+                    "popularity": 0.1573,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "Vecina",
+                    "credit_id": "52fe47e4c3a368484e0df39f",
+                    "order": 15
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557714,
+                    "known_for_department": "Acting",
+                    "name": "Gisela Aringoli",
+                    "original_name": "Gisela Aringoli",
+                    "popularity": 0.0889,
+                    "profile_path": null,
+                    "cast_id": 12,
+                    "character": "Empleada Agencia Viajes",
+                    "credit_id": "52fe47e4c3a368484e0df363",
+                    "order": 16
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557729,
+                    "known_for_department": "Acting",
+                    "name": "Isabel Panasiuk",
+                    "original_name": "Isabel Panasiuk",
+                    "popularity": 0.0413,
+                    "profile_path": null,
+                    "cast_id": 28,
+                    "character": "Encargada Peluquería",
+                    "credit_id": "52fe47e4c3a368484e0df3a3",
+                    "order": 17
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557723,
+                    "known_for_department": "Acting",
+                    "name": "Lucas Laurens",
+                    "original_name": "Lucas Laurens",
+                    "popularity": 0.0637,
+                    "profile_path": null,
+                    "cast_id": 21,
+                    "character": "Esteban",
+                    "credit_id": "52fe47e4c3a368484e0df387",
+                    "order": 18
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557724,
+                    "known_for_department": "Acting",
+                    "name": "Mario Mahler",
+                    "original_name": "Mario Mahler",
+                    "popularity": 0.2372,
+                    "profile_path": null,
+                    "cast_id": 23,
+                    "character": "Veterinario",
+                    "credit_id": "52fe47e4c3a368484e0df38f",
+                    "order": 19
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557722,
+                    "known_for_department": "Acting",
+                    "name": "Rodrigo Lamoreaux",
+                    "original_name": "Rodrigo Lamoreaux",
+                    "popularity": 0.0521,
+                    "profile_path": null,
+                    "cast_id": 20,
+                    "character": "Malabarista",
+                    "credit_id": "52fe47e4c3a368484e0df383",
+                    "order": 20
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557719,
+                    "known_for_department": "Acting",
+                    "name": "Gabriel Flores González",
+                    "original_name": "Gabriel Flores González",
+                    "popularity": 0.0741,
+                    "profile_path": null,
+                    "cast_id": 17,
+                    "character": "Guardia Shopping",
+                    "credit_id": "52fe47e4c3a368484e0df377",
+                    "order": 21
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 0.4292,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "cast_id": 32,
+                    "character": "Vecino",
+                    "credit_id": "52fe47e4c3a368484e0df3b3",
+                    "order": 22
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557725,
+                    "known_for_department": "Acting",
+                    "name": "Anahí Martella",
+                    "original_name": "Anahí Martella",
+                    "popularity": 0.2377,
+                    "profile_path": "/nHhuIfh1oOEQZrciRTUU6xv2XWQ.jpg",
+                    "cast_id": 24,
+                    "character": "Voz Peluquera",
+                    "credit_id": "52fe47e4c3a368484e0df393",
+                    "order": 23
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557715,
+                    "known_for_department": "Acting",
+                    "name": "Alejandro Javier Bures",
+                    "original_name": "Alejandro Javier Bures",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "cast_id": 13,
+                    "character": "Alumno",
+                    "credit_id": "52fe47e4c3a368484e0df367",
+                    "order": 24
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4334253,
+                    "known_for_department": "Acting",
+                    "name": "Juan Villegas",
+                    "original_name": "Juan Villegas",
+                    "popularity": 0.2097,
+                    "profile_path": null,
+                    "cast_id": 35,
+                    "character": "",
+                    "credit_id": "653599af2b210800c749d0ab",
+                    "order": 25
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 0.4292,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "52fe47e4c3a368484e0df327",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87510,
+                    "known_for_department": "Directing",
+                    "name": "Carlos Sorín",
+                    "original_name": "Carlos Sorín",
+                    "popularity": 0.4292,
+                    "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
+                    "credit_id": "52fe47e4c3a368484e0df32d",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557709,
+                    "known_for_department": "Production",
+                    "name": "Patricia Bustamante",
+                    "original_name": "Patricia Bustamante",
+                    "popularity": 0.0595,
+                    "profile_path": null,
+                    "credit_id": "52fe47e4c3a368484e0df333",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557710,
+                    "known_for_department": "Production",
+                    "name": "Alejandro Cacetta",
+                    "original_name": "Alejandro Cacetta",
+                    "popularity": 0.1659,
+                    "profile_path": null,
+                    "credit_id": "52fe47e4c3a368484e0df339",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 146279,
+                    "known_for_department": "Production",
+                    "name": "Juan Pablo Galli",
+                    "original_name": "Juan Pablo Galli",
+                    "popularity": 0.2217,
+                    "profile_path": null,
+                    "credit_id": "52fe47e4c3a368484e0df33f",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 141761,
+                    "known_for_department": "Production",
+                    "name": "Juan Vera",
+                    "original_name": "Juan Vera",
+                    "popularity": 0.3129,
+                    "profile_path": "/1oBbk4Y2EtPmKxTRk7n8bNvGcsA.jpg",
+                    "credit_id": "52fe47e4c3a368484e0df345",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 87512,
+                    "known_for_department": "Sound",
+                    "name": "Nicolás Sorin",
+                    "original_name": "Nicolás Sorin",
+                    "popularity": 0.2416,
+                    "profile_path": null,
+                    "credit_id": "52fe47e4c3a368484e0df34b",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557712,
+                    "known_for_department": "Editing",
+                    "name": "Mohamed Rajid",
+                    "original_name": "Mohamed Rajid",
+                    "popularity": 0.1308,
+                    "profile_path": null,
+                    "credit_id": "52fe47e4c3a368484e0df357",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1324521,
+                    "known_for_department": "Art",
+                    "name": "Margarita Jusid",
+                    "original_name": "Margarita Jusid",
+                    "popularity": 0.1175,
+                    "profile_path": null,
+                    "credit_id": "659772c15cc11d77d87d623f",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 32356,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Alberto Moccia",
+                    "original_name": "Alberto Moccia",
+                    "popularity": 0.1646,
+                    "profile_path": null,
+                    "credit_id": "659772d43a340b01def0df43",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Designer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4298323,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Anabel Álvarez",
+                    "original_name": "Anabel Álvarez",
+                    "popularity": 0.0824,
+                    "profile_path": null,
+                    "credit_id": "659772e8a6c1040f9bfad294",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1376045,
+                    "known_for_department": "Directing",
+                    "name": "Fabiana Tiscornia",
+                    "original_name": "Fabiana Tiscornia",
+                    "popularity": 0.1249,
+                    "profile_path": null,
+                    "credit_id": "659772fcd7a70a122e6a3ed6",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1310725,
+                    "known_for_department": "Sound",
+                    "name": "José Luis Díaz",
+                    "original_name": "José Luis Díaz",
+                    "popularity": 0.165,
+                    "profile_path": null,
+                    "credit_id": "659773105cc11d776e7d6bd1",
+                    "department": "Sound",
+                    "job": "Supervising Sound Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3002701,
+                    "known_for_department": "Camera",
+                    "name": "Alan Badan",
+                    "original_name": "Alan Badan",
+                    "popularity": 0.1272,
+                    "profile_path": "/xu9jNWDgAJaagxo6224SYxi4JcF.jpg",
+                    "credit_id": "667ddda7d7c0147035c4ad8e",
+                    "department": "Lighting",
+                    "job": "Gaffer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 557711,
+                    "known_for_department": "Camera",
+                    "name": "Julián Apezteguia",
+                    "original_name": "Julián Apezteguia",
+                    "popularity": 0.1165,
+                    "profile_path": "/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg",
+                    "credit_id": "6835f94d5f647053e7055a9e",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1440,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/qBV7k0eO3cwuQ9kxmQ9js5qycpm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 960
+                },
+                {
+                    "aspect_ratio": 0.707,
+                    "height": 1415,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/eJ3iLrhP3DDGBFRtxIeSMzz87jd.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 1000
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,514 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 1108602,
+    "cinear_id": 9277,
+    "slug": "bill-79",
+    "title": "Bill 79",
+    "original_title": "Bill 79",
+    "overview": "Inspirada en hechos reales. Buenos Aires, 1979.  Bill Evans, el gran pianista de jazz, llega a la Argentina para una serie de conciertos. Uno de ellos es en San Nicolás, una localidad de la provincia de Buenos Aires. Evans (adicto a la heroína hace veinte años) junto a sus dos músicos y su manager suben al auto del empresario argentino. El día del concierto se enteran que tocarán durante el concurso de “Miss Invierno 1979” Piano desafinado, box, drogas, muertes, recuerdos, whisky y empanadas. En un pueblo similar al de su infancia, lo imposible y cierto colisiona en Evans.",
+    "runtime": 79,
+    "release_date": "2023-05-11",
+    "year": 2023,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 36,
+            "name": "Historia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "English",
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/icFlsKg55Tg05zATMZTq1gOQMV9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/yc6sONY8BqEAhcScxoXAwqrRMXS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pTq4gMAGdsY",
+    "cast": [
+        {
+            "id": 989363,
+            "name": "Diego Gentile",
+            "character": "Bill Evans",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 1360729,
+            "name": "Marina Bellati",
+            "character": "Susan",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/paLF8lIlwpWkAu5SJDVFSuTrLWW.jpg"
+        },
+        {
+            "id": 237958,
+            "name": "Walter Jakob",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+        },
+        {
+            "id": 128048,
+            "name": "Julia Martínez Rubio",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/l5vItU9QRcwybFhm2nYc8arxbCB.jpg"
+        },
+        {
+            "id": 2380162,
+            "name": "Alejandro Jovic",
+            "character": "",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 3008291,
+            "name": "Guido Botto Fiora",
+            "character": "",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/sVoNrbDgVdvoHbp4CjInU4JdYHc.jpg"
+        },
+        {
+            "id": 3073347,
+            "name": "Paco Gorriz",
+            "character": "",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+        },
+        {
+            "id": 1022933,
+            "name": "Elvira Onetto",
+            "character": "",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg"
+        },
+        {
+            "id": 122699,
+            "name": "Martín Pavlovsky",
+            "character": "",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/2MW5yYEPNA9GHGmNuOLEJF3E0bO.jpg"
+        },
+        {
+            "id": 1043851,
+            "name": "Marcelo Xicarte",
+            "character": "",
+            "order": 9,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 81154,
+            "name": "Mariano Galperin",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 3993430,
+            "name": "Alejandro Guiliani",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": null
+        },
+        {
+            "id": 81154,
+            "name": "Mariano Galperin",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 4115458,
+            "name": "Ana Casariego",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 2827609,
+            "name": "Diego Tuñon",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 2235596,
+            "name": "Pablo Bustamante",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1997430,
+            "name": "Alejo Santos",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1386373,
+            "name": "Andrés Tambornino",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+        },
+        {
+            "id": 1409148,
+            "name": "Lorena Ventimiglia",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/yc6sONY8BqEAhcScxoXAwqrRMXS.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 36,
+                "name": "Historia"
+            }
+        ],
+        "homepage": "",
+        "id": 1108602,
+        "imdb_id": null,
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Bill 79",
+        "overview": "Inspirada en hechos reales. Buenos Aires, 1979.  Bill Evans, el gran pianista de jazz, llega a la Argentina para una serie de conciertos. Uno de ellos es en San Nicolás, una localidad de la provincia de Buenos Aires. Evans (adicto a la heroína hace veinte años) junto a sus dos músicos y su manager suben al auto del empresario argentino. El día del concierto se enteran que tocarán durante el concurso de “Miss Invierno 1979” Piano desafinado, box, drogas, muertes, recuerdos, whisky y empanadas. En un pueblo similar al de su infancia, lo imposible y cierto colisiona en Evans.",
+        "popularity": 1.7105,
+        "poster_path": "/icFlsKg55Tg05zATMZTq1gOQMV9.jpg",
+        "production_companies": [
+            {
+                "id": 202356,
+                "logo_path": null,
+                "name": "Puentes Verdes",
+                "origin_country": ""
+            },
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2023-05-11",
+        "revenue": 0,
+        "runtime": 79,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Bill 79",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 3,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 989363,
+                    "known_for_department": "Acting",
+                    "name": "Diego Gentile",
+                    "original_name": "Diego Gentile",
+                    "popularity": 0.5131,
+                    "profile_path": null,
+                    "cast_id": 1,
+                    "character": "Bill Evans",
+                    "credit_id": "642b767fac8e6b00f20a68a4",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1360729,
+                    "known_for_department": "Acting",
+                    "name": "Marina Bellati",
+                    "original_name": "Marina Bellati",
+                    "popularity": 0.5122,
+                    "profile_path": "/paLF8lIlwpWkAu5SJDVFSuTrLWW.jpg",
+                    "cast_id": 2,
+                    "character": "Susan",
+                    "credit_id": "642b768a01b1ca00b62b3c25",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 237958,
+                    "known_for_department": "Acting",
+                    "name": "Walter Jakob",
+                    "original_name": "Walter Jakob",
+                    "popularity": 0.6214,
+                    "profile_path": "/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg",
+                    "cast_id": 13,
+                    "character": "",
+                    "credit_id": "648c7b9f26346200ae1afa95",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 128048,
+                    "known_for_department": "Acting",
+                    "name": "Julia Martínez Rubio",
+                    "original_name": "Julia Martínez Rubio",
+                    "popularity": 0.2006,
+                    "profile_path": "/l5vItU9QRcwybFhm2nYc8arxbCB.jpg",
+                    "cast_id": 14,
+                    "character": "",
+                    "credit_id": "648c7ba4263462010cbb01e5",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2380162,
+                    "known_for_department": "Acting",
+                    "name": "Alejandro Jovic",
+                    "original_name": "Alejandro Jovic",
+                    "popularity": 0.0912,
+                    "profile_path": null,
+                    "cast_id": 15,
+                    "character": "",
+                    "credit_id": "648c7baac2ff3d011cb890a6",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 3008291,
+                    "known_for_department": "Acting",
+                    "name": "Guido Botto Fiora",
+                    "original_name": "Guido Botto Fiora",
+                    "popularity": 0.1825,
+                    "profile_path": "/sVoNrbDgVdvoHbp4CjInU4JdYHc.jpg",
+                    "cast_id": 16,
+                    "character": "",
+                    "credit_id": "648c7baec3c89100ae502178",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3073347,
+                    "known_for_department": "Acting",
+                    "name": "Paco Gorriz",
+                    "original_name": "Paco Gorriz",
+                    "popularity": 0.3016,
+                    "profile_path": "/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg",
+                    "cast_id": 17,
+                    "character": "",
+                    "credit_id": "648c7bb4076ce80144258b1b",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1022933,
+                    "known_for_department": "Acting",
+                    "name": "Elvira Onetto",
+                    "original_name": "Elvira Onetto",
+                    "popularity": 0.2502,
+                    "profile_path": "/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg",
+                    "cast_id": 18,
+                    "character": "",
+                    "credit_id": "648c7bb9076ce800ad72b4de",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 122699,
+                    "known_for_department": "Acting",
+                    "name": "Martín Pavlovsky",
+                    "original_name": "Martín Pavlovsky",
+                    "popularity": 0.3249,
+                    "profile_path": "/2MW5yYEPNA9GHGmNuOLEJF3E0bO.jpg",
+                    "cast_id": 19,
+                    "character": "",
+                    "credit_id": "648c7bbc559d2200ad816749",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1043851,
+                    "known_for_department": "Acting",
+                    "name": "Marcelo Xicarte",
+                    "original_name": "Marcelo Xicarte",
+                    "popularity": 0.1592,
+                    "profile_path": null,
+                    "cast_id": 20,
+                    "character": "",
+                    "credit_id": "673994b2624a85b8899ec544",
+                    "order": 9
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 81154,
+                    "known_for_department": "Directing",
+                    "name": "Mariano Galperin",
+                    "original_name": "Mariano Galperin",
+                    "popularity": 0.1592,
+                    "profile_path": null,
+                    "credit_id": "642b76b6c0a30800f2e318d5",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3993430,
+                    "known_for_department": "Crew",
+                    "name": "Alejandro Guiliani",
+                    "original_name": "Alejandro Guiliani",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "642b76d8bf31f200771f1dc8",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 81154,
+                    "known_for_department": "Directing",
+                    "name": "Mariano Galperin",
+                    "original_name": "Mariano Galperin",
+                    "popularity": 0.1592,
+                    "profile_path": null,
+                    "credit_id": "642b76bda3e4ba3d3e131959",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4115458,
+                    "known_for_department": "Art",
+                    "name": "Ana Casariego",
+                    "original_name": "Ana Casariego",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "648c7b6a26346200eb753d32",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2827609,
+                    "known_for_department": "Acting",
+                    "name": "Diego Tuñon",
+                    "original_name": "Diego Tuñon",
+                    "popularity": 0.0409,
+                    "profile_path": null,
+                    "credit_id": "648c7b84c3c89100eb31de25",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2235596,
+                    "known_for_department": "Sound",
+                    "name": "Pablo Bustamante",
+                    "original_name": "Pablo Bustamante",
+                    "popularity": 0.0663,
+                    "profile_path": null,
+                    "credit_id": "648c7b8d263462010cbb01de",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1997430,
+                    "known_for_department": "Editing",
+                    "name": "Alejo Santos",
+                    "original_name": "Alejo Santos",
+                    "popularity": 0.1295,
+                    "profile_path": null,
+                    "credit_id": "648c7b74559d22011c4b5c1a",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1386373,
+                    "known_for_department": "Editing",
+                    "name": "Andrés Tambornino",
+                    "original_name": "Andrés Tambornino",
+                    "popularity": 0.2019,
+                    "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
+                    "credit_id": "648c7b7926346200eb753d36",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1409148,
+                    "known_for_department": "Art",
+                    "name": "Lorena Ventimiglia",
+                    "original_name": "Lorena Ventimiglia",
+                    "popularity": 0.1536,
+                    "profile_path": null,
+                    "credit_id": "648c7b6042bf01013bbc167d",
+                    "department": "Art",
+                    "job": "Art Direction"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "BILL  79 Trailer OFICIAL.  Estreno 11 05 23",
+                    "key": "pTq4gMAGdsY",
+                    "site": "YouTube",
+                    "size": 1080,
+                    "type": "Trailer",
+                    "official": false,
+                    "published_at": "2023-03-21T21:12:02.000Z",
+                    "id": "642b7716ac8e6b00b4d6aefe"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

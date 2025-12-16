@@ -1,0 +1,1718 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 252504,
+    "cinear_id": null,
+    "slug": "el-cerrajero",
+    "title": "El Cerrajero",
+    "original_title": "El cerrajero",
+    "overview": "Sebastián es un cerrajero que empieza a tener visiones reveladoras sobre sus clientes cada vez que toca sus cerraduras. Este es un poder que complica su vida.",
+    "runtime": 77,
+    "release_date": "2014-01-21",
+    "year": 2014,
+    "tagline": "Una llave para cada vida",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8LDeK5nJShq92z1RyCHl4U7YArj.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/mR9uJhCoCbRYPsvo8IA33W8wBAx.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1086359,
+            "name": "Esteban Lamothe",
+            "character": "Sebastian",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+        },
+        {
+            "id": 141455,
+            "name": "Érica Rivas",
+            "character": "Monica",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg"
+        },
+        {
+            "id": 1516816,
+            "name": "Yosiria Huaripata",
+            "character": "Daisy",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 934904,
+            "name": "Sergio Boris",
+            "character": "José",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/7gAYXGYklxCUWjW1YZflymI1rQn.jpg"
+        },
+        {
+            "id": 1404411,
+            "name": "Santiago Gobernori",
+            "character": "Agustín",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/eC26m2DHvV97VCppQiLlmDSylMq.jpg"
+        },
+        {
+            "id": 1028444,
+            "name": "Luis Ziembrowski",
+            "character": "Juan",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
+        },
+        {
+            "id": 50928,
+            "name": "Germán de Silva",
+            "character": "Manuel",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+        },
+        {
+            "id": 27050,
+            "name": "María Onetto",
+            "character": "Fabiana",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/m869UDThEKOUbYxDxw5384LMcFJ.jpg"
+        },
+        {
+            "id": 50929,
+            "name": "Arturo Goetz",
+            "character": "Mario",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+        },
+        {
+            "id": 1392583,
+            "name": "Nahuel Mutti",
+            "character": "Pablo",
+            "order": 9,
+            "image_url": null
+        },
+        {
+            "id": 2671676,
+            "name": "Emilio Urdapilleta",
+            "character": "Cliente mayor 1",
+            "order": 10,
+            "image_url": null
+        },
+        {
+            "id": 2924101,
+            "name": "Adelina Rocatti",
+            "character": "Cliente mayor 2",
+            "order": 11,
+            "image_url": null
+        },
+        {
+            "id": 4656878,
+            "name": "Esteban Smirnoff",
+            "character": "Pedro",
+            "order": 12,
+            "image_url": null
+        },
+        {
+            "id": 5499950,
+            "name": "Hans Geraghty",
+            "character": "Sergio",
+            "order": 13,
+            "image_url": null
+        },
+        {
+            "id": 5499951,
+            "name": "Ulises Franoy",
+            "character": "Andrés",
+            "order": 14,
+            "image_url": null
+        },
+        {
+            "id": 5499952,
+            "name": "Pacho Geraghty",
+            "character": "Gabriel",
+            "order": 15,
+            "image_url": null
+        },
+        {
+            "id": 5499953,
+            "name": "Armenia Martínez",
+            "character": "Susana",
+            "order": 16,
+            "image_url": null
+        },
+        {
+            "id": 27059,
+            "name": "Claudia Cantero",
+            "character": "Mabel",
+            "order": 17,
+            "image_url": "https://image.tmdb.org/t/p/original/iZKNLHrvqHlFgzLwY3AEOnXzqmk.jpg"
+        },
+        {
+            "id": 4255896,
+            "name": "Ricardo Truppel",
+            "character": "Dueño",
+            "order": 18,
+            "image_url": null
+        },
+        {
+            "id": 557727,
+            "name": "Javier Niklison",
+            "character": "Luis",
+            "order": 19,
+            "image_url": "https://image.tmdb.org/t/p/original/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
+        },
+        {
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "https://image.tmdb.org/t/p/original/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
+        },
+        {
+            "id": 560290,
+            "name": "Pedro Loeb",
+            "department": "Directing",
+            "job": "Script Supervisor",
+            "image_url": "https://image.tmdb.org/t/p/original/dj1lWGKDAJrLonWQZK2gbdtSoAw.jpg"
+        },
+        {
+            "id": 2713693,
+            "name": "Diego Amson",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2310367,
+            "name": "Juan Pablo Miller",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg"
+        },
+        {
+            "id": 984322,
+            "name": "Alejandro Franov",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 983278,
+            "name": "Guillermo Nieto",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 1144948,
+            "name": "Delfina Castagnino",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg"
+        },
+        {
+            "id": 122689,
+            "name": "María Eugenia Sueiro",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 983358,
+            "name": "Julio Suárez",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 1498956,
+            "name": "Jorge Palacios",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist",
+            "image_url": null
+        },
+        {
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
+        },
+        {
+            "id": 1018728,
+            "name": "Jorge Gaggero",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 4235791,
+            "name": "Delia Malek",
+            "department": "Production",
+            "job": "Associate Producer",
+            "image_url": null
+        },
+        {
+            "id": 5499958,
+            "name": "Pedro Amson",
+            "department": "Production",
+            "job": "Associate Producer",
+            "image_url": null
+        },
+        {
+            "id": 1646193,
+            "name": "Lorena Lisotti",
+            "department": "Directing",
+            "job": "Continuity",
+            "image_url": null
+        },
+        {
+            "id": 4323991,
+            "name": "Daniela Marinaro",
+            "department": "Directing",
+            "job": "Second Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 2452919,
+            "name": "Mariano Nesci",
+            "department": "Directing",
+            "job": "Second Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 4323991,
+            "name": "Daniela Marinaro",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
+        },
+        {
+            "id": 122682,
+            "name": "Natalia Urruty",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
+        },
+        {
+            "id": 2523686,
+            "name": "César Sodero",
+            "department": "Production",
+            "job": "Location Manager",
+            "image_url": null
+        },
+        {
+            "id": 4324029,
+            "name": "Ariel Rinaldi",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": null
+        },
+        {
+            "id": 5499961,
+            "name": "Martin Vecchio",
+            "department": "Production",
+            "job": "Production Trainee",
+            "image_url": null
+        },
+        {
+            "id": 4800460,
+            "name": "Silvina Dayan",
+            "department": "Production",
+            "job": "Executive Producer's Assistant",
+            "image_url": null
+        },
+        {
+            "id": 983278,
+            "name": "Guillermo Nieto",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 1719303,
+            "name": "Natalia Martínez",
+            "department": "Camera",
+            "job": "Focus Puller",
+            "image_url": null
+        },
+        {
+            "id": 4165052,
+            "name": "Camila Lucarella",
+            "department": "Camera",
+            "job": "Focus Puller",
+            "image_url": null
+        },
+        {
+            "id": 2993297,
+            "name": "Javier Hick",
+            "department": "Camera",
+            "job": "Digital Imaging Technician",
+            "image_url": null
+        },
+        {
+            "id": 3203434,
+            "name": "Ignacio José Natiello",
+            "department": "Camera",
+            "job": "Second Assistant Camera",
+            "image_url": null
+        },
+        {
+            "id": 4829777,
+            "name": "Francisco Rosso",
+            "department": "Crew",
+            "job": "Video Assist Operator",
+            "image_url": null
+        },
+        {
+            "id": 2127352,
+            "name": "Valeria Fiorini",
+            "department": "Camera",
+            "job": "Still Photographer",
+            "image_url": null
+        },
+        {
+            "id": 1583162,
+            "name": "Guillermo Saposnik",
+            "department": "Lighting",
+            "job": "Gaffer",
+            "image_url": null
+        },
+        {
+            "id": 2308116,
+            "name": "Miguel Rivarola",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 4332723,
+            "name": "Cristian Barroso",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 3894410,
+            "name": "Andres Lutz",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 3527645,
+            "name": "Matías Lanatta",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 2127344,
+            "name": "Walter Saavedra",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 2892731,
+            "name": "Joaquín Elicabe Urriol",
+            "department": "Lighting",
+            "job": "Electrician",
+            "image_url": null
+        },
+        {
+            "id": 3020414,
+            "name": "Sergio Céliz",
+            "department": "Lighting",
+            "job": "Genetator Operator",
+            "image_url": null
+        },
+        {
+            "id": 2203488,
+            "name": "Jorge Coki Tristán",
+            "department": "Camera",
+            "job": "Key Grip",
+            "image_url": null
+        },
+        {
+            "id": 2467660,
+            "name": "Darío Gugliotta",
+            "department": "Camera",
+            "job": "Additional Grip",
+            "image_url": null
+        },
+        {
+            "id": 4319224,
+            "name": "Sebastián Goñi",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": null
+        },
+        {
+            "id": 5499970,
+            "name": "Juan Manuel Zavalla",
+            "department": "Art",
+            "job": "Art Department Assistant",
+            "image_url": null
+        },
+        {
+            "id": 1703494,
+            "name": "Augusto Latorraca",
+            "department": "Art",
+            "job": "Props",
+            "image_url": null
+        },
+        {
+            "id": 4916040,
+            "name": "Sabrina Cobas",
+            "department": "Art",
+            "job": "Art Department Trainee",
+            "image_url": null
+        },
+        {
+            "id": 3176795,
+            "name": "Magdalena Puibusqué",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 5169791,
+            "name": "Marina Pelatelli",
+            "department": "Costume & Make-Up",
+            "job": "Costume Assistant",
+            "image_url": null
+        },
+        {
+            "id": 1530953,
+            "name": "Facundo Paco Girón",
+            "department": "Sound",
+            "job": "Boom Operator",
+            "image_url": null
+        },
+        {
+            "id": 3894747,
+            "name": "Nicolás Tabárez",
+            "department": "Sound",
+            "job": "Boom Operator",
+            "image_url": null
+        },
+        {
+            "id": 4588153,
+            "name": "Alejandro Eguía",
+            "department": "Editing",
+            "job": "Color Grading",
+            "image_url": null
+        },
+        {
+            "id": 4800460,
+            "name": "Silvina Dayan",
+            "department": "Production",
+            "job": "Post Production Coordinator",
+            "image_url": null
+        },
+        {
+            "id": 1456110,
+            "name": "Gaspar Scheuer",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1456110,
+            "name": "Gaspar Scheuer",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 2197002,
+            "name": "Jorge Miranda",
+            "department": "Sound",
+            "job": "Sound Effects Editor",
+            "image_url": null
+        },
+        {
+            "id": 1606228,
+            "name": "Lisandro Rumeau",
+            "department": "Sound",
+            "job": "Foley Artist",
+            "image_url": null
+        },
+        {
+            "id": 2035483,
+            "name": "Julia Huberman",
+            "department": "Sound",
+            "job": "Foley Recordist",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/mR9uJhCoCbRYPsvo8IA33W8wBAx.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 252504,
+        "imdb_id": "tt3460184",
+        "origin_country": [
+            "AR",
+            "FR"
+        ],
+        "original_language": "es",
+        "original_title": "El cerrajero",
+        "overview": "Sebastián es un cerrajero que empieza a tener visiones reveladoras sobre sus clientes cada vez que toca sus cerraduras. Este es un poder que complica su vida.",
+        "popularity": 1.9144,
+        "poster_path": "/8LDeK5nJShq92z1RyCHl4U7YArj.jpg",
+        "production_companies": [
+            {
+                "id": 64499,
+                "logo_path": "/5HGLr0kVceenzykDT2FviwS2rtF.png",
+                "name": "Tarea Fina",
+                "origin_country": "AR"
+            },
+            {
+                "id": 10949,
+                "logo_path": "/2JOR75Gaz14Vzim0XSTSCmGFYsD.png",
+                "name": "Memento Films International",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2014-01-21",
+        "revenue": 0,
+        "runtime": 77,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Una llave para cada vida",
+        "title": "El Cerrajero",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1086359,
+                    "known_for_department": "Acting",
+                    "name": "Esteban Lamothe",
+                    "original_name": "Esteban Lamothe",
+                    "popularity": 0.9879,
+                    "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
+                    "cast_id": 3,
+                    "character": "Sebastian",
+                    "credit_id": "52fe4e449251416c9112bee7",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 141455,
+                    "known_for_department": "Acting",
+                    "name": "Érica Rivas",
+                    "original_name": "Érica Rivas",
+                    "popularity": 0.3939,
+                    "profile_path": "/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg",
+                    "cast_id": 7,
+                    "character": "Monica",
+                    "credit_id": "59025350c3a368410200330f",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1516816,
+                    "known_for_department": "Acting",
+                    "name": "Yosiria Huaripata",
+                    "original_name": "Yosiria Huaripata",
+                    "popularity": 0.0938,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "Daisy",
+                    "credit_id": "560bbb1e925141719c005134",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 934904,
+                    "known_for_department": "Acting",
+                    "name": "Sergio Boris",
+                    "original_name": "Sergio Boris",
+                    "popularity": 0.272,
+                    "profile_path": "/7gAYXGYklxCUWjW1YZflymI1rQn.jpg",
+                    "cast_id": 5,
+                    "character": "José",
+                    "credit_id": "560bbb0cc3a368681700537b",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1404411,
+                    "known_for_department": "Acting",
+                    "name": "Santiago Gobernori",
+                    "original_name": "Santiago Gobernori",
+                    "popularity": 0.1516,
+                    "profile_path": "/eC26m2DHvV97VCppQiLlmDSylMq.jpg",
+                    "cast_id": 21,
+                    "character": "Agustín",
+                    "credit_id": "684a5a4e640159de78293eb6",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1028444,
+                    "known_for_department": "Acting",
+                    "name": "Luis Ziembrowski",
+                    "original_name": "Luis Ziembrowski",
+                    "popularity": 0.4282,
+                    "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg",
+                    "cast_id": 8,
+                    "character": "Juan",
+                    "credit_id": "590254ba9251410aa3003989",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50928,
+                    "known_for_department": "Acting",
+                    "name": "Germán de Silva",
+                    "original_name": "Germán de Silva",
+                    "popularity": 0.2793,
+                    "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
+                    "cast_id": 11,
+                    "character": "Manuel",
+                    "credit_id": "63de6fc8ce5d8200aa7a127a",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 27050,
+                    "known_for_department": "Acting",
+                    "name": "María Onetto",
+                    "original_name": "María Onetto",
+                    "popularity": 0.3205,
+                    "profile_path": "/m869UDThEKOUbYxDxw5384LMcFJ.jpg",
+                    "cast_id": 9,
+                    "character": "Fabiana",
+                    "credit_id": "590254d7c3a36840ed003dc3",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50929,
+                    "known_for_department": "Acting",
+                    "name": "Arturo Goetz",
+                    "original_name": "Arturo Goetz",
+                    "popularity": 0.2817,
+                    "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
+                    "cast_id": 10,
+                    "character": "Mario",
+                    "credit_id": "590255129251410ab40038b4",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1392583,
+                    "known_for_department": "Acting",
+                    "name": "Nahuel Mutti",
+                    "original_name": "Nahuel Mutti",
+                    "popularity": 0.1915,
+                    "profile_path": null,
+                    "cast_id": 22,
+                    "character": "Pablo",
+                    "credit_id": "684a5a8bcace8fd50bb0d26b",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2671676,
+                    "known_for_department": "Acting",
+                    "name": "Emilio Urdapilleta",
+                    "original_name": "Emilio Urdapilleta",
+                    "popularity": 0.051,
+                    "profile_path": null,
+                    "cast_id": 23,
+                    "character": "Cliente mayor 1",
+                    "credit_id": "684a5aa39e85afcb973437ed",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2924101,
+                    "known_for_department": "Acting",
+                    "name": "Adelina Rocatti",
+                    "original_name": "Adelina Rocatti",
+                    "popularity": 0.0454,
+                    "profile_path": null,
+                    "cast_id": 24,
+                    "character": "Cliente mayor 2",
+                    "credit_id": "684a5ad91a13df72c15c6dbd",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4656878,
+                    "known_for_department": "Acting",
+                    "name": "Esteban Smirnoff",
+                    "original_name": "Esteban Smirnoff",
+                    "popularity": 0.0627,
+                    "profile_path": null,
+                    "cast_id": 25,
+                    "character": "Pedro",
+                    "credit_id": "684a5ae893360e5c985c6de9",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499950,
+                    "known_for_department": "Acting",
+                    "name": "Hans Geraghty",
+                    "original_name": "Hans Geraghty",
+                    "popularity": 0.0875,
+                    "profile_path": null,
+                    "cast_id": 26,
+                    "character": "Sergio",
+                    "credit_id": "684a5b092435c5cb9d30331e",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499951,
+                    "known_for_department": "Acting",
+                    "name": "Ulises Franoy",
+                    "original_name": "Ulises Franoy",
+                    "popularity": 0.0782,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "Andrés",
+                    "credit_id": "684a5b4eed6bc1a69f9f5d00",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499952,
+                    "known_for_department": "Acting",
+                    "name": "Pacho Geraghty",
+                    "original_name": "Pacho Geraghty",
+                    "popularity": 0.1564,
+                    "profile_path": null,
+                    "cast_id": 28,
+                    "character": "Gabriel",
+                    "credit_id": "684a5b875d0fcf77305c6d77",
+                    "order": 15
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499953,
+                    "known_for_department": "Acting",
+                    "name": "Armenia Martínez",
+                    "original_name": "Armenia Martínez",
+                    "popularity": 0.0571,
+                    "profile_path": null,
+                    "cast_id": 29,
+                    "character": "Susana",
+                    "credit_id": "684a5b9abac1f078e05c6dbb",
+                    "order": 16
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 27059,
+                    "known_for_department": "Acting",
+                    "name": "Claudia Cantero",
+                    "original_name": "Claudia Cantero",
+                    "popularity": 0.1297,
+                    "profile_path": "/iZKNLHrvqHlFgzLwY3AEOnXzqmk.jpg",
+                    "cast_id": 30,
+                    "character": "Mabel",
+                    "credit_id": "684a5ba9d374eef39f3fd558",
+                    "order": 17
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4255896,
+                    "known_for_department": "Acting",
+                    "name": "Ricardo Truppel",
+                    "original_name": "Ricardo Truppel",
+                    "popularity": 0.0763,
+                    "profile_path": null,
+                    "cast_id": 31,
+                    "character": "Dueño",
+                    "credit_id": "684a5bbb7f3def6f81302754",
+                    "order": 18
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557727,
+                    "known_for_department": "Acting",
+                    "name": "Javier Niklison",
+                    "original_name": "Javier Niklison",
+                    "popularity": 0.2056,
+                    "profile_path": "/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg",
+                    "cast_id": 32,
+                    "character": "Luis",
+                    "credit_id": "684a5bc9e9853a7c1ebb3ebe",
+                    "order": 19
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 125499,
+                    "known_for_department": "Acting",
+                    "name": "Adrián Fondari",
+                    "original_name": "Adrián Fondari",
+                    "popularity": 0.2627,
+                    "profile_path": "/sZq41K3OFlmBeFdupcJO8jIHmHc.jpg",
+                    "cast_id": 33,
+                    "character": "Principal López",
+                    "credit_id": "684a5be8ebd7244e6e302864",
+                    "order": 20
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1618441,
+                    "known_for_department": "Acting",
+                    "name": "Eduardo Iacono",
+                    "original_name": "Eduardo Iacono",
+                    "popularity": 0.2972,
+                    "profile_path": null,
+                    "cast_id": 34,
+                    "character": "Médico Neurólogo",
+                    "credit_id": "684a5bff17f228728430288f",
+                    "order": 21
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1538368,
+                    "known_for_department": "Acting",
+                    "name": "Pablo Nápoli",
+                    "original_name": "Pablo Nápoli",
+                    "popularity": 0.1295,
+                    "profile_path": null,
+                    "cast_id": 35,
+                    "character": "Encargado bar",
+                    "credit_id": "684a5c1270e868b880b0d2f9",
+                    "order": 22
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499955,
+                    "known_for_department": "Acting",
+                    "name": "Víctor Florentín Gómez",
+                    "original_name": "Víctor Florentín Gómez",
+                    "popularity": 0.0527,
+                    "profile_path": null,
+                    "cast_id": 36,
+                    "character": "Vicente",
+                    "credit_id": "684a5c2554779811f43027f1",
+                    "order": 23
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 125978,
+                    "known_for_department": "Writing",
+                    "name": "Natalia Smirnoff",
+                    "original_name": "Natalia Smirnoff",
+                    "popularity": 0.123,
+                    "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
+                    "credit_id": "52fe4e449251416c9112bedd",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 125978,
+                    "known_for_department": "Writing",
+                    "name": "Natalia Smirnoff",
+                    "original_name": "Natalia Smirnoff",
+                    "popularity": 0.123,
+                    "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
+                    "credit_id": "52fe4e449251416c9112bee3",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 560290,
+                    "known_for_department": "Writing",
+                    "name": "Pedro Loeb",
+                    "original_name": "Pedro Loeb",
+                    "popularity": 0.3091,
+                    "profile_path": "/dj1lWGKDAJrLonWQZK2gbdtSoAw.jpg",
+                    "credit_id": "6446612ac8f3c402fb4509a3",
+                    "department": "Directing",
+                    "job": "Script Supervisor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2713693,
+                    "known_for_department": "Production",
+                    "name": "Diego Amson",
+                    "original_name": "Diego Amson",
+                    "popularity": 0.1892,
+                    "profile_path": null,
+                    "credit_id": "66ebafa05168a896e11fce13",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2310367,
+                    "known_for_department": "Production",
+                    "name": "Juan Pablo Miller",
+                    "original_name": "Juan Pablo Miller",
+                    "popularity": 0.1981,
+                    "profile_path": "/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg",
+                    "credit_id": "66ebafad62c4bb18c9747563",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 984322,
+                    "known_for_department": "Sound",
+                    "name": "Alejandro Franov",
+                    "original_name": "Alejandro Franov",
+                    "popularity": 0.0752,
+                    "profile_path": null,
+                    "credit_id": "66ebafbe5168a896e11fce1e",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 983278,
+                    "known_for_department": "Camera",
+                    "name": "Guillermo Nieto",
+                    "original_name": "Guillermo Nieto",
+                    "popularity": 0.1345,
+                    "profile_path": null,
+                    "credit_id": "66ebafc962c4bb18c9747578",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1144948,
+                    "known_for_department": "Editing",
+                    "name": "Delfina Castagnino",
+                    "original_name": "Delfina Castagnino",
+                    "popularity": 0.1813,
+                    "profile_path": "/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg",
+                    "credit_id": "66ebafd82d67799ad3eb7105",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 122689,
+                    "known_for_department": "Art",
+                    "name": "María Eugenia Sueiro",
+                    "original_name": "María Eugenia Sueiro",
+                    "popularity": 0.1912,
+                    "profile_path": null,
+                    "credit_id": "66ebafec62c4bb18c974758a",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 983358,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Julio Suárez",
+                    "original_name": "Julio Suárez",
+                    "popularity": 0.183,
+                    "profile_path": null,
+                    "credit_id": "66ebaff82d67799ad3eb7117",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1498956,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Jorge Palacios",
+                    "original_name": "Jorge Palacios",
+                    "popularity": 0.0792,
+                    "profile_path": null,
+                    "credit_id": "66ebb0042d67799ad3eb7121",
+                    "department": "Costume & Make-Up",
+                    "job": "Hairstylist"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 125978,
+                    "known_for_department": "Writing",
+                    "name": "Natalia Smirnoff",
+                    "original_name": "Natalia Smirnoff",
+                    "popularity": 0.123,
+                    "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
+                    "credit_id": "684a5c3c5d0fcf77305c6d7b",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1018728,
+                    "known_for_department": "Directing",
+                    "name": "Jorge Gaggero",
+                    "original_name": "Jorge Gaggero",
+                    "popularity": 0.1353,
+                    "profile_path": null,
+                    "credit_id": "684a5c45c073160f78b0d2fa",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4235791,
+                    "known_for_department": "Acting",
+                    "name": "Delia Malek",
+                    "original_name": "Delia Malek",
+                    "popularity": 0.1233,
+                    "profile_path": null,
+                    "credit_id": "684a5c7f7a71a3dba3bb3d88",
+                    "department": "Production",
+                    "job": "Associate Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499958,
+                    "known_for_department": "Production",
+                    "name": "Pedro Amson",
+                    "original_name": "Pedro Amson",
+                    "popularity": 0.0627,
+                    "profile_path": null,
+                    "credit_id": "684a5c967f3def6f8130275f",
+                    "department": "Production",
+                    "job": "Associate Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1646193,
+                    "known_for_department": "Directing",
+                    "name": "Lorena Lisotti",
+                    "original_name": "Lorena Lisotti",
+                    "popularity": 0.0853,
+                    "profile_path": null,
+                    "credit_id": "684a5cbd2cedac61195c6da5",
+                    "department": "Directing",
+                    "job": "Continuity"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4323991,
+                    "known_for_department": "Directing",
+                    "name": "Daniela Marinaro",
+                    "original_name": "Daniela Marinaro",
+                    "popularity": 0.1003,
+                    "profile_path": null,
+                    "credit_id": "684a5cd042b3d43e161eb7af",
+                    "department": "Directing",
+                    "job": "Second Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2452919,
+                    "known_for_department": "Directing",
+                    "name": "Mariano Nesci",
+                    "original_name": "Mariano Nesci",
+                    "popularity": 0.1396,
+                    "profile_path": null,
+                    "credit_id": "684a5cdd55d594d3a69f5da9",
+                    "department": "Directing",
+                    "job": "Second Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4323991,
+                    "known_for_department": "Directing",
+                    "name": "Daniela Marinaro",
+                    "original_name": "Daniela Marinaro",
+                    "popularity": 0.1003,
+                    "profile_path": null,
+                    "credit_id": "684a5cf2c83ebe7819bb4101",
+                    "department": "Production",
+                    "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 122682,
+                    "known_for_department": "Production",
+                    "name": "Natalia Urruty",
+                    "original_name": "Natalia Urruty",
+                    "popularity": 0.1667,
+                    "profile_path": null,
+                    "credit_id": "684a5cfdd669235de0bb409a",
+                    "department": "Production",
+                    "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2523686,
+                    "known_for_department": "Directing",
+                    "name": "César Sodero",
+                    "original_name": "César Sodero",
+                    "popularity": 0.177,
+                    "profile_path": null,
+                    "credit_id": "684a5d0a4a3e44cf68293dc8",
+                    "department": "Production",
+                    "job": "Location Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4324029,
+                    "known_for_department": "Production",
+                    "name": "Ariel Rinaldi",
+                    "original_name": "Ariel Rinaldi",
+                    "popularity": 0.1754,
+                    "profile_path": null,
+                    "credit_id": "684a5d19f7d76765085c6d83",
+                    "department": "Production",
+                    "job": "Production Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499961,
+                    "known_for_department": "Production",
+                    "name": "Martin Vecchio",
+                    "original_name": "Martin Vecchio",
+                    "popularity": 0.0954,
+                    "profile_path": null,
+                    "credit_id": "684a5d2a5ca95ae7163027f4",
+                    "department": "Production",
+                    "job": "Production Trainee"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4800460,
+                    "known_for_department": "Production",
+                    "name": "Silvina Dayan",
+                    "original_name": "Silvina Dayan",
+                    "popularity": 0.093,
+                    "profile_path": null,
+                    "credit_id": "684a5d3f5b83eb6b5db0d2cb",
+                    "department": "Production",
+                    "job": "Executive Producer's Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 983278,
+                    "known_for_department": "Camera",
+                    "name": "Guillermo Nieto",
+                    "original_name": "Guillermo Nieto",
+                    "popularity": 0.1345,
+                    "profile_path": null,
+                    "credit_id": "684a5d4c98d4b1b8f334375f",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1719303,
+                    "known_for_department": "Camera",
+                    "name": "Natalia Martínez",
+                    "original_name": "Natalia Martínez",
+                    "popularity": 0.2677,
+                    "profile_path": null,
+                    "credit_id": "684a5d5bcace8fd50bb0d272",
+                    "department": "Camera",
+                    "job": "Focus Puller"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4165052,
+                    "known_for_department": "Camera",
+                    "name": "Camila Lucarella",
+                    "original_name": "Camila Lucarella",
+                    "popularity": 0.1898,
+                    "profile_path": null,
+                    "credit_id": "684a5d680ee7e0b6623435df",
+                    "department": "Camera",
+                    "job": "Focus Puller"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2993297,
+                    "known_for_department": "Camera",
+                    "name": "Javier Hick",
+                    "original_name": "Javier Hick",
+                    "popularity": 0.1378,
+                    "profile_path": null,
+                    "credit_id": "684a5d73e98a29b9d09f5d02",
+                    "department": "Camera",
+                    "job": "Digital Imaging Technician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3203434,
+                    "known_for_department": "Camera",
+                    "name": "Ignacio José Natiello",
+                    "original_name": "Ignacio José Natiello",
+                    "popularity": 0.0803,
+                    "profile_path": null,
+                    "credit_id": "684a5d8661b42e75a95c6d86",
+                    "department": "Camera",
+                    "job": "Second Assistant Camera"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4829777,
+                    "known_for_department": "Camera",
+                    "name": "Francisco Rosso",
+                    "original_name": "Francisco Rosso",
+                    "popularity": 0.1466,
+                    "profile_path": null,
+                    "credit_id": "684a5d91ebf6e66ca4b0d32b",
+                    "department": "Crew",
+                    "job": "Video Assist Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2127352,
+                    "known_for_department": "Camera",
+                    "name": "Valeria Fiorini",
+                    "original_name": "Valeria Fiorini",
+                    "popularity": 0.0835,
+                    "profile_path": null,
+                    "credit_id": "684a5d9ce8c608addb343702",
+                    "department": "Camera",
+                    "job": "Still Photographer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1583162,
+                    "known_for_department": "Lighting",
+                    "name": "Guillermo Saposnik",
+                    "original_name": "Guillermo Saposnik",
+                    "popularity": 0.1697,
+                    "profile_path": null,
+                    "credit_id": "684a5da7d374eef39f3fd562",
+                    "department": "Lighting",
+                    "job": "Gaffer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2308116,
+                    "known_for_department": "Lighting",
+                    "name": "Miguel Rivarola",
+                    "original_name": "Miguel Rivarola",
+                    "popularity": 0.1997,
+                    "profile_path": null,
+                    "credit_id": "684a5db1bca14429d5b0d2f7",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4332723,
+                    "known_for_department": "Crew",
+                    "name": "Cristian Barroso",
+                    "original_name": "Cristian Barroso",
+                    "popularity": 0.1983,
+                    "profile_path": null,
+                    "credit_id": "684a5dc02479c24073293d6f",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3894410,
+                    "known_for_department": "Lighting",
+                    "name": "Andres Lutz",
+                    "original_name": "Andres Lutz",
+                    "popularity": 0.0796,
+                    "profile_path": null,
+                    "credit_id": "684a5dcabbfe31cc90293c45",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3527645,
+                    "known_for_department": "Lighting",
+                    "name": "Matías Lanatta",
+                    "original_name": "Matías Lanatta",
+                    "popularity": 0.0931,
+                    "profile_path": null,
+                    "credit_id": "684a5dd64ef4c4bee6293df1",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2127344,
+                    "known_for_department": "Lighting",
+                    "name": "Walter Saavedra",
+                    "original_name": "Walter Saavedra",
+                    "popularity": 0.155,
+                    "profile_path": null,
+                    "credit_id": "684a5de25152def6a2293c98",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2892731,
+                    "known_for_department": "Camera",
+                    "name": "Joaquín Elicabe Urriol",
+                    "original_name": "Joaquín Elicabe Urriol",
+                    "popularity": 0.1384,
+                    "profile_path": null,
+                    "credit_id": "684a5df31d6c4a474ebb3fa9",
+                    "department": "Lighting",
+                    "job": "Electrician"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3020414,
+                    "known_for_department": "Crew",
+                    "name": "Sergio Céliz",
+                    "original_name": "Sergio Céliz",
+                    "popularity": 0.1472,
+                    "profile_path": null,
+                    "credit_id": "684a5dfea0c6e5041ebb4090",
+                    "department": "Lighting",
+                    "job": "Genetator Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2203488,
+                    "known_for_department": "Camera",
+                    "name": "Jorge Coki Tristán",
+                    "original_name": "Jorge Coki Tristán",
+                    "popularity": 0.1422,
+                    "profile_path": null,
+                    "credit_id": "684a5e0a17f22872843028a3",
+                    "department": "Camera",
+                    "job": "Key Grip"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2467660,
+                    "known_for_department": "Camera",
+                    "name": "Darío Gugliotta",
+                    "original_name": "Darío Gugliotta",
+                    "popularity": 0.0775,
+                    "profile_path": null,
+                    "credit_id": "684a5e1ff0993891e43fd683",
+                    "department": "Camera",
+                    "job": "Additional Grip"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4319224,
+                    "known_for_department": "Art",
+                    "name": "Sebastián Goñi",
+                    "original_name": "Sebastián Goñi",
+                    "popularity": 0.1557,
+                    "profile_path": null,
+                    "credit_id": "684a5e2fd24839e84e3fd686",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5499970,
+                    "known_for_department": "Art",
+                    "name": "Juan Manuel Zavalla",
+                    "original_name": "Juan Manuel Zavalla",
+                    "popularity": 0.0471,
+                    "profile_path": null,
+                    "credit_id": "684a5e4af0993891e43fd68c",
+                    "department": "Art",
+                    "job": "Art Department Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1703494,
+                    "known_for_department": "Art",
+                    "name": "Augusto Latorraca",
+                    "original_name": "Augusto Latorraca",
+                    "popularity": 0.132,
+                    "profile_path": null,
+                    "credit_id": "684a5e58d994f1918f9f5ddd",
+                    "department": "Art",
+                    "job": "Props"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4916040,
+                    "known_for_department": "Art",
+                    "name": "Sabrina Cobas",
+                    "original_name": "Sabrina Cobas",
+                    "popularity": 0.0725,
+                    "profile_path": null,
+                    "credit_id": "684a5e6bf7d76765085c6d92",
+                    "department": "Art",
+                    "job": "Art Department Trainee"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3176795,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Magdalena Puibusqué",
+                    "original_name": "Magdalena Puibusqué",
+                    "popularity": 0.1767,
+                    "profile_path": null,
+                    "credit_id": "684a5e79bac1f078e05c6dcb",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5169791,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Marina Pelatelli",
+                    "original_name": "Marina Pelatelli",
+                    "popularity": 0.0751,
+                    "profile_path": null,
+                    "credit_id": "684a5e87bac1f078e05c6dce",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1530953,
+                    "known_for_department": "Sound",
+                    "name": "Facundo Paco Girón",
+                    "original_name": "Facundo Paco Girón",
+                    "popularity": 0.1276,
+                    "profile_path": null,
+                    "credit_id": "684a5e9a075e60e6f93435cd",
+                    "department": "Sound",
+                    "job": "Boom Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3894747,
+                    "known_for_department": "Sound",
+                    "name": "Nicolás Tabárez",
+                    "original_name": "Nicolás Tabárez",
+                    "popularity": 0.0865,
+                    "profile_path": null,
+                    "credit_id": "684a5ea024c39ef4e51eb9d7",
+                    "department": "Sound",
+                    "job": "Boom Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4588153,
+                    "known_for_department": "Production",
+                    "name": "Alejandro Eguía",
+                    "original_name": "Alejandro Eguía",
+                    "popularity": 0.0996,
+                    "profile_path": null,
+                    "credit_id": "684a5eb91a13df72c15c6dc7",
+                    "department": "Editing",
+                    "job": "Color Grading"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4800460,
+                    "known_for_department": "Production",
+                    "name": "Silvina Dayan",
+                    "original_name": "Silvina Dayan",
+                    "popularity": 0.093,
+                    "profile_path": null,
+                    "credit_id": "684a5ece4cff3224bc1eb6d9",
+                    "department": "Production",
+                    "job": "Post Production Coordinator"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1456110,
+                    "known_for_department": "Sound",
+                    "name": "Gaspar Scheuer",
+                    "original_name": "Gaspar Scheuer",
+                    "popularity": 0.0977,
+                    "profile_path": null,
+                    "credit_id": "684a5ee3093f8aedabb0d297",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1456110,
+                    "known_for_department": "Sound",
+                    "name": "Gaspar Scheuer",
+                    "original_name": "Gaspar Scheuer",
+                    "popularity": 0.0977,
+                    "profile_path": null,
+                    "credit_id": "684a5eeab2c4b2a3ca293e8f",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2197002,
+                    "known_for_department": "Sound",
+                    "name": "Jorge Miranda",
+                    "original_name": "Jorge Miranda",
+                    "popularity": 0.1254,
+                    "profile_path": null,
+                    "credit_id": "684a5efcd8519c0893b0d22a",
+                    "department": "Sound",
+                    "job": "Sound Effects Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1606228,
+                    "known_for_department": "Sound",
+                    "name": "Lisandro Rumeau",
+                    "original_name": "Lisandro Rumeau",
+                    "popularity": 0.1098,
+                    "profile_path": null,
+                    "credit_id": "684a5f0ce8c608addb34371e",
+                    "department": "Sound",
+                    "job": "Foley Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2035483,
+                    "known_for_department": "Sound",
+                    "name": "Julia Huberman",
+                    "original_name": "Julia Huberman",
+                    "popularity": 0.0563,
+                    "profile_path": null,
+                    "credit_id": "684a5f1cc073160f78b0d317",
+                    "department": "Sound",
+                    "job": "Foley Recordist"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

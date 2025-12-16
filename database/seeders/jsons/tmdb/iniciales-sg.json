@@ -1,0 +1,584 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 586459,
+    "cinear_id": null,
+    "slug": "iniciales-sg",
+    "title": "Iniciales S.G.",
+    "original_title": "Iniciales S.G.",
+    "overview": "Un argentino que aspira a convertirse en una especie de Serge Gainsbourg lucha día a día con mejorar en una profesión que no ha elegido, un affair del que intenta huir y de un crimen que nunca quiso cometer.",
+    "runtime": 93,
+    "release_date": "2019-09-19",
+    "year": 2019,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "English",
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/6vbHgdOji2gdAtUOEzLzaewCJzU.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 96429,
+            "name": "Diego Peretti",
+            "character": "Sergio Garcés",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/honq5g3GPjaCBoiik4uU7va0OJf.jpg"
+        },
+        {
+            "id": 86034,
+            "name": "Julianne Nicholson",
+            "character": "Jane",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg"
+        },
+        {
+            "id": 1208255,
+            "name": "Malena Sánchez",
+            "character": "Olga",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/jmClSVqh6wnCI0lf4yKMWFYv7C5.jpg"
+        },
+        {
+            "id": 1291441,
+            "name": "Francisco Lumerman",
+            "character": "Hombre extraño",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/hwSGh3PpVhqHKPDnDsWSfVFjX6Y.jpg"
+        },
+        {
+            "id": 140541,
+            "name": "Daniel Fanego",
+            "character": "Narrador",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg"
+        },
+        {
+            "id": 1562670,
+            "name": "Miriam Odorico",
+            "character": "Doctora",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg"
+        },
+        {
+            "id": 237958,
+            "name": "Walter Jakob",
+            "character": "Pancho",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+        },
+        {
+            "id": 1441739,
+            "name": "Miguel Di Lemme",
+            "character": "Basta",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/xSTSjWgKRRnBithApVthFRUwdyX.jpg"
+        },
+        {
+            "id": 1122518,
+            "name": "Julián Krakov",
+            "character": "Nico",
+            "order": 8,
+            "image_url": null
+        },
+        {
+            "id": 145027,
+            "name": "Gaby Ferrero",
+            "character": "Juez",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/hx4gCPJsDxqCKVm150Zaz90fUKj.jpg"
+        },
+        {
+            "id": 3590360,
+            "name": "Sabrina Alfonso",
+            "character": "Actriz Porno",
+            "order": 10,
+            "image_url": null
+        },
+        {
+            "id": 1621814,
+            "name": "Nicolás Silbert",
+            "character": "Cámara Porno",
+            "order": 11,
+            "image_url": "https://image.tmdb.org/t/p/original/h67aZZsuUjTVxDPAZQtAr0J78gN.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 1179836,
+            "name": "Shruti Ganguly",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1330499,
+            "name": "Daniel Garcia",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1936719,
+            "name": "Bill Laurance",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 1118741,
+            "name": "Maciej Zieliński",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 1330498,
+            "name": "Rania Attieh",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 1330499,
+            "name": "Daniel Garcia",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1330498,
+            "name": "Rania Attieh",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1330499,
+            "name": "Daniel Garcia",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 1544677,
+            "name": "Roman Kasseroller",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/5m0kP7Lez5dDNZu18aJell9ZNxM.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/6vbHgdOji2gdAtUOEzLzaewCJzU.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 586459,
+        "imdb_id": "tt9080672",
+        "origin_country": [
+            "AR",
+            "LB",
+            "US"
+        ],
+        "original_language": "es",
+        "original_title": "Iniciales S.G.",
+        "overview": "Un argentino que aspira a convertirse en una especie de Serge Gainsbourg lucha día a día con mejorar en una profesión que no ha elegido, un affair del que intenta huir y de un crimen que nunca quiso cometer.",
+        "popularity": 0.6785,
+        "poster_path": "/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
+        "production_companies": [
+            {
+                "id": 25594,
+                "logo_path": null,
+                "name": "En Passant",
+                "origin_country": ""
+            },
+            {
+                "id": 25593,
+                "logo_path": null,
+                "name": "Frutacine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 265692,
+                "logo_path": null,
+                "name": "Honto 88",
+                "origin_country": ""
+            },
+            {
+                "id": 104615,
+                "logo_path": "/vxVQA5ArpFxELA6cTw7pfceXQ8U.png",
+                "name": "Schortcut Films",
+                "origin_country": "LB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "LB",
+                "name": "Lebanon"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-09-19",
+        "revenue": 0,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Iniciales S.G.",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 24,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 96429,
+                    "known_for_department": "Acting",
+                    "name": "Diego Peretti",
+                    "original_name": "Diego Peretti",
+                    "popularity": 0.5878,
+                    "profile_path": "/honq5g3GPjaCBoiik4uU7va0OJf.jpg",
+                    "cast_id": 2,
+                    "character": "Sergio Garcés",
+                    "credit_id": "5c7ee20ec3a3684e92d2af70",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 86034,
+                    "known_for_department": "Acting",
+                    "name": "Julianne Nicholson",
+                    "original_name": "Julianne Nicholson",
+                    "popularity": 2.137,
+                    "profile_path": "/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg",
+                    "cast_id": 1,
+                    "character": "Jane",
+                    "credit_id": "5c7ee2050e0a2643035b0a7f",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1208255,
+                    "known_for_department": "Acting",
+                    "name": "Malena Sánchez",
+                    "original_name": "Malena Sánchez",
+                    "popularity": 0.2158,
+                    "profile_path": "/jmClSVqh6wnCI0lf4yKMWFYv7C5.jpg",
+                    "cast_id": 4,
+                    "character": "Olga",
+                    "credit_id": "5c7ee223c3a3684e98d27957",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1291441,
+                    "known_for_department": "Acting",
+                    "name": "Francisco Lumerman",
+                    "original_name": "Francisco Lumerman",
+                    "popularity": 0.0507,
+                    "profile_path": "/hwSGh3PpVhqHKPDnDsWSfVFjX6Y.jpg",
+                    "cast_id": 5,
+                    "character": "Hombre extraño",
+                    "credit_id": "5c7ee22bc3a3684e95d29d45",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 140541,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Fanego",
+                    "original_name": "Daniel Fanego",
+                    "popularity": 0.4613,
+                    "profile_path": "/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg",
+                    "cast_id": 3,
+                    "character": "Narrador",
+                    "credit_id": "5c7ee21a0e0a2642fb5b18f3",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1562670,
+                    "known_for_department": "Acting",
+                    "name": "Miriam Odorico",
+                    "original_name": "Miriam Odorico",
+                    "popularity": 0.1181,
+                    "profile_path": "/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg",
+                    "cast_id": 14,
+                    "character": "Doctora",
+                    "credit_id": "5d8060849f1be7002de27d24",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 237958,
+                    "known_for_department": "Acting",
+                    "name": "Walter Jakob",
+                    "original_name": "Walter Jakob",
+                    "popularity": 0.3703,
+                    "profile_path": "/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg",
+                    "cast_id": 15,
+                    "character": "Pancho",
+                    "credit_id": "6147e55bbf77440025e132c7",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1441739,
+                    "known_for_department": "Acting",
+                    "name": "Miguel Di Lemme",
+                    "original_name": "Miguel Di Lemme",
+                    "popularity": 0.1297,
+                    "profile_path": "/xSTSjWgKRRnBithApVthFRUwdyX.jpg",
+                    "cast_id": 16,
+                    "character": "Basta",
+                    "credit_id": "6147e56da6ddcb002c075051",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1122518,
+                    "known_for_department": "Acting",
+                    "name": "Julián Krakov",
+                    "original_name": "Julián Krakov",
+                    "popularity": 0.0849,
+                    "profile_path": null,
+                    "cast_id": 17,
+                    "character": "Nico",
+                    "credit_id": "6147e5bd168935004304ef13",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 145027,
+                    "known_for_department": "Acting",
+                    "name": "Gaby Ferrero",
+                    "original_name": "Gaby Ferrero",
+                    "popularity": 0.1303,
+                    "profile_path": "/hx4gCPJsDxqCKVm150Zaz90fUKj.jpg",
+                    "cast_id": 18,
+                    "character": "Juez",
+                    "credit_id": "6147e5e2b5bc2100614ec1cb",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3590360,
+                    "known_for_department": "Acting",
+                    "name": "Sabrina Alfonso",
+                    "original_name": "Sabrina Alfonso",
+                    "popularity": 0.0721,
+                    "profile_path": null,
+                    "cast_id": 19,
+                    "character": "Actriz Porno",
+                    "credit_id": "62aaaeba7e12f00e283b216c",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1621814,
+                    "known_for_department": "Directing",
+                    "name": "Nicolás Silbert",
+                    "original_name": "Nicolás Silbert",
+                    "popularity": 0.1528,
+                    "profile_path": "/h67aZZsuUjTVxDPAZQtAr0J78gN.jpg",
+                    "cast_id": 21,
+                    "character": "Cámara Porno",
+                    "credit_id": "64b33f9337806200ff38c59c",
+                    "order": 11
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1179836,
+                    "known_for_department": "Production",
+                    "name": "Shruti Ganguly",
+                    "original_name": "Shruti Ganguly",
+                    "popularity": 0.1188,
+                    "profile_path": null,
+                    "credit_id": "646a237ec3514c011dcb5b01",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1330499,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Garcia",
+                    "original_name": "Daniel Garcia",
+                    "popularity": 0.1541,
+                    "profile_path": null,
+                    "credit_id": "5c7ee2a1925141276f17a166",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1936719,
+                    "known_for_department": "Sound",
+                    "name": "Bill Laurance",
+                    "original_name": "Bill Laurance",
+                    "popularity": 0.0404,
+                    "profile_path": null,
+                    "credit_id": "5c7ee2ae0e0a26430a5b1191",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1118741,
+                    "known_for_department": "Sound",
+                    "name": "Maciej Zieliński",
+                    "original_name": "Maciej Zieliński",
+                    "popularity": 0.0839,
+                    "profile_path": null,
+                    "credit_id": "5c7ee2e9c3a3684e9dd2942a",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1330498,
+                    "known_for_department": "Directing",
+                    "name": "Rania Attieh",
+                    "original_name": "Rania Attieh",
+                    "popularity": 0.2154,
+                    "profile_path": null,
+                    "credit_id": "5c7ee25c925141276c17a72b",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1330499,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Garcia",
+                    "original_name": "Daniel Garcia",
+                    "popularity": 0.1541,
+                    "profile_path": null,
+                    "credit_id": "5c7ee2710e0a2643055b09dc",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1330498,
+                    "known_for_department": "Directing",
+                    "name": "Rania Attieh",
+                    "original_name": "Rania Attieh",
+                    "popularity": 0.2154,
+                    "profile_path": null,
+                    "credit_id": "5c7ee254925141276017989f",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1330499,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Garcia",
+                    "original_name": "Daniel Garcia",
+                    "popularity": 0.1541,
+                    "profile_path": null,
+                    "credit_id": "5c7ee27a925141276917a7cf",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1544677,
+                    "known_for_department": "Camera",
+                    "name": "Roman Kasseroller",
+                    "original_name": "Roman Kasseroller",
+                    "popularity": 0.0479,
+                    "profile_path": "/5m0kP7Lez5dDNZu18aJell9ZNxM.jpg",
+                    "credit_id": "5c7ee28f0e0a2643015b1546",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1620,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 1080
+                }
+            ]
+        }
+    }
+}

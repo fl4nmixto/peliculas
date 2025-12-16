@@ -2,6 +2,8 @@
 
 namespace App\Console\Commands;
 
+use App\Models\Movie;
+use App\Models\Provider;
 use Illuminate\Console\Command;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Arr;
@@ -15,15 +17,49 @@ class FetchTmdbMovies extends Command
 
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
 
-    protected const MOVIES = [        
+    protected const MOVIES = [
         /*
-        ['title' => "Los paranoicos", 'year' => 2008],
-        ['title' => "Che: Un Hombre Nuevo", 'year' => 2010],
-        ['title' => "El asadito", 'year' => 2000],
-        ['title' => "Whisky", 'year' => 2004],
+        ['title' => 'elda-y-los-monstruos',],
+        ['title' => 'Operacion México',],
+        ['title' => 'Nieve negra', 'year' => 2017],
+        ['title' => 'Samy y yo', 'year' => 2002],
+        ['title' => 'Iniciales SG', 'year' => 2019, 'cineArId' => 6116],
+        ['title' => 'Camino a la paz', 'cineArId' => 9560],
+        ['title' => 'balnearios', 'cineArId' => 1389],
+        ['title' => 'Bill 79', 'cineArId' => 9277],
+        ['title' => 'De caravana', 'cineArId' => 1388],
+        ['title' => 'Errante corazón', 'cineArId' => 9688],
+        ['title' => 'Camino a la paz', 'cineArId' => 9560],
+        ['title' => 'Cetaceos', 'year' => 2018, 'cineArId' => 5717],
+        ['title' => 'Como funcionan casi todas las cosas', 'year' => 2015, 'cineArId' => 6221],
+        ['title' => 'Juan Moreira', 'year' => 1973, 'cineArId' => 405],
+        ['title' => 'La luz incidente', 'year' => 2015, 'cineArId' => 7236],
+        ['title' => 'Las mil y una', 'year' => 2020, 'cineArId' => 6204],
+        ['title' => 'Las siamesas', 'year' => 2022, 'cineArId' => 6877],
+        ['title' => 'Las vegas', 'year' => 2018, 'cineArId' => 5141],
+        ['title' => 'Los sonámbulos', 'year' => 2020, 'cineArId' => 6110],
+        ['title' => 'Rojo', 'year' => 2018, 'cineArId' => 5403],
+        ['title' => 'Una especie de familia', 'year' => 2017, 'cineArId' => 7580],
+        ['title' => 'Villegas', 'year' => 2012, 'cineArId' => 4914],
+        */
+        /*
+
+        ['title' => 'Un Pogrom en Buenos Aires', 'year' => 2007],
+        ['title' => 'Adentro mío estoy bailando', 'year' => 2024],
+        ['title' => 'El peso de la ley', 'year' => 2017],
+        ['title' => 'El sistema K.E.OP/S', 'year' => 2022],
+        ['title' => 'El último Elvis', 'year' => 2012],
+        ['title' => 'El gato desaparece', 'year' => 2011],
+        ['title' => 'El cerrajero', 'year' => 2014],
+        ['title' => 'Pensé que iba a haber fiesta', 'year' => 2013],
+        ['title' => 'El artista', 'year' => 2009],
+        ['title' => 'Los paranoicos', 'year' => 2008],
+        ['title' => 'Che: Un Hombre Nuevo', 'year' => 2010],
+        ['title' => 'El asadito', 'year' => 2000],
+        ['title' => 'Whisky', 'year' => 2004],
         ['title' => 'Acné', 'year' => 2008],
         ['title' => 'La vida útil', 'year' => 2010],
-        ['title' => "Chile '76", 'year' => 2022],
+        ['title' => 'Chile '76', 'year' => 2022],
         ['title' => 'Erdosain', 'year' => 2020],
         ['title' => 'El crítico', 'year' => 2014],
         ['title' => 'El fondo del mar', 'year' => 2003],
@@ -124,6 +160,8 @@ class FetchTmdbMovies extends Command
         $language = $this->option('language');
         $client = $this->buildClient($apiKey);
 
+        $cineArProvider = null;
+
         foreach (self::MOVIES as $movieSpec) {
             $title = $movieSpec['title'];
             $this->line("Buscando «{$title}»...");
@@ -147,6 +185,11 @@ class FetchTmdbMovies extends Command
             File::put($filename, json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
 
             $this->info("Guardado: {$filename}");
+
+            if (! empty($movieSpec['cineArId'])) {
+                $cineArProvider ??= $this->ensureCineArProvider();
+                $this->syncCineArSource($payload, (string) $movieSpec['cineArId'], $cineArProvider);
+            }
         }
 
         $this->info('Descarga finalizada.');
@@ -298,5 +341,54 @@ class FetchTmdbMovies extends Command
         }
 
         return (int) Str::substr($date, 0, 4);
+    }
+
+    protected function ensureCineArProvider(): Provider
+    {
+        return Provider::firstOrCreate(
+            ['slug' => 'cinear'],
+            ['name' => 'CINE.AR']
+        );
+    }
+
+    protected function syncCineArSource(array $payload, string $cineArId, Provider $provider): void
+    {
+        $movie = $this->findMovieForPayload($payload);
+
+        if (! $movie) {
+            $this->warn("No se pudo encontrar «{$payload['title']}» en la base para enlazar Cine.AR.");
+            return;
+        }
+
+        $movie->sources()->updateOrCreate(
+            ['provider_id' => $provider->id],
+            ['url' => $this->buildCineArUrl($cineArId), 'quality' => null]
+        );
+
+        $this->info("Fuente de Cine.AR enlazada para {$movie->title}.");
+    }
+
+    protected function findMovieForPayload(array $payload): ?Movie
+    {
+        if (! empty($payload['tmdb_id'])) {
+            $movie = Movie::where('tmdb_id', $payload['tmdb_id'])->first();
+
+            if ($movie) {
+                return $movie;
+            }
+        }
+
+        $movie = Movie::where('slug', $payload['slug'])->first();
+
+        if ($movie) {
+            return $movie;
+        }
+
+        return Movie::where('title', $payload['title'])->first();
+    }
+
+    protected function buildCineArUrl(string $cineArId): string
+    {
+        return 'https://play.cine.ar/INCAA/produccion/' . ltrim($cineArId, '/');
     }
 }

@@ -121,6 +121,7 @@ class ImportTmdbJsons extends Command
 
         $this->attachTmdbSource($movie, Arr::get($data, 'tmdb_id'));
         $this->attachOkRuSource($movie, Arr::get($data, 'okru_url'));
+        $this->attachCineArSource($movie, Arr::get($data, 'cinear_id'));
     }
 
     protected function syncGenres(Movie $movie, array $genres): void
@@ -385,6 +386,28 @@ class ImportTmdbJsons extends Command
             ],
             [
                 'url' => $url,
+            ]
+        );
+    }
+
+    protected function attachCineArSource(Movie $movie, $cinearId): void
+    {
+        if (! $cinearId) {
+            return;
+        }
+
+        $provider = Provider::firstOrCreate(
+            ['slug' => 'cinear'],
+            ['name' => 'CINE.AR']
+        );
+
+        MovieSource::updateOrCreate(
+            [
+                'movie_id' => $movie->id,
+                'provider_id' => $provider->id,
+            ],
+            [
+                'url' => 'https://play.cine.ar/INCAA/produccion/' . ltrim((string) $cinearId, '/'),
             ]
         );
     }

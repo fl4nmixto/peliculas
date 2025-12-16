@@ -1,0 +1,729 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 1077675,
+    "cinear_id": null,
+    "slug": "adentro-mio-estoy-bailando",
+    "title": "Adentro mío estoy bailando",
+    "original_title": "Adentro mío estoy bailando",
+    "overview": "Un cámara de bodas judío frustrado se enamora de una clarinetista klezmer. Para pasar tiempo con ella, inventa un proyecto documental que le lleva de viaje en busca de las melodías klezmer perdidas que salvaguardan los romaníes de Europa del Este.",
+    "runtime": 115,
+    "release_date": "2024-05-30",
+    "year": 2024,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documental"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 10402,
+            "name": "Música"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "English",
+        "Deutsch",
+        "Română",
+        "Español",
+        "Український",
+        ""
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/nCmf9dDtPVKsv0HprOIqIXQQUWB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/fYMa4D2v8h8WVaGfxEhKqQEoCYg.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "character": "Leandro",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "character": "Paloma",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 3925041,
+            "name": "Perla Sneh",
+            "character": "Narradora",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 3925042,
+            "name": "Rebeca Yanover",
+            "character": "Rebeca",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1391979,
+            "name": "César Lerner",
+            "character": "César Lerner",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 1391978,
+            "name": "Marcelo Moguilevsky",
+            "character": "Marcelo Moguilevsky",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 2809750,
+            "name": "Bob Cohen",
+            "character": "Bob Cohen",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 3925044,
+            "name": "Ivan Popovych",
+            "character": "Ivan Popovych",
+            "order": 7,
+            "image_url": null
+        },
+        {
+            "id": 3925045,
+            "name": "Simkhe Nemet",
+            "character": "Simkhe Nemet",
+            "order": 8,
+            "image_url": null
+        },
+        {
+            "id": 3925046,
+            "name": "Vanya Lemen",
+            "character": "Vanya Lemen",
+            "order": 9,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1622583,
+            "name": "Javier Favot",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1310724,
+            "name": "Nahuel Palenque",
+            "department": "Sound",
+            "job": "Sound Designer",
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "department": "Production",
+            "job": "Researcher",
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "department": "Production",
+            "job": "Musical Casting",
+            "image_url": null
+        },
+        {
+            "id": 1158742,
+            "name": "Andrew Sala",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 3142775,
+            "name": "Lukas V. Rinner",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 3925040,
+            "name": "Yael Svoboda",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 2808393,
+            "name": "Sebastián Muro",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2774251,
+            "name": "Leandro Koch",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 3887334,
+            "name": "Paloma Schachmann",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/fYMa4D2v8h8WVaGfxEhKqQEoCYg.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documental"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 10402,
+                "name": "Música"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1077675,
+        "imdb_id": "tt26448952",
+        "origin_country": [
+            "AR",
+            "AT"
+        ],
+        "original_language": "es",
+        "original_title": "Adentro mío estoy bailando",
+        "overview": "Un cámara de bodas judío frustrado se enamora de una clarinetista klezmer. Para pasar tiempo con ella, inventa un proyecto documental que le lleva de viaje en busca de las melodías klezmer perdidas que salvaguardan los romaníes de Europa del Este.",
+        "popularity": 0.3324,
+        "poster_path": "/nCmf9dDtPVKsv0HprOIqIXQQUWB.jpg",
+        "production_companies": [
+            {
+                "id": 69284,
+                "logo_path": "/bJvXyW1dGcGJMb4F1qxaKKLc5JP.png",
+                "name": "Nabis Filmgroup",
+                "origin_country": "AT"
+            },
+            {
+                "id": 144205,
+                "logo_path": "/lsxQRNtyiBO8YKjZcJDi4O2KBJC.png",
+                "name": "Nevada Cine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 149326,
+                "logo_path": "/hP9R5eLyaKOHbNNFjt4hnWrNDKA.png",
+                "name": "Greenwich Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            }
+        ],
+        "release_date": "2024-05-30",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Romanian",
+                "iso_639_1": "ro",
+                "name": "Română"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "Ukrainian",
+                "iso_639_1": "uk",
+                "name": "Український"
+            },
+            {
+                "english_name": "Yiddish",
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Adentro mío estoy bailando",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 3,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 1,
+                    "character": "Leandro",
+                    "credit_id": "63ce8009e16e5a02cd5a5e91",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "Paloma",
+                    "credit_id": "63ce801163536a0083c322dd",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925041,
+                    "known_for_department": "Acting",
+                    "name": "Perla Sneh",
+                    "original_name": "Perla Sneh",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 20,
+                    "character": "Narradora",
+                    "credit_id": "63ef744f5cc11d00822d5e5d",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925042,
+                    "known_for_department": "Acting",
+                    "name": "Rebeca Yanover",
+                    "original_name": "Rebeca Yanover",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 21,
+                    "character": "Rebeca",
+                    "credit_id": "63ef7456cddbbc00b2ad7257",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1391979,
+                    "known_for_department": "Acting",
+                    "name": "César Lerner",
+                    "original_name": "César Lerner",
+                    "popularity": 0.1154,
+                    "profile_path": null,
+                    "cast_id": 22,
+                    "character": "César Lerner",
+                    "credit_id": "63ef745f35818f00bc0db48a",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1391978,
+                    "known_for_department": "Sound",
+                    "name": "Marcelo Moguilevsky",
+                    "original_name": "Marcelo Moguilevsky",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 23,
+                    "character": "Marcelo Moguilevsky",
+                    "credit_id": "63ef74685cc11d00b64d8c67",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2809750,
+                    "known_for_department": "Production",
+                    "name": "Bob Cohen",
+                    "original_name": "Bob Cohen",
+                    "popularity": 0.1314,
+                    "profile_path": null,
+                    "cast_id": 24,
+                    "character": "Bob Cohen",
+                    "credit_id": "63ef746f45765d007f5dc3a8",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925044,
+                    "known_for_department": "Acting",
+                    "name": "Ivan Popovych",
+                    "original_name": "Ivan Popovych",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 25,
+                    "character": "Ivan Popovych",
+                    "credit_id": "63ef74765cc11d0086122f39",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925045,
+                    "known_for_department": "Acting",
+                    "name": "Simkhe Nemet",
+                    "original_name": "Simkhe Nemet",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 26,
+                    "character": "Simkhe Nemet",
+                    "credit_id": "63ef747eea84c700b29d1732",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925046,
+                    "known_for_department": "Acting",
+                    "name": "Vanya Lemen",
+                    "original_name": "Vanya Lemen",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "Vanya Lemen",
+                    "credit_id": "63ef748545765d0089dbe757",
+                    "order": 9
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "63ce801b7f054000ae2a7e6e",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ce8024e16e5a02cd5a5e9f",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "63ef7382ea84c70084b6d052",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "63ef739445765d00b9a3ff47",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1622583,
+                    "known_for_department": "Editing",
+                    "name": "Javier Favot",
+                    "original_name": "Javier Favot",
+                    "popularity": 0.0916,
+                    "profile_path": null,
+                    "credit_id": "63ef739d45765d0089dbe6d3",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1310724,
+                    "known_for_department": "Sound",
+                    "name": "Nahuel Palenque",
+                    "original_name": "Nahuel Palenque",
+                    "popularity": 0.1587,
+                    "profile_path": null,
+                    "credit_id": "63ef73a85cc11d00822d5df3",
+                    "department": "Sound",
+                    "job": "Sound Designer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef73b545765d007f5dc337",
+                    "department": "Production",
+                    "job": "Researcher"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef73be0f0da5007be1857c",
+                    "department": "Production",
+                    "job": "Musical Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1158742,
+                    "known_for_department": "Directing",
+                    "name": "Andrew Sala",
+                    "original_name": "Andrew Sala",
+                    "popularity": 0.1773,
+                    "profile_path": null,
+                    "credit_id": "63ef73cf35818f0085e9f3a9",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3142775,
+                    "known_for_department": "Directing",
+                    "name": "Lukas V. Rinner",
+                    "original_name": "Lukas V. Rinner",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef73db35818f00795401b5",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3925040,
+                    "known_for_department": "Production",
+                    "name": "Yael Svoboda",
+                    "original_name": "Yael Svoboda",
+                    "popularity": 0.0674,
+                    "profile_path": null,
+                    "credit_id": "63ef73ed35818f009d545ddf",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2808393,
+                    "known_for_department": "Directing",
+                    "name": "Sebastián Muro",
+                    "original_name": "Sebastián Muro",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef73f6cddbbc008c20c28a",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "63ef7404ea84c700e9f3c087",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef74150f0da500f0ded0b9",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2774251,
+                    "known_for_department": "Directing",
+                    "name": "Leandro Koch",
+                    "original_name": "Leandro Koch",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "63ef74210f0da5008e8a5c7f",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3887334,
+                    "known_for_department": "Directing",
+                    "name": "Paloma Schachmann",
+                    "original_name": "Paloma Schachmann",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ef74275cc11d0086122efe",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 3000,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/nCmf9dDtPVKsv0HprOIqIXQQUWB.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 3,
+                    "width": 2000
+                },
+                {
+                    "aspect_ratio": 0.704,
+                    "height": 1200,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/pwCh4D33wmDGxNro0Kzg1BxdrFJ.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 845
+                }
+            ]
+        }
+    }
+}

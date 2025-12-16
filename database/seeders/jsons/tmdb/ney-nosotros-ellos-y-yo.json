@@ -1,0 +1,224 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 399276,
+    "cinear_id": null,
+    "slug": "ney-nosotros-ellos-y-yo",
+    "title": "NEY: Nosotros, ellos y yo",
+    "original_title": "NEY: Nosotros, ellos y yo",
+    "overview": "",
+    "runtime": 88,
+    "release_date": "2015-08-20",
+    "year": 2015,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documental"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://img.cine.ar/image/65d353d888bf7791ec189a41/context/odeon_afiche_prod",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [
+        {
+            "id": 302412,
+            "name": "Nur Levi",
+            "character": "",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/39i5Iq4nuGlMSoqF0cWkjt5gFMM.jpg"
+        },
+        {
+            "id": 2291332,
+            "name": "Frieda Geffner",
+            "character": "",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 2291333,
+            "name": "Abu Harbed",
+            "character": "",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 2291335,
+            "name": "Sebastián Muller",
+            "character": "",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 2291336,
+            "name": "Iosef Shai",
+            "character": "",
+            "order": 4,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1554580,
+            "name": "Nicolás Avruj",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documental"
+            }
+        ],
+        "homepage": "",
+        "id": 399276,
+        "imdb_id": "tt4598764",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "NEY: Nosotros, ellos y yo",
+        "overview": "",
+        "popularity": 0.1435,
+        "poster_path": null,
+        "production_companies": [
+            {
+                "id": 6517,
+                "logo_path": "/hFeSHlwvkYkN4sGbKdRmjqhZshQ.png",
+                "name": "Campo Cine",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2015-08-20",
+        "revenue": 0,
+        "runtime": 88,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "NEY: Nosotros, ellos y yo",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 2,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 302412,
+                    "known_for_department": "Acting",
+                    "name": "Nur Levi",
+                    "original_name": "Nur Levi",
+                    "popularity": 0.2401,
+                    "profile_path": "/39i5Iq4nuGlMSoqF0cWkjt5gFMM.jpg",
+                    "cast_id": 1,
+                    "character": "",
+                    "credit_id": "5cb86c270e0a266b96f13468",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2291332,
+                    "known_for_department": "Acting",
+                    "name": "Frieda Geffner",
+                    "original_name": "Frieda Geffner",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "",
+                    "credit_id": "5cb86c340e0a266b93f14e4f",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2291333,
+                    "known_for_department": "Acting",
+                    "name": "Abu Harbed",
+                    "original_name": "Abu Harbed",
+                    "popularity": 0.0357,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "5cb86c4192514108d3f7cb8f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2291335,
+                    "known_for_department": "Acting",
+                    "name": "Sebastián Muller",
+                    "original_name": "Sebastián Muller",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "",
+                    "credit_id": "5cb86c4c0e0a266ba4f11884",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2291336,
+                    "known_for_department": "Acting",
+                    "name": "Iosef Shai",
+                    "original_name": "Iosef Shai",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 5,
+                    "character": "",
+                    "credit_id": "5cb86c57c3a3686b0785d5c0",
+                    "order": 4
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1554580,
+                    "known_for_department": "Production",
+                    "name": "Nicolás Avruj",
+                    "original_name": "Nicolás Avruj",
+                    "popularity": 0.1748,
+                    "profile_path": null,
+                    "credit_id": "57463f949251415f60000389",
+                    "department": "Directing",
+                    "job": "Director"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

@@ -18,4 +18,11 @@ class Provider extends Model
     {
         return $this->hasMany(MovieSource::class);
     }
+
+    public function movies()
+    {
+        return $this->belongsToMany(Movie::class, 'movie_sources')
+            ->withPivot(['url', 'quality'])
+            ->withTimestamps();
+    }
 }

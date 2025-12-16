@@ -1,0 +1,399 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 85937,
+    "cinear_id": 1388,
+    "slug": "de-caravana",
+    "title": "De caravana",
+    "original_title": "De caravana",
+    "overview": "Corriendo a contrarreloj, Juan Cruz prepara su obra para una prestigiosa competencia de fotografía, cuando sus jefes en la agencia de publicidad se empeñan en arrancarlo tanto de esa tarea como de su mundo \"natural\", el de la clase alta cordobesa. La misión consiste en zambullirse en un recital de la Mona Jiménez, y capturar el espíritu de la noche cuartetera con su cámara. Pero una vez en el populoso local bailable, quedará inesperadamente encadenado a una complicada serie de eventos que comienza por conocer a Sara...",
+    "runtime": 100,
+    "release_date": "2011-11-03",
+    "year": 2011,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/4lu9oJgRLbyR6IUsRfSvsfSh7VK.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1821739,
+            "name": "Francisco Colja",
+            "character": "Juan Cruz",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 1821740,
+            "name": "Yohana Pereyra",
+            "character": "Sara",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 1133235,
+            "name": "Martín Rena",
+            "character": "Penélope",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 1821741,
+            "name": "Rodrigo Savina",
+            "character": "Maxtor",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1122772,
+            "name": "Gustavo Almada",
+            "character": "Laucha",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 1821742,
+            "name": "La Mona Jiménez",
+            "character": "La Mona (uncredited)",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/d5XZJLZfFjKjL0tJ5t94eBLGsZy.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 2647431,
+            "name": "Marcos Rostagno",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": "https://image.tmdb.org/t/p/original/k5XjbD1mjquCOCSEB0xjMDYJQBo.jpg"
+        },
+        {
+            "id": 1821743,
+            "name": "Rosendo Ruíz",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1821744,
+            "name": "Rafael Caivano",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1821746,
+            "name": "Lisandro Sona",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1821743,
+            "name": "Rosendo Ruíz",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 1821743,
+            "name": "Rosendo Ruíz",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1821745,
+            "name": "Andrés Oddone",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1788177,
+            "name": "Pablo González Galetto",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 85937,
+        "imdb_id": "tt1753670",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "De caravana",
+        "overview": "Corriendo a contrarreloj, Juan Cruz prepara su obra para una prestigiosa competencia de fotografía, cuando sus jefes en la agencia de publicidad se empeñan en arrancarlo tanto de esa tarea como de su mundo \"natural\", el de la clase alta cordobesa. La misión consiste en zambullirse en un recital de la Mona Jiménez, y capturar el espíritu de la noche cuartetera con su cámara. Pero una vez en el populoso local bailable, quedará inesperadamente encadenado a una complicada serie de eventos que comienza por conocer a Sara...",
+        "popularity": 0.3345,
+        "poster_path": "/4lu9oJgRLbyR6IUsRfSvsfSh7VK.jpg",
+        "production_companies": [
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            },
+            {
+                "id": 63872,
+                "logo_path": "/rCIC5pSgjNs8pOvbB5HjaB0woMz.png",
+                "name": "El Carro",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2011-11-03",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "De caravana",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 6,
+        "credits": {
+            "cast": [
+                {
+                    "adult": true,
+                    "gender": 0,
+                    "id": 1821739,
+                    "known_for_department": "Acting",
+                    "name": "Francisco Colja",
+                    "original_name": "Francisco Colja",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 1,
+                    "character": "Juan Cruz",
+                    "credit_id": "5923424bc3a36804260009d4",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821740,
+                    "known_for_department": "Acting",
+                    "name": "Yohana Pereyra",
+                    "original_name": "Yohana Pereyra",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "Sara",
+                    "credit_id": "5923425cc3a36804260009e3",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1133235,
+                    "known_for_department": "Acting",
+                    "name": "Martín Rena",
+                    "original_name": "Martín Rena",
+                    "popularity": 0.1614,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "Penélope",
+                    "credit_id": "59234280c3a36804740008c4",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821741,
+                    "known_for_department": "Acting",
+                    "name": "Rodrigo Savina",
+                    "original_name": "Rodrigo Savina",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Maxtor",
+                    "credit_id": "59234292c3a3680484000942",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1122772,
+                    "known_for_department": "Acting",
+                    "name": "Gustavo Almada",
+                    "original_name": "Gustavo Almada",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 5,
+                    "character": "Laucha",
+                    "credit_id": "592342bb9251410522002100",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1821742,
+                    "known_for_department": "Acting",
+                    "name": "La Mona Jiménez",
+                    "original_name": "La Mona Jiménez",
+                    "popularity": 0.0286,
+                    "profile_path": "/d5XZJLZfFjKjL0tJ5t94eBLGsZy.jpg",
+                    "cast_id": 6,
+                    "character": "La Mona (uncredited)",
+                    "credit_id": "592342ce92514104ce002187",
+                    "order": 5
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2647431,
+                    "known_for_department": "Camera",
+                    "name": "Marcos Rostagno",
+                    "original_name": "Marcos Rostagno",
+                    "popularity": 0.0857,
+                    "profile_path": "/k5XjbD1mjquCOCSEB0xjMDYJQBo.jpg",
+                    "credit_id": "6553ad75ac416100ad277ec7",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1821743,
+                    "known_for_department": "Directing",
+                    "name": "Rosendo Ruíz",
+                    "original_name": "Rosendo Ruíz",
+                    "popularity": 0.0655,
+                    "profile_path": null,
+                    "credit_id": "5923431892514105100021f1",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821744,
+                    "known_for_department": "Sound",
+                    "name": "Rafael Caivano",
+                    "original_name": "Rafael Caivano",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "credit_id": "59234349c3a36804910008f6",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821746,
+                    "known_for_department": "Sound",
+                    "name": "Lisandro Sona",
+                    "original_name": "Lisandro Sona",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "59234363c3a36804a3000a0a",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1821743,
+                    "known_for_department": "Directing",
+                    "name": "Rosendo Ruíz",
+                    "original_name": "Rosendo Ruíz",
+                    "popularity": 0.0655,
+                    "profile_path": null,
+                    "credit_id": "59234322c3a36804a30009c9",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1821743,
+                    "known_for_department": "Directing",
+                    "name": "Rosendo Ruíz",
+                    "original_name": "Rosendo Ruíz",
+                    "popularity": 0.0655,
+                    "profile_path": null,
+                    "credit_id": "59234337c3a368044d000a2f",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821745,
+                    "known_for_department": "Sound",
+                    "name": "Andrés Oddone",
+                    "original_name": "Andrés Oddone",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "credit_id": "59234357c3a36804960009f0",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1788177,
+                    "known_for_department": "Camera",
+                    "name": "Pablo González Galetto",
+                    "original_name": "Pablo González Galetto",
+                    "popularity": 0.0239,
+                    "profile_path": null,
+                    "credit_id": "5fb5b0453a48c5003d87389f",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

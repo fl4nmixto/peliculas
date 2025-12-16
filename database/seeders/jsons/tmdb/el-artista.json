@@ -1,0 +1,290 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 278458,
+    "cinear_id": null,
+    "slug": "el-artista",
+    "title": "El artista",
+    "original_title": "El artista",
+    "overview": "Un enfermero roba algunos de los dibujos de uno de sus pacientes y gana dinero con ellos.",
+    "runtime": 100,
+    "release_date": null,
+    "year": 2008,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/yCdY2zEo4VpJv59FoEG9gIpwFtD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4xzsUYYYFPzXuMX34VzQ7sWge0f.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1333898,
+            "name": "Alberto Laiseca",
+            "character": "",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 584196,
+            "name": "Sergio Pángaro",
+            "character": "",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg"
+        },
+        {
+            "id": 584195,
+            "name": "Andrés Duprat",
+            "character": "",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 970880,
+            "name": "Enrique Gagliesi",
+            "character": "",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 1333899,
+            "name": "Ana Laura Loza",
+            "character": "",
+            "order": 4,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 584193,
+            "name": "Mariano Cohn",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/ojioeKl18KByUrAoZlu2DHA9102.jpg"
+        },
+        {
+            "id": 584191,
+            "name": "Gastón Duprat",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg"
+        },
+        {
+            "id": 584195,
+            "name": "Andrés Duprat",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/4xzsUYYYFPzXuMX34VzQ7sWge0f.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 278458,
+        "imdb_id": "tt1248290",
+        "origin_country": [
+            "IT",
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "El artista",
+        "overview": "Un enfermero roba algunos de los dibujos de uno de sus pacientes y gana dinero con ellos.",
+        "popularity": 0.3756,
+        "poster_path": "/yCdY2zEo4VpJv59FoEG9gIpwFtD.jpg",
+        "production_companies": [
+            {
+                "id": 76038,
+                "logo_path": null,
+                "name": "Costa Films Barter",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": null,
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "El artista",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 10,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1333898,
+                    "known_for_department": "Acting",
+                    "name": "Alberto Laiseca",
+                    "original_name": "Alberto Laiseca",
+                    "popularity": 0.1641,
+                    "profile_path": null,
+                    "cast_id": 0,
+                    "character": "",
+                    "credit_id": "53a9425bc3a368707a005b75",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584196,
+                    "known_for_department": "Sound",
+                    "name": "Sergio Pángaro",
+                    "original_name": "Sergio Pángaro",
+                    "popularity": 0.1756,
+                    "profile_path": "/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg",
+                    "cast_id": 1,
+                    "character": "",
+                    "credit_id": "53a94261c3a3687a2b006f75",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 584195,
+                    "known_for_department": "Writing",
+                    "name": "Andrés Duprat",
+                    "original_name": "Andrés Duprat",
+                    "popularity": 0.2786,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "",
+                    "credit_id": "53a94268c3a368707a005b7a",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 970880,
+                    "known_for_department": "Acting",
+                    "name": "Enrique Gagliesi",
+                    "original_name": "Enrique Gagliesi",
+                    "popularity": 0.0763,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "53a9426fc3a368707a005b7c",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1333899,
+                    "known_for_department": "Acting",
+                    "name": "Ana Laura Loza",
+                    "original_name": "Ana Laura Loza",
+                    "popularity": 0.0243,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "",
+                    "credit_id": "53a94275c3a3687a43006a45",
+                    "order": 4
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584193,
+                    "known_for_department": "Directing",
+                    "name": "Mariano Cohn",
+                    "original_name": "Mariano Cohn",
+                    "popularity": 0.3739,
+                    "profile_path": "/ojioeKl18KByUrAoZlu2DHA9102.jpg",
+                    "credit_id": "53a9428c0e0a261449007632",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584191,
+                    "known_for_department": "Directing",
+                    "name": "Gastón Duprat",
+                    "original_name": "Gastón Duprat",
+                    "popularity": 0.452,
+                    "profile_path": "/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg",
+                    "credit_id": "53a942970e0a2614320076b7",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 584195,
+                    "known_for_department": "Writing",
+                    "name": "Andrés Duprat",
+                    "original_name": "Andrés Duprat",
+                    "popularity": 0.2786,
+                    "profile_path": null,
+                    "credit_id": "571f8559c3a3686c99002bf0",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 3000,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/yCdY2zEo4VpJv59FoEG9gIpwFtD.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 2000
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1920,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/4sCBSQ3lwkVGTmJAGqCenWTLZ94.jpg",
+                    "vote_average": 1.75,
+                    "vote_count": 2,
+                    "width": 1280
+                }
+            ]
+        }
+    }
+}

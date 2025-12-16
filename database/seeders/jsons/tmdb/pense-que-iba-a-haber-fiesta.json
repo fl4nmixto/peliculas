@@ -1,0 +1,370 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 209420,
+    "cinear_id": null,
+    "slug": "pense-que-iba-a-haber-fiesta",
+    "title": "Pensé que iba a haber fiesta",
+    "original_title": "Pensé que iba a haber fiesta",
+    "overview": "Ana (Elena Anaya, 'La piel que habito') y Lucía (Valeria Bertuccelli, 'Luna de avellaneda') son amigas desde hace mucho tiempo. Durante el verano Lucía le pide a Ana que se quede en su casa para cuidarla mientras ella se va unos días. Ana se relaja pasando las horas tomando el sol en la piscina, hasta que interrumpe su calma una visita inesperada, Ricki (Fernan Miras, 'Días de vinilo'), el ex de su amiga desde hace 3 años, quien viene a recoger a Abi, su hija.",
+    "runtime": 85,
+    "release_date": "2013-05-08",
+    "year": 2013,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/hCMNuE9W3WX8k9MAWWdjIEIkJyI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/pzgSDrHYOIL29oavvdsWkblN8VT.jpg",
+    "trailer": "https://www.youtube.com/watch?v=OnNILmZC2vg",
+    "cast": [
+        {
+            "id": 3623,
+            "name": "Elena Anaya",
+            "character": "Ana",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/vZ5ewGX4mzwERL7MCFthRBcq2jz.jpg"
+        },
+        {
+            "id": 69311,
+            "name": "Valeria Bertuccelli",
+            "character": "",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/sXmxe7sf2RxMGzRyMFBrcezyoJq.jpg"
+        },
+        {
+            "id": 536259,
+            "name": "Fernán Mirás",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+        },
+        {
+            "id": 1086359,
+            "name": "Esteban Lamothe",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+        },
+        {
+            "id": 1086358,
+            "name": "Esteban Bigliardi",
+            "character": "Eduardo",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 3893718,
+            "name": "Bruno Roberti",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 981342,
+            "name": "Victoria Galardi",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1062041,
+            "name": "Niño Josele",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 21040,
+            "name": "Alejandro Brodersohn",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 981342,
+            "name": "Victoria Galardi",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": null
+        },
+        {
+            "id": 1750691,
+            "name": "Julián Ledesma",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/pzgSDrHYOIL29oavvdsWkblN8VT.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 209420,
+        "imdb_id": "tt2642228",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Pensé que iba a haber fiesta",
+        "overview": "Ana (Elena Anaya, 'La piel que habito') y Lucía (Valeria Bertuccelli, 'Luna de avellaneda') son amigas desde hace mucho tiempo. Durante el verano Lucía le pide a Ana que se quede en su casa para cuidarla mientras ella se va unos días. Ana se relaja pasando las horas tomando el sol en la piscina, hasta que interrumpe su calma una visita inesperada, Ricki (Fernan Miras, 'Días de vinilo'), el ex de su amiga desde hace 3 años, quien viene a recoger a Abi, su hija.",
+        "popularity": 6.355,
+        "poster_path": "/hCMNuE9W3WX8k9MAWWdjIEIkJyI.jpg",
+        "production_companies": [
+            {
+                "id": 139051,
+                "logo_path": "/chW6yXqpFh6cbf6dT0MwiHyKymk.png",
+                "name": "Gale Cine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 11424,
+                "logo_path": null,
+                "name": "Fernando Trueba PC",
+                "origin_country": "ES"
+            },
+            {
+                "id": 52162,
+                "logo_path": "/eH7ljgi5kSmkATrtjnWq5FILrov.png",
+                "name": "Magma Cine",
+                "origin_country": "AR"
+            },
+            {
+                "id": 6458,
+                "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+                "name": "INCAA",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2013-05-08",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Pensé que iba a haber fiesta",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 10,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 3623,
+                    "known_for_department": "Acting",
+                    "name": "Elena Anaya",
+                    "original_name": "Elena Anaya",
+                    "popularity": 2.3864,
+                    "profile_path": "/vZ5ewGX4mzwERL7MCFthRBcq2jz.jpg",
+                    "cast_id": 2,
+                    "character": "Ana",
+                    "credit_id": "52fe4d65c3a368484e1e6e49",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 69311,
+                    "known_for_department": "Acting",
+                    "name": "Valeria Bertuccelli",
+                    "original_name": "Valeria Bertuccelli",
+                    "popularity": 0.6203,
+                    "profile_path": "/sXmxe7sf2RxMGzRyMFBrcezyoJq.jpg",
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "52fe4d65c3a368484e1e6e4d",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 536259,
+                    "known_for_department": "Acting",
+                    "name": "Fernán Mirás",
+                    "original_name": "Fernán Mirás",
+                    "popularity": 1.8448,
+                    "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
+                    "cast_id": 4,
+                    "character": "",
+                    "credit_id": "52fe4d65c3a368484e1e6e51",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1086359,
+                    "known_for_department": "Acting",
+                    "name": "Esteban Lamothe",
+                    "original_name": "Esteban Lamothe",
+                    "popularity": 0.9879,
+                    "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
+                    "cast_id": 5,
+                    "character": "",
+                    "credit_id": "53563d35c3a36841d6002153",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1086358,
+                    "known_for_department": "Acting",
+                    "name": "Esteban Bigliardi",
+                    "original_name": "Esteban Bigliardi",
+                    "popularity": 0.2362,
+                    "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
+                    "cast_id": 6,
+                    "character": "Eduardo",
+                    "credit_id": "53563d40c3a36841e5002136",
+                    "order": 4
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3893718,
+                    "known_for_department": "Directing",
+                    "name": "Bruno Roberti",
+                    "original_name": "Bruno Roberti",
+                    "popularity": 0.1406,
+                    "profile_path": null,
+                    "credit_id": "64d6aba7bf31f201cb69c4a5",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 981342,
+                    "known_for_department": "Directing",
+                    "name": "Victoria Galardi",
+                    "original_name": "Victoria Galardi",
+                    "popularity": 0.2146,
+                    "profile_path": null,
+                    "credit_id": "52fe4d65c3a368484e1e6e45",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1062041,
+                    "known_for_department": "Acting",
+                    "name": "Niño Josele",
+                    "original_name": "Niño Josele",
+                    "popularity": 0.122,
+                    "profile_path": null,
+                    "credit_id": "5f86266d2d8ef30039bb56b6",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 21040,
+                    "known_for_department": "Editing",
+                    "name": "Alejandro Brodersohn",
+                    "original_name": "Alejandro Brodersohn",
+                    "popularity": 0.1247,
+                    "profile_path": null,
+                    "credit_id": "5f8626866082eb0036f54774",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 981342,
+                    "known_for_department": "Directing",
+                    "name": "Victoria Galardi",
+                    "original_name": "Victoria Galardi",
+                    "popularity": 0.2146,
+                    "profile_path": null,
+                    "credit_id": "5f86263d69eb900039cadb56",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1750691,
+                    "known_for_department": "Camera",
+                    "name": "Julián Ledesma",
+                    "original_name": "Julián Ledesma",
+                    "popularity": 0.1391,
+                    "profile_path": null,
+                    "credit_id": "5f9daa62bd990c003a4730ce",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Pensé que iba haber Fiesta - Trailer oficial - Cinescondite",
+                    "key": "OnNILmZC2vg",
+                    "published_at": "2013-03-28T00:21:23.000Z",
+                    "site": "YouTube",
+                    "size": 1080,
+                    "type": "Trailer",
+                    "official": false,
+                    "id": "533ec715c3a368544800ade5"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 933,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/hCMNuE9W3WX8k9MAWWdjIEIkJyI.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 622
+                }
+            ]
+        }
+    }
+}

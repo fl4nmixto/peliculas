@@ -1,0 +1,135 @@
+{
+    "source": "filmaffinity",
+    "tmdb_id": null,
+    "cinear_id": null,
+    "slug": "fuimos-felices",
+    "title": "Fuimos felices",
+    "original_title": "Fuimos felices",
+    "overview": "Tres familias recuerdan sus historias a partir de sus propias filmaciones caseras. Estas películas, como tantas otras, atesoran momentos íntimos de felicidad y celebración, pero aquí se convierten, además, en máquinas del tiempo, nostálgicas ficciones surgidas a partir de la vida cotidiana.",
+    "runtime": 68,
+    "release_date": null,
+    "year": 2018,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documental"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://pics.filmaffinity.com/fuimos_felices-694201959-large.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [],
+    "crew": [
+        {
+            "id": 2434631,
+            "name": "Herman Szwarcbart",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg"
+        },
+        {
+            "id": 2434631,
+            "name": "Herman Szwarcbart",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documental"
+            }
+        ],
+        "homepage": "",
+        "id": null,
+        "imdb_id": null,
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Fuimos felices",
+        "overview": "A principios del siglo XX, muchos judíos llegaron a Buenos Aires escapando de la miseria y las persecuciones que sufrían en Europa. En 1919, durante la Semana Trágica, en el barrio de Once se produjo un pogrom (persecución de judíos). De ese hecho se ha llegado a decir que \"fueron unos niños bien que salieron a la caza del ruso\". Este documental parte de las preguntas que el propio director, cuyo abuelo llegó a Buenos Aires a principios del siglo XX, se hace sobre el suceso y sus implicancias. Y sobre las causas y consecuencias de su escasa difusión, sobre los datos falseados acerca de la cantidad de muertos, y sobre las disputas internas dentro de la comunidad judía.",
+        "popularity": null,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": null,
+        "revenue": 0,
+        "runtime": 75,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "Yiddish",
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Fuimos felices",
+        "video": false,
+        "vote_average": null,
+        "vote_count": null,
+        "credits": {
+            "cast": [],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2434631,
+                    "known_for_department": "Directing",
+                    "name": "Herman Szwarcbart",
+                    "original_name": "Herman Szwarcbart",
+                    "popularity": 0.0256,
+                    "profile_path": "/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg",
+                    "credit_id": "5da81076a2423200147abaef",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2434631,
+                    "known_for_department": "Directing",
+                    "name": "Herman Szwarcbart",
+                    "original_name": "Herman Szwarcbart",
+                    "popularity": 0.0256,
+                    "profile_path": "/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg",
+                    "credit_id": "686b0136bb64f77f45702a64",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

@@ -1,0 +1,695 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 64462,
+    "cinear_id": null,
+    "slug": "samy-y-yo",
+    "title": "Un tipo corriente",
+    "original_title": "Samy Y Yo",
+    "overview": "La vida de Samy Goldstein, un escritor judío y paranoico con problemas de personalidad, que anda en una grave crisis laboral y sentimental ya que nadie le toma en serio, da una vuelta de 180 grados cuando conoce a la alocada Mary, una joven que le convierte en el nuevo presentador de moda.",
+    "runtime": 85,
+    "release_date": "2002-07-11",
+    "year": 2002,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/pDmPOuIH74LNxiVYZLhMjgas9eY.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [
+        {
+            "id": 69310,
+            "name": "Ricardo Darín",
+            "character": "Samy",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/wP7gyISMcsXLJoInWTjncqhrsAT.jpg"
+        },
+        {
+            "id": 120557,
+            "name": "Angie Cepeda",
+            "character": "Mary",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
+        },
+        {
+            "id": 1028517,
+            "name": "Cristina Banegas",
+            "character": "Laura",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/8emCBHR63qIZlS7KusOOf8CeSGM.jpg"
+        },
+        {
+            "id": 239252,
+            "name": "Alejandra Flechner",
+            "character": "Esther",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg"
+        },
+        {
+            "id": 1148662,
+            "name": "Pochi Ducasse",
+            "character": "Viejita en almacén",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/ut5VRKDkHBR2QKUyZBDfhdHDdjB.jpg"
+        },
+        {
+            "id": 980649,
+            "name": "Henny Trayles",
+            "character": "",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 4002033,
+            "name": "Sara Facio",
+            "character": "Visitante en muestra de fotografias (suyas)",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/5Ay65FGD9xInF6aQXa2y9N7ccaL.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 239251,
+            "name": "Carmen Lopez-Areal",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 239249,
+            "name": "Eduardo Milewicz",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1392556,
+            "name": "Marcelo Camorino",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 1591449,
+            "name": "Carlos Abbate",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": "https://image.tmdb.org/t/p/original/6Z2QglTf8lLPqFOEeswhXNtvT4v.jpg"
+        },
+        {
+            "id": 3894295,
+            "name": "Cecilia Pérez Riveros",
+            "department": "Sound",
+            "job": "Sound Editor",
+            "image_url": null
+        },
+        {
+            "id": 3886559,
+            "name": "Perfecto de San José",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 3936354,
+            "name": "Carlos Villavicencio",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 2234213,
+            "name": "Marcelo Lago",
+            "department": "Sound",
+            "job": "Sound Editor",
+            "image_url": null
+        },
+        {
+            "id": 4082670,
+            "name": "Carmen Denti",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 4082675,
+            "name": "Gabriela Minzi",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 2716920,
+            "name": "Romina Quiroga",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 1310725,
+            "name": "José Luis Díaz",
+            "department": "Sound",
+            "job": "Sound Director",
+            "image_url": null
+        },
+        {
+            "id": 4082668,
+            "name": "David Fajn",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2185116,
+            "name": "Margarita Gómez",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 4082680,
+            "name": "Daniel Ponce",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist",
+            "image_url": null
+        },
+        {
+            "id": 1061576,
+            "name": "Daniel Gimelberg",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "https://image.tmdb.org/t/p/original/5qYSgUPc3m8K4YKNuX9X3314CpC.jpg"
+        },
+        {
+            "id": 2202363,
+            "name": "Mariana Polsky",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 2202363,
+            "name": "Mariana Polsky",
+            "department": "Art",
+            "job": "Production Design",
+            "image_url": null
+        },
+        {
+            "id": 1364226,
+            "name": "Fernando Brun",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": null
+        },
+        {
+            "id": 995378,
+            "name": "Sergio Zóttola",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 4082685,
+            "name": "Peter Baleani",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 239249,
+            "name": "Eduardo Milewicz",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 64462,
+        "imdb_id": "tt0293567",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Samy Y Yo",
+        "overview": "La vida de Samy Goldstein, un escritor judío y paranoico con problemas de personalidad, que anda en una grave crisis laboral y sentimental ya que nadie le toma en serio, da una vuelta de 180 grados cuando conoce a la alocada Mary, una joven que le convierte en el nuevo presentador de moda.",
+        "popularity": 0.8623,
+        "poster_path": "/pDmPOuIH74LNxiVYZLhMjgas9eY.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2002-07-11",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Un tipo corriente",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 13,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 69310,
+                    "known_for_department": "Acting",
+                    "name": "Ricardo Darín",
+                    "original_name": "Ricardo Darín",
+                    "popularity": 1.0296,
+                    "profile_path": "/wP7gyISMcsXLJoInWTjncqhrsAT.jpg",
+                    "cast_id": 1003,
+                    "character": "Samy",
+                    "credit_id": "52fe46dbc3a368484e0a7a51",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 120557,
+                    "known_for_department": "Acting",
+                    "name": "Angie Cepeda",
+                    "original_name": "Angie Cepeda",
+                    "popularity": 1.0976,
+                    "profile_path": "/azShCjdzK93jcBBOJSs5lFUd7CH.jpg",
+                    "cast_id": 1004,
+                    "character": "Mary",
+                    "credit_id": "52fe46dbc3a368484e0a7a55",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1028517,
+                    "known_for_department": "Acting",
+                    "name": "Cristina Banegas",
+                    "original_name": "Cristina Banegas",
+                    "popularity": 0.1575,
+                    "profile_path": "/8emCBHR63qIZlS7KusOOf8CeSGM.jpg",
+                    "cast_id": 1030,
+                    "character": "Laura",
+                    "credit_id": "6494975689b561013949146f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 239252,
+                    "known_for_department": "Acting",
+                    "name": "Alejandra Flechner",
+                    "original_name": "Alejandra Flechner",
+                    "popularity": 0.0577,
+                    "profile_path": "/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg",
+                    "cast_id": 1006,
+                    "character": "Esther",
+                    "credit_id": "52fe46dbc3a368484e0a7a5d",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1148662,
+                    "known_for_department": "Acting",
+                    "name": "Pochi Ducasse",
+                    "original_name": "Pochi Ducasse",
+                    "popularity": 0.5398,
+                    "profile_path": "/ut5VRKDkHBR2QKUyZBDfhdHDdjB.jpg",
+                    "cast_id": 1009,
+                    "character": "Viejita en almacén",
+                    "credit_id": "61e309ff6aa8e0004270e743",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 980649,
+                    "known_for_department": "Acting",
+                    "name": "Henny Trayles",
+                    "original_name": "Henny Trayles",
+                    "popularity": 0.3329,
+                    "profile_path": null,
+                    "cast_id": 1010,
+                    "character": "",
+                    "credit_id": "63afb4815ad76b0085e5e4a0",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 4002033,
+                    "known_for_department": "Acting",
+                    "name": "Sara Facio",
+                    "original_name": "Sara Facio",
+                    "popularity": 0.0764,
+                    "profile_path": "/5Ay65FGD9xInF6aQXa2y9N7ccaL.jpg",
+                    "cast_id": 1031,
+                    "character": "Visitante en muestra de fotografias (suyas)",
+                    "credit_id": "67ab771eb274e6a7d1bb287b",
+                    "order": 6
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 239251,
+                    "known_for_department": "Writing",
+                    "name": "Carmen Lopez-Areal",
+                    "original_name": "Carmen Lopez-Areal",
+                    "popularity": 0.0495,
+                    "profile_path": null,
+                    "credit_id": "52fe46dbc3a368484e0a7a4d",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 239249,
+                    "known_for_department": "Directing",
+                    "name": "Eduardo Milewicz",
+                    "original_name": "Eduardo Milewicz",
+                    "popularity": 0.1306,
+                    "profile_path": null,
+                    "credit_id": "52fe46dbc3a368484e0a7a41",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1392556,
+                    "known_for_department": "Camera",
+                    "name": "Marcelo Camorino",
+                    "original_name": "Marcelo Camorino",
+                    "popularity": 0.0463,
+                    "profile_path": null,
+                    "credit_id": "64711eed9ae61300c4c6f97c",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1591449,
+                    "known_for_department": "Sound",
+                    "name": "Carlos Abbate",
+                    "original_name": "Carlos Abbate",
+                    "popularity": 0.1731,
+                    "profile_path": "/6Z2QglTf8lLPqFOEeswhXNtvT4v.jpg",
+                    "credit_id": "647120549408ec00a7f9e225",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3894295,
+                    "known_for_department": "Sound",
+                    "name": "Cecilia Pérez Riveros",
+                    "original_name": "Cecilia Pérez Riveros",
+                    "popularity": 0.0894,
+                    "profile_path": null,
+                    "credit_id": "647121028813e401452c827a",
+                    "department": "Sound",
+                    "job": "Sound Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3886559,
+                    "known_for_department": "Sound",
+                    "name": "Perfecto de San José",
+                    "original_name": "Perfecto de San José",
+                    "popularity": 0.1681,
+                    "profile_path": null,
+                    "credit_id": "6471211b8813e4010356a56e",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3936354,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Villavicencio",
+                    "original_name": "Carlos Villavicencio",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "64711ecda199a600bf29154e",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2234213,
+                    "known_for_department": "Sound",
+                    "name": "Marcelo Lago",
+                    "original_name": "Marcelo Lago",
+                    "popularity": 0.0297,
+                    "profile_path": null,
+                    "credit_id": "6471208e9408ec013e7fcbe3",
+                    "department": "Sound",
+                    "job": "Sound Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4082670,
+                    "known_for_department": "Art",
+                    "name": "Carmen Denti",
+                    "original_name": "Carmen Denti",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "64711f79dd731b00fae9cd4e",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4082675,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Gabriela Minzi",
+                    "original_name": "Gabriela Minzi",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "64711fb6a199a600f941b9c5",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2716920,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Romina Quiroga",
+                    "original_name": "Romina Quiroga",
+                    "popularity": 0.0318,
+                    "profile_path": null,
+                    "credit_id": "64711fe49ae6130146675b6d",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1310725,
+                    "known_for_department": "Sound",
+                    "name": "José Luis Díaz",
+                    "original_name": "José Luis Díaz",
+                    "popularity": 0.1107,
+                    "profile_path": null,
+                    "credit_id": "647120a1be2d4900a7d547f7",
+                    "department": "Sound",
+                    "job": "Sound Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4082668,
+                    "known_for_department": "Production",
+                    "name": "David Fajn",
+                    "original_name": "David Fajn",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "64711e889ae6130146675b2a",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": true,
+                    "gender": 1,
+                    "id": 2185116,
+                    "known_for_department": "Production",
+                    "name": "Margarita Gómez",
+                    "original_name": "Margarita Gómez",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "64711ea09ae61300e593be5c",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4082680,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Daniel Ponce",
+                    "original_name": "Daniel Ponce",
+                    "popularity": 0.0357,
+                    "profile_path": null,
+                    "credit_id": "647120358813e401242680c4",
+                    "department": "Costume & Make-Up",
+                    "job": "Hairstylist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1061576,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Gimelberg",
+                    "original_name": "Daniel Gimelberg",
+                    "popularity": 0.0754,
+                    "profile_path": "/5qYSgUPc3m8K4YKNuX9X3314CpC.jpg",
+                    "credit_id": "64711f0fbe2d4900dcda1f72",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2202363,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Mariana Polsky",
+                    "original_name": "Mariana Polsky",
+                    "popularity": 0.0763,
+                    "profile_path": null,
+                    "credit_id": "64711fcc9ae61300a8066b07",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2202363,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Mariana Polsky",
+                    "original_name": "Mariana Polsky",
+                    "popularity": 0.0763,
+                    "profile_path": null,
+                    "credit_id": "64711f4b9408ec00a7f9e1dd",
+                    "department": "Art",
+                    "job": "Production Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1364226,
+                    "known_for_department": "Art",
+                    "name": "Fernando Brun",
+                    "original_name": "Fernando Brun",
+                    "popularity": 0.0788,
+                    "profile_path": null,
+                    "credit_id": "64711f978813e400a8f40e4e",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 995378,
+                    "known_for_department": "Editing",
+                    "name": "Sergio Zóttola",
+                    "original_name": "Sergio Zóttola",
+                    "popularity": 0.1304,
+                    "profile_path": null,
+                    "credit_id": "64711f29dd731b00ddf000e3",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4082685,
+                    "known_for_department": "Sound",
+                    "name": "Peter Baleani",
+                    "original_name": "Peter Baleani",
+                    "popularity": 0.0243,
+                    "profile_path": null,
+                    "credit_id": "64712075a199a600a755a64c",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 239249,
+                    "known_for_department": "Directing",
+                    "name": "Eduardo Milewicz",
+                    "original_name": "Eduardo Milewicz",
+                    "popularity": 0.1306,
+                    "profile_path": null,
+                    "credit_id": "5c5e09040e0a261deb68e135",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

@@ -19,8 +19,8 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [
         /*
-        ['title' => 'elda-y-los-monstruos',],
-        ['title' => 'Operacion México',],
+        ['title' => 'Anina', 'year' => 2013],
+        ['title' => 'Operacion México'],
         ['title' => 'Nieve negra', 'year' => 2017],
         ['title' => 'Samy y yo', 'year' => 2002],
         ['title' => 'Iniciales SG', 'year' => 2019, 'cineArId' => 6116],

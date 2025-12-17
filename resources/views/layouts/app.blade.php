@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>peliculas | @yield('title', 'Catálogo')</title>
+        <title>{{ config('app.name') }} | @yield('title', 'Catálogo')</title>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap"
@@ -17,9 +17,9 @@
             <header class="flex flex-col gap-4 border-b border-white/10 pb-5 md:flex-row md:items-center md:justify-between">
                 <a
                     href="{{ url('/') }}"
-                    class="font-['Space_Grotesk'] text-3xl font-semibold uppercase tracking-[0.4em] text-white transition hover:text-sky-200"
+                    class="font-['Space_Grotesk'] text-3xl font-semibold uppercase text-white transition hover:text-sky-200"
                 >
-                    peliculas
+                    {{ config('app.name') }}
                 </a>
                 @if (! empty($currentGenre ?? null) || ! empty($currentYear ?? null))
                     <div class="flex flex-wrap items-center gap-3 text-right">

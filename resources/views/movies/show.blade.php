@@ -76,12 +76,15 @@
             ];
         @endphp
         <div class="flex flex-col gap-4 text-sm text-slate-200">
-            @if ($movie->ok_ru_embed_url)
+            @php
+                $videoEmbedUrl = $movie->video_embed_url;
+            @endphp
+            @if ($videoEmbedUrl)
             <div class="overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
                 <div class="relative w-full" style="padding-bottom: 56.25%;">
                     <iframe
-                        src="{{ $movie->ok_ru_embed_url }}"
-                        title="Reproductor de {{ $movie->title }} en OK.ru"
+                        src="{{ $videoEmbedUrl }}"
+                        title="Reproductor de {{ $movie->title }}"
                         class="absolute left-0 top-0 h-full w-full"
                         allow="autoplay; fullscreen"
                         allowfullscreen>

@@ -96,7 +96,11 @@ class Movie extends Model
     public function getPreferredVideoSourceAttribute(): ?MovieSource
     {
         return $this->sources
-            ->filter(fn ($source) => optional($source->provider)->slug !== 'cinear')
+            ->filter(function ($source) {
+                $slug = optional($source->provider)->slug;
+
+                return $slug !== 'cinear' && $slug !== 'tmdb';
+            })
             ->filter(fn ($source) => filled($source->url))
             ->sort(function ($a, $b) {
                 $qualityComparison = ($b->quality ?? 0) <=> ($a->quality ?? 0);

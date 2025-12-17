@@ -73,9 +73,9 @@ class MoviesVideoSourcesSeeder extends Seeder
     private function ensureProviders(): array
     {
         return [
-            'ok-ru' => Provider::firstOrCreate(
+            'ok-ru' => Provider::updateOrCreate(
                 ['slug' => 'ok-ru'],
-                ['name' => 'OK.ru']
+                ['name' => 'okRu']
             ),
             'youtube' => Provider::firstOrCreate(
                 ['slug' => 'youtube'],

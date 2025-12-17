@@ -345,9 +345,9 @@ class FetchTmdbMovies extends Command
 
     protected function ensureCineArProvider(): Provider
     {
-        return Provider::firstOrCreate(
+        return Provider::updateOrCreate(
             ['slug' => 'cinear'],
-            ['name' => 'CINE.AR']
+            ['name' => 'cineAr']
         );
     }
 

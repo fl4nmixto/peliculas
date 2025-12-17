@@ -374,9 +374,9 @@ class ImportTmdbJsons extends Command
             return;
         }
 
-        $provider = Provider::firstOrCreate(
+        $provider = Provider::updateOrCreate(
             ['slug' => 'ok-ru'],
-            ['name' => 'ok.ru']
+            ['name' => 'okRu']
         );
 
         MovieSource::updateOrCreate(
@@ -396,9 +396,9 @@ class ImportTmdbJsons extends Command
             return;
         }
 
-        $provider = Provider::firstOrCreate(
+        $provider = Provider::updateOrCreate(
             ['slug' => 'cinear'],
-            ['name' => 'CINE.AR']
+            ['name' => 'cineAr']
         );
 
         MovieSource::updateOrCreate(

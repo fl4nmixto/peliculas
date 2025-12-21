@@ -1,0 +1,528 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 242547,
+    "slug": "76-89-03",
+    "title": "76 89 03",
+    "original_title": "76 89 03",
+    "overview": "La película cuenta la historia de tres amigos y su sueño en común, a lo largo de tres momentos históricos claves de la Argentina. Todo comienza en 1976, con la aparición de una sex symbol que despierta los primeros ratones de cada uno de ellos. Continúa y se desarrolla en 1989, durante la noche de mayor hiperinflación. Ante la decadencia del país, la aún famosísima sex symbol es sospechada de prostitución, motivo por el cual nuestro protagónico trío se lanza a la caza de la afamada diva, con un solo problema: tienen australes y la estrella sólo trabaja en dólares. Ahí comienza la accidentada aventura en donde vemos desfilar un verdadero bestiario porteño. Aventura que termina en el 2003 con un trágico e imprevisible desenlace.",
+    "runtime": 85,
+    "release_date": "2000-05-11",
+    "year": 2000,
+    "tagline": "La primer pelicula argentina que no tiene mensaje.",
+    "genres": [
+        {
+            "id": 12,
+            "name": "Aventura"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/y1lr40nalaOm6QXOVjJVbDAcj8F.jpg",
+    "backdrop_url": null,
+    "trailer": "https://www.youtube.com/watch?v=OCSiFGHMGI4",
+    "cast": [
+        {
+            "id": 1277624,
+            "name": "Sergio Baldini",
+            "character": "Dino",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 1125356,
+            "name": "Gerardo Chendo",
+            "character": "Salvador",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 1277625,
+            "name": "Diego Mackenzie",
+            "character": "Paco",
+            "order": 2,
+            "image_url": null
+        },
+        {
+            "id": 1059972,
+            "name": "Claudio Rissi",
+            "character": "Rudy",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/szQiObvrLjeJxz7y3yhC7gcs16R.jpg"
+        },
+        {
+            "id": 122701,
+            "name": "Fernando Cia",
+            "character": "Simón",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 1277623,
+            "name": "Sol Alac",
+            "character": "Wanda Manera",
+            "order": 5,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 2059540,
+            "name": "Giselle Peisojovich",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 2419799,
+            "name": "Daniel Sotelo",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 3129058,
+            "name": "Juan de Francesco",
+            "department": "Production",
+            "job": "Production Manager",
+            "image_url": null
+        },
+        {
+            "id": 969231,
+            "name": "Eliane Katz",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg"
+        },
+        {
+            "id": 1815780,
+            "name": "Edi Flehner",
+            "department": "Production",
+            "job": "Associate Producer",
+            "image_url": null
+        },
+        {
+            "id": 1516508,
+            "name": "Orlando Rodríguez",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/27GPe7t2P3pcryph4yQyhYJks11.jpg"
+        },
+        {
+            "id": 1625244,
+            "name": "Andres Duran",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 1983596,
+            "name": "Sergio Iglesias",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1800571,
+            "name": "Flavio Nardini",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 1800570,
+            "name": "Cristian Bernard",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg"
+        },
+        {
+            "id": 1800570,
+            "name": "Cristian Bernard",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg"
+        },
+        {
+            "id": 1800571,
+            "name": "Flavio Nardini",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 52000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Aventura"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 242547,
+        "imdb_id": "tt0247905",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "76 89 03",
+        "overview": "La película cuenta la historia de tres amigos y su sueño en común, a lo largo de tres momentos históricos claves de la Argentina. Todo comienza en 1976, con la aparición de una sex symbol que despierta los primeros ratones de cada uno de ellos. Continúa y se desarrolla en 1989, durante la noche de mayor hiperinflación. Ante la decadencia del país, la aún famosísima sex symbol es sospechada de prostitución, motivo por el cual nuestro protagónico trío se lanza a la caza de la afamada diva, con un solo problema: tienen australes y la estrella sólo trabaja en dólares. Ahí comienza la accidentada aventura en donde vemos desfilar un verdadero bestiario porteño. Aventura que termina en el 2003 con un trágico e imprevisible desenlace.",
+        "popularity": 0.9029,
+        "poster_path": "/y1lr40nalaOm6QXOVjJVbDAcj8F.jpg",
+        "production_companies": [
+            {
+                "id": 90331,
+                "logo_path": null,
+                "name": "Flehner",
+                "origin_country": ""
+            },
+            {
+                "id": 156066,
+                "logo_path": null,
+                "name": "La Produ 90'",
+                "origin_country": ""
+            },
+            {
+                "id": 12862,
+                "logo_path": null,
+                "name": "Film Suez",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2000-05-11",
+        "revenue": 0,
+        "runtime": 85,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "La primer pelicula argentina que no tiene mensaje.",
+        "title": "76 89 03",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1277624,
+                    "known_for_department": "Acting",
+                    "name": "Sergio Baldini",
+                    "original_name": "Sergio Baldini",
+                    "popularity": 0.1236,
+                    "profile_path": null,
+                    "cast_id": 2,
+                    "character": "Dino",
+                    "credit_id": "52fe4ecfc3a36847f82a977f",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1125356,
+                    "known_for_department": "Acting",
+                    "name": "Gerardo Chendo",
+                    "original_name": "Gerardo Chendo",
+                    "popularity": 0.3692,
+                    "profile_path": null,
+                    "cast_id": 3,
+                    "character": "Salvador",
+                    "credit_id": "52fe4ecfc3a36847f82a9783",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1277625,
+                    "known_for_department": "Acting",
+                    "name": "Diego Mackenzie",
+                    "original_name": "Diego Mackenzie",
+                    "popularity": 0.0642,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Paco",
+                    "credit_id": "52fe4ecfc3a36847f82a9787",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1059972,
+                    "known_for_department": "Acting",
+                    "name": "Claudio Rissi",
+                    "original_name": "Claudio Rissi",
+                    "popularity": 0.3165,
+                    "profile_path": "/szQiObvrLjeJxz7y3yhC7gcs16R.jpg",
+                    "cast_id": 5,
+                    "character": "Rudy",
+                    "credit_id": "52fe4ecfc3a36847f82a978b",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 122701,
+                    "known_for_department": "Acting",
+                    "name": "Fernando Cia",
+                    "original_name": "Fernando Cia",
+                    "popularity": 0.1693,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "Simón",
+                    "credit_id": "52fe4ecfc3a36847f82a978f",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1277623,
+                    "known_for_department": "Acting",
+                    "name": "Sol Alac",
+                    "original_name": "Sol Alac",
+                    "popularity": 0.0495,
+                    "profile_path": null,
+                    "cast_id": 1,
+                    "character": "Wanda Manera",
+                    "credit_id": "52fe4ecfc3a36847f82a977b",
+                    "order": 5
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2059540,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Giselle Peisojovich",
+                    "original_name": "Giselle Peisojovich",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "60cd263d5ed962006f193695",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2419799,
+                    "known_for_department": "Crew",
+                    "name": "Daniel Sotelo",
+                    "original_name": "Daniel Sotelo",
+                    "popularity": 0.0338,
+                    "profile_path": null,
+                    "credit_id": "60cd2628e267de005725f90c",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3129058,
+                    "known_for_department": "Production",
+                    "name": "Juan de Francesco",
+                    "original_name": "Juan de Francesco",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "60cd2690bc2cb300557b7492",
+                    "department": "Production",
+                    "job": "Production Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 969231,
+                    "known_for_department": "Editing",
+                    "name": "Eliane Katz",
+                    "original_name": "Eliane Katz",
+                    "popularity": 0.1062,
+                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
+                    "credit_id": "60cd2650bc2cb300752cd272",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1815780,
+                    "known_for_department": "Production",
+                    "name": "Edi Flehner",
+                    "original_name": "Edi Flehner",
+                    "popularity": 0.0791,
+                    "profile_path": null,
+                    "credit_id": "60cd26042790bf0029b47274",
+                    "department": "Production",
+                    "job": "Associate Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1516508,
+                    "known_for_department": "Acting",
+                    "name": "Orlando Rodríguez",
+                    "original_name": "Orlando Rodríguez",
+                    "popularity": 0.9571,
+                    "profile_path": "/27GPe7t2P3pcryph4yQyhYJks11.jpg",
+                    "credit_id": "60cd25fa3679a1005aa2af77",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1625244,
+                    "known_for_department": "Editing",
+                    "name": "Andres Duran",
+                    "original_name": "Andres Duran",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "60cd267612c6040078e203ce",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1983596,
+                    "known_for_department": "Sound",
+                    "name": "Sergio Iglesias",
+                    "original_name": "Sergio Iglesias",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "60cd2648bc2cb300286a2e37",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1800571,
+                    "known_for_department": "Writing",
+                    "name": "Flavio Nardini",
+                    "original_name": "Flavio Nardini",
+                    "popularity": 0.1627,
+                    "profile_path": null,
+                    "credit_id": "5eba179ecc277c002171b2a8",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1800570,
+                    "known_for_department": "Directing",
+                    "name": "Cristian Bernard",
+                    "original_name": "Cristian Bernard",
+                    "popularity": 0.0637,
+                    "profile_path": "/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg",
+                    "credit_id": "5eba1830cc277c002171b413",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1800570,
+                    "known_for_department": "Directing",
+                    "name": "Cristian Bernard",
+                    "original_name": "Cristian Bernard",
+                    "popularity": 0.0637,
+                    "profile_path": "/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg",
+                    "credit_id": "5eba17b5511d09001fd5761a",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1800571,
+                    "known_for_department": "Writing",
+                    "name": "Flavio Nardini",
+                    "original_name": "Flavio Nardini",
+                    "popularity": 0.1627,
+                    "profile_path": null,
+                    "credit_id": "6734f3424c0d01863c76e602",
+                    "department": "Writing",
+                    "job": "Writer"
+                }
+            ]
+        },
+        "videos": {
+            "results": [
+                {
+                    "iso_639_1": "es",
+                    "iso_3166_1": "ES",
+                    "name": "Trailer 76 89 03 Flavio Nardini",
+                    "key": "OCSiFGHMGI4",
+                    "published_at": "2007-09-19T16:18:53.000Z",
+                    "site": "YouTube",
+                    "size": 360,
+                    "type": "Trailer",
+                    "official": false,
+                    "id": "533ec724c3a368544800b912"
+                }
+            ]
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 750,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/y1lr40nalaOm6QXOVjJVbDAcj8F.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 500
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 1200,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/2VFWvvQOctFR5doCQFyfhMpNNxQ.jpg",
+                    "vote_average": 0.166,
+                    "vote_count": 1,
+                    "width": 800
+                },
+                {
+                    "aspect_ratio": 0.703,
+                    "height": 1024,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/zWCDNH1fJgCYvq4MadN6ZlgS5ij.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 720
+                }
+            ]
+        }
+    }
+}

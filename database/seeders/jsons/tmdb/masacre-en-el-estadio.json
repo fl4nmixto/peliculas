@@ -1,0 +1,654 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 553651,
+    "slug": "masacre-en-el-estadio",
+    "title": "Masacre en el estadio",
+    "original_title": "Massacre at the Stadium",
+    "overview": "El impactante asesinato del cantautor Víctor Jara en 1973 lo convirtió en un poderoso símbolo de la lucha en Chile. Décadas más tarde, nace una búsqueda de justicia.",
+    "runtime": 64,
+    "release_date": "2019-01-11",
+    "year": 2019,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documental"
+        }
+    ],
+    "countries": [
+        "United States of America"
+    ],
+    "spoken_languages": [
+        "Español",
+        "English"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/1X9TvO4yhhRvlT4XNZGhXPen4Lh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/wu3lWsj8pJQqYpqZDf5ojYFEB6F.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1364388,
+            "name": "Víctor Jara",
+            "character": "Self (archive footage)",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/zSeAXEYn3ppPCnhBShHYwEpXORe.jpg"
+        },
+        {
+            "id": 1482015,
+            "name": "Joan Jara",
+            "character": "Self - Victor Jara's Wife",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 33684,
+            "name": "Bono",
+            "character": "Self",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/r1jCFctRrEAHBHOyJun8rWCH0AD.jpg"
+        },
+        {
+            "id": 2346894,
+            "name": "Eduardo Carrasco",
+            "character": "Self - Co-founder Quilpayún Folk Group",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/GPjUnDbRdiUFxjrTj65SZHZuvO.jpg"
+        },
+        {
+            "id": 3136668,
+            "name": "Mariela Ferreira",
+            "character": "Self - Musician. Cuncumén Folk Group",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 2736823,
+            "name": "Horacio Salinas",
+            "character": "Self - Co-founder Inti-Illimani Folk Group",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 3136669,
+            "name": "José Seves",
+            "character": "Self - Musician. Inti-Illimani Folk Group",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 1282853,
+            "name": "Augusto Pinochet",
+            "character": "Self (archive footage)",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/9py6iOsoUjrIOipnT9WetYlayfI.jpg"
+        },
+        {
+            "id": 566295,
+            "name": "Salvador Allende",
+            "character": "Self (archive footage)",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/xqmX8q6NN2fZTwDzWsgumckOleQ.jpg"
+        },
+        {
+            "id": 115863,
+            "name": "Fidel Castro",
+            "character": "Self (archive footage)",
+            "order": 9,
+            "image_url": "https://image.tmdb.org/t/p/original/dX5ZWCkwCzA9YfNALghFNPlRefp.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 1603358,
+            "name": "Antonio Rossi",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 1995683,
+            "name": "Camilo Salinas",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 1563662,
+            "name": "Boris Herrera",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 236055,
+            "name": "Greg Miller",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 216642,
+            "name": "Michael Jones",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 2120594,
+            "name": "Patrick Southern",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": null
+        },
+        {
+            "id": 2217328,
+            "name": "Kobi Zaig-Mendez",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": null
+        },
+        {
+            "id": 1186386,
+            "name": "Michael Epple",
+            "department": "Camera",
+            "job": "Additional Photography",
+            "image_url": null
+        },
+        {
+            "id": 961846,
+            "name": "Guy Livneh",
+            "department": "Camera",
+            "job": "Additional Photography",
+            "image_url": null
+        },
+        {
+            "id": 2299596,
+            "name": "Warren A. Painter",
+            "department": "Camera",
+            "job": "Drone Pilot",
+            "image_url": null
+        },
+        {
+            "id": 1017813,
+            "name": "Andrea Chignoli",
+            "department": "Crew",
+            "job": "Thanks",
+            "image_url": "https://image.tmdb.org/t/p/original/jESMe0XxLeNOSLfJrJWzDFN3x49.jpg"
+        },
+        {
+            "id": 790914,
+            "name": "Bent-Jorgen Perlmutt",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 550046,
+            "name": "Michael Zimbalist",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg"
+        },
+        {
+            "id": 550045,
+            "name": "Jeff Zimbalist",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/wx9A3LNte2poSANyEbliHfFrN39.jpg"
+        },
+        {
+            "id": 550045,
+            "name": "Jeff Zimbalist",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/wx9A3LNte2poSANyEbliHfFrN39.jpg"
+        },
+        {
+            "id": 550046,
+            "name": "Michael Zimbalist",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "https://image.tmdb.org/t/p/original/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg"
+        },
+        {
+            "id": 550046,
+            "name": "Michael Zimbalist",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/wu3lWsj8pJQqYpqZDf5ojYFEB6F.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documental"
+            }
+        ],
+        "homepage": "",
+        "id": 553651,
+        "imdb_id": "tt9046562",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Massacre at the Stadium",
+        "overview": "El impactante asesinato del cantautor Víctor Jara en 1973 lo convirtió en un poderoso símbolo de la lucha en Chile. Décadas más tarde, nace una búsqueda de justicia.",
+        "popularity": 3.1527,
+        "poster_path": "/1X9TvO4yhhRvlT4XNZGhXPen4Lh.jpg",
+        "production_companies": [
+            {
+                "id": 112061,
+                "logo_path": "/z7iG8Dw2L30KeewGhp7T6zIVuoT.png",
+                "name": "All Rise Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-01-11",
+        "revenue": 0,
+        "runtime": 64,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Masacre en el estadio",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 26,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1364388,
+                    "known_for_department": "Sound",
+                    "name": "Víctor Jara",
+                    "original_name": "Víctor Jara",
+                    "popularity": 0.0568,
+                    "profile_path": "/zSeAXEYn3ppPCnhBShHYwEpXORe.jpg",
+                    "cast_id": 11,
+                    "character": "Self (archive footage)",
+                    "credit_id": "60d66ebfef9d72002faef645",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1482015,
+                    "known_for_department": "Acting",
+                    "name": "Joan Jara",
+                    "original_name": "Joan Jara",
+                    "popularity": 0.0691,
+                    "profile_path": null,
+                    "cast_id": 4,
+                    "character": "Self - Victor Jara's Wife",
+                    "credit_id": "5c3d13a4c3a36859f53dc232",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 33684,
+                    "known_for_department": "Acting",
+                    "name": "Bono",
+                    "original_name": "Bono",
+                    "popularity": 0.9154,
+                    "profile_path": "/r1jCFctRrEAHBHOyJun8rWCH0AD.jpg",
+                    "cast_id": 13,
+                    "character": "Self",
+                    "credit_id": "60d67017ef9d7200460eca69",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2346894,
+                    "known_for_department": "Acting",
+                    "name": "Eduardo Carrasco",
+                    "original_name": "Eduardo Carrasco",
+                    "popularity": 0.2832,
+                    "profile_path": "/GPjUnDbRdiUFxjrTj65SZHZuvO.jpg",
+                    "cast_id": 5,
+                    "character": "Self - Co-founder Quilpayún Folk Group",
+                    "credit_id": "60d66de399c96400750d12ad",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 3136668,
+                    "known_for_department": "Acting",
+                    "name": "Mariela Ferreira",
+                    "original_name": "Mariela Ferreira",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 6,
+                    "character": "Self - Musician. Cuncumén Folk Group",
+                    "credit_id": "60d66e1c7aecc6005e84b32e",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2736823,
+                    "known_for_department": "Sound",
+                    "name": "Horacio Salinas",
+                    "original_name": "Horacio Salinas",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 7,
+                    "character": "Self - Co-founder Inti-Illimani Folk Group",
+                    "credit_id": "60d66e5825b9550046adee2b",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 3136669,
+                    "known_for_department": "Acting",
+                    "name": "José Seves",
+                    "original_name": "José Seves",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "cast_id": 8,
+                    "character": "Self - Musician. Inti-Illimani Folk Group",
+                    "credit_id": "60d66e89aa7898005d506433",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1282853,
+                    "known_for_department": "Acting",
+                    "name": "Augusto Pinochet",
+                    "original_name": "Augusto Pinochet",
+                    "popularity": 0.0849,
+                    "profile_path": "/9py6iOsoUjrIOipnT9WetYlayfI.jpg",
+                    "cast_id": 9,
+                    "character": "Self (archive footage)",
+                    "credit_id": "60d66ea8a6d93100739e22fd",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 566295,
+                    "known_for_department": "Acting",
+                    "name": "Salvador Allende",
+                    "original_name": "Salvador Allende",
+                    "popularity": 0.4694,
+                    "profile_path": "/xqmX8q6NN2fZTwDzWsgumckOleQ.jpg",
+                    "cast_id": 10,
+                    "character": "Self (archive footage)",
+                    "credit_id": "60d66eb225b9550073a58dc8",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 115863,
+                    "known_for_department": "Acting",
+                    "name": "Fidel Castro",
+                    "original_name": "Fidel Castro",
+                    "popularity": 1.1476,
+                    "profile_path": "/dX5ZWCkwCzA9YfNALghFNPlRefp.jpg",
+                    "cast_id": 12,
+                    "character": "Self (archive footage)",
+                    "credit_id": "60d66fa09512e100281eb8bf",
+                    "order": 9
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1603358,
+                    "known_for_department": "Camera",
+                    "name": "Antonio Rossi",
+                    "original_name": "Antonio Rossi",
+                    "popularity": 0.324,
+                    "profile_path": null,
+                    "credit_id": "60d6705da6d93100465454c2",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1995683,
+                    "known_for_department": "Sound",
+                    "name": "Camilo Salinas",
+                    "original_name": "Camilo Salinas",
+                    "popularity": 0.1986,
+                    "profile_path": null,
+                    "credit_id": "60d670aeef9d7200460eccaf",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1563662,
+                    "known_for_department": "Sound",
+                    "name": "Boris Herrera",
+                    "original_name": "Boris Herrera",
+                    "popularity": 0.1237,
+                    "profile_path": null,
+                    "credit_id": "60d670e7109cd00047076d82",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 236055,
+                    "known_for_department": "Sound",
+                    "name": "Greg Miller",
+                    "original_name": "Greg Miller",
+                    "popularity": 0.0838,
+                    "profile_path": null,
+                    "credit_id": "60d670fe3a993700801f11c8",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 216642,
+                    "known_for_department": "Sound",
+                    "name": "Michael Jones",
+                    "original_name": "Michael Jones",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "60d671159979d20073ef24ef",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2120594,
+                    "known_for_department": "Sound",
+                    "name": "Patrick Southern",
+                    "original_name": "Patrick Southern",
+                    "popularity": 0.0683,
+                    "profile_path": null,
+                    "credit_id": "60d671269979d2005d586b0d",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2217328,
+                    "known_for_department": "Camera",
+                    "name": "Kobi Zaig-Mendez",
+                    "original_name": "Kobi Zaig-Mendez",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "60d671596c0b360047ccbfc9",
+                    "department": "Camera",
+                    "job": "Camera Operator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1186386,
+                    "known_for_department": "Camera",
+                    "name": "Michael Epple",
+                    "original_name": "Michael Epple",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "60d671978805510074c60104",
+                    "department": "Camera",
+                    "job": "Additional Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 961846,
+                    "known_for_department": "Camera",
+                    "name": "Guy Livneh",
+                    "original_name": "Guy Livneh",
+                    "popularity": 0.1239,
+                    "profile_path": null,
+                    "credit_id": "60d671aa7aecc6007ef1acb1",
+                    "department": "Camera",
+                    "job": "Additional Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2299596,
+                    "known_for_department": "Camera",
+                    "name": "Warren A. Painter",
+                    "original_name": "Warren A. Painter",
+                    "popularity": 0.0239,
+                    "profile_path": null,
+                    "credit_id": "60d671e7880551005d60eb94",
+                    "department": "Camera",
+                    "job": "Drone Pilot"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1017813,
+                    "known_for_department": "Editing",
+                    "name": "Andrea Chignoli",
+                    "original_name": "Andrea Chignoli",
+                    "popularity": 0.0617,
+                    "profile_path": "/jESMe0XxLeNOSLfJrJWzDFN3x49.jpg",
+                    "credit_id": "60d6725a66a7c3002daf8eb5",
+                    "department": "Crew",
+                    "job": "Thanks"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 790914,
+                    "known_for_department": "Directing",
+                    "name": "Bent-Jorgen Perlmutt",
+                    "original_name": "Bent-Jorgen Perlmutt",
+                    "popularity": 0.0322,
+                    "profile_path": null,
+                    "credit_id": "5c3d13680e0a2655c48e2de6",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 550046,
+                    "known_for_department": "Directing",
+                    "name": "Michael Zimbalist",
+                    "original_name": "Michael Zimbalist",
+                    "popularity": 0.1417,
+                    "profile_path": "/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg",
+                    "credit_id": "5c3d13810e0a2615548c89d9",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 550045,
+                    "known_for_department": "Directing",
+                    "name": "Jeff Zimbalist",
+                    "original_name": "Jeff Zimbalist",
+                    "popularity": 0.309,
+                    "profile_path": "/wx9A3LNte2poSANyEbliHfFrN39.jpg",
+                    "credit_id": "5c3d138c9251416e06acc091",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 550045,
+                    "known_for_department": "Directing",
+                    "name": "Jeff Zimbalist",
+                    "original_name": "Jeff Zimbalist",
+                    "popularity": 0.309,
+                    "profile_path": "/wx9A3LNte2poSANyEbliHfFrN39.jpg",
+                    "credit_id": "67150f6d650248b9db627fbc",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 550046,
+                    "known_for_department": "Directing",
+                    "name": "Michael Zimbalist",
+                    "original_name": "Michael Zimbalist",
+                    "popularity": 0.1417,
+                    "profile_path": "/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg",
+                    "credit_id": "671529c599f22f326aad9738",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 550046,
+                    "known_for_department": "Directing",
+                    "name": "Michael Zimbalist",
+                    "original_name": "Michael Zimbalist",
+                    "popularity": 0.1417,
+                    "profile_path": "/rUIkIyIoDzyOrf46AJdlyX4IKcm.jpg",
+                    "credit_id": "671529cbd5b7926e94702fad",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

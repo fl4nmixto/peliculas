@@ -1,0 +1,685 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 591511,
+    "slug": "cartero",
+    "title": "Cartero",
+    "original_title": "Cartero",
+    "overview": "Ambientada a fines de los noventa, en pleno auge de las privatizaciones y crecimiento de la pobreza, Cartero sigue de cerca a Hernán, un joven lleno de ilusiones que consigue un empleo en el Correo Central. Allí un colega le enseña los códigos del oficio, pero la dura realidad lo obligará a romperlos.",
+    "runtime": 80,
+    "release_date": "2019-04-07",
+    "year": 2019,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/kImACP0X3JLKbEpHi0mvNAb6JAM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/vfF8NeRFhnlfHRLv14p70SqEN77.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 2276109,
+            "name": "Tomás Raimondi",
+            "character": "",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/4uAiKtim63z1uAZrKeaXxJk1Sys.jpg"
+        },
+        {
+            "id": 50928,
+            "name": "Germán de Silva",
+            "character": "",
+            "order": 1,
+            "image_url": "https://image.tmdb.org/t/p/original/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+        },
+        {
+            "id": 2276113,
+            "name": "Macarena Suárez Dagliano",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/6wTj6oWzYozTtPHT6bvNk2dmJjg.jpg"
+        },
+        {
+            "id": 1027869,
+            "name": "Jorge Sesán",
+            "character": "",
+            "order": 3,
+            "image_url": "https://image.tmdb.org/t/p/original/ghD2JHh2XdDGuvOFjahVZP0SCM5.jpg"
+        },
+        {
+            "id": 1196941,
+            "name": "Carlos Defeo",
+            "character": "",
+            "order": 4,
+            "image_url": "https://image.tmdb.org/t/p/original/9wtP7QMcreEH8rcYYDmeYfVVymx.jpg"
+        },
+        {
+            "id": 2276115,
+            "name": "Iván Masliah",
+            "character": "",
+            "order": 5,
+            "image_url": "https://image.tmdb.org/t/p/original/hwgO14f4cux57wC4GPcr9if94EQ.jpg"
+        },
+        {
+            "id": 230168,
+            "name": "Héctor Bordoni",
+            "character": "",
+            "order": 6,
+            "image_url": "https://image.tmdb.org/t/p/original/qtsurPlKOXd7ARLjyTtdqMigCBp.jpg"
+        },
+        {
+            "id": 557727,
+            "name": "Javier Niklison",
+            "character": "",
+            "order": 7,
+            "image_url": "https://image.tmdb.org/t/p/original/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg"
+        },
+        {
+            "id": 1689137,
+            "name": "Isabel Quinteros",
+            "character": "",
+            "order": 8,
+            "image_url": "https://image.tmdb.org/t/p/original/61QxNzO9l0wkDi9Z8FYrUnhNLeV.jpg"
+        },
+        {
+            "id": 3332075,
+            "name": "Marta Matilde Lubos",
+            "character": "",
+            "order": 9,
+            "image_url": null
+        },
+        {
+            "id": 3332076,
+            "name": "Gabriel Rosas",
+            "character": "",
+            "order": 10,
+            "image_url": null
+        },
+        {
+            "id": 69313,
+            "name": "Germán Palacios",
+            "character": "",
+            "order": 11,
+            "image_url": "https://image.tmdb.org/t/p/original/4l2LkBDGmkH0Cf0e545TMzYzznY.jpg"
+        },
+        {
+            "id": 1075280,
+            "name": "Edda Bustamante",
+            "character": "",
+            "order": 12,
+            "image_url": "https://image.tmdb.org/t/p/original/uZVmkoa3euDnTl62K7hdL8OMV2r.jpg"
+        },
+        {
+            "id": 1538367,
+            "name": "Martín Coria",
+            "character": "",
+            "order": 13,
+            "image_url": null
+        },
+        {
+            "id": 1866302,
+            "name": "Alan Daicz",
+            "character": "",
+            "order": 14,
+            "image_url": "https://image.tmdb.org/t/p/original/5kpJBlXolo6xAGEG8o687QWfFWK.jpg"
+        },
+        {
+            "id": 3332078,
+            "name": "Néstor Omar Sauto",
+            "character": "",
+            "order": 15,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1816882,
+            "name": "Santiago Hadida",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 2230600,
+            "name": "Marina Raggio",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 2162232,
+            "name": "Rodrigo Merolla",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 278,
+            "name": "Gustavo Santaolalla",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "https://image.tmdb.org/t/p/original/choWlKxCcMeZj5iuEcxEp2vWMCW.jpg"
+        },
+        {
+            "id": 1769532,
+            "name": "Alberto Masliah",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/kZD0jR9Enz3LGHv92HCFp9Q0vZo.jpg"
+        },
+        {
+            "id": 1769532,
+            "name": "Alberto Masliah",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/kZD0jR9Enz3LGHv92HCFp9Q0vZo.jpg"
+        },
+        {
+            "id": 2198771,
+            "name": "Emiliano Serra",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 2198771,
+            "name": "Emiliano Serra",
+            "department": "Crew",
+            "job": "Post Production Supervisor",
+            "image_url": null
+        },
+        {
+            "id": 2198771,
+            "name": "Emiliano Serra",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 2198771,
+            "name": "Emiliano Serra",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 2228865,
+            "name": "Manuel Rebella",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 278,
+            "name": "Gustavo Santaolalla",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": "https://image.tmdb.org/t/p/original/choWlKxCcMeZj5iuEcxEp2vWMCW.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/vfF8NeRFhnlfHRLv14p70SqEN77.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 591511,
+        "imdb_id": "tt11246270",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Cartero",
+        "overview": "Ambientada a fines de los noventa, en pleno auge de las privatizaciones y crecimiento de la pobreza, Cartero sigue de cerca a Hernán, un joven lleno de ilusiones que consigue un empleo en el Correo Central. Allí un colega le enseña los códigos del oficio, pero la dura realidad lo obligará a romperlos.",
+        "popularity": 0.9383,
+        "poster_path": "/kImACP0X3JLKbEpHi0mvNAb6JAM.jpg",
+        "production_companies": [
+            {
+                "id": 87308,
+                "logo_path": null,
+                "name": "Sombracine Producciones",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2019-04-07",
+        "revenue": 0,
+        "runtime": 80,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Cartero",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2276109,
+                    "known_for_department": "Acting",
+                    "name": "Tomás Raimondi",
+                    "original_name": "Tomás Raimondi",
+                    "popularity": 0.1616,
+                    "profile_path": "/4uAiKtim63z1uAZrKeaXxJk1Sys.jpg",
+                    "cast_id": 1,
+                    "character": "",
+                    "credit_id": "5c9d00df92514124df31324d",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 50928,
+                    "known_for_department": "Acting",
+                    "name": "Germán de Silva",
+                    "original_name": "Germán de Silva",
+                    "popularity": 0.336,
+                    "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
+                    "cast_id": 2,
+                    "character": "",
+                    "credit_id": "5c9d00f5c3a368181d27046d",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2276113,
+                    "known_for_department": "Acting",
+                    "name": "Macarena Suárez Dagliano",
+                    "original_name": "Macarena Suárez Dagliano",
+                    "popularity": 0.1304,
+                    "profile_path": "/6wTj6oWzYozTtPHT6bvNk2dmJjg.jpg",
+                    "cast_id": 3,
+                    "character": "",
+                    "credit_id": "5c9d010f0e0a2613e8ebb82f",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1027869,
+                    "known_for_department": "Acting",
+                    "name": "Jorge Sesán",
+                    "original_name": "Jorge Sesán",
+                    "popularity": 0.8477,
+                    "profile_path": "/ghD2JHh2XdDGuvOFjahVZP0SCM5.jpg",
+                    "cast_id": 4,
+                    "character": "",
+                    "credit_id": "5c9d012592514124dc314e2b",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1196941,
+                    "known_for_department": "Acting",
+                    "name": "Carlos Defeo",
+                    "original_name": "Carlos Defeo",
+                    "popularity": 0.1565,
+                    "profile_path": "/9wtP7QMcreEH8rcYYDmeYfVVymx.jpg",
+                    "cast_id": 5,
+                    "character": "",
+                    "credit_id": "5c9d01390e0a2613f1ebad93",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2276115,
+                    "known_for_department": "Acting",
+                    "name": "Iván Masliah",
+                    "original_name": "Iván Masliah",
+                    "popularity": 0.1324,
+                    "profile_path": "/hwgO14f4cux57wC4GPcr9if94EQ.jpg",
+                    "cast_id": 6,
+                    "character": "",
+                    "credit_id": "5c9d015792514124df3132f3",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 230168,
+                    "known_for_department": "Acting",
+                    "name": "Héctor Bordoni",
+                    "original_name": "Héctor Bordoni",
+                    "popularity": 0.1856,
+                    "profile_path": "/qtsurPlKOXd7ARLjyTtdqMigCBp.jpg",
+                    "cast_id": 7,
+                    "character": "",
+                    "credit_id": "5c9d016f0e0a2613ebebc509",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 557727,
+                    "known_for_department": "Acting",
+                    "name": "Javier Niklison",
+                    "original_name": "Javier Niklison",
+                    "popularity": 0.1783,
+                    "profile_path": "/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg",
+                    "cast_id": 8,
+                    "character": "",
+                    "credit_id": "5c9d018ac3a368180c26f8b2",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1689137,
+                    "known_for_department": "Acting",
+                    "name": "Isabel Quinteros",
+                    "original_name": "Isabel Quinteros",
+                    "popularity": 0.0687,
+                    "profile_path": "/61QxNzO9l0wkDi9Z8FYrUnhNLeV.jpg",
+                    "cast_id": 9,
+                    "character": "",
+                    "credit_id": "5c9d019892514124d4313dfc",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3332075,
+                    "known_for_department": "Acting",
+                    "name": "Marta Matilde Lubos",
+                    "original_name": "Marta Matilde Lubos",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 26,
+                    "character": "",
+                    "credit_id": "61a7f82109ed8f009015a3c1",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3332076,
+                    "known_for_department": "Acting",
+                    "name": "Gabriel Rosas",
+                    "original_name": "Gabriel Rosas",
+                    "popularity": 0.0673,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "",
+                    "credit_id": "61a7f82afcadb4002b1f3ee8",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 69313,
+                    "known_for_department": "Acting",
+                    "name": "Germán Palacios",
+                    "original_name": "Germán Palacios",
+                    "popularity": 0.5432,
+                    "profile_path": "/4l2LkBDGmkH0Cf0e545TMzYzznY.jpg",
+                    "cast_id": 28,
+                    "character": "",
+                    "credit_id": "61a7f83ba24c500045d0b38f",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1075280,
+                    "known_for_department": "Acting",
+                    "name": "Edda Bustamante",
+                    "original_name": "Edda Bustamante",
+                    "popularity": 0.2234,
+                    "profile_path": "/uZVmkoa3euDnTl62K7hdL8OMV2r.jpg",
+                    "cast_id": 29,
+                    "character": "",
+                    "credit_id": "61a7f844028420006649b307",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1538367,
+                    "known_for_department": "Acting",
+                    "name": "Martín Coria",
+                    "original_name": "Martín Coria",
+                    "popularity": 0.0927,
+                    "profile_path": null,
+                    "cast_id": 30,
+                    "character": "",
+                    "credit_id": "61a7f853c5c1ef0045fd6459",
+                    "order": 13
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1866302,
+                    "known_for_department": "Acting",
+                    "name": "Alan Daicz",
+                    "original_name": "Alan Daicz",
+                    "popularity": 0.5663,
+                    "profile_path": "/5kpJBlXolo6xAGEG8o687QWfFWK.jpg",
+                    "cast_id": 31,
+                    "character": "",
+                    "credit_id": "61a7f85d1f33190088d08773",
+                    "order": 14
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3332078,
+                    "known_for_department": "Acting",
+                    "name": "Néstor Omar Sauto",
+                    "original_name": "Néstor Omar Sauto",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 32,
+                    "character": "",
+                    "credit_id": "61a7f871c044290065f53d56",
+                    "order": 15
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1816882,
+                    "known_for_department": "Writing",
+                    "name": "Santiago Hadida",
+                    "original_name": "Santiago Hadida",
+                    "popularity": 0.0744,
+                    "profile_path": null,
+                    "credit_id": "5c9d01fc92514124df3133fa",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2230600,
+                    "known_for_department": "Art",
+                    "name": "Marina Raggio",
+                    "original_name": "Marina Raggio",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "5c9d02370e0a2613ebebc688",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2162232,
+                    "known_for_department": "Sound",
+                    "name": "Rodrigo Merolla",
+                    "original_name": "Rodrigo Merolla",
+                    "popularity": 0.0717,
+                    "profile_path": null,
+                    "credit_id": "5c9d02500e0a2613feebb625",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 278,
+                    "known_for_department": "Sound",
+                    "name": "Gustavo Santaolalla",
+                    "original_name": "Gustavo Santaolalla",
+                    "popularity": 0.2667,
+                    "profile_path": "/choWlKxCcMeZj5iuEcxEp2vWMCW.jpg",
+                    "credit_id": "5c9d026c92514124da314274",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1769532,
+                    "known_for_department": "Production",
+                    "name": "Alberto Masliah",
+                    "original_name": "Alberto Masliah",
+                    "popularity": 0.0327,
+                    "profile_path": "/kZD0jR9Enz3LGHv92HCFp9Q0vZo.jpg",
+                    "credit_id": "5c9d028ac3a368180c26f9eb",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1769532,
+                    "known_for_department": "Production",
+                    "name": "Alberto Masliah",
+                    "original_name": "Alberto Masliah",
+                    "popularity": 0.0327,
+                    "profile_path": "/kZD0jR9Enz3LGHv92HCFp9Q0vZo.jpg",
+                    "credit_id": "5c9d02990e0a2613feebb6c6",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2198771,
+                    "known_for_department": "Editing",
+                    "name": "Emiliano Serra",
+                    "original_name": "Emiliano Serra",
+                    "popularity": 0.1081,
+                    "profile_path": null,
+                    "credit_id": "5da20df1a1353300153027c8",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2198771,
+                    "known_for_department": "Editing",
+                    "name": "Emiliano Serra",
+                    "original_name": "Emiliano Serra",
+                    "popularity": 0.1081,
+                    "profile_path": null,
+                    "credit_id": "5da20df91967570017a89256",
+                    "department": "Crew",
+                    "job": "Post Production Supervisor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2198771,
+                    "known_for_department": "Editing",
+                    "name": "Emiliano Serra",
+                    "original_name": "Emiliano Serra",
+                    "popularity": 0.1081,
+                    "profile_path": null,
+                    "credit_id": "5da20e1ca13533000f30254d",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2198771,
+                    "known_for_department": "Editing",
+                    "name": "Emiliano Serra",
+                    "original_name": "Emiliano Serra",
+                    "popularity": 0.1081,
+                    "profile_path": null,
+                    "credit_id": "5da20e3ee860170014ad91c2",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2228865,
+                    "known_for_department": "Camera",
+                    "name": "Manuel Rebella",
+                    "original_name": "Manuel Rebella",
+                    "popularity": 0.1361,
+                    "profile_path": null,
+                    "credit_id": "5f4d4d7312aabc0032a7d645",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 278,
+                    "known_for_department": "Sound",
+                    "name": "Gustavo Santaolalla",
+                    "original_name": "Gustavo Santaolalla",
+                    "popularity": 0.2667,
+                    "profile_path": "/choWlKxCcMeZj5iuEcxEp2vWMCW.jpg",
+                    "credit_id": "68627bbb7d448999c24d2367",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 900,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/kImACP0X3JLKbEpHi0mvNAb6JAM.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 600
+                }
+            ]
+        }
+    }
+}

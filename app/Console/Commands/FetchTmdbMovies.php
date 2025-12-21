@@ -19,6 +19,16 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [
         /*
+        ['title' => 'Machuca', 'year' => 2004],
+        ['title' => '76-89-03'],
+        ['title' => 'masacre-en-el-estadio', 'year' => 2019],
+        ['title' => 'Esperando a Godoy', 'year' => 2025],
+        ['title' => 'Cartero', 'year' => 2019],
+        ['title' => 'La fiesta silenciosa', 'year' => 2019],
+        ['title' => 'Los suicidas'],
+        ['title' => 'Después de Sarmiento', 'year' => 2014],
+        ['title' => 'El prófugo', 'year' => 2021],
+        ['title' => 'La sangre brota', 'year' => 2009],
         ['title' => 'Juntos para siempre', 'year' => 2011],
         ['title' => 'Anina', 'year' => 2013],
         ['title' => 'Operacion México'],

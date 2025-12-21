@@ -1,0 +1,109 @@
+{
+    "source": "tmdb",
+    "tmdb_id": null,
+    "slug": "tongues-of-stone",
+    "title": "Tongues of Stone",
+    "original_title": "Tongues of Stone",
+    "overview": "Retrato del fenómeno de la cultura stone en la Argentina, una subcultura ligada al fanatismo por The Rolling Stones que tuvo su auge en los años 90. A través de testimonios e imágenes de época, muestra cómo esa pasión musical se transformó en identidad barrial, estética y forma de vida, convirtiendo al rock stone en un rasgo cultural distintivo de toda una generación.",
+    "runtime": 31,
+    "release_date": null,
+    "year": 2009,
+    "tagline": "Vamo', vamo', vamo' los stones...",
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documental"
+        }
+    ],
+    "countries": [],
+    "spoken_languages": [
+        "English",
+        "Español"
+    ],
+    "poster_url": null,
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [],
+    "crew": [
+        {
+            "id": 1731976,
+            "name": "Jason Blalock",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documental"
+            }
+        ],
+        "homepage": "",
+        "id": null,
+        "imdb_id": null,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Tongues of Stone",
+        "overview": "",
+        "popularity": null,
+        "poster_path": null,
+        "production_companies": [
+        ],
+        "production_countries": [],
+        "release_date": null,
+        "revenue": null,
+        "runtime": null,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Tongues of Stone",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "credits": {
+            "cast": [],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1731976,
+                    "known_for_department": "Camera",
+                    "name": "Jason Blalock",
+                    "original_name": "Jason Blalock",
+                    "popularity": 0.0387,
+                    "profile_path": null,
+                    "credit_id": "65c54b242efe4e017b519ceb",
+                    "department": "Directing",
+                    "job": "Director"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

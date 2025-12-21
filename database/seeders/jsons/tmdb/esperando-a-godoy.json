@@ -1,0 +1,606 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 1205250,
+    "slug": "esperando-a-godoy",
+    "title": "Esperando a Godoy",
+    "original_title": "Esperando a Godoy",
+    "overview": "Un grupo de intelectuales de izquierda se toma un edificio con el propósito de formar un Ministerio de Cultura, sin embargo, los obreros se oponen a la toma. Intelectuales y obreros establecen un pacto de convivencia mientras esperan a Godoy, un jefe sindical. Luego de conflictos por diferencias ideológicas sobre la cultura, la toma se disuelve, justo cuando aparece Godoy con un discurso totalmente elitista y apolítico.\r Rodada en 1972, se montó en 1973 y no pudo ser estrenada. En 2023 Cristián Sánchez, el único sobreviviente de los tres directores, terminó en conjunto con la Cineteca Nacional de Chile el montaje para su estreno definitivo.",
+    "runtime": 110,
+    "release_date": "2025-09-04",
+    "year": 2025,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
+    ],
+    "countries": [
+        "Chile"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/irxA1GT6CGMJhZadKXMdN3NjQI5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/cJqYF58uwgZreIDxpDfLfAOCt08.jpg",
+    "trailer": null,
+    "cast": [
+        {
+            "id": 1699532,
+            "name": "Carmen Bueno",
+            "character": "",
+            "order": 0,
+            "image_url": "https://image.tmdb.org/t/p/original/kBkqojR2e9wImTZEQxPQS3pdQ17.jpg"
+        },
+        {
+            "id": 2613988,
+            "name": "Waldo Rojas",
+            "character": "",
+            "order": 1,
+            "image_url": null
+        },
+        {
+            "id": 225013,
+            "name": "Jaime Vadell",
+            "character": "",
+            "order": 2,
+            "image_url": "https://image.tmdb.org/t/p/original/vit9WWtLne8VVLKk93V0P09SFDd.jpg"
+        },
+        {
+            "id": 2470921,
+            "name": "Rodrigo Maturana",
+            "character": "",
+            "order": 3,
+            "image_url": null
+        },
+        {
+            "id": 4206120,
+            "name": "Juan Carlos Moraga",
+            "character": "",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 2625890,
+            "name": "Kerry Oñate",
+            "character": "",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 1453192,
+            "name": "Andrés Quintana",
+            "character": "",
+            "order": 6,
+            "image_url": null
+        },
+        {
+            "id": 2772721,
+            "name": "Agustín Cardemil",
+            "character": "",
+            "order": 7,
+            "image_url": null
+        }
+    ],
+    "crew": [
+        {
+            "id": 1453189,
+            "name": "Cristián Sánchez",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/2Km1hndUknUS61TI1HGCNSlahQ.jpg"
+        },
+        {
+            "id": 2772765,
+            "name": "Rodrigo González",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 2211774,
+            "name": "Sergio Navarro",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "https://image.tmdb.org/t/p/original/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg"
+        },
+        {
+            "id": 2211774,
+            "name": "Sergio Navarro",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "https://image.tmdb.org/t/p/original/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg"
+        },
+        {
+            "id": 1453189,
+            "name": "Cristián Sánchez",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "https://image.tmdb.org/t/p/original/2Km1hndUknUS61TI1HGCNSlahQ.jpg"
+        },
+        {
+            "id": 2772765,
+            "name": "Rodrigo González",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": null
+        },
+        {
+            "id": 1453189,
+            "name": "Cristián Sánchez",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/2Km1hndUknUS61TI1HGCNSlahQ.jpg"
+        },
+        {
+            "id": 1453189,
+            "name": "Cristián Sánchez",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/2Km1hndUknUS61TI1HGCNSlahQ.jpg"
+        },
+        {
+            "id": 2772765,
+            "name": "Rodrigo González",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2211774,
+            "name": "Sergio Navarro",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "https://image.tmdb.org/t/p/original/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg"
+        },
+        {
+            "id": 1459306,
+            "name": "Carlos Piaggio",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1453189,
+            "name": "Cristián Sánchez",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "https://image.tmdb.org/t/p/original/2Km1hndUknUS61TI1HGCNSlahQ.jpg"
+        },
+        {
+            "id": 20036,
+            "name": "Jorge Müller Silva",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": "https://image.tmdb.org/t/p/original/kN4dynhHXnXVSm3wT4kiyhJs48E.jpg"
+        },
+        {
+            "id": 2313589,
+            "name": "Samuel Carvajal",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": null
+        },
+        {
+            "id": 3792,
+            "name": "Bernardo Menz",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 5063063,
+            "name": "Miguel Costa",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/cJqYF58uwgZreIDxpDfLfAOCt08.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 1205250,
+        "imdb_id": "tt38034834",
+        "origin_country": [
+            "CL"
+        ],
+        "original_language": "es",
+        "original_title": "Esperando a Godoy",
+        "overview": "Un grupo de intelectuales de izquierda se toma un edificio con el propósito de formar un Ministerio de Cultura, sin embargo, los obreros se oponen a la toma. Intelectuales y obreros establecen un pacto de convivencia mientras esperan a Godoy, un jefe sindical. Luego de conflictos por diferencias ideológicas sobre la cultura, la toma se disuelve, justo cuando aparece Godoy con un discurso totalmente elitista y apolítico.\r Rodada en 1972, se montó en 1973 y no pudo ser estrenada. En 2023 Cristián Sánchez, el único sobreviviente de los tres directores, terminó en conjunto con la Cineteca Nacional de Chile el montaje para su estreno definitivo.",
+        "popularity": 0.8671,
+        "poster_path": "/irxA1GT6CGMJhZadKXMdN3NjQI5.jpg",
+        "production_companies": [
+            {
+                "id": 82743,
+                "logo_path": null,
+                "name": "Nómada Producciones",
+                "origin_country": ""
+            },
+            {
+                "id": 107695,
+                "logo_path": null,
+                "name": "Santiago Independiente",
+                "origin_country": ""
+            },
+            {
+                "id": 258411,
+                "logo_path": null,
+                "name": "Cineteca nacional de chile",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CL",
+                "name": "Chile"
+            }
+        ],
+        "release_date": "2025-09-04",
+        "revenue": 0,
+        "runtime": 110,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Esperando a Godoy",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1699532,
+                    "known_for_department": "Acting",
+                    "name": "Carmen Bueno",
+                    "original_name": "Carmen Bueno",
+                    "popularity": 0.0676,
+                    "profile_path": "/kBkqojR2e9wImTZEQxPQS3pdQ17.jpg",
+                    "cast_id": 9,
+                    "character": "",
+                    "credit_id": "6738a95e58bef8bc3d0e3228",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2613988,
+                    "known_for_department": "Writing",
+                    "name": "Waldo Rojas",
+                    "original_name": "Waldo Rojas",
+                    "popularity": 0.0538,
+                    "profile_path": null,
+                    "cast_id": 10,
+                    "character": "",
+                    "credit_id": "6738a98a097d404fd666f99d",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 225013,
+                    "known_for_department": "Acting",
+                    "name": "Jaime Vadell",
+                    "original_name": "Jaime Vadell",
+                    "popularity": 0.9108,
+                    "profile_path": "/vit9WWtLne8VVLKk93V0P09SFDd.jpg",
+                    "cast_id": 7,
+                    "character": "",
+                    "credit_id": "6553faa8d4fe0400e1b28268",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2470921,
+                    "known_for_department": "Acting",
+                    "name": "Rodrigo Maturana",
+                    "original_name": "Rodrigo Maturana",
+                    "popularity": 0.0363,
+                    "profile_path": null,
+                    "cast_id": 8,
+                    "character": "",
+                    "credit_id": "6553fab90816c70137e840fd",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4206120,
+                    "known_for_department": "Acting",
+                    "name": "Juan Carlos Moraga",
+                    "original_name": "Juan Carlos Moraga",
+                    "popularity": 0.0239,
+                    "profile_path": null,
+                    "cast_id": 11,
+                    "character": "",
+                    "credit_id": "6738a9b2097d404fd666f9ba",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2625890,
+                    "known_for_department": "Acting",
+                    "name": "Kerry Oñate",
+                    "original_name": "Kerry Oñate",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "cast_id": 12,
+                    "character": "",
+                    "credit_id": "6738a9c073a45e5184bf5d3a",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1453192,
+                    "known_for_department": "Acting",
+                    "name": "Andrés Quintana",
+                    "original_name": "Andrés Quintana",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "cast_id": 13,
+                    "character": "",
+                    "credit_id": "6738a9eb58bef8bc3d0e3233",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2772721,
+                    "known_for_department": "Production",
+                    "name": "Agustín Cardemil",
+                    "original_name": "Agustín Cardemil",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "cast_id": 14,
+                    "character": "",
+                    "credit_id": "6738a9fc58bef8bc3d0e323a",
+                    "order": 7
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1453189,
+                    "known_for_department": "Directing",
+                    "name": "Cristián Sánchez",
+                    "original_name": "Cristián Sánchez",
+                    "popularity": 0.0434,
+                    "profile_path": "/2Km1hndUknUS61TI1HGCNSlahQ.jpg",
+                    "credit_id": "6553f9d8ad50f000ce08921d",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2772765,
+                    "known_for_department": "Directing",
+                    "name": "Rodrigo González",
+                    "original_name": "Rodrigo González",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6553fa23ad50f000ce089226",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2211774,
+                    "known_for_department": "Directing",
+                    "name": "Sergio Navarro",
+                    "original_name": "Sergio Navarro",
+                    "popularity": 0.0491,
+                    "profile_path": "/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg",
+                    "credit_id": "6553fa700816c700e0188e39",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2211774,
+                    "known_for_department": "Directing",
+                    "name": "Sergio Navarro",
+                    "original_name": "Sergio Navarro",
+                    "popularity": 0.0491,
+                    "profile_path": "/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg",
+                    "credit_id": "6553fa989653f613f589bf1a",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1453189,
+                    "known_for_department": "Directing",
+                    "name": "Cristián Sánchez",
+                    "original_name": "Cristián Sánchez",
+                    "popularity": 0.0434,
+                    "profile_path": "/2Km1hndUknUS61TI1HGCNSlahQ.jpg",
+                    "credit_id": "6553fa81ad50f000eb0a5255",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2772765,
+                    "known_for_department": "Directing",
+                    "name": "Rodrigo González",
+                    "original_name": "Rodrigo González",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6553fa90d4fe0400fe0561d8",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1453189,
+                    "known_for_department": "Directing",
+                    "name": "Cristián Sánchez",
+                    "original_name": "Cristián Sánchez",
+                    "popularity": 0.0434,
+                    "profile_path": "/2Km1hndUknUS61TI1HGCNSlahQ.jpg",
+                    "credit_id": "6738aa56d28043e976e37d11",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1453189,
+                    "known_for_department": "Directing",
+                    "name": "Cristián Sánchez",
+                    "original_name": "Cristián Sánchez",
+                    "popularity": 0.0434,
+                    "profile_path": "/2Km1hndUknUS61TI1HGCNSlahQ.jpg",
+                    "credit_id": "6738aaa4ff0e18373ceec18d",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2772765,
+                    "known_for_department": "Directing",
+                    "name": "Rodrigo González",
+                    "original_name": "Rodrigo González",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6738aac3d28043e976e37d1a",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2211774,
+                    "known_for_department": "Directing",
+                    "name": "Sergio Navarro",
+                    "original_name": "Sergio Navarro",
+                    "popularity": 0.0491,
+                    "profile_path": "/yWbfbxOz7baQ4k0uqfQM6CSp5Dq.jpg",
+                    "credit_id": "6738aaccff0e18373ceec1a4",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1459306,
+                    "known_for_department": "Editing",
+                    "name": "Carlos Piaggio",
+                    "original_name": "Carlos Piaggio",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "6738aae3d28043e976e37d24",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1453189,
+                    "known_for_department": "Directing",
+                    "name": "Cristián Sánchez",
+                    "original_name": "Cristián Sánchez",
+                    "popularity": 0.0434,
+                    "profile_path": "/2Km1hndUknUS61TI1HGCNSlahQ.jpg",
+                    "credit_id": "6738aaec4d477140ce3ae634",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 20036,
+                    "known_for_department": "Camera",
+                    "name": "Jorge Müller Silva",
+                    "original_name": "Jorge Müller Silva",
+                    "popularity": 0.0985,
+                    "profile_path": "/kN4dynhHXnXVSm3wT4kiyhJs48E.jpg",
+                    "credit_id": "6738ab474d477140ce3ae64f",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2313589,
+                    "known_for_department": "Camera",
+                    "name": "Samuel Carvajal",
+                    "original_name": "Samuel Carvajal",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6738ab7dff0e18373ceec1e7",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3792,
+                    "known_for_department": "Sound",
+                    "name": "Bernardo Menz",
+                    "original_name": "Bernardo Menz",
+                    "popularity": 0.1832,
+                    "profile_path": null,
+                    "credit_id": "6738ab97a181a717eac89c8c",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 5063063,
+                    "known_for_department": "Sound",
+                    "name": "Miguel Costa",
+                    "original_name": "Miguel Costa",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6738ac19ff0e18373ceec219",
+                    "department": "Sound",
+                    "job": "Sound"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

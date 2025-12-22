@@ -100,7 +100,7 @@ class Movie extends Model
             ->filter(function ($source) {
                 $slug = optional($source->provider)->slug;
 
-                return $slug !== 'cinear' && $slug !== 'tmdb';
+                return $slug !== 'cinear' && $slug !== 'tmdb' && $slug !== 'BAfilma';
             })
             ->filter(fn ($source) => filled($source->url))
             ->sort(function ($a, $b) {

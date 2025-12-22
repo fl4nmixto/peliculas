@@ -26,8 +26,10 @@ class DeleteMovies extends Command
      * @var string[]
      */
     protected array $slugs = [
-        'el-descanso',
         'cronica-de-una-fuga',
+        'el-descanso',
+        'la-nube',
+        'un-pogrom-en-buenos-aires',
     ];
 
     public function handle(): int

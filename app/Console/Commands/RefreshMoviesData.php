@@ -17,6 +17,7 @@ class RefreshMoviesData extends Command
             ['name' => 'migrate:fresh', 'params' => []],
             ['name' => 'tmdb:import-jsons', 'params' => []],
             //['name' => 'cinear:import-jsons', 'params' => []],
+            ['name' => 'movies:delete-selected', 'params' => []],           
             ['name' => 'db:seed', 'params' => ['--class' => MoviesVideoSourcesSeeder::class]],
         ];
 

@@ -19,6 +19,7 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [
         /*
+        ['title' => '1976', 'year' => 2022],
         ['title' => 'Machuca', 'year' => 2004],
         ['title' => '76-89-03'],
         ['title' => 'masacre-en-el-estadio', 'year' => 2019],
@@ -302,13 +303,6 @@ class FetchTmdbMovies extends Command
             ->values();
 
         $countries = collect($details['production_countries'] ?? []);
-        $argentineOnly = $countries->filter(function ($country) {
-            return ($country['iso_3166_1'] ?? null) === 'AR';
-        });
-
-        if ($argentineOnly->isEmpty()) {
-            $argentineOnly = $countries;
-        }
 
         return [
             'source' => 'tmdb',
@@ -325,7 +319,7 @@ class FetchTmdbMovies extends Command
                 ->map(fn ($genre) => Arr::only($genre, ['id', 'name']))
                 ->filter(fn ($genre) => isset($genre['name']))
                 ->values(),
-            'countries' => $argentineOnly->pluck('name')->values(),
+            'countries' => $countries->pluck('name')->values(),
             'spoken_languages' => Arr::pluck($details['spoken_languages'] ?? [], 'name'),
             'poster_url' => $posterUrl,
             'backdrop_url' => $backdropUrl,

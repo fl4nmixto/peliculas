@@ -16,6 +16,7 @@ class FetchTmdbMovies extends Command
     protected $signature = 'tmdb:fetch-movies {--path=database/seeders/jsons/tmdb} {--language=es-ES}';
 
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
+    protected const IMAGE_SIZE = 'w154';
 
     protected const MOVIES = [
         /*
@@ -266,7 +267,11 @@ class FetchTmdbMovies extends Command
     protected function formatPayload(array $details): array
     {
         $slug = Str::slug($details['title'] ?? $details['original_title'] ?? 'pelicula');
-        $imagesBaseUrl = config('services.tmdb.images_base_url');
+        $imagesBaseUrl = preg_replace(
+            '#/([^/]+)$#',
+            '/' . self::IMAGE_SIZE,
+            rtrim(config('services.tmdb.images_base_url'), '/')
+        );
 
         $posterUrl = $this->buildImageUrl($details['poster_path'] ?? null, $imagesBaseUrl);
         $backdropUrl = $this->buildImageUrl($details['backdrop_path'] ?? null, $imagesBaseUrl);

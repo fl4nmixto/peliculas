@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 1123533,
-    "cinear_id": null,
     "slug": "elda-y-los-monstruos",
     "title": "Elda y los monstruos",
     "original_title": "Elda y los monstruos",
@@ -22,16 +21,17 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/oXjLVDvgsETmKUYKyG1yXgant9s.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/h6UCTw6HoQp3mynHmhphW5ZVKX4.jpg",
+    "poster_url": "/storage/posters/elda-y-los-monstruos-4aaa38dd.jpg",
+    "backdrop_url": "/storage/backdrops/elda-y-los-monstruos-6c5a51fd.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 2406183,
             "name": "Diego Detona",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/5pUk1pj4vusbalhMOBBYvll2d1C.jpg"
+            "image_url": "/storage/people/diego-detona-a7e0778e.jpg"
         },
         {
             "id": 4050073,
@@ -82,14 +82,14 @@
             "name": "Nicolás Herzog",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg"
+            "image_url": "/storage/people/nicolas-herzog-08614fe9.jpg"
         },
         {
             "id": 2391720,
             "name": "Nicolás Herzog",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg"
+            "image_url": "/storage/people/nicolas-herzog-08614fe9.jpg"
         },
         {
             "id": 4345460,
@@ -110,7 +110,7 @@
             "name": "Nicolás Herzog",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg"
+            "image_url": "/storage/people/nicolas-herzog-08614fe9.jpg"
         },
         {
             "id": 1724073,
@@ -124,7 +124,7 @@
             "name": "Diego Detona",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/5pUk1pj4vusbalhMOBBYvll2d1C.jpg"
+            "image_url": "/storage/people/diego-detona-a7e0778e.jpg"
         },
         {
             "id": 4345461,
@@ -166,7 +166,7 @@
             "name": "Tomás Eloy Muñoz",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/1H65xBddxoeXJ43w9ydCoD73gKq.jpg"
+            "image_url": "/storage/people/tomas-eloy-munoz-5a84e5d9.jpg"
         },
         {
             "id": 4345459,
@@ -201,14 +201,14 @@
             "name": "Germán Guillermet",
             "department": "Sound",
             "job": "Foley Recordist",
-            "image_url": "https://image.tmdb.org/t/p/w154/lBcvi5lHPTPBirAs0hZB7xTA86u.jpg"
+            "image_url": "/storage/people/german-guillermet-0b060e09.jpg"
         },
         {
             "id": 2391720,
             "name": "Nicolás Herzog",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg"
+            "image_url": "/storage/people/nicolas-herzog-08614fe9.jpg"
         }
     ],
     "raw": {
@@ -231,7 +231,7 @@
         "original_language": "es",
         "original_title": "Elda y los monstruos",
         "overview": "La magnética Elda quiere convertirse en una estrella de rock. Cuando no está cantando sobre un escenario, ella es Diego Detona, un profesor que vive con su familia en Concordia y que tiene ciertas dudas sobre su transición. ¿Cuál es el verdadero alter ego? ¿La decidida y ambiciosa Elda o el tímido e inseguro Diego? La respuesta intenta encontrarla en una peregrinación hacia el altar de una mujer trans que fue asesinada y luego convertida en La Muda, una suerte de santa popular a la que la gente del pueblo se acerca a pedirle ayuda.",
-        "popularity": 3.1683,
+        "popularity": 0.0363,
         "poster_path": "/oXjLVDvgsETmKUYKyG1yXgant9s.jpg",
         "production_companies": [
             {
@@ -284,7 +284,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Detona",
                     "original_name": "Diego Detona",
-                    "popularity": 0.1071,
+                    "popularity": 0,
                     "profile_path": "/5pUk1pj4vusbalhMOBBYvll2d1C.jpg",
                     "cast_id": 2,
                     "character": "",
@@ -298,7 +298,7 @@
                     "known_for_department": "Acting",
                     "name": "Natalia Curcho",
                     "original_name": "Natalia Curcho",
-                    "popularity": 0.0379,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "",
@@ -312,7 +312,7 @@
                     "known_for_department": "Acting",
                     "name": "Calypso Summer",
                     "original_name": "Calypso Summer",
-                    "popularity": 0,
+                    "popularity": 0.0379,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "",
@@ -326,7 +326,7 @@
                     "known_for_department": "Acting",
                     "name": "Anul Oribe",
                     "original_name": "Anul Oribe",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "",
@@ -340,7 +340,7 @@
                     "known_for_department": "Acting",
                     "name": "Fran Dacunda",
                     "original_name": "Fran Dacunda",
-                    "popularity": 0.0357,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "",
@@ -356,7 +356,7 @@
                     "known_for_department": "Sound",
                     "name": "Emiliano Biaiñ",
                     "original_name": "Emiliano Biaiñ",
-                    "popularity": 0.0573,
+                    "popularity": 0.0862,
                     "profile_path": null,
                     "credit_id": "653ded10c8a5ac00e3a15abb",
                     "department": "Sound",
@@ -369,7 +369,7 @@
                     "known_for_department": "Sound",
                     "name": "Sergio Cabrera",
                     "original_name": "Sergio Cabrera",
-                    "popularity": 0.0336,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "653ded1c519bbb00fe5cbfdf",
                     "department": "Sound",
@@ -382,7 +382,7 @@
                     "known_for_department": "Directing",
                     "name": "Nicolás Herzog",
                     "original_name": "Nicolás Herzog",
-                    "popularity": 0.1147,
+                    "popularity": 0.0239,
                     "profile_path": "/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg",
                     "credit_id": "653decf3bc2cb300aca3d28e",
                     "department": "Editing",
@@ -395,7 +395,7 @@
                     "known_for_department": "Directing",
                     "name": "Nicolás Herzog",
                     "original_name": "Nicolás Herzog",
-                    "popularity": 0.1147,
+                    "popularity": 0.0239,
                     "profile_path": "/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg",
                     "credit_id": "653ded8fcc9683010b3f175e",
                     "department": "Production",
@@ -421,7 +421,7 @@
                     "known_for_department": "Art",
                     "name": "Claudina Roda",
                     "original_name": "Claudina Roda",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653ded08109cd000eae3c3b7",
                     "department": "Art",
@@ -434,7 +434,7 @@
                     "known_for_department": "Directing",
                     "name": "Nicolás Herzog",
                     "original_name": "Nicolás Herzog",
-                    "popularity": 0.1147,
+                    "popularity": 0.0239,
                     "profile_path": "/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg",
                     "credit_id": "653decd8cc968300ea71441b",
                     "department": "Writing",
@@ -447,7 +447,7 @@
                     "known_for_department": "Camera",
                     "name": "Fernando Lorenzale",
                     "original_name": "Fernando Lorenzale",
-                    "popularity": 0.0336,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653dece95907de00e1a25ba8",
                     "department": "Camera",
@@ -460,7 +460,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Detona",
                     "original_name": "Diego Detona",
-                    "popularity": 0.1071,
+                    "popularity": 0,
                     "profile_path": "/5pUk1pj4vusbalhMOBBYvll2d1C.jpg",
                     "credit_id": "653ded3350733c00e249be59",
                     "department": "Sound",
@@ -473,7 +473,7 @@
                     "known_for_department": "Sound",
                     "name": "Alan Anderson",
                     "original_name": "Alan Anderson",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653ded7a519bbb00ab690749",
                     "department": "Sound",
@@ -499,7 +499,7 @@
                     "known_for_department": "Editing",
                     "name": "Leandro Aste",
                     "original_name": "Leandro Aste",
-                    "popularity": 0.0828,
+                    "popularity": 0.0803,
                     "profile_path": null,
                     "credit_id": "653decf8519bbb00e18cda86",
                     "department": "Editing",
@@ -512,7 +512,7 @@
                     "known_for_department": "Sound",
                     "name": "Marcos Zoppi",
                     "original_name": "Marcos Zoppi",
-                    "popularity": 0.139,
+                    "popularity": 0.0528,
                     "profile_path": null,
                     "credit_id": "653ded16519bbb00e18cda96",
                     "department": "Sound",
@@ -525,7 +525,7 @@
                     "known_for_department": "Sound",
                     "name": "Lautaro Osorio",
                     "original_name": "Lautaro Osorio",
-                    "popularity": 0.0243,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653ded3fe894a600e2ce3be9",
                     "department": "Sound",
@@ -538,7 +538,7 @@
                     "known_for_department": "Production",
                     "name": "Tomás Eloy Muñoz",
                     "original_name": "Tomás Eloy Muñoz",
-                    "popularity": 0.0591,
+                    "popularity": 0.0193,
                     "profile_path": "/1H65xBddxoeXJ43w9ydCoD73gKq.jpg",
                     "credit_id": "653ded965907de00c4967b06",
                     "department": "Production",
@@ -551,7 +551,7 @@
                     "known_for_department": "Sound",
                     "name": "Juan Cruz Federik",
                     "original_name": "Juan Cruz Federik",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653ded48c8a5ac00e3a15ae9",
                     "department": "Sound",
@@ -564,7 +564,7 @@
                     "known_for_department": "Camera",
                     "name": "Fernanda Montiliengo",
                     "original_name": "Fernanda Montiliengo",
-                    "popularity": 0.0214,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "653dece4109cd0014df4ce8b",
                     "department": "Camera",
@@ -577,7 +577,7 @@
                     "known_for_department": "Sound",
                     "name": "Matías Sorokin",
                     "original_name": "Matías Sorokin",
-                    "popularity": 0.0311,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "653ded27bc2cb3010b4b424d",
                     "department": "Sound",
@@ -590,7 +590,7 @@
                     "known_for_department": "Production",
                     "name": "Valeria Bistagnino",
                     "original_name": "Valeria Bistagnino",
-                    "popularity": 0.0339,
+                    "popularity": 0.1176,
                     "profile_path": null,
                     "credit_id": "653ded9ec8a5ac013a8725c3",
                     "department": "Production",
@@ -603,7 +603,7 @@
                     "known_for_department": "Sound",
                     "name": "Germán Guillermet",
                     "original_name": "Germán Guillermet",
-                    "popularity": 0.0243,
+                    "popularity": 0.0143,
                     "profile_path": "/lBcvi5lHPTPBirAs0hZB7xTA86u.jpg",
                     "credit_id": "65b2f688d7cd0601307d56ef",
                     "department": "Sound",
@@ -616,7 +616,7 @@
                     "known_for_department": "Directing",
                     "name": "Nicolás Herzog",
                     "original_name": "Nicolás Herzog",
-                    "popularity": 0.1147,
+                    "popularity": 0.0239,
                     "profile_path": "/2ZkIU4EeBLJgw7zNHGUd6f4kdZX.jpg",
                     "credit_id": "6457ed826aa8e00139baa88a",
                     "department": "Directing",

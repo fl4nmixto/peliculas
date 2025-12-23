@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 107393,
-    "cinear_id": null,
     "slug": "ultimas-imagenes-del-naufragio",
     "title": "Últimas imágenes del naufragio",
     "original_title": "Últimas imágenes del naufragio",
@@ -17,35 +16,39 @@
         }
     ],
     "countries": [
+        "Spain",
         "Argentina"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/lgF2eaIIqvifAbl1tzuys3AsqLO.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/61YhaPXiO6TTK9Trz7kfEbTUxyo.jpg",
+    "poster_url": "/storage/posters/ultimas-imagenes-del-naufragio-d5c52526.jpg",
+    "backdrop_url": "/storage/backdrops/ultimas-imagenes-del-naufragio-423d82c6.jpg",
     "trailer": "https://www.youtube.com/watch?v=TQ0ICpq5gq0",
+    "gallery_urls": [
+        "/storage/posters/ultimas-imagenes-del-naufragio-d5c52526.jpg"
+    ],
     "cast": [
         {
             "id": 105740,
             "name": "Lorenzo Quinteros",
             "character": "Roberto",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg"
+            "image_url": "/storage/people/lorenzo-quinteros-3b6ce3bb.jpg"
         },
         {
             "id": 1702622,
             "name": "Noemí Frenkel",
             "character": "Estela",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/3YVBC99201rKYS8HxPl8z8BsbI3.jpg"
+            "image_url": "/storage/people/noemi-frenkel-9e150259.jpg"
         },
         {
             "id": 1102442,
             "name": "Hugo Soto",
             "character": "Claudio",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/aqmO6SQ69f1o1GWypF9wfwXrqUs.jpg"
+            "image_url": "/storage/people/hugo-soto-cffddd1d.jpg"
         },
         {
             "id": 980549,
@@ -66,14 +69,14 @@
             "name": "Andrés Tiengo",
             "character": "Mario",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/6yxAxEnaj9r7wvxlmRDt4GXEtJh.jpg"
+            "image_url": "/storage/people/andres-tiengo-d5fc1fe2.jpg"
         },
         {
             "id": 1409091,
             "name": "Alicia Aller",
             "character": "Wife",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/r9z7YNi8k1Ih4cguEH97wyVcdAk.jpg"
+            "image_url": "/storage/people/alicia-aller-180e166c.jpg"
         },
         {
             "id": 1702626,
@@ -99,6 +102,13 @@
     ],
     "crew": [
         {
+            "id": 1788701,
+            "name": "Cátulo Castillo",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "/storage/people/catulo-castillo-73b6c784.jpg"
+        },
+        {
             "id": 2235911,
             "name": "Hugo E. Lauría",
             "department": "Production",
@@ -113,32 +123,25 @@
             "image_url": null
         },
         {
-            "id": 1788701,
-            "name": "Cátulo Castillo",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg"
-        },
-        {
             "id": 81116,
             "name": "Eliseo Subiela",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg"
+            "image_url": "/storage/people/eliseo-subiela-78770dfa.jpg"
         },
         {
             "id": 1126231,
             "name": "Pedro Aznar",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/f15azbgeJNbaiOP9uDBKeGEDfOw.jpg"
+            "image_url": "/storage/people/pedro-aznar-76cc0f26.jpg"
         },
         {
             "id": 81116,
             "name": "Eliseo Subiela",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg"
+            "image_url": "/storage/people/eliseo-subiela-78770dfa.jpg"
         },
         {
             "id": 1892868,
@@ -168,7 +171,7 @@
         "original_language": "es",
         "original_title": "Últimas imágenes del naufragio",
         "overview": "Roberto es un vendedor de seguros que sueña con escribir su propia novela. Cuando conoce a Estela, una joven a punto de suicidarse, le sirve como material para elaborar esa obra.",
-        "popularity": 0.1351,
+        "popularity": 1.3494,
         "poster_path": "/lgF2eaIIqvifAbl1tzuys3AsqLO.jpg",
         "production_companies": [],
         "production_countries": [
@@ -206,7 +209,7 @@
                     "known_for_department": "Acting",
                     "name": "Lorenzo Quinteros",
                     "original_name": "Lorenzo Quinteros",
-                    "popularity": 0.0637,
+                    "popularity": 0.0835,
                     "profile_path": "/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg",
                     "cast_id": 1,
                     "character": "Roberto",
@@ -220,7 +223,7 @@
                     "known_for_department": "Acting",
                     "name": "Noemí Frenkel",
                     "original_name": "Noemí Frenkel",
-                    "popularity": 0.0827,
+                    "popularity": 0.2223,
                     "profile_path": "/3YVBC99201rKYS8HxPl8z8BsbI3.jpg",
                     "cast_id": 2,
                     "character": "Estela",
@@ -234,7 +237,7 @@
                     "known_for_department": "Acting",
                     "name": "Hugo Soto",
                     "original_name": "Hugo Soto",
-                    "popularity": 0.186,
+                    "popularity": 0.1072,
                     "profile_path": "/aqmO6SQ69f1o1GWypF9wfwXrqUs.jpg",
                     "cast_id": 3,
                     "character": "Claudio",
@@ -248,7 +251,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Brichta",
                     "original_name": "Pablo Brichta",
-                    "popularity": 0.0322,
+                    "popularity": 0.2194,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "José",
@@ -262,7 +265,7 @@
                     "known_for_department": "Acting",
                     "name": "Sara Benítez",
                     "original_name": "Sara Benítez",
-                    "popularity": 0.0387,
+                    "popularity": 0.0885,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "Mother",
@@ -276,7 +279,7 @@
                     "known_for_department": "Acting",
                     "name": "Andrés Tiengo",
                     "original_name": "Andrés Tiengo",
-                    "popularity": 0.0143,
+                    "popularity": 0.1475,
                     "profile_path": "/6yxAxEnaj9r7wvxlmRDt4GXEtJh.jpg",
                     "cast_id": 6,
                     "character": "Mario",
@@ -290,7 +293,7 @@
                     "known_for_department": "Acting",
                     "name": "Alicia Aller",
                     "original_name": "Alicia Aller",
-                    "popularity": 0.0409,
+                    "popularity": 0.1067,
                     "profile_path": "/r9z7YNi8k1Ih4cguEH97wyVcdAk.jpg",
                     "cast_id": 7,
                     "character": "Wife",
@@ -318,7 +321,7 @@
                     "known_for_department": "Acting",
                     "name": "Marisa Ferrari",
                     "original_name": "Marisa Ferrari",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "José's Girlfriend",
@@ -332,7 +335,7 @@
                     "known_for_department": "Acting",
                     "name": "Vivi Tellas",
                     "original_name": "Vivi Tellas",
-                    "popularity": 0.0468,
+                    "popularity": 0.2925,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "",
@@ -344,11 +347,24 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 1788701,
+                    "known_for_department": "Sound",
+                    "name": "Cátulo Castillo",
+                    "original_name": "Cátulo Castillo",
+                    "popularity": 0.0555,
+                    "profile_path": "/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg",
+                    "credit_id": "613b5b459653f60043e4f875",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 2235911,
                     "known_for_department": "Production",
                     "name": "Hugo E. Lauría",
                     "original_name": "Hugo E. Lauría",
-                    "popularity": 0.0143,
+                    "popularity": 0.0531,
                     "profile_path": null,
                     "credit_id": "613b5b19a6ddcb002c620f9c",
                     "department": "Production",
@@ -361,7 +377,7 @@
                     "known_for_department": "Editing",
                     "name": "Marcela Sáenz",
                     "original_name": "Marcela Sáenz",
-                    "popularity": 0.0487,
+                    "popularity": 0.1464,
                     "profile_path": null,
                     "credit_id": "613b5b5fa6ddcb008aebd1ac",
                     "department": "Editing",
@@ -370,24 +386,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 1788701,
-                    "known_for_department": "Sound",
-                    "name": "Cátulo Castillo",
-                    "original_name": "Cátulo Castillo",
-                    "popularity": 0.0357,
-                    "profile_path": "/9XRLQwIoBoKAf9f7mKwo6XIWURR.jpg",
-                    "credit_id": "613b5b459653f60043e4f875",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 81116,
                     "known_for_department": "Directing",
                     "name": "Eliseo Subiela",
                     "original_name": "Eliseo Subiela",
-                    "popularity": 0.1391,
+                    "popularity": 0.3223,
                     "profile_path": "/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg",
                     "credit_id": "53dbd2840e0a264819000369",
                     "department": "Directing",
@@ -400,7 +403,7 @@
                     "known_for_department": "Sound",
                     "name": "Pedro Aznar",
                     "original_name": "Pedro Aznar",
-                    "popularity": 0.0615,
+                    "popularity": 0.23,
                     "profile_path": "/f15azbgeJNbaiOP9uDBKeGEDfOw.jpg",
                     "credit_id": "5bf1fb1dc3a36818b607a148",
                     "department": "Sound",
@@ -413,7 +416,7 @@
                     "known_for_department": "Directing",
                     "name": "Eliseo Subiela",
                     "original_name": "Eliseo Subiela",
-                    "popularity": 0.1391,
+                    "popularity": 0.3223,
                     "profile_path": "/yozVi3JYuQrPhLyi7CVG1KmkSLk.jpg",
                     "credit_id": "5bf1fb2d9251415cc106bc39",
                     "department": "Writing",
@@ -426,7 +429,7 @@
                     "known_for_department": "Camera",
                     "name": "Alberto Basail",
                     "original_name": "Alberto Basail",
-                    "popularity": 0.0409,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5bf1fb390e0a26267406f970",
                     "department": "Crew",

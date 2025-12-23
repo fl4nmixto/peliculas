@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 25532,
-    "cinear_id": null,
     "slug": "cronica-de-una-fuga",
     "title": "Crónica de una fuga",
     "original_title": "Crónica de una fuga",
@@ -11,7 +10,10 @@
     "year": 2006,
     "tagline": "",
     "genres": [
-        "Suspense"
+        {
+            "id": 53,
+            "name": "Suspense"
+        }
     ],
     "countries": [
         "Argentina"
@@ -19,51 +21,56 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/mf24DONuK3Yhxpu4Ogbdejk7A4J.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/xc9YIOS8p3JTfTjBSNjSlLBm927.jpg",
+    "poster_url": "/storage/posters/cronica-de-una-fuga-d4b97153.jpg",
+    "backdrop_url": "/storage/backdrops/cronica-de-una-fuga-0b1f8fed.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/cronica-de-una-fuga-d4b97153.jpg",
+        "/storage/gallery/gallery-2-6410cb90.jpg",
+        "/storage/gallery/gallery-3-dfe7e461.jpg"
+    ],
     "cast": [
         {
             "id": 18478,
             "name": "Rodrigo de la Serna",
             "character": "Claudio Tamburrini",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/qA1WkjCuoAzY91X3bTALnAI4NU0.jpg"
+            "image_url": "/storage/people/rodrigo-de-la-serna-e18100ee.jpg"
         },
         {
             "id": 87016,
             "name": "Pablo Echarri",
             "character": "Huguito",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/eJSTPr8uViInEncGVK73wIk9pCI.jpg"
+            "image_url": "/storage/people/pablo-echarri-0e1f8167.jpg"
         },
         {
             "id": 230219,
             "name": "Nazareno Casero",
             "character": "Guillermo Fernández",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/aRgNxKZWX95kWWtkIJ92BoAmU7G.jpg"
+            "image_url": "/storage/people/nazareno-casero-43d6e59e.jpg"
         },
         {
             "id": 230220,
             "name": "Lautaro Delgado Tymruk",
             "character": "Gallego",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/AdxOUeOUvyPf32eWVeqcxU8Wp5C.jpg"
+            "image_url": "/storage/people/lautaro-delgado-tymruk-b0eef858.jpg"
         },
         {
             "id": 230221,
             "name": "Matías Marmorato",
             "character": "El Vasco",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/bck1tcXKjEHjtP3ZxhpIEl4Pelb.jpg"
+            "image_url": "/storage/people/matias-marmorato-8e8a79e7.jpg"
         },
         {
             "id": 230222,
             "name": "Diego Alonso",
             "character": "Lucas",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/3ac2ZT82mftkVR9D7duqx7hhGi5.jpg"
+            "image_url": "/storage/people/diego-alonso-bd1e5d3d.jpg"
         },
         {
             "id": 230223,
@@ -84,7 +91,7 @@
             "name": "Alfredo Castellani",
             "character": "Entrenador",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/fHRrFK1beuIqG74dkZXOaz0PvZW.jpg"
+            "image_url": "/storage/people/alfredo-castellani-2153e03a.jpg"
         },
         {
             "id": 1013742,
@@ -98,7 +105,7 @@
             "name": "Daniel Di Biase",
             "character": "Padre del Gallego",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/hd4kXNiE8t1sxxqpNRFoF73ZTXR.jpg"
+            "image_url": "/storage/people/daniel-di-biase-c401e07c.jpg"
         },
         {
             "id": 1122518,
@@ -112,14 +119,14 @@
             "name": "Erasmo Olivera",
             "character": "Tucumano",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/x3XloPWVDHJ1ZkYNdz21REtBeoH.jpg"
+            "image_url": "/storage/people/erasmo-olivera-21af15aa.jpg"
         },
         {
             "id": 942216,
             "name": "Susana Pampín",
             "character": "Madre de Claudio",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg"
+            "image_url": "/storage/people/susana-pampin-3a3c3bb3.jpg"
         },
         {
             "id": 1022036,
@@ -140,14 +147,14 @@
             "name": "Alfonso Tort",
             "character": "Jorge",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/tCyg7jBgerIFOyVAiolfgDYP765.jpg"
+            "image_url": "/storage/people/alfonso-tort-0dec39e0.jpg"
         },
         {
             "id": 52235,
             "name": "Daniel Valenzuela",
             "character": "Alemán",
             "order": 17,
-            "image_url": "https://image.tmdb.org/t/p/w154/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg"
+            "image_url": "/storage/people/daniel-valenzuela-70ff0bee.jpg"
         },
         {
             "id": 1241651,
@@ -163,14 +170,14 @@
             "name": "Adrián Caetano",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/qsJm9IHiJqVo1w1WaOQlN7SrYJv.jpg"
+            "image_url": "/storage/people/adrian-caetano-f8f6c716.jpg"
         },
         {
             "id": 230217,
             "name": "Adrián Caetano",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/qsJm9IHiJqVo1w1WaOQlN7SrYJv.jpg"
+            "image_url": "/storage/people/adrian-caetano-f8f6c716.jpg"
         },
         {
             "id": 1530953,
@@ -205,7 +212,7 @@
             "name": "Alberto Ponce",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/vC3AuindnRvz5NkIP0FAyc7pt0.jpg"
+            "image_url": "/storage/people/alberto-ponce-2de016f5.jpg"
         },
         {
             "id": 1310722,
@@ -219,14 +226,14 @@
             "name": "Julián Apezteguia",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg"
+            "image_url": "/storage/people/julian-apezteguia-371ea092.jpg"
         },
         {
             "id": 45538,
             "name": "Jorge Ferrari",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/nz31o8QLibVlX6ZLyro6U7C6FVt.jpg"
+            "image_url": "/storage/people/jorge-ferrari-ce0b5761.jpg"
         },
         {
             "id": 113381,
@@ -326,7 +333,7 @@
         "original_language": "es",
         "original_title": "Crónica de una fuga",
         "overview": "Historia sobre los desaparecidos en la dictadura militar argentina. En 1977, un grupo de tareas al servicio del gobierno militar argentino secuestra a Claudio Tamburrini, arquero de un equipo de fútbol de la “B” y lo traslada al centro Mansión Seré: una vieja y aristocrática casona ubicada en el barrio de Morón, en Buenos Aires. Allí, Tamburrini conoce a Guillermo, el Vasco y el Gallego. Luego de cuatro meses de cautiverio en ese lugar que se asemeja a un manicomio carente de reglas, los jóvenes abren la ventana y saltan al vacío en medio de una tormenta y completamente desnudos. Allí comienza su futuro.",
-        "popularity": 1.1474,
+        "popularity": 0.4247,
         "poster_path": "/mf24DONuK3Yhxpu4Ogbdejk7A4J.jpg",
         "production_companies": [
             {
@@ -368,8 +375,8 @@
         "tagline": "",
         "title": "Crónica de una fuga",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 74,
+        "vote_average": 6.533,
+        "vote_count": 75,
         "credits": {
             "cast": [
                 {
@@ -379,7 +386,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo de la Serna",
                     "original_name": "Rodrigo de la Serna",
-                    "popularity": 1.639,
+                    "popularity": 2.3376,
                     "profile_path": "/qA1WkjCuoAzY91X3bTALnAI4NU0.jpg",
                     "cast_id": 4,
                     "character": "Claudio Tamburrini",
@@ -393,7 +400,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Echarri",
                     "original_name": "Pablo Echarri",
-                    "popularity": 0.9101,
+                    "popularity": 1.3299,
                     "profile_path": "/eJSTPr8uViInEncGVK73wIk9pCI.jpg",
                     "cast_id": 5,
                     "character": "Huguito",
@@ -407,7 +414,7 @@
                     "known_for_department": "Acting",
                     "name": "Nazareno Casero",
                     "original_name": "Nazareno Casero",
-                    "popularity": 0.5621,
+                    "popularity": 0.5088,
                     "profile_path": "/aRgNxKZWX95kWWtkIJ92BoAmU7G.jpg",
                     "cast_id": 6,
                     "character": "Guillermo Fernández",
@@ -421,7 +428,7 @@
                     "known_for_department": "Acting",
                     "name": "Lautaro Delgado Tymruk",
                     "original_name": "Lautaro Delgado Tymruk",
-                    "popularity": 0.3054,
+                    "popularity": 0.3036,
                     "profile_path": "/AdxOUeOUvyPf32eWVeqcxU8Wp5C.jpg",
                     "cast_id": 7,
                     "character": "Gallego",
@@ -435,7 +442,7 @@
                     "known_for_department": "Acting",
                     "name": "Matías Marmorato",
                     "original_name": "Matías Marmorato",
-                    "popularity": 0.0669,
+                    "popularity": 0.1348,
                     "profile_path": "/bck1tcXKjEHjtP3ZxhpIEl4Pelb.jpg",
                     "cast_id": 8,
                     "character": "El Vasco",
@@ -449,7 +456,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Alonso",
                     "original_name": "Diego Alonso",
-                    "popularity": 0.1262,
+                    "popularity": 0.5396,
                     "profile_path": "/3ac2ZT82mftkVR9D7duqx7hhGi5.jpg",
                     "cast_id": 9,
                     "character": "Lucas",
@@ -463,7 +470,7 @@
                     "known_for_department": "Crew",
                     "name": "Guillermo Fernández",
                     "original_name": "Guillermo Fernández",
-                    "popularity": 0.0239,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Juez",
@@ -477,7 +484,7 @@
                     "known_for_department": "Acting",
                     "name": "César Albarracín",
                     "original_name": "César Albarracín",
-                    "popularity": 0.0387,
+                    "popularity": 0.0546,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Guardia Tucumano 2",
@@ -491,7 +498,7 @@
                     "known_for_department": "Acting",
                     "name": "Alfredo Castellani",
                     "original_name": "Alfredo Castellani",
-                    "popularity": 0.0839,
+                    "popularity": 0.0832,
                     "profile_path": "/fHRrFK1beuIqG74dkZXOaz0PvZW.jpg",
                     "cast_id": 14,
                     "character": "Entrenador",
@@ -505,7 +512,7 @@
                     "known_for_department": "Writing",
                     "name": "Daniel Cúparo",
                     "original_name": "Daniel Cúparo",
-                    "popularity": 0.0327,
+                    "popularity": 0.199,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "Guardia Metódica 3",
@@ -519,7 +526,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Di Biase",
                     "original_name": "Daniel Di Biase",
-                    "popularity": 0.0327,
+                    "popularity": 0.1437,
                     "profile_path": "/hd4kXNiE8t1sxxqpNRFoF73ZTXR.jpg",
                     "cast_id": 16,
                     "character": "Padre del Gallego",
@@ -533,7 +540,7 @@
                     "known_for_department": "Acting",
                     "name": "Julián Krakov",
                     "original_name": "Julián Krakov",
-                    "popularity": 0.0409,
+                    "popularity": 0.1233,
                     "profile_path": null,
                     "cast_id": 17,
                     "character": "Mario",
@@ -547,7 +554,7 @@
                     "known_for_department": "Acting",
                     "name": "Erasmo Olivera",
                     "original_name": "Erasmo Olivera",
-                    "popularity": 0.0459,
+                    "popularity": 0.1876,
                     "profile_path": "/x3XloPWVDHJ1ZkYNdz21REtBeoH.jpg",
                     "cast_id": 18,
                     "character": "Tucumano",
@@ -561,7 +568,7 @@
                     "known_for_department": "Acting",
                     "name": "Susana Pampín",
                     "original_name": "Susana Pampín",
-                    "popularity": 0.3878,
+                    "popularity": 0.3927,
                     "profile_path": "/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg",
                     "cast_id": 19,
                     "character": "Madre de Claudio",
@@ -575,7 +582,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Ramírez",
                     "original_name": "Leonardo Ramírez",
-                    "popularity": 0.0382,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 20,
                     "character": "Guardia Tucumano 1",
@@ -589,7 +596,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Ribba",
                     "original_name": "Pablo Ribba",
-                    "popularity": 0.1172,
+                    "popularity": 0.2372,
                     "profile_path": null,
                     "cast_id": 21,
                     "character": "Guardia Lucas 1",
@@ -603,7 +610,7 @@
                     "known_for_department": "Acting",
                     "name": "Alfonso Tort",
                     "original_name": "Alfonso Tort",
-                    "popularity": 0.0709,
+                    "popularity": 0.1731,
                     "profile_path": "/tCyg7jBgerIFOyVAiolfgDYP765.jpg",
                     "cast_id": 22,
                     "character": "Jorge",
@@ -617,7 +624,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Valenzuela",
                     "original_name": "Daniel Valenzuela",
-                    "popularity": 0.1507,
+                    "popularity": 0.1995,
                     "profile_path": "/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg",
                     "cast_id": 23,
                     "character": "Alemán",
@@ -631,7 +638,7 @@
                     "known_for_department": "Acting",
                     "name": "Micaela Vázquez",
                     "original_name": "Micaela Vázquez",
-                    "popularity": 0.2587,
+                    "popularity": 0.262,
                     "profile_path": null,
                     "cast_id": 24,
                     "character": "Hermana de Claudio",
@@ -647,7 +654,7 @@
                     "known_for_department": "Directing",
                     "name": "Adrián Caetano",
                     "original_name": "Adrián Caetano",
-                    "popularity": 0.0777,
+                    "popularity": 0.2276,
                     "profile_path": "/qsJm9IHiJqVo1w1WaOQlN7SrYJv.jpg",
                     "credit_id": "5387f781c3a3681ada003c5b",
                     "department": "Directing",
@@ -660,7 +667,7 @@
                     "known_for_department": "Directing",
                     "name": "Adrián Caetano",
                     "original_name": "Adrián Caetano",
-                    "popularity": 0.0777,
+                    "popularity": 0.2276,
                     "profile_path": "/qsJm9IHiJqVo1w1WaOQlN7SrYJv.jpg",
                     "credit_id": "56e224b2c3a3687001000af9",
                     "department": "Writing",
@@ -673,7 +680,7 @@
                     "known_for_department": "Sound",
                     "name": "Facundo Paco Girón",
                     "original_name": "Facundo Paco Girón",
-                    "popularity": 0.0528,
+                    "popularity": 0.0478,
                     "profile_path": null,
                     "credit_id": "56e30f3ec3a3685aa00004f2",
                     "department": "Sound",
@@ -686,7 +693,7 @@
                     "known_for_department": "Production",
                     "name": "Óscar Kramer",
                     "original_name": "Óscar Kramer",
-                    "popularity": 0.0357,
+                    "popularity": 0.1297,
                     "profile_path": null,
                     "credit_id": "56e309c7c3a3685a9a0003e6",
                     "department": "Production",
@@ -699,7 +706,7 @@
                     "known_for_department": "Lighting",
                     "name": "Agustín Barrutia",
                     "original_name": "Agustín Barrutia",
-                    "popularity": 0.0261,
+                    "popularity": 0.0404,
                     "profile_path": null,
                     "credit_id": "56e310b5c3a3685aa000052d",
                     "department": "Lighting",
@@ -712,7 +719,7 @@
                     "known_for_department": "Production",
                     "name": "Hugo Sigman",
                     "original_name": "Hugo Sigman",
-                    "popularity": 0.0496,
+                    "popularity": 0.1488,
                     "profile_path": null,
                     "credit_id": "56e309e5c3a3685a92000432",
                     "department": "Production",
@@ -725,7 +732,7 @@
                     "known_for_department": "Editing",
                     "name": "Alberto Ponce",
                     "original_name": "Alberto Ponce",
-                    "popularity": 0.0311,
+                    "popularity": 0.0959,
                     "profile_path": "/vC3AuindnRvz5NkIP0FAyc7pt0.jpg",
                     "credit_id": "56e30a6ac3a3685a92000449",
                     "department": "Editing",
@@ -738,7 +745,7 @@
                     "known_for_department": "Production",
                     "name": "Javier Braier",
                     "original_name": "Javier Braier",
-                    "popularity": 0.0459,
+                    "popularity": 0.1679,
                     "profile_path": null,
                     "credit_id": "56e30a8fc3a3685a900003f8",
                     "department": "Production",
@@ -751,7 +758,7 @@
                     "known_for_department": "Camera",
                     "name": "Julián Apezteguia",
                     "original_name": "Julián Apezteguia",
-                    "popularity": 0.0445,
+                    "popularity": 0.0389,
                     "profile_path": "/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg",
                     "credit_id": "56e30a359251416d460003a9",
                     "department": "Camera",
@@ -764,7 +771,7 @@
                     "known_for_department": "Art",
                     "name": "Jorge Ferrari",
                     "original_name": "Jorge Ferrari",
-                    "popularity": 0.0239,
+                    "popularity": 0.1064,
                     "profile_path": "/nz31o8QLibVlX6ZLyro6U7C6FVt.jpg",
                     "credit_id": "56e30aeac3a3685a9a000416",
                     "department": "Art",
@@ -777,7 +784,7 @@
                     "known_for_department": "Visual Effects",
                     "name": "Rodrigo S. Tomasso",
                     "original_name": "Rodrigo S. Tomasso",
-                    "popularity": 0.0568,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "56e30e55c3a3685a9a0004cc",
                     "department": "Editing",
@@ -790,7 +797,7 @@
                     "known_for_department": "Crew",
                     "name": "Guillermo Fernández",
                     "original_name": "Guillermo Fernández",
-                    "popularity": 0.0239,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "56e309629251416d340003ce",
                     "department": "Crew",
@@ -803,7 +810,7 @@
                     "known_for_department": "Writing",
                     "name": "Esteban Student",
                     "original_name": "Esteban Student",
-                    "popularity": 0.0693,
+                    "popularity": 0.1542,
                     "profile_path": null,
                     "credit_id": "56e309169251416d340003c6",
                     "department": "Writing",
@@ -816,7 +823,7 @@
                     "known_for_department": "Production",
                     "name": "Natalia Urruty",
                     "original_name": "Natalia Urruty",
-                    "popularity": 0.0552,
+                    "popularity": 0.1154,
                     "profile_path": null,
                     "credit_id": "56e30ab7c3a3685a900003fc",
                     "department": "Production",
@@ -829,7 +836,7 @@
                     "known_for_department": "Writing",
                     "name": "Julian Loyola",
                     "original_name": "Julian Loyola",
-                    "popularity": 0.0453,
+                    "popularity": 0.1524,
                     "profile_path": null,
                     "credit_id": "56e3092fc3a3685aa00003dc",
                     "department": "Writing",
@@ -842,7 +849,7 @@
                     "known_for_department": "Sound",
                     "name": "Iván Wyszogrod",
                     "original_name": "Iván Wyszogrod",
-                    "popularity": 0.0822,
+                    "popularity": 0.1472,
                     "profile_path": null,
                     "credit_id": "56e30a159251416d340003e8",
                     "department": "Sound",
@@ -868,7 +875,7 @@
                     "known_for_department": "Sound",
                     "name": "Maximiliano Gorriti",
                     "original_name": "Maximiliano Gorriti",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "56e3116cc3a3685a92000584",
                     "department": "Sound",
@@ -881,7 +888,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Julio Suárez",
                     "original_name": "Julio Suárez",
-                    "popularity": 0.0363,
+                    "popularity": 0.0713,
                     "profile_path": null,
                     "credit_id": "56e30b49c3a3685a9200047e",
                     "department": "Costume & Make-Up",
@@ -894,7 +901,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Marisa Amenta",
                     "original_name": "Marisa Amenta",
-                    "popularity": 0.0404,
+                    "popularity": 0.1522,
                     "profile_path": null,
                     "credit_id": "56e30b8ac3a3685a96000474",
                     "department": "Costume & Make-Up",
@@ -907,7 +914,7 @@
                     "known_for_department": "Camera",
                     "name": "Diego García",
                     "original_name": "Diego García",
-                    "popularity": 0.7106,
+                    "popularity": 0.3053,
                     "profile_path": null,
                     "credit_id": "570e49d89251411621000383",
                     "department": "Directing",

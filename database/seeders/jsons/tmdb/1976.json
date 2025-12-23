@@ -23,37 +23,40 @@
         "Español",
         "English"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/vlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/zHyw4M8a7jWmQsnsmDTlY2ydSsr.jpg",
+    "poster_url": "/storage/posters/1976-3d412de8.jpg",
+    "backdrop_url": "/storage/backdrops/1976-01815eb5.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/1976-3d412de8.jpg"
+    ],
     "cast": [
         {
             "id": 71208,
             "name": "Aline Küppenheim",
             "character": "Carmen",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/q28ocDTSuq5USf3MxYXw98mV3VU.jpg"
+            "image_url": "/storage/people/aline-kuppenheim-c8850174.jpg"
         },
         {
             "id": 3489501,
             "name": "Nicolás Sepúlveda",
             "character": "Elías",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/oYMvfTeFvIyG9iU2SwGA5XzSoJu.jpg"
+            "image_url": "/storage/people/nicolas-sepulveda-13f7535b.jpg"
         },
         {
             "id": 204472,
             "name": "Hugo Medina",
             "character": "Father Sánchez",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/nyOs8W6zV5LGa08pKVdv3QECG7o.jpg"
+            "image_url": "/storage/people/hugo-medina-12715718.jpg"
         },
         {
             "id": 1061534,
             "name": "Alejandro Goic",
             "character": "Miguel",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/8z2lGgKgZO5H5Iin4k3BBpw54Du.jpg"
+            "image_url": "/storage/people/alejandro-goic-8ab007db.jpg"
         },
         {
             "id": 4066216,
@@ -67,21 +70,21 @@
             "name": "Amalia Kassai",
             "character": "Leonor",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/65Rxyhpj4sx2eODNiCCyE6A8Qlp.jpg"
+            "image_url": "/storage/people/amalia-kassai-8ed08183.jpg"
         },
         {
             "id": 1306090,
             "name": "Gabriel Urzúa",
             "character": "Tomás",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/vRJiIUHBksl40KqHZVoIiXzI8vO.jpg"
+            "image_url": "/storage/people/gabriel-urzua-36176f37.jpg"
         },
         {
             "id": 2637512,
             "name": "Luis Cerda",
             "character": "Pedro",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/qOd9MeRhpeGwueEun5nHgs7QKKs.jpg"
+            "image_url": "/storage/people/luis-cerda-6aa387b5.jpg"
         },
         {
             "id": 3564377,
@@ -109,14 +112,14 @@
             "name": "Marcial Tagle",
             "character": "Osvaldo",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/sveAdNSZir3JX6DAKUYIwA8dJZh.jpg"
+            "image_url": "/storage/people/marcial-tagle-a6caa6f1.jpg"
         },
         {
             "id": 141624,
             "name": "Antonia Zegers",
             "character": "Raquel",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg"
+            "image_url": "/storage/people/antonia-zegers-f01cd3aa.jpg"
         },
         {
             "id": 2577752,
@@ -130,21 +133,21 @@
             "name": "Mauricio Pesutic",
             "character": "Eugenio",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/zxa8y6KaU9stbr9l4ogtNXa7jyC.jpg"
+            "image_url": "/storage/people/mauricio-pesutic-74a9638e.jpg"
         },
         {
             "id": 3564380,
             "name": "Yasna Ríos",
             "character": "Silvia",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/6Wi42MU9bV5pquEKpsivxq5zG8H.jpg"
+            "image_url": "/storage/people/yasna-rios-54d32e96.jpg"
         },
         {
             "id": 1260911,
             "name": "Francisco Ossa",
             "character": "Father Rafael",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/bHnmhxGZcJQXhwduWmVFoaZYeid.jpg"
+            "image_url": "/storage/people/francisco-ossa-b2ae1055.jpg"
         },
         {
             "id": 3917617,
@@ -158,14 +161,14 @@
             "name": "Elvis Fuentes",
             "character": "Kidnapping Voices (voice) / Humberto",
             "order": 18,
-            "image_url": "https://image.tmdb.org/t/p/w154/a3VV5pDq9gHxtXj4GheLBfYtvVp.jpg"
+            "image_url": "/storage/people/elvis-fuentes-ba28a896.jpg"
         },
         {
             "id": 1302010,
             "name": "Mora Recalde",
             "character": "Nurse",
             "order": 19,
-            "image_url": "https://image.tmdb.org/t/p/w154/u3MGGlLmyFw4WZzwI7UIR1lJPGI.jpg"
+            "image_url": "/storage/people/mora-recalde-0d3bc8f2.jpg"
         }
     ],
     "crew": [
@@ -188,7 +191,7 @@
             "name": "Dominga Sotomayor",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/riLkpCR7S4P9914USEnfbaMLTwb.jpg"
+            "image_url": "/storage/people/dominga-sotomayor-8a40916e.jpg"
         },
         {
             "id": 1142739,
@@ -202,14 +205,14 @@
             "name": "Manuela Martelli",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/fH2Ir9Qh37ivjyGSEht3aX4qFp4.jpg"
+            "image_url": "/storage/people/manuela-martelli-4c75e393.jpg"
         },
         {
             "id": 1179833,
             "name": "Omar Zúñiga Hidalgo",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9RpeU4LLiDNFqmnD4ZNcd40Gc3s.jpg"
+            "image_url": "/storage/people/omar-zuniga-hidalgo-1aa4e6b7.jpg"
         },
         {
             "id": 2153192,
@@ -244,7 +247,7 @@
             "name": "Andrés Wood",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+            "image_url": "/storage/people/andres-wood-1f75e3f9.jpg"
         },
         {
             "id": 2249405,
@@ -279,14 +282,14 @@
             "name": "Gwenn Joyaux",
             "department": "Directing",
             "job": "Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/kJKqJdLdlT8OGle2gSKa2W2xr7h.jpg"
+            "image_url": "/storage/people/gwenn-joyaux-339d96a0.jpg"
         },
         {
             "id": 2681490,
             "name": "Waldo Salgado",
             "department": "Directing",
             "job": "Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/yuftGTqXJczradLizzjz3GKkcOX.jpg"
+            "image_url": "/storage/people/waldo-salgado-0114a607.jpg"
         },
         {
             "id": 2815406,
@@ -314,7 +317,7 @@
             "name": "Jesica Suárez",
             "department": "Sound",
             "job": "Sound Designer",
-            "image_url": "https://image.tmdb.org/t/p/w154/jOo4KzyL8H1N0vcOVVMQo7NjsmV.jpg"
+            "image_url": "/storage/people/jesica-suarez-817ffeef.jpg"
         },
         {
             "id": 2650458,
@@ -412,7 +415,7 @@
             "name": "Mora Recalde",
             "department": "Production",
             "job": "Casting Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/u3MGGlLmyFw4WZzwI7UIR1lJPGI.jpg"
+            "image_url": "/storage/people/mora-recalde-0d3bc8f2.jpg"
         },
         {
             "id": 3527649,
@@ -468,7 +471,7 @@
             "name": "Manuela Martelli",
             "department": "Production",
             "job": "Casting Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/fH2Ir9Qh37ivjyGSEht3aX4qFp4.jpg"
+            "image_url": "/storage/people/manuela-martelli-4c75e393.jpg"
         },
         {
             "id": 2249405,
@@ -503,7 +506,7 @@
             "name": "Estefania Larrain",
             "department": "Art",
             "job": "Production Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/b4dDGMKPWio1LSPfQadaaFOuUEM.jpg"
+            "image_url": "/storage/people/estefania-larrain-ac28f7b4.jpg"
         },
         {
             "id": 2650458,
@@ -517,7 +520,7 @@
             "name": "Manuela Martelli",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/fH2Ir9Qh37ivjyGSEht3aX4qFp4.jpg"
+            "image_url": "/storage/people/manuela-martelli-4c75e393.jpg"
         },
         {
             "id": 2742239,

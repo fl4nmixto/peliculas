@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 127424,
-    "cinear_id": null,
     "slug": "nazareno-cruz-y-el-lobo",
     "title": "Nazareno Cruz y el lobo",
     "original_title": "Nazareno Cruz y el lobo",
@@ -11,9 +10,18 @@
     "year": 1975,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Fantasía",
-        "Terror"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasía"
+        },
+        {
+            "id": 27,
+            "name": "Terror"
+        }
     ],
     "countries": [
         "Argentina"
@@ -22,51 +30,59 @@
         "Español",
         ""
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/2tBUiRIuYgAL5a0iM1IPd98Dqvd.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/qmptpOgSFZDFBCFtMHBD10Skuhv.jpg",
+    "poster_url": "/storage/posters/nazareno-cruz-y-el-lobo-ed2a2dfd.jpg",
+    "backdrop_url": "/storage/backdrops/nazareno-cruz-y-el-lobo-b1aff677.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/nazareno-cruz-y-el-lobo-ed2a2dfd.jpg",
+        "/storage/gallery/gallery-2-8e696d02.jpg",
+        "/storage/gallery/gallery-3-7e7f7bff.jpg",
+        "/storage/gallery/gallery-4-f668551d.jpg",
+        "/storage/gallery/gallery-5-1834369d.jpg",
+        "/storage/gallery/gallery-6-2d55c113.jpg"
+    ],
     "cast": [
         {
             "id": 1084474,
             "name": "Juan José Camero",
             "character": "Nazareno Cruz",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/dfmcflCg8NTz5W34wkUrzAemU4Q.jpg"
+            "image_url": "/storage/people/juan-jose-camero-c61497c7.jpg"
         },
         {
             "id": 1041040,
             "name": "Marina Magali",
             "character": "Griselda",
             "order": 1,
-            "image_url": null
+            "image_url": "/storage/people/marina-magali-793ad5e2.jpg"
         },
         {
             "id": 235410,
             "name": "Alfredo Alcón",
             "character": "The Powerful",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/aduz6sKFU2L0kWlntD1i3GVEhe.jpg"
+            "image_url": "/storage/people/alfredo-alcon-acbf341c.jpg"
         },
         {
             "id": 105226,
             "name": "Lautaro Murúa",
             "character": "Julián",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/a7teROxSkY9tuisxJmWXZIVMss0.jpg"
+            "image_url": "/storage/people/lautaro-murua-c7b9ae2a.jpg"
         },
         {
             "id": 1054437,
             "name": "Nora Cullen",
             "character": "The Lechiguana",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/lrP5J8xoAz1tXbtOFapfYG78mFc.jpg"
+            "image_url": "/storage/people/nora-cullen-e5b7ec6a.jpg"
         },
         {
             "id": 1084475,
             "name": "Elcira Olivera Garcés",
             "character": "Damiana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/hbZoIiNutlWmOJlnrheABalsPTI.jpg"
+            "image_url": "/storage/people/elcira-olivera-garces-8ab58f83.jpg"
         },
         {
             "id": 3266475,
@@ -117,13 +133,34 @@
             "name": "Leonardo Favio",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg"
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
         },
         {
             "id": 1544192,
             "name": "María Inés Teyssié",
             "department": "Camera",
             "job": "Still Photographer",
+            "image_url": null
+        },
+        {
+            "id": 1489713,
+            "name": "Juan José García Caffi",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
+            "id": 116190,
+            "name": "Leonardo Favio",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
+        },
+        {
+            "id": 1688356,
+            "name": "Juan José Stagnaro",
+            "department": "Camera",
+            "job": "Director of Photography",
             "image_url": null
         },
         {
@@ -141,27 +178,6 @@
             "image_url": null
         },
         {
-            "id": 116190,
-            "name": "Leonardo Favio",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg"
-        },
-        {
-            "id": 1489713,
-            "name": "Juan José García Caffi",
-            "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": null
-        },
-        {
-            "id": 1688356,
-            "name": "Juan José Stagnaro",
-            "department": "Camera",
-            "job": "Director of Photography",
-            "image_url": null
-        },
-        {
             "id": 1688358,
             "name": "Miguel Ángel Lumaldo",
             "department": "Art",
@@ -173,14 +189,14 @@
             "name": "Jorge Zuhair Jury",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/hSV3tS1Zre5IyRyemonmu9ZA3L6.jpg"
+            "image_url": "/storage/people/jorge-zuhair-jury-6861f2a7.jpg"
         },
         {
             "id": 116190,
             "name": "Leonardo Favio",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg"
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
         },
         {
             "id": 1360798,
@@ -358,7 +374,7 @@
         "original_language": "es",
         "original_title": "Nazareno Cruz y el lobo",
         "overview": "El Poderoso ofrece a Nazareno Cruz toda la riqueza del mundo si accede a abandonar a su amada; de lo contrario, se cumplirá la maldición que supuestamente pesa sobre él.",
-        "popularity": 2.6282,
+        "popularity": 2.9039,
         "poster_path": "/2tBUiRIuYgAL5a0iM1IPd98Dqvd.jpg",
         "production_companies": [
             {
@@ -393,8 +409,8 @@
         "tagline": "",
         "title": "Nazareno Cruz y el lobo",
         "video": false,
-        "vote_average": 6.9,
-        "vote_count": 24,
+        "vote_average": 6.896,
+        "vote_count": 25,
         "credits": {
             "cast": [
                 {
@@ -404,7 +420,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan José Camero",
                     "original_name": "Juan José Camero",
-                    "popularity": 0.1349,
+                    "popularity": 0.084,
                     "profile_path": "/dfmcflCg8NTz5W34wkUrzAemU4Q.jpg",
                     "cast_id": 2,
                     "character": "Nazareno Cruz",
@@ -418,8 +434,8 @@
                     "known_for_department": "Acting",
                     "name": "Marina Magali",
                     "original_name": "Marina Magali",
-                    "popularity": 0.0569,
-                    "profile_path": null,
+                    "popularity": 0.0429,
+                    "profile_path": "/gE2fGKqVM5TpoYLxcpch09ojZIm.jpg",
                     "cast_id": 3,
                     "character": "Griselda",
                     "credit_id": "52fe4af8c3a368484e1709ab",
@@ -432,7 +448,7 @@
                     "known_for_department": "Acting",
                     "name": "Alfredo Alcón",
                     "original_name": "Alfredo Alcón",
-                    "popularity": 0.1057,
+                    "popularity": 0.2406,
                     "profile_path": "/aduz6sKFU2L0kWlntD1i3GVEhe.jpg",
                     "cast_id": 4,
                     "character": "The Powerful",
@@ -446,7 +462,7 @@
                     "known_for_department": "Acting",
                     "name": "Lautaro Murúa",
                     "original_name": "Lautaro Murúa",
-                    "popularity": 1.0758,
+                    "popularity": 0.5582,
                     "profile_path": "/a7teROxSkY9tuisxJmWXZIVMss0.jpg",
                     "cast_id": 5,
                     "character": "Julián",
@@ -460,7 +476,7 @@
                     "known_for_department": "Acting",
                     "name": "Nora Cullen",
                     "original_name": "Nora Cullen",
-                    "popularity": 0.0409,
+                    "popularity": 0.2979,
                     "profile_path": "/lrP5J8xoAz1tXbtOFapfYG78mFc.jpg",
                     "cast_id": 6,
                     "character": "The Lechiguana",
@@ -474,7 +490,7 @@
                     "known_for_department": "Acting",
                     "name": "Elcira Olivera Garcés",
                     "original_name": "Elcira Olivera Garcés",
-                    "popularity": 0.167,
+                    "popularity": 0.1032,
                     "profile_path": "/hbZoIiNutlWmOJlnrheABalsPTI.jpg",
                     "cast_id": 7,
                     "character": "Damiana",
@@ -488,7 +504,7 @@
                     "known_for_department": "Acting",
                     "name": "Josefina Faustín",
                     "original_name": "Josefina Faustín",
-                    "popularity": 0.0423,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 25,
                     "character": "",
@@ -502,7 +518,7 @@
                     "known_for_department": "Acting",
                     "name": "Saúl Jarlip",
                     "original_name": "Saúl Jarlip",
-                    "popularity": 0.0143,
+                    "popularity": 0.0555,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "The Old Man Pancho",
@@ -516,7 +532,7 @@
                     "known_for_department": "Acting",
                     "name": "Juanita Lara",
                     "original_name": "Juanita Lara",
-                    "popularity": 0.0877,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "Fidelia",
@@ -558,7 +574,7 @@
                     "known_for_department": "Acting",
                     "name": "Ñaró",
                     "original_name": "Ñaró",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 41,
                     "character": "The Wolf",
@@ -574,8 +590,8 @@
                     "known_for_department": "Directing",
                     "name": "Leonardo Favio",
                     "original_name": "Leonardo Favio",
-                    "popularity": 0.1549,
-                    "profile_path": "/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg",
+                    "popularity": 0.2664,
+                    "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
                     "credit_id": "52fe4af8c3a368484e1709a3",
                     "department": "Directing",
                     "job": "Director"
@@ -587,7 +603,7 @@
                     "known_for_department": "Camera",
                     "name": "María Inés Teyssié",
                     "original_name": "María Inés Teyssié",
-                    "popularity": 0.0281,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "65ad3be9bd588b00ca623765",
                     "department": "Camera",
@@ -596,11 +612,50 @@
                 {
                     "adult": false,
                     "gender": 0,
+                    "id": 1489713,
+                    "known_for_department": "Sound",
+                    "name": "Juan José García Caffi",
+                    "original_name": "Juan José García Caffi",
+                    "popularity": 0.0382,
+                    "profile_path": null,
+                    "credit_id": "57f1ab3d9251414a8d003d56",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 116190,
+                    "known_for_department": "Directing",
+                    "name": "Leonardo Favio",
+                    "original_name": "Leonardo Favio",
+                    "popularity": 0.2664,
+                    "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
+                    "credit_id": "57f1ab459251414645001467",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1688356,
+                    "known_for_department": "Camera",
+                    "name": "Juan José Stagnaro",
+                    "original_name": "Juan José Stagnaro",
+                    "popularity": 0.0761,
+                    "profile_path": null,
+                    "credit_id": "57f1ab54c3a3686891003e0b",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
                     "id": 1688357,
                     "known_for_department": "Editing",
                     "name": "Cristián Kaulen",
                     "original_name": "Cristián Kaulen",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "57f1ab5b9251414639001514",
                     "department": "Editing",
@@ -613,50 +668,11 @@
                     "known_for_department": "Editing",
                     "name": "Antonio Ripoll",
                     "original_name": "Antonio Ripoll",
-                    "popularity": 0.0286,
+                    "popularity": 0.0911,
                     "profile_path": null,
                     "credit_id": "57f1ab63c3a368593f0054a0",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 116190,
-                    "known_for_department": "Directing",
-                    "name": "Leonardo Favio",
-                    "original_name": "Leonardo Favio",
-                    "popularity": 0.1549,
-                    "profile_path": "/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg",
-                    "credit_id": "57f1ab459251414645001467",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1489713,
-                    "known_for_department": "Sound",
-                    "name": "Juan José García Caffi",
-                    "original_name": "Juan José García Caffi",
-                    "popularity": 0.0368,
-                    "profile_path": null,
-                    "credit_id": "57f1ab3d9251414a8d003d56",
-                    "department": "Sound",
-                    "job": "Original Music Composer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1688356,
-                    "known_for_department": "Camera",
-                    "name": "Juan José Stagnaro",
-                    "original_name": "Juan José Stagnaro",
-                    "popularity": 0.0663,
-                    "profile_path": null,
-                    "credit_id": "57f1ab54c3a3686891003e0b",
-                    "department": "Camera",
-                    "job": "Director of Photography"
                 },
                 {
                     "adult": false,
@@ -665,7 +681,7 @@
                     "known_for_department": "Art",
                     "name": "Miguel Ángel Lumaldo",
                     "original_name": "Miguel Ángel Lumaldo",
-                    "popularity": 0.0281,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "57f1ab6bc3a3686891003e22",
                     "department": "Art",
@@ -678,7 +694,7 @@
                     "known_for_department": "Writing",
                     "name": "Jorge Zuhair Jury",
                     "original_name": "Jorge Zuhair Jury",
-                    "popularity": 0.0932,
+                    "popularity": 0.1371,
                     "profile_path": "/hSV3tS1Zre5IyRyemonmu9ZA3L6.jpg",
                     "credit_id": "684d8bcf1c071dcb0d3df684",
                     "department": "Writing",
@@ -691,8 +707,8 @@
                     "known_for_department": "Directing",
                     "name": "Leonardo Favio",
                     "original_name": "Leonardo Favio",
-                    "popularity": 0.1549,
-                    "profile_path": "/2yRP0K3RxDjLVOd1ss8biwKG7oL.jpg",
+                    "popularity": 0.2664,
+                    "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
                     "credit_id": "684d8be62712534a241ec422",
                     "department": "Writing",
                     "job": "Screenplay"
@@ -704,7 +720,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Eduardo Lerchundi",
                     "original_name": "Eduardo Lerchundi",
-                    "popularity": 0.0168,
+                    "popularity": 0.0281,
                     "profile_path": null,
                     "credit_id": "684d8bfb4db2ecadbd1beda6",
                     "department": "Costume & Make-Up",
@@ -717,7 +733,7 @@
                     "known_for_department": "Writing",
                     "name": "Juan Carlos Chiappe",
                     "original_name": "Juan Carlos Chiappe",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "68631fb25d7f446a5af185b5",
                     "department": "Writing",
@@ -730,7 +746,7 @@
                     "known_for_department": "Sound",
                     "name": "Juan José García Caffi",
                     "original_name": "Juan José García Caffi",
-                    "popularity": 0.0368,
+                    "popularity": 0.0382,
                     "profile_path": null,
                     "credit_id": "6863249307c870e1b51f7e3b",
                     "department": "Sound",
@@ -756,7 +772,7 @@
                     "known_for_department": "Production",
                     "name": "José Anastasio",
                     "original_name": "José Anastasio",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "686326ae3744b8e1e1bb3810",
                     "department": "Production",
@@ -782,7 +798,7 @@
                     "known_for_department": "Directing",
                     "name": "Gilberto Sierra",
                     "original_name": "Gilberto Sierra",
-                    "popularity": 0.0544,
+                    "popularity": 0.1298,
                     "profile_path": null,
                     "credit_id": "686327c7af3c4b256641457f",
                     "department": "Directing",
@@ -808,7 +824,7 @@
                     "known_for_department": "Sound",
                     "name": "Nerio Barberis",
                     "original_name": "Nerio Barberis",
-                    "popularity": 0.0143,
+                    "popularity": 0.0643,
                     "profile_path": null,
                     "credit_id": "6863290e5d147de72cbb37f4",
                     "department": "Sound",
@@ -821,7 +837,7 @@
                     "known_for_department": "Sound",
                     "name": "Carlos Faruolo",
                     "original_name": "Carlos Faruolo",
-                    "popularity": 0.0214,
+                    "popularity": 0.0993,
                     "profile_path": null,
                     "credit_id": "686329473869b0a85d2be05a",
                     "department": "Sound",
@@ -873,7 +889,7 @@
                     "known_for_department": "Directing",
                     "name": "Carmelo Lobótrico",
                     "original_name": "Carmelo Lobótrico",
-                    "popularity": 0.0461,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "68632dd552aca892b74d0ac9",
                     "department": "Camera",
@@ -886,7 +902,7 @@
                     "known_for_department": "Camera",
                     "name": "Aldo Lobótrico",
                     "original_name": "Aldo Lobótrico",
-                    "popularity": 0.0327,
+                    "popularity": 0.0596,
                     "profile_path": null,
                     "credit_id": "68632dfa3869b0a85d2be06f",
                     "department": "Camera",
@@ -912,7 +928,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Orlando Vilone",
                     "original_name": "Orlando Vilone",
-                    "popularity": 0.0423,
+                    "popularity": 0.0327,
                     "profile_path": null,
                     "credit_id": "686330cb3893a2858e41461d",
                     "department": "Costume & Make-Up",
@@ -925,7 +941,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Jorge Bruno",
                     "original_name": "Jorge Bruno",
-                    "popularity": 0.0264,
+                    "popularity": 0.0491,
                     "profile_path": null,
                     "credit_id": "686330f0f0d5b88488520b76",
                     "department": "Costume & Make-Up",
@@ -938,7 +954,7 @@
                     "known_for_department": "Production",
                     "name": "Orlando de Benedetti",
                     "original_name": "Orlando de Benedetti",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "68633183a5f64519b3bb380d",
                     "department": "Production",
@@ -951,7 +967,7 @@
                     "known_for_department": "Production",
                     "name": "Alberto Tarantino",
                     "original_name": "Alberto Tarantino",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "686332a7deebb6411f2be029",
                     "department": "Production",
@@ -964,7 +980,7 @@
                     "known_for_department": "Sound",
                     "name": "Jorge Candia",
                     "original_name": "Jorge Candia",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "686332eed76e6c42421f7dfa",
                     "department": "Sound",

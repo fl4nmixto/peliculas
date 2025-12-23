@@ -30,72 +30,78 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/s0B0damR2mmyOPFOvM2JCKZjy0b.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/u9UbjeHLd3mivXNFqWInsxnR05u.jpg",
+    "poster_url": "/storage/posters/juan-moreira-c8a444ac.jpg",
+    "backdrop_url": "/storage/backdrops/juan-moreira-9e703614.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/juan-moreira-c8a444ac.jpg",
+        "/storage/gallery/gallery-2-80a5c388.jpg",
+        "/storage/gallery/gallery-3-7ef5d2db.jpg",
+        "/storage/gallery/gallery-4-9a5ed315.jpg"
+    ],
     "cast": [
         {
             "id": 1084781,
             "name": "Rodolfo Bebán",
             "character": "Juan Moreira",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/7oPZgGrSOubC4ZmvTTpNGEwIBqB.jpg"
+            "image_url": "/storage/people/rodolfo-beban-381878ca.jpg"
         },
         {
             "id": 1084782,
             "name": "Pablo Cumo",
             "character": "Caudillo Acosta",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/mgrInPEPpKulvUYYgAEnb8bJfC4.jpg"
+            "image_url": "/storage/people/pablo-cumo-f567b8c4.jpg"
         },
         {
             "id": 937658,
             "name": "Edgardo Suárez",
             "character": "Segundo, el compadre",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/rRnwnVCPqURf0nAoaotEZbDGVKO.jpg"
+            "image_url": "/storage/people/edgardo-suarez-a5969b63.jpg"
         },
         {
             "id": 1410793,
             "name": "Jorge Villalba",
             "character": "Julián Andrade",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/eMZCLo9Mdb0Gk44PNiIPt0acT1k.jpg"
+            "image_url": "/storage/people/jorge-villalba-c849c0d1.jpg"
         },
         {
             "id": 239203,
             "name": "Carlos Muñoz Arosa",
             "character": "Marañón",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/usKj7wIzYt0UxQeZeIjoAbDVBLe.jpg"
+            "image_url": "/storage/people/carlos-munoz-arosa-bba22824.jpg"
         },
         {
             "id": 1084475,
             "name": "Elcira Olivera Garcés",
             "character": "La Vicenta",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/hbZoIiNutlWmOJlnrheABalsPTI.jpg"
+            "image_url": "/storage/people/elcira-olivera-garces-8ab58f83.jpg"
         },
         {
             "id": 2174895,
             "name": "Alba Mujica",
             "character": "Muerte",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/LEsKUukuG0eL1ZmuJeTuuhc0K.jpg"
+            "image_url": "/storage/people/alba-mujica-de5d9958.jpg"
         },
         {
             "id": 1084786,
             "name": "Eduardo Rudy",
             "character": "Teniente Alcalde",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/hFmzZkasbv6W5CANcd7GYQWBGoW.jpg"
+            "image_url": "/storage/people/eduardo-rudy-e150697e.jpg"
         },
         {
             "id": 2170066,
             "name": "Helena Tritek",
             "character": "Laura",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/g102Hb2OjreA21eYKJnsWihs7pb.jpg"
+            "image_url": "/storage/people/helena-tritek-9b3573da.jpg"
         },
         {
             "id": 1084783,
@@ -139,14 +145,14 @@
             "name": "Leonardo Favio",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg"
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
         },
         {
-            "id": 116196,
-            "name": "Jorge Zuhair Jury",
+            "id": 2057043,
+            "name": "Eduardo Gutiérrez",
             "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/hSV3tS1Zre5IyRyemonmu9ZA3L6.jpg"
+            "job": "Novel",
+            "image_url": "/storage/people/eduardo-gutierrez-750ecf02.jpg"
         },
         {
             "id": 116199,
@@ -156,32 +162,25 @@
             "image_url": null
         },
         {
-            "id": 2057043,
-            "name": "Eduardo Gutiérrez",
+            "id": 116196,
+            "name": "Jorge Zuhair Jury",
             "department": "Writing",
-            "job": "Novel",
-            "image_url": "https://image.tmdb.org/t/p/w154/xOSTbkifAmLGGui8aGDlu3cRfkP.jpg"
+            "job": "Writer",
+            "image_url": "/storage/people/jorge-zuhair-jury-6861f2a7.jpg"
         },
         {
             "id": 116190,
             "name": "Leonardo Favio",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg"
-        },
-        {
-            "id": 995370,
-            "name": "Juan Carlos Desanzo",
-            "department": "Crew",
-            "job": "Cinematography",
-            "image_url": "https://image.tmdb.org/t/p/w154/8LefOW9t3HxTiqPpL3n9grln5Ej.jpg"
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
         },
         {
             "id": 116190,
             "name": "Leonardo Favio",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg"
+            "image_url": "/storage/people/leonardo-favio-2d04afa9.jpg"
         },
         {
             "id": 1195528,
@@ -198,11 +197,18 @@
             "image_url": null
         },
         {
+            "id": 995370,
+            "name": "Juan Carlos Desanzo",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": "/storage/people/juan-carlos-desanzo-66fdee5e.jpg"
+        },
+        {
             "id": 1069958,
             "name": "Luis María Serra",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/zUvePtDxIVa0RutCMPOvLi9UbkB.jpg"
+            "image_url": "/storage/people/luis-maria-serra-f7c50433.jpg"
         }
     ],
     "raw": {
@@ -233,7 +239,7 @@
         "original_language": "es",
         "original_title": "Juan Moreira",
         "overview": "Juan Moreira es encarcelado por reclamar lo que le correspondía. Al ser liberado toma justicia por mano propia y signa definitivamente su destino: persecuciones y muertes. Se suma a las huestes de Alsina y entra en la política de Comité. Traicionado se pasa al bando del Gral. Mitre. En medio de estas luchas políticas, del fraude y de las traiciones, librado a su suerte, sólo le quedará una única opción",
-        "popularity": 0.11,
+        "popularity": 0.6524,
         "poster_path": "/s0B0damR2mmyOPFOvM2JCKZjy0b.jpg",
         "production_companies": [
             {
@@ -263,8 +269,8 @@
         "tagline": "",
         "title": "Juan Moreira",
         "video": false,
-        "vote_average": 7.3,
-        "vote_count": 18,
+        "vote_average": 7.263,
+        "vote_count": 19,
         "credits": {
             "cast": [
                 {
@@ -274,7 +280,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodolfo Bebán",
                     "original_name": "Rodolfo Bebán",
-                    "popularity": 0.1782,
+                    "popularity": 0.126,
                     "profile_path": "/7oPZgGrSOubC4ZmvTTpNGEwIBqB.jpg",
                     "cast_id": 2,
                     "character": "Juan Moreira",
@@ -288,7 +294,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Cumo",
                     "original_name": "Pablo Cumo",
-                    "popularity": 0.2137,
+                    "popularity": 0.0909,
                     "profile_path": "/mgrInPEPpKulvUYYgAEnb8bJfC4.jpg",
                     "cast_id": 3,
                     "character": "Caudillo Acosta",
@@ -302,7 +308,7 @@
                     "known_for_department": "Acting",
                     "name": "Edgardo Suárez",
                     "original_name": "Edgardo Suárez",
-                    "popularity": 0.2552,
+                    "popularity": 0.1219,
                     "profile_path": "/rRnwnVCPqURf0nAoaotEZbDGVKO.jpg",
                     "cast_id": 15,
                     "character": "Segundo, el compadre",
@@ -316,7 +322,7 @@
                     "known_for_department": "Acting",
                     "name": "Jorge Villalba",
                     "original_name": "Jorge Villalba",
-                    "popularity": 0.1777,
+                    "popularity": 0.2157,
                     "profile_path": "/eMZCLo9Mdb0Gk44PNiIPt0acT1k.jpg",
                     "cast_id": 16,
                     "character": "Julián Andrade",
@@ -330,7 +336,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Muñoz Arosa",
                     "original_name": "Carlos Muñoz Arosa",
-                    "popularity": 0.2748,
+                    "popularity": 0.192,
                     "profile_path": "/usKj7wIzYt0UxQeZeIjoAbDVBLe.jpg",
                     "cast_id": 18,
                     "character": "Marañón",
@@ -344,7 +350,7 @@
                     "known_for_department": "Acting",
                     "name": "Elcira Olivera Garcés",
                     "original_name": "Elcira Olivera Garcés",
-                    "popularity": 0.153,
+                    "popularity": 0.1032,
                     "profile_path": "/hbZoIiNutlWmOJlnrheABalsPTI.jpg",
                     "cast_id": 8,
                     "character": "La Vicenta",
@@ -358,7 +364,7 @@
                     "known_for_department": "Acting",
                     "name": "Alba Mujica",
                     "original_name": "Alba Mujica",
-                    "popularity": 0.2326,
+                    "popularity": 0.1969,
                     "profile_path": "/LEsKUukuG0eL1ZmuJeTuuhc0K.jpg",
                     "cast_id": 24,
                     "character": "Muerte",
@@ -372,7 +378,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo Rudy",
                     "original_name": "Eduardo Rudy",
-                    "popularity": 0.3327,
+                    "popularity": 0.1572,
                     "profile_path": "/hFmzZkasbv6W5CANcd7GYQWBGoW.jpg",
                     "cast_id": 25,
                     "character": "Teniente Alcalde",
@@ -386,7 +392,7 @@
                     "known_for_department": "Acting",
                     "name": "Helena Tritek",
                     "original_name": "Helena Tritek",
-                    "popularity": 0.1035,
+                    "popularity": 0.0363,
                     "profile_path": "/g102Hb2OjreA21eYKJnsWihs7pb.jpg",
                     "cast_id": 26,
                     "character": "Laura",
@@ -400,7 +406,7 @@
                     "known_for_department": "Acting",
                     "name": "Osvaldo De la Vega",
                     "original_name": "Osvaldo De la Vega",
-                    "popularity": 0.1143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 27,
                     "character": "",
@@ -414,7 +420,7 @@
                     "known_for_department": "Acting",
                     "name": "Augusto Kretschmar",
                     "original_name": "Augusto Kretschmar",
-                    "popularity": 0.1351,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "",
@@ -428,7 +434,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Carlos Vargas",
                     "original_name": "Juan Carlos Vargas",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 29,
                     "character": "",
@@ -442,7 +448,7 @@
                     "known_for_department": "Acting",
                     "name": "Héctor Ugazio",
                     "original_name": "Héctor Ugazio",
-                    "popularity": 0.1366,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 30,
                     "character": "",
@@ -456,7 +462,7 @@
                     "known_for_department": "Acting",
                     "name": "Yaco Lorca",
                     "original_name": "Yaco Lorca",
-                    "popularity": 0.2256,
+                    "popularity": 0.0563,
                     "profile_path": null,
                     "cast_id": 31,
                     "character": "",
@@ -472,7 +478,7 @@
                     "known_for_department": "Directing",
                     "name": "Leonardo Favio",
                     "original_name": "Leonardo Favio",
-                    "popularity": 0.3446,
+                    "popularity": 0.2664,
                     "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
                     "credit_id": "52fe4afac3a368484e170f67",
                     "department": "Directing",
@@ -481,15 +487,15 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 116196,
+                    "id": 2057043,
                     "known_for_department": "Writing",
-                    "name": "Jorge Zuhair Jury",
-                    "original_name": "Jorge Zuhair Jury",
-                    "popularity": 0.1928,
-                    "profile_path": "/hSV3tS1Zre5IyRyemonmu9ZA3L6.jpg",
-                    "credit_id": "5b1458c50e0a262dd0002c78",
+                    "name": "Eduardo Gutiérrez",
+                    "original_name": "Eduardo Gutiérrez",
+                    "popularity": 0.0818,
+                    "profile_path": "/xOSTbkifAmLGGui8aGDlu3cRfkP.jpg",
+                    "credit_id": "5b14591f0e0a262dd6002a20",
                     "department": "Writing",
-                    "job": "Writer"
+                    "job": "Novel"
                 },
                 {
                     "adult": false,
@@ -498,7 +504,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Sires",
                     "original_name": "Juan Sires",
-                    "popularity": 0.2077,
+                    "popularity": 0.0357,
                     "profile_path": null,
                     "credit_id": "5b1459df0e0a262de2002c2d",
                     "department": "Production",
@@ -507,15 +513,15 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 2057043,
+                    "id": 116196,
                     "known_for_department": "Writing",
-                    "name": "Eduardo Gutiérrez",
-                    "original_name": "Eduardo Gutiérrez",
-                    "popularity": 0.2181,
-                    "profile_path": "/xOSTbkifAmLGGui8aGDlu3cRfkP.jpg",
-                    "credit_id": "5b14591f0e0a262dd6002a20",
+                    "name": "Jorge Zuhair Jury",
+                    "original_name": "Jorge Zuhair Jury",
+                    "popularity": 0.1371,
+                    "profile_path": "/hSV3tS1Zre5IyRyemonmu9ZA3L6.jpg",
+                    "credit_id": "5b1458c50e0a262dd0002c78",
                     "department": "Writing",
-                    "job": "Novel"
+                    "job": "Writer"
                 },
                 {
                     "adult": false,
@@ -524,7 +530,7 @@
                     "known_for_department": "Directing",
                     "name": "Leonardo Favio",
                     "original_name": "Leonardo Favio",
-                    "popularity": 0.3446,
+                    "popularity": 0.2664,
                     "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
                     "credit_id": "5b1459f00e0a262de2002c43",
                     "department": "Production",
@@ -533,24 +539,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 995370,
-                    "known_for_department": "Camera",
-                    "name": "Juan Carlos Desanzo",
-                    "original_name": "Juan Carlos Desanzo",
-                    "popularity": 0.1547,
-                    "profile_path": "/8LefOW9t3HxTiqPpL3n9grln5Ej.jpg",
-                    "credit_id": "5f096aa713a32000347505c3",
-                    "department": "Crew",
-                    "job": "Cinematography"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 116190,
                     "known_for_department": "Directing",
                     "name": "Leonardo Favio",
                     "original_name": "Leonardo Favio",
-                    "popularity": 0.3446,
+                    "popularity": 0.2664,
                     "profile_path": "/2JeZpliXo1ydz4KtveDvlWJK9PM.jpg",
                     "credit_id": "5f096a6113a3200035778191",
                     "department": "Writing",
@@ -563,7 +556,7 @@
                     "known_for_department": "Editing",
                     "name": "Antonio Ripoll",
                     "original_name": "Antonio Ripoll",
-                    "popularity": 0.1679,
+                    "popularity": 0.0911,
                     "profile_path": null,
                     "credit_id": "5f096a93e10f4600393a7fd3",
                     "department": "Editing",
@@ -576,7 +569,7 @@
                     "known_for_department": "Sound",
                     "name": "Pocho Leyes",
                     "original_name": "Pocho Leyes",
-                    "popularity": 0.0778,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "5f096a78f48b340036fbb456",
                     "department": "Sound",
@@ -585,11 +578,24 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 995370,
+                    "known_for_department": "Camera",
+                    "name": "Juan Carlos Desanzo",
+                    "original_name": "Juan Carlos Desanzo",
+                    "popularity": 0.042,
+                    "profile_path": "/8LefOW9t3HxTiqPpL3n9grln5Ej.jpg",
+                    "credit_id": "5f096aa713a32000347505c3",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 1069958,
                     "known_for_department": "Sound",
                     "name": "Luis María Serra",
                     "original_name": "Luis María Serra",
-                    "popularity": 0.1096,
+                    "popularity": 0.0286,
                     "profile_path": "/zUvePtDxIVa0RutCMPOvLi9UbkB.jpg",
                     "credit_id": "5fc7ee46df857c0040608520",
                     "department": "Sound",

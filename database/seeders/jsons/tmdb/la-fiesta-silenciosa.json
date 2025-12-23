@@ -16,28 +16,34 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Brazil"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/xuILwA372Odknjw1RVKGTGXtWO.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/l1H8RWF4dA3XHilpMmmTXTWUoa1.jpg",
+    "poster_url": "/storage/posters/la-fiesta-silenciosa-3d443cc3.jpg",
+    "backdrop_url": "/storage/backdrops/la-fiesta-silenciosa-d8d25454.jpg",
     "trailer": "https://www.youtube.com/watch?v=GE9fIVeWUmA",
+    "gallery_urls": [
+        "/storage/posters/la-fiesta-silenciosa-3d443cc3.jpg",
+        "/storage/gallery/gallery-2-bca554db.jpg",
+        "/storage/gallery/gallery-3-fd7fc091.jpg"
+    ],
     "cast": [
         {
             "id": 131868,
             "name": "Jazmín Stuart",
             "character": "Laura",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/tsN88OxYOIXcczfDymyCVDKcMjO.jpg"
+            "image_url": "/storage/people/jazmin-stuart-4d428d7a.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Daniel",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 2673372,
@@ -51,21 +57,21 @@
             "name": "Lautaro Bettoni",
             "character": "Gabo",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/fx2c6kZ6gBDCwH3gDnAPXclg2aB.jpg"
+            "image_url": "/storage/people/lautaro-bettoni-5a42ebe0.jpg"
         },
         {
             "id": 932925,
             "name": "Gerardo Romano",
             "character": "León",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/biDr9VrNIF05Fk1rohSNAnxBdLp.jpg"
+            "image_url": "/storage/people/gerardo-romano-e205001e.jpg"
         },
         {
             "id": 1506341,
             "name": "Gastón Cocchiarale",
             "character": "Maxi",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/4YMV9Cc6l7EBPemWgRAmQVgp10d.jpg"
+            "image_url": "/storage/people/gaston-cocchiarale-fd6bd48a.jpg"
         },
         {
             "id": 2673374,
@@ -98,18 +104,46 @@
             "image_url": null
         },
         {
-            "id": 237956,
-            "name": "Nicolás Gueilburt",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg"
-        },
-        {
             "id": 1717673,
             "name": "Federico Finkielstain",
             "department": "Directing",
             "job": "Co-Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/oC5VceG4sfkcUnnkC7JQsRmqHwb.jpg"
+            "image_url": "/storage/people/federico-finkielstain-e285f507.jpg"
+        },
+        {
+            "id": 2230598,
+            "name": "Diego Fried",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 237956,
+            "name": "Nicolás Gueilburt",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/nicolas-gueilburt-ed797f43.jpg"
+        },
+        {
+            "id": 1376040,
+            "name": "Luz Orlando Brennan",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": null
+        },
+        {
+            "id": 2462291,
+            "name": "Martin Aliaga",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2462292,
+            "name": "Roxana Ramos",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/roxana-ramos-732576fa.jpg"
         },
         {
             "id": 1964372,
@@ -123,35 +157,7 @@
             "name": "Mariana Quiroga Bertone",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/dAu5oVcu67vhmTu02aoOYZdgMCz.jpg"
-        },
-        {
-            "id": 2230598,
-            "name": "Diego Fried",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": null
-        },
-        {
-            "id": 1376040,
-            "name": "Luz Orlando Brennan",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": null
-        },
-        {
-            "id": 2462292,
-            "name": "Roxana Ramos",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/4iXNr7qjyIVy3Chvyu9TcmLZ3QQ.jpg"
-        },
-        {
-            "id": 2462291,
-            "name": "Martin Aliaga",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
+            "image_url": "/storage/people/mariana-quiroga-bertone-1fd7d1b6.jpg"
         },
         {
             "id": 2228865,
@@ -181,7 +187,7 @@
         "original_language": "es",
         "original_title": "La fiesta silenciosa",
         "overview": "El día antes de su fiesta de casamiento, una pareja llega a la casona de campo del padre de ella para ultimar los preparativos de la celebración. Quizás por los nervios, la incertidumbre ante lo que viene o una crisis incipiente, ella parece algo inquieta. En medio de la noche, decide cruzar a la casa vecina, donde un grupo de adolescentes viven su propia fiesta. Lo que sucede allí transforma la realidad de la joven.",
-        "popularity": 0.5681,
+        "popularity": 0.6821,
         "poster_path": "/xuILwA372Odknjw1RVKGTGXtWO.jpg",
         "production_companies": [
             {
@@ -232,7 +238,7 @@
                     "known_for_department": "Acting",
                     "name": "Jazmín Stuart",
                     "original_name": "Jazmín Stuart",
-                    "popularity": 0.4015,
+                    "popularity": 0.4337,
                     "profile_path": "/tsN88OxYOIXcczfDymyCVDKcMjO.jpg",
                     "cast_id": 1,
                     "character": "Laura",
@@ -246,7 +252,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2716,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 16,
                     "character": "Daniel",
@@ -260,7 +266,7 @@
                     "known_for_department": "Acting",
                     "name": "Hudson Gomes de Oliveira Santana",
                     "original_name": "Hudson Gomes de Oliveira Santana",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 17,
                     "character": "Alex",
@@ -274,7 +280,7 @@
                     "known_for_department": "Acting",
                     "name": "Lautaro Bettoni",
                     "original_name": "Lautaro Bettoni",
-                    "popularity": 0.2888,
+                    "popularity": 0.3179,
                     "profile_path": "/fx2c6kZ6gBDCwH3gDnAPXclg2aB.jpg",
                     "cast_id": 5,
                     "character": "Gabo",
@@ -288,7 +294,7 @@
                     "known_for_department": "Acting",
                     "name": "Gerardo Romano",
                     "original_name": "Gerardo Romano",
-                    "popularity": 0.3959,
+                    "popularity": 0.2656,
                     "profile_path": "/biDr9VrNIF05Fk1rohSNAnxBdLp.jpg",
                     "cast_id": 2,
                     "character": "León",
@@ -302,7 +308,7 @@
                     "known_for_department": "Acting",
                     "name": "Gastón Cocchiarale",
                     "original_name": "Gastón Cocchiarale",
-                    "popularity": 0.1918,
+                    "popularity": 0.2066,
                     "profile_path": "/4YMV9Cc6l7EBPemWgRAmQVgp10d.jpg",
                     "cast_id": 3,
                     "character": "Maxi",
@@ -316,7 +322,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Heck Dos Santos",
                     "original_name": "Diego Heck Dos Santos",
-                    "popularity": 0.0362,
+                    "popularity": 0.0404,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "DJ",
@@ -360,24 +366,11 @@
                     "known_for_department": "Directing",
                     "name": "Diego Fried",
                     "original_name": "Diego Fried",
-                    "popularity": 0.169,
+                    "popularity": 0.3179,
                     "profile_path": null,
                     "credit_id": "5dd47d55e267de00119c014d",
                     "department": "Directing",
                     "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 237956,
-                    "known_for_department": "Writing",
-                    "name": "Nicolás Gueilburt",
-                    "original_name": "Nicolás Gueilburt",
-                    "popularity": 0.0575,
-                    "profile_path": "/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg",
-                    "credit_id": "5dd47d93356a715875eb14b3",
-                    "department": "Writing",
-                    "job": "Writer"
                 },
                 {
                     "adult": false,
@@ -386,11 +379,76 @@
                     "known_for_department": "Directing",
                     "name": "Federico Finkielstain",
                     "original_name": "Federico Finkielstain",
-                    "popularity": 0.0559,
+                    "popularity": 0.0404,
                     "profile_path": "/oC5VceG4sfkcUnnkC7JQsRmqHwb.jpg",
                     "credit_id": "5dd47d658c40f70014bc21d1",
                     "department": "Directing",
                     "job": "Co-Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2230598,
+                    "known_for_department": "Directing",
+                    "name": "Diego Fried",
+                    "original_name": "Diego Fried",
+                    "popularity": 0.3179,
+                    "profile_path": null,
+                    "credit_id": "5dd47d828c40f70012bc1ad7",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 237956,
+                    "known_for_department": "Writing",
+                    "name": "Nicolás Gueilburt",
+                    "original_name": "Nicolás Gueilburt",
+                    "popularity": 0.0539,
+                    "profile_path": "/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg",
+                    "credit_id": "5dd47d93356a715875eb14b3",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1376040,
+                    "known_for_department": "Writing",
+                    "name": "Luz Orlando Brennan",
+                    "original_name": "Luz Orlando Brennan",
+                    "popularity": 0.0407,
+                    "profile_path": null,
+                    "credit_id": "5dd47da23faba00019f37b65",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2462291,
+                    "known_for_department": "Production",
+                    "name": "Martin Aliaga",
+                    "original_name": "Martin Aliaga",
+                    "popularity": 0.0379,
+                    "profile_path": null,
+                    "credit_id": "5dd47dbdfe077a0016c1d5f2",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2462292,
+                    "known_for_department": "Production",
+                    "name": "Roxana Ramos",
+                    "original_name": "Roxana Ramos",
+                    "popularity": 0.0239,
+                    "profile_path": "/4iXNr7qjyIVy3Chvyu9TcmLZ3QQ.jpg",
+                    "credit_id": "5dd47dd98c40f70012bc1b2c",
+                    "department": "Production",
+                    "job": "Producer"
                 },
                 {
                     "adult": false,
@@ -412,63 +470,11 @@
                     "known_for_department": "Editing",
                     "name": "Mariana Quiroga Bertone",
                     "original_name": "Mariana Quiroga Bertone",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": "/dAu5oVcu67vhmTu02aoOYZdgMCz.jpg",
                     "credit_id": "5dd47e4028723c18ad4d5d43",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2230598,
-                    "known_for_department": "Directing",
-                    "name": "Diego Fried",
-                    "original_name": "Diego Fried",
-                    "popularity": 0.169,
-                    "profile_path": null,
-                    "credit_id": "5dd47d828c40f70012bc1ad7",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1376040,
-                    "known_for_department": "Writing",
-                    "name": "Luz Orlando Brennan",
-                    "original_name": "Luz Orlando Brennan",
-                    "popularity": 0.044,
-                    "profile_path": null,
-                    "credit_id": "5dd47da23faba00019f37b65",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2462292,
-                    "known_for_department": "Production",
-                    "name": "Roxana Ramos",
-                    "original_name": "Roxana Ramos",
-                    "popularity": 0.0239,
-                    "profile_path": "/4iXNr7qjyIVy3Chvyu9TcmLZ3QQ.jpg",
-                    "credit_id": "5dd47dd98c40f70012bc1b2c",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2462291,
-                    "known_for_department": "Production",
-                    "name": "Martin Aliaga",
-                    "original_name": "Martin Aliaga",
-                    "popularity": 0.0468,
-                    "profile_path": null,
-                    "credit_id": "5dd47dbdfe077a0016c1d5f2",
-                    "department": "Production",
-                    "job": "Producer"
                 },
                 {
                     "adult": false,
@@ -477,7 +483,7 @@
                     "known_for_department": "Camera",
                     "name": "Manuel Rebella",
                     "original_name": "Manuel Rebella",
-                    "popularity": 0.1361,
+                    "popularity": 0.129,
                     "profile_path": null,
                     "credit_id": "5f4d4d1d140bad00328bcfaf",
                     "department": "Camera",

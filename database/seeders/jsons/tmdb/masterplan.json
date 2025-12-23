@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 408778,
-    "cinear_id": null,
     "slug": "masterplan",
     "title": "Masterplan",
     "original_title": "Masterplan",
@@ -11,8 +10,14 @@
     "year": 2012,
     "tagline": "",
     "genres": [
-        "Comedia",
-        "Drama"
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina"
@@ -20,23 +25,24 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/3ZFW059CB8GAdYUD53uOWQeivUr.jpg",
+    "poster_url": "/storage/posters/masterplan-b21f02f0.jpg",
+    "backdrop_url": "/storage/backdrops/masterplan-5deb7548.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1346503,
             "name": "Alan Sabbagh",
             "character": "Mariano",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/vFkIq7KoXs3Wi4PrYBvqZrRSLND.jpg"
+            "image_url": "/storage/people/alan-sabbagh-9a94bbfe.jpg"
         },
         {
             "id": 1205009,
             "name": "Paula Grinszpan",
             "character": "Jackie",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/qCxGAO5LrAWUL2VJ1cW9aoJUcwP.jpg"
+            "image_url": "/storage/people/paula-grinszpan-a8e08efd.jpg"
         },
         {
             "id": 2251357,
@@ -50,28 +56,28 @@
             "name": "Pablo Levy",
             "character": "Cuñado",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg"
+            "image_url": "/storage/people/pablo-levy-98603137.jpg"
         },
         {
             "id": 1534412,
             "name": "Martín Campilongo",
             "character": "Cichero",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/e4omHoZYzdRje0ZHg2g8oh0UN6E.jpg"
+            "image_url": "/storage/people/martin-campilongo-61fdec99.jpg"
         },
         {
             "id": 141571,
             "name": "Carlos Portaluppi",
             "character": "Perito",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg"
+            "image_url": "/storage/people/carlos-portaluppi-f4b53627.jpg"
         },
         {
             "id": 1882871,
             "name": "Iair Said",
             "character": "Chico Pileta",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg"
+            "image_url": "/storage/people/iair-said-0d7a66a7.jpg"
         }
     ],
     "crew": [
@@ -80,21 +86,21 @@
             "name": "Diego Levy",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/em17HDKPodxmCrqJCg6od9zCY8h.jpg"
+            "image_url": "/storage/people/diego-levy-a1950bc3.jpg"
         },
         {
             "id": 1658648,
             "name": "Pablo Levy",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg"
+            "image_url": "/storage/people/pablo-levy-98603137.jpg"
         },
         {
             "id": 947469,
             "name": "Diego Dubcovsky",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg"
+            "image_url": "/storage/people/diego-dubcovsky-2887072a.jpg"
         },
         {
             "id": 2316372,
@@ -108,14 +114,14 @@
             "name": "Diego Levy",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/em17HDKPodxmCrqJCg6od9zCY8h.jpg"
+            "image_url": "/storage/people/diego-levy-a1950bc3.jpg"
         },
         {
             "id": 1658648,
             "name": "Pablo Levy",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg"
+            "image_url": "/storage/people/pablo-levy-98603137.jpg"
         }
     ],
     "raw": {
@@ -142,7 +148,7 @@
         "original_language": "es",
         "original_title": "Masterplan",
         "overview": "Mariano, aburrido con su vida, es tentado por su cuñado para ejecutar un plan que parece perfecto: comprar todo lo que puedan con la tarjeta de crédito y luego reportarla como robada.",
-        "popularity": 0.6163,
+        "popularity": 0.4319,
         "poster_path": "/hnGgivyxQSgAuZaD53kgM4zR9Ky.jpg",
         "production_companies": [],
         "production_countries": [
@@ -176,7 +182,7 @@
                     "known_for_department": "Acting",
                     "name": "Alan Sabbagh",
                     "original_name": "Alan Sabbagh",
-                    "popularity": 0.1164,
+                    "popularity": 0.4367,
                     "profile_path": "/vFkIq7KoXs3Wi4PrYBvqZrRSLND.jpg",
                     "cast_id": 2,
                     "character": "Mariano",
@@ -190,7 +196,7 @@
                     "known_for_department": "Acting",
                     "name": "Paula Grinszpan",
                     "original_name": "Paula Grinszpan",
-                    "popularity": 0.3169,
+                    "popularity": 0.4509,
                     "profile_path": "/qCxGAO5LrAWUL2VJ1cW9aoJUcwP.jpg",
                     "cast_id": 3,
                     "character": "Jackie",
@@ -204,7 +210,7 @@
                     "known_for_department": "Acting",
                     "name": "Angel Andrés Calabria",
                     "original_name": "Angel Andrés Calabria",
-                    "popularity": 0.0379,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Andrés",
@@ -218,7 +224,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Levy",
                     "original_name": "Pablo Levy",
-                    "popularity": 0.1183,
+                    "popularity": 0.2092,
                     "profile_path": "/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg",
                     "cast_id": 5,
                     "character": "Cuñado",
@@ -232,7 +238,7 @@
                     "known_for_department": "Acting",
                     "name": "Martín Campilongo",
                     "original_name": "Martín Campilongo",
-                    "popularity": 0.0658,
+                    "popularity": 0.0848,
                     "profile_path": "/e4omHoZYzdRje0ZHg2g8oh0UN6E.jpg",
                     "cast_id": 6,
                     "character": "Cichero",
@@ -246,7 +252,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Portaluppi",
                     "original_name": "Carlos Portaluppi",
-                    "popularity": 0.1459,
+                    "popularity": 0.1445,
                     "profile_path": "/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg",
                     "cast_id": 7,
                     "character": "Perito",
@@ -260,7 +266,7 @@
                     "known_for_department": "Acting",
                     "name": "Iair Said",
                     "original_name": "Iair Said",
-                    "popularity": 0.1328,
+                    "popularity": 0.1592,
                     "profile_path": "/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg",
                     "cast_id": 11,
                     "character": "Chico Pileta",
@@ -276,7 +282,7 @@
                     "known_for_department": "Directing",
                     "name": "Diego Levy",
                     "original_name": "Diego Levy",
-                    "popularity": 0.1245,
+                    "popularity": 0.1094,
                     "profile_path": "/em17HDKPodxmCrqJCg6od9zCY8h.jpg",
                     "credit_id": "579c73b5c3a3685be3005dfa",
                     "department": "Directing",
@@ -289,7 +295,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Levy",
                     "original_name": "Pablo Levy",
-                    "popularity": 0.1183,
+                    "popularity": 0.2092,
                     "profile_path": "/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg",
                     "credit_id": "579c73bf925141164900545c",
                     "department": "Directing",
@@ -302,7 +308,7 @@
                     "known_for_department": "Production",
                     "name": "Diego Dubcovsky",
                     "original_name": "Diego Dubcovsky",
-                    "popularity": 0.0264,
+                    "popularity": 0.1574,
                     "profile_path": "/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg",
                     "credit_id": "63d789c412b10e00851cb33f",
                     "department": "Production",
@@ -315,7 +321,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Panozzo",
                     "original_name": "Marcelo Panozzo",
-                    "popularity": 0.0357,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5d46282c0f2fbd0fa0ee7b14",
                     "department": "Writing",
@@ -328,7 +334,7 @@
                     "known_for_department": "Directing",
                     "name": "Diego Levy",
                     "original_name": "Diego Levy",
-                    "popularity": 0.1245,
+                    "popularity": 0.1094,
                     "profile_path": "/em17HDKPodxmCrqJCg6od9zCY8h.jpg",
                     "credit_id": "5d4628210f2fbd0fafee5ebf",
                     "department": "Writing",
@@ -341,7 +347,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Levy",
                     "original_name": "Pablo Levy",
-                    "popularity": 0.1183,
+                    "popularity": 0.2092,
                     "profile_path": "/rOoZjcGxG52d4N7N0nZdcW1zma0.jpg",
                     "credit_id": "5d4628180f2fbd0fafee5e8e",
                     "department": "Writing",

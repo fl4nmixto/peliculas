@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 451973,
-    "cinear_id": null,
     "slug": "el-peso-de-la-ley",
     "title": "El peso de la ley",
     "original_title": "El peso de la ley",
@@ -26,30 +25,34 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/jc3cOZvE0mB5xcxNgedpUUYyvt5.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/HiCZfzfNOp1H4JFBeapDfesamR.jpg",
+    "poster_url": "/storage/posters/el-peso-de-la-ley-42c9d610.jpg",
+    "backdrop_url": "/storage/backdrops/el-peso-de-la-ley-fec6cb1e.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-peso-de-la-ley-42c9d610.jpg",
+        "/storage/gallery/gallery-2-be71ed90.jpg"
+    ],
     "cast": [
         {
             "id": 1459649,
             "name": "Paola Barrientos",
             "character": "Gloria Soriano",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/1YTyIGrVqTsovI7fUFOVYj3UvVb.jpg"
+            "image_url": "/storage/people/paola-barrientos-3726e0bb.jpg"
         },
         {
             "id": 27050,
             "name": "María Onetto",
             "character": "Fiscal Dra. Rivas",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/m869UDThEKOUbYxDxw5384LMcFJ.jpg"
+            "image_url": "/storage/people/maria-onetto-5c1af003.jpg"
         },
         {
             "id": 3618,
             "name": "Darío Grandinetti",
             "character": "Juez Ferrera",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
+            "image_url": "/storage/people/dario-grandinetti-3fe439a8.jpg"
         },
         {
             "id": 2677642,
@@ -63,14 +66,14 @@
             "name": "Fernán Mirás",
             "character": "Manfredo",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+            "image_url": "/storage/people/fernan-miras-4e9a1889.jpg"
         },
         {
             "id": 1728860,
             "name": "Darío Barassi",
             "character": "Secretario Santi",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/jId9uPh7WLP2mmi32pqsABK8SfX.jpg"
+            "image_url": "/storage/people/dario-barassi-38e5e2fe.jpg"
         },
         {
             "id": 2688682,
@@ -98,7 +101,7 @@
             "name": "Jorgelina Aruzzi",
             "character": "Betty",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/3MBM7sv3kvCWfweVSTMDWbhp8KE.jpg"
+            "image_url": "/storage/people/jorgelina-aruzzi-3a31eecf.jpg"
         }
     ],
     "crew": [
@@ -107,6 +110,34 @@
             "name": "Anabela Lattanzio",
             "department": "Editing",
             "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 2112504,
+            "name": "Javier Stavropulos",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1374395,
+            "name": "Ignacio Goyén",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 1795286,
+            "name": "Roberto Gispert",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 4330625,
+            "name": "Cecilia Pugliese",
+            "department": "Sound",
+            "job": "Music",
             "image_url": null
         },
         {
@@ -131,31 +162,10 @@
             "image_url": null
         },
         {
-            "id": 2112504,
-            "name": "Javier Stavropulos",
-            "department": "Sound",
-            "job": "Sound",
-            "image_url": null
-        },
-        {
-            "id": 4330625,
-            "name": "Cecilia Pugliese",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": null
-        },
-        {
-            "id": 1374395,
-            "name": "Ignacio Goyén",
-            "department": "Sound",
-            "job": "Sound",
-            "image_url": null
-        },
-        {
             "id": 1795286,
             "name": "Roberto Gispert",
-            "department": "Production",
-            "job": "Producer",
+            "department": "Writing",
+            "job": "Writer",
             "image_url": null
         },
         {
@@ -166,32 +176,25 @@
             "image_url": null
         },
         {
-            "id": 1795286,
-            "name": "Roberto Gispert",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": null
-        },
-        {
             "id": 536259,
             "name": "Fernán Mirás",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+            "image_url": "/storage/people/fernan-miras-4e9a1889.jpg"
         },
         {
             "id": 536259,
             "name": "Fernán Mirás",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+            "image_url": "/storage/people/fernan-miras-4e9a1889.jpg"
         },
         {
             "id": 955287,
             "name": "Fernando Sokolowicz",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg"
+            "image_url": "/storage/people/fernando-sokolowicz-91d4dd85.jpg"
         }
     ],
     "raw": {
@@ -218,7 +221,7 @@
         "original_language": "es",
         "original_title": "El peso de la ley",
         "overview": "Gloria Soriano debe defender a un acusado de violación al que considera culpable. En toda su carrera jamás le toco defender a un inocente y tal vez esa sea una de las causas de su desencanto por su profesión y por el sistema legal. Su vocación adormecida parece despertarse cuando se ve obligada a litigar contra la fiscal Rivas,  quien fue su admirada profesora  en la facultad de derecho. El sistema legal ha convertido a la Fiscal en lo contrario de lo que enseñaba y su vínculo intimo con el juez de la causa dejan en desventaja a Gloria.",
-        "popularity": 0.6894,
+        "popularity": 2.6244,
         "poster_path": "/jc3cOZvE0mB5xcxNgedpUUYyvt5.jpg",
         "production_companies": [
             {
@@ -265,7 +268,7 @@
                     "known_for_department": "Acting",
                     "name": "Paola Barrientos",
                     "original_name": "Paola Barrientos",
-                    "popularity": 0.2974,
+                    "popularity": 0.1212,
                     "profile_path": "/1YTyIGrVqTsovI7fUFOVYj3UvVb.jpg",
                     "cast_id": 0,
                     "character": "Gloria Soriano",
@@ -279,7 +282,7 @@
                     "known_for_department": "Acting",
                     "name": "María Onetto",
                     "original_name": "María Onetto",
-                    "popularity": 0.2737,
+                    "popularity": 0.3908,
                     "profile_path": "/m869UDThEKOUbYxDxw5384LMcFJ.jpg",
                     "cast_id": 3,
                     "character": "Fiscal Dra. Rivas",
@@ -293,7 +296,7 @@
                     "known_for_department": "Acting",
                     "name": "Darío Grandinetti",
                     "original_name": "Darío Grandinetti",
-                    "popularity": 0.4057,
+                    "popularity": 0.355,
                     "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg",
                     "cast_id": 1,
                     "character": "Juez Ferrera",
@@ -307,7 +310,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Lambertini",
                     "original_name": "Daniel Lambertini",
-                    "popularity": 0.2689,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "Gringo Gómez",
@@ -321,7 +324,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernán Mirás",
                     "original_name": "Fernán Mirás",
-                    "popularity": 1.5893,
+                    "popularity": 0.6236,
                     "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
                     "cast_id": 9,
                     "character": "Manfredo",
@@ -335,7 +338,7 @@
                     "known_for_department": "Acting",
                     "name": "Darío Barassi",
                     "original_name": "Darío Barassi",
-                    "popularity": 0.1711,
+                    "popularity": 0.2356,
                     "profile_path": "/jId9uPh7WLP2mmi32pqsABK8SfX.jpg",
                     "cast_id": 8,
                     "character": "Secretario Santi",
@@ -349,7 +352,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel La Rosa",
                     "original_name": "Daniel La Rosa",
-                    "popularity": 0.0538,
+                    "popularity": 0.0507,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "Comisario",
@@ -363,7 +366,7 @@
                     "known_for_department": "Acting",
                     "name": "Pacha Rosso",
                     "original_name": "Pacha Rosso",
-                    "popularity": 0.0429,
+                    "popularity": 0.058,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Néstor Fabián",
@@ -377,7 +380,7 @@
                     "known_for_department": "Acting",
                     "name": "Julio Feld",
                     "original_name": "Julio Feld",
-                    "popularity": 0.0193,
+                    "popularity": 0.0382,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "Oficial Reales",
@@ -391,7 +394,7 @@
                     "known_for_department": "Acting",
                     "name": "Jorgelina Aruzzi",
                     "original_name": "Jorgelina Aruzzi",
-                    "popularity": 0.3554,
+                    "popularity": 0.1888,
                     "profile_path": "/3MBM7sv3kvCWfweVSTMDWbhp8KE.jpg",
                     "cast_id": 7,
                     "character": "Betty",
@@ -407,50 +410,11 @@
                     "known_for_department": "Editing",
                     "name": "Anabela Lattanzio",
                     "original_name": "Anabela Lattanzio",
-                    "popularity": 0.1007,
+                    "popularity": 0.0685,
                     "profile_path": null,
                     "credit_id": "6532a6f06d9fe800c4a8e985",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2466700,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Elda Ledesma",
-                    "original_name": "Elda Ledesma",
-                    "popularity": 0.0504,
-                    "profile_path": null,
-                    "credit_id": "6532a770efe37c011e744d16",
-                    "department": "Costume & Make-Up",
-                    "job": "Costume Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1867037,
-                    "known_for_department": "Art",
-                    "name": "Sergio Hernández",
-                    "original_name": "Sergio Hernández",
-                    "popularity": 0.1363,
-                    "profile_path": null,
-                    "credit_id": "6532a7b5481382011c212ce9",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 4330627,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Marisa Ferreyra",
-                    "original_name": "Marisa Ferreyra",
-                    "popularity": 0.0214,
-                    "profile_path": null,
-                    "credit_id": "6532a7bfd1332400acfd8fa4",
-                    "department": "Costume & Make-Up",
-                    "job": "Makeup Artist"
                 },
                 {
                     "adult": false,
@@ -459,24 +423,11 @@
                     "known_for_department": "Sound",
                     "name": "Javier Stavropulos",
                     "original_name": "Javier Stavropulos",
-                    "popularity": 0.132,
+                    "popularity": 0.0484,
                     "profile_path": null,
                     "credit_id": "6532a722d13324011c92fcc6",
                     "department": "Sound",
                     "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 4330625,
-                    "known_for_department": "Sound",
-                    "name": "Cecilia Pugliese",
-                    "original_name": "Cecilia Pugliese",
-                    "popularity": 0.0256,
-                    "profile_path": null,
-                    "credit_id": "6532a7639ac535087b454794",
-                    "department": "Sound",
-                    "job": "Music"
                 },
                 {
                     "adult": false,
@@ -485,7 +436,7 @@
                     "known_for_department": "Crew",
                     "name": "Ignacio Goyén",
                     "original_name": "Ignacio Goyén",
-                    "popularity": 0.1372,
+                    "popularity": 0.0473,
                     "profile_path": null,
                     "credit_id": "6532a72848138200c5e4317f",
                     "department": "Sound",
@@ -506,16 +457,55 @@
                 },
                 {
                     "adult": false,
-                    "gender": 1,
-                    "id": 1769538,
-                    "known_for_department": "Camera",
-                    "name": "Mariana Russo",
-                    "original_name": "Mariana Russo",
-                    "popularity": 0.1876,
+                    "gender": 0,
+                    "id": 4330625,
+                    "known_for_department": "Sound",
+                    "name": "Cecilia Pugliese",
+                    "original_name": "Cecilia Pugliese",
+                    "popularity": 0.0071,
                     "profile_path": null,
-                    "credit_id": "58ef8fb892514141f700ed65",
-                    "department": "Camera",
-                    "job": "Director of Photography"
+                    "credit_id": "6532a7639ac535087b454794",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2466700,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Elda Ledesma",
+                    "original_name": "Elda Ledesma",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6532a770efe37c011e744d16",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1867037,
+                    "known_for_department": "Art",
+                    "name": "Sergio Hernández",
+                    "original_name": "Sergio Hernández",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "6532a7b5481382011c212ce9",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4330627,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Marisa Ferreyra",
+                    "original_name": "Marisa Ferreyra",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "6532a7bfd1332400acfd8fa4",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
                 },
                 {
                     "adult": false,
@@ -532,12 +522,25 @@
                 },
                 {
                     "adult": false,
+                    "gender": 1,
+                    "id": 1769538,
+                    "known_for_department": "Camera",
+                    "name": "Mariana Russo",
+                    "original_name": "Mariana Russo",
+                    "popularity": 0.0755,
+                    "profile_path": null,
+                    "credit_id": "58ef8fb892514141f700ed65",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
                     "gender": 2,
                     "id": 536259,
                     "known_for_department": "Acting",
                     "name": "Fernán Mirás",
                     "original_name": "Fernán Mirás",
-                    "popularity": 1.5893,
+                    "popularity": 0.6236,
                     "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
                     "credit_id": "5b1131a3c3a368621b014e08",
                     "department": "Directing",
@@ -550,7 +553,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernán Mirás",
                     "original_name": "Fernán Mirás",
-                    "popularity": 1.5893,
+                    "popularity": 0.6236,
                     "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
                     "credit_id": "5ef1f0466c84d60035ade216",
                     "department": "Writing",
@@ -563,7 +566,7 @@
                     "known_for_department": "Production",
                     "name": "Fernando Sokolowicz",
                     "original_name": "Fernando Sokolowicz",
-                    "popularity": 0.3132,
+                    "popularity": 0.0487,
                     "profile_path": "/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg",
                     "credit_id": "5f9979cf9a9f9a00377d779d",
                     "department": "Production",

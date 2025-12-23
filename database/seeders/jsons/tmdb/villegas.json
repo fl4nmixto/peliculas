@@ -22,30 +22,31 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/l0NH3rQeMWiH5RxTDMdW2Pcr4oK.jpg",
+    "poster_url": "/storage/posters/villegas-f1a96777.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1086359,
             "name": "Esteban Lamothe",
             "character": "Esteban",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+            "image_url": "/storage/people/esteban-lamothe-b3e66bdb.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Pipa",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 1075001,
             "name": "Mauricio Minetti",
             "character": "Hugo",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/89KtaZ5fVG6rSYqlTgqqd19lnuX.jpg"
+            "image_url": "/storage/people/mauricio-minetti-a4e950a3.jpg"
         },
         {
             "id": 1646259,
@@ -96,14 +97,14 @@
             "name": "Delfina Castagnino",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg"
+            "image_url": "/storage/people/delfina-castagnino-cd0d8910.jpg"
         },
         {
             "id": 1073823,
             "name": "Gonzalo Tobal",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/dtiyc1BHf4ZFjQrvrymimilvaHO.jpg"
+            "image_url": "/storage/people/gonzalo-tobal-f61bb415.jpg"
         },
         {
             "id": 2288164,
@@ -117,7 +118,7 @@
             "name": "Gonzalo Tobal",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/dtiyc1BHf4ZFjQrvrymimilvaHO.jpg"
+            "image_url": "/storage/people/gonzalo-tobal-f61bb415.jpg"
         }
     ],
     "raw": {
@@ -140,7 +141,7 @@
         "original_language": "es",
         "original_title": "Villegas",
         "overview": "Tras un tiempo sin verse, dos primos deben reunirse para ir en auto al entierro del abuelo en Villegas, una pequeña ciudad del interior. Este retorno se convierte pronto en un intenso viaje emocional marcado por los reencuentros, el peso del pasado y el fin de una era.",
-        "popularity": 0.0882,
+        "popularity": 0.226,
         "poster_path": "/l0NH3rQeMWiH5RxTDMdW2Pcr4oK.jpg",
         "production_companies": [
             {
@@ -181,7 +182,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Lamothe",
                     "original_name": "Esteban Lamothe",
-                    "popularity": 1.0204,
+                    "popularity": 0.796,
                     "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
                     "cast_id": 5,
                     "character": "Esteban",
@@ -195,7 +196,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2522,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 6,
                     "character": "Pipa",
@@ -209,7 +210,7 @@
                     "known_for_department": "Acting",
                     "name": "Mauricio Minetti",
                     "original_name": "Mauricio Minetti",
-                    "popularity": 0.0966,
+                    "popularity": 0.0789,
                     "profile_path": "/89KtaZ5fVG6rSYqlTgqqd19lnuX.jpg",
                     "cast_id": 7,
                     "character": "Hugo",
@@ -223,7 +224,7 @@
                     "known_for_department": "Acting",
                     "name": "María Inés Aldaburu",
                     "original_name": "María Inés Aldaburu",
-                    "popularity": 0.0513,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Alicia",
@@ -237,7 +238,7 @@
                     "known_for_department": "Acting",
                     "name": "Paula Carruega",
                     "original_name": "Paula Carruega",
-                    "popularity": 0.1663,
+                    "popularity": 0.285,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "Jasmín",
@@ -251,7 +252,7 @@
                     "known_for_department": "Acting",
                     "name": "Lucia Cavalloti",
                     "original_name": "Lucia Cavalloti",
-                    "popularity": 0.051,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Clara",
@@ -293,7 +294,7 @@
                     "known_for_department": "Acting",
                     "name": "Ana Uriarte",
                     "original_name": "Ana Uriarte",
-                    "popularity": 0.0143,
+                    "popularity": 0.0327,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Ana",
@@ -309,7 +310,7 @@
                     "known_for_department": "Editing",
                     "name": "Delfina Castagnino",
                     "original_name": "Delfina Castagnino",
-                    "popularity": 0.268,
+                    "popularity": 0.0393,
                     "profile_path": "/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg",
                     "credit_id": "60f854d139a1a60030b3c933",
                     "department": "Editing",
@@ -322,7 +323,7 @@
                     "known_for_department": "Directing",
                     "name": "Gonzalo Tobal",
                     "original_name": "Gonzalo Tobal",
-                    "popularity": 0.189,
+                    "popularity": 0.1702,
                     "profile_path": "/dtiyc1BHf4ZFjQrvrymimilvaHO.jpg",
                     "credit_id": "60f8548ddf857c005eab334b",
                     "department": "Directing",
@@ -335,7 +336,7 @@
                     "known_for_department": "Crew",
                     "name": "Lucas Gaynor",
                     "original_name": "Lucas Gaynor",
-                    "popularity": 0.0776,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "60f854c2df857c002fdd8581",
                     "department": "Camera",
@@ -348,7 +349,7 @@
                     "known_for_department": "Directing",
                     "name": "Gonzalo Tobal",
                     "original_name": "Gonzalo Tobal",
-                    "popularity": 0.189,
+                    "popularity": 0.1702,
                     "profile_path": "/dtiyc1BHf4ZFjQrvrymimilvaHO.jpg",
                     "credit_id": "60f85492fd140b005d2c231a",
                     "department": "Writing",

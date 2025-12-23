@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 1045643,
-    "cinear_id": null,
     "slug": "el-coso",
     "title": "El coso",
     "original_title": "El coso",
@@ -22,23 +21,28 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/9d3YHJUgSMwvLLjXTSyB4hgB6jq.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/wAz74HjaJoGB2wGkhO96knLbVpO.jpg",
+    "poster_url": "/storage/posters/el-coso-509ae6ad.jpg",
+    "backdrop_url": "/storage/backdrops/el-coso-b0c74ae3.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-coso-509ae6ad.jpg",
+        "/storage/gallery/gallery-2-337c092d.jpg",
+        "/storage/gallery/gallery-3-2e6e006e.jpg"
+    ],
     "cast": [
         {
             "id": 3284558,
             "name": "Federico Peralta Ramos",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/lYhwGg56dvePtqWDnkoricDDnn2.jpg"
+            "image_url": "/storage/people/federico-peralta-ramos-f2b379e8.jpg"
         },
         {
             "id": 995616,
             "name": "Damián Dreizik",
             "character": "(voz)",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg"
+            "image_url": "/storage/people/damian-dreizik-91d65795.jpg"
         }
     ],
     "crew": [
@@ -47,7 +51,7 @@
             "name": "Néstor Frenkel",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ryowpVIRmdfsrytsYDTxkzVSziW.jpg"
+            "image_url": "/storage/people/nestor-frenkel-fe2bd80d.jpg"
         },
         {
             "id": 1392769,
@@ -61,14 +65,7 @@
             "name": "Diego Poleri",
             "department": "Camera",
             "job": "Camera Operator",
-            "image_url": "https://image.tmdb.org/t/p/w154/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg"
-        },
-        {
-            "id": 2235872,
-            "name": "Gino Gelsi",
-            "department": "Sound",
-            "job": "Sound",
-            "image_url": null
+            "image_url": "/storage/people/diego-poleri-d5737f40.jpg"
         },
         {
             "id": 2420178,
@@ -78,18 +75,25 @@
             "image_url": null
         },
         {
+            "id": 2235872,
+            "name": "Gino Gelsi",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
             "id": 1059331,
             "name": "Néstor Frenkel",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ryowpVIRmdfsrytsYDTxkzVSziW.jpg"
+            "image_url": "/storage/people/nestor-frenkel-fe2bd80d.jpg"
         },
         {
             "id": 976674,
             "name": "Diego Poleri",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg"
+            "image_url": "/storage/people/diego-poleri-d5737f40.jpg"
         },
         {
             "id": 1704563,
@@ -117,7 +121,7 @@
             "name": "Néstor Frenkel",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ryowpVIRmdfsrytsYDTxkzVSziW.jpg"
+            "image_url": "/storage/people/nestor-frenkel-fe2bd80d.jpg"
         },
         {
             "id": 5157538,
@@ -152,14 +156,14 @@
             "name": "Nicolás Gueilburt",
             "department": "Crew",
             "job": "Additional Writing",
-            "image_url": "https://image.tmdb.org/t/p/w154/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg"
+            "image_url": "/storage/people/nicolas-gueilburt-ed797f43.jpg"
         },
         {
             "id": 1346506,
             "name": "Sebastián Rotstein",
             "department": "Crew",
             "job": "Additional Writing",
-            "image_url": "https://image.tmdb.org/t/p/w154/1TlM6j0p3GKDZIL2osNuxk6xy2l.jpg"
+            "image_url": "/storage/people/sebastian-rotstein-63703ae4.jpg"
         },
         {
             "id": 1392769,
@@ -180,7 +184,7 @@
             "name": "Federico Rotstein",
             "department": "Editing",
             "job": "Additional Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/8Ngi1spR7noOaZGoZAr6nvuRTk.jpg"
+            "image_url": "/storage/people/federico-rotstein-81ce5691.jpg"
         },
         {
             "id": 94930,
@@ -194,7 +198,7 @@
             "name": "Marcelo Iaccarino",
             "department": "Camera",
             "job": "Additional Camera",
-            "image_url": "https://image.tmdb.org/t/p/w154/4NPx6tX0OL2epTnHO0tCkfivru3.jpg"
+            "image_url": "/storage/people/marcelo-iaccarino-d1cd39a6.jpg"
         },
         {
             "id": 5157545,
@@ -222,7 +226,7 @@
             "name": "Marcelo Iaccarino",
             "department": "Camera",
             "job": "Additional Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/4NPx6tX0OL2epTnHO0tCkfivru3.jpg"
+            "image_url": "/storage/people/marcelo-iaccarino-d1cd39a6.jpg"
         },
         {
             "id": 3894731,
@@ -264,7 +268,7 @@
             "name": "Néstor Frenkel",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/ryowpVIRmdfsrytsYDTxkzVSziW.jpg"
+            "image_url": "/storage/people/nestor-frenkel-fe2bd80d.jpg"
         }
     ],
     "raw": {
@@ -287,7 +291,7 @@
         "original_language": "es",
         "original_title": "El coso",
         "overview": "No alcanzan los testimonios de quienes lo conocieron ni el registro de su imagen y su voz para dar cuenta de quién fue Federico Manuel Peralta Ramos, un artista único, absolutamente comprometido en la creación de una obra efímera y, a la vez, eterna.",
-        "popularity": 0.5139,
+        "popularity": 2.3662,
         "poster_path": "/9d3YHJUgSMwvLLjXTSyB4hgB6jq.jpg",
         "production_companies": [
             {
@@ -352,7 +356,7 @@
                     "known_for_department": "Acting",
                     "name": "Federico Peralta Ramos",
                     "original_name": "Federico Peralta Ramos",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": "/lYhwGg56dvePtqWDnkoricDDnn2.jpg",
                     "cast_id": 1,
                     "character": "",
@@ -366,7 +370,7 @@
                     "known_for_department": "Acting",
                     "name": "Damián Dreizik",
                     "original_name": "Damián Dreizik",
-                    "popularity": 0.7089,
+                    "popularity": 0.4898,
                     "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
                     "cast_id": 7,
                     "character": "(voz)",
@@ -382,7 +386,7 @@
                     "known_for_department": "Directing",
                     "name": "Néstor Frenkel",
                     "original_name": "Néstor Frenkel",
-                    "popularity": 0.0214,
+                    "popularity": 0.1388,
                     "profile_path": "/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
                     "credit_id": "6369bd87ea84c7007d4d54aa",
                     "department": "Directing",
@@ -395,7 +399,7 @@
                     "known_for_department": "Production",
                     "name": "Sofía Mora",
                     "original_name": "Sofía Mora",
-                    "popularity": 0.0576,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "637632fce8999b00a45fff43",
                     "department": "Production",
@@ -408,7 +412,7 @@
                     "known_for_department": "Camera",
                     "name": "Diego Poleri",
                     "original_name": "Diego Poleri",
-                    "popularity": 0.0734,
+                    "popularity": 0.1043,
                     "profile_path": "/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg",
                     "credit_id": "637633245b2f47007fd59bd8",
                     "department": "Camera",
@@ -417,28 +421,28 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 2235872,
-                    "known_for_department": "Sound",
-                    "name": "Gino Gelsi",
-                    "original_name": "Gino Gelsi",
-                    "popularity": 0.0214,
-                    "profile_path": null,
-                    "credit_id": "63763360e8999b00843a1e07",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 2420178,
                     "known_for_department": "Sound",
                     "name": "Gonzalo Córdoba",
                     "original_name": "Gonzalo Córdoba",
-                    "popularity": 0.0193,
+                    "popularity": 0.0571,
                     "profile_path": null,
                     "credit_id": "63763375e8999b007cc9467a",
                     "department": "Sound",
                     "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2235872,
+                    "known_for_department": "Sound",
+                    "name": "Gino Gelsi",
+                    "original_name": "Gino Gelsi",
+                    "popularity": 0.0306,
+                    "profile_path": null,
+                    "credit_id": "63763360e8999b00843a1e07",
+                    "department": "Sound",
+                    "job": "Sound"
                 },
                 {
                     "adult": false,
@@ -447,7 +451,7 @@
                     "known_for_department": "Directing",
                     "name": "Néstor Frenkel",
                     "original_name": "Néstor Frenkel",
-                    "popularity": 0.0214,
+                    "popularity": 0.1388,
                     "profile_path": "/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
                     "credit_id": "63afa7fbc56d2d007c8347f1",
                     "department": "Writing",
@@ -460,7 +464,7 @@
                     "known_for_department": "Camera",
                     "name": "Diego Poleri",
                     "original_name": "Diego Poleri",
-                    "popularity": 0.0734,
+                    "popularity": 0.1043,
                     "profile_path": "/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg",
                     "credit_id": "6778935238d26a2a63726f0d",
                     "department": "Camera",
@@ -486,7 +490,7 @@
                     "known_for_department": "Editing",
                     "name": "Mario Pablo Pavez",
                     "original_name": "Mario Pablo Pavez",
-                    "popularity": 0.0239,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "67789387c11ee61dd874c3a9",
                     "department": "Visual Effects",
@@ -499,7 +503,7 @@
                     "known_for_department": "Editing",
                     "name": "Mario Pablo Pavez",
                     "original_name": "Mario Pablo Pavez",
-                    "popularity": 0.0239,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "67789394c11ee61dd874c3b0",
                     "department": "Editing",
@@ -512,7 +516,7 @@
                     "known_for_department": "Directing",
                     "name": "Néstor Frenkel",
                     "original_name": "Néstor Frenkel",
-                    "popularity": 0.0214,
+                    "popularity": 0.1388,
                     "profile_path": "/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
                     "credit_id": "677893b282cce15a7674bec4",
                     "department": "Production",
@@ -525,7 +529,7 @@
                     "known_for_department": "Production",
                     "name": "Andrés Doudchitzky",
                     "original_name": "Andrés Doudchitzky",
-                    "popularity": 0.0261,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "677893d8eca85bd508723ac9",
                     "department": "Production",
@@ -538,7 +542,7 @@
                     "known_for_department": "Crew",
                     "name": "Gaston Ferrari",
                     "original_name": "Gaston Ferrari",
-                    "popularity": 0.0261,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "credit_id": "677893e955d4b38f9366ac71",
                     "department": "Editing",
@@ -551,7 +555,7 @@
                     "known_for_department": "Crew",
                     "name": "Gaston Ferrari",
                     "original_name": "Gaston Ferrari",
-                    "popularity": 0.0261,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "credit_id": "677893f1eca85bd508723ad2",
                     "department": "Production",
@@ -564,7 +568,7 @@
                     "known_for_department": "Production",
                     "name": "Sofía Mora",
                     "original_name": "Sofía Mora",
-                    "popularity": 0.0576,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "6778940315521f83d966b7de",
                     "department": "Crew",
@@ -577,7 +581,7 @@
                     "known_for_department": "Writing",
                     "name": "Nicolás Gueilburt",
                     "original_name": "Nicolás Gueilburt",
-                    "popularity": 0.051,
+                    "popularity": 0.0539,
                     "profile_path": "/bkK83WwXNgoDGX5IjIawLvU6AwS.jpg",
                     "credit_id": "6778941315521f83d966b7e4",
                     "department": "Crew",
@@ -590,7 +594,7 @@
                     "known_for_department": "Writing",
                     "name": "Sebastián Rotstein",
                     "original_name": "Sebastián Rotstein",
-                    "popularity": 0.0453,
+                    "popularity": 0.1029,
                     "profile_path": "/1TlM6j0p3GKDZIL2osNuxk6xy2l.jpg",
                     "credit_id": "6778941dc11ee61dd874c3b9",
                     "department": "Crew",
@@ -603,7 +607,7 @@
                     "known_for_department": "Production",
                     "name": "Sofía Mora",
                     "original_name": "Sofía Mora",
-                    "popularity": 0.0576,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "6778942f55d4b38f9366ac80",
                     "department": "Editing",
@@ -616,7 +620,7 @@
                     "known_for_department": "Editing",
                     "name": "Iair Michel Attías",
                     "original_name": "Iair Michel Attías",
-                    "popularity": 0.0382,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "6778943982cce15a7674bf1f",
                     "department": "Editing",
@@ -629,7 +633,7 @@
                     "known_for_department": "Production",
                     "name": "Federico Rotstein",
                     "original_name": "Federico Rotstein",
-                    "popularity": 0.0445,
+                    "popularity": 0.0409,
                     "profile_path": "/8Ngi1spR7noOaZGoZAr6nvuRTk.jpg",
                     "credit_id": "677894448fd6f5109d7268de",
                     "department": "Editing",
@@ -642,7 +646,7 @@
                     "known_for_department": "Camera",
                     "name": "José María 'Pigu' Gómez",
                     "original_name": "José María 'Pigu' Gómez",
-                    "popularity": 0.0071,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "6778947815521f83d966b81c",
                     "department": "Camera",
@@ -655,7 +659,7 @@
                     "known_for_department": "Camera",
                     "name": "Marcelo Iaccarino",
                     "original_name": "Marcelo Iaccarino",
-                    "popularity": 0.0362,
+                    "popularity": 0.0071,
                     "profile_path": "/4NPx6tX0OL2epTnHO0tCkfivru3.jpg",
                     "credit_id": "67789483eca85bd508723b0b",
                     "department": "Camera",
@@ -668,7 +672,7 @@
                     "known_for_department": "Camera",
                     "name": "Chucky Velazco",
                     "original_name": "Chucky Velazco",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "6778949d55d4b38f9366acc1",
                     "department": "Camera",
@@ -681,7 +685,7 @@
                     "known_for_department": "Camera",
                     "name": "José María 'Pigu' Gómez",
                     "original_name": "José María 'Pigu' Gómez",
-                    "popularity": 0.0071,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "677894aac11ee61dd874c3eb",
                     "department": "Camera",
@@ -694,7 +698,7 @@
                     "known_for_department": "Camera",
                     "name": "Chucky Velazco",
                     "original_name": "Chucky Velazco",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "677894b5eca85bd508723b34",
                     "department": "Camera",
@@ -707,7 +711,7 @@
                     "known_for_department": "Camera",
                     "name": "Marcelo Iaccarino",
                     "original_name": "Marcelo Iaccarino",
-                    "popularity": 0.0362,
+                    "popularity": 0.0071,
                     "profile_path": "/4NPx6tX0OL2epTnHO0tCkfivru3.jpg",
                     "credit_id": "677894bfeca85bd508723b43",
                     "department": "Camera",
@@ -720,7 +724,7 @@
                     "known_for_department": "Lighting",
                     "name": "Martín Poleri",
                     "original_name": "Martín Poleri",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "677894d815521f83d966b85f",
                     "department": "Camera",
@@ -733,7 +737,7 @@
                     "known_for_department": "Camera",
                     "name": "Mauro Braga",
                     "original_name": "Mauro Braga",
-                    "popularity": 0.0143,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "677894e2c11ee61dd874c403",
                     "department": "Camera",
@@ -746,7 +750,7 @@
                     "known_for_department": "Camera",
                     "name": "Esteban Irgazábal",
                     "original_name": "Esteban Irgazábal",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "677894faeca85bd508723b79",
                     "department": "Camera",
@@ -759,7 +763,7 @@
                     "known_for_department": "Sound",
                     "name": "Gino Gelsi",
                     "original_name": "Gino Gelsi",
-                    "popularity": 0.0214,
+                    "popularity": 0.0306,
                     "profile_path": null,
                     "credit_id": "67789506eca85bd508723b99",
                     "department": "Sound",
@@ -772,7 +776,7 @@
                     "known_for_department": "Sound",
                     "name": "Fernando Vega",
                     "original_name": "Fernando Vega",
-                    "popularity": 0.2599,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "67789519eca85bd508723b9c",
                     "department": "Sound",
@@ -785,7 +789,7 @@
                     "known_for_department": "Directing",
                     "name": "Néstor Frenkel",
                     "original_name": "Néstor Frenkel",
-                    "popularity": 0.0214,
+                    "popularity": 0.1388,
                     "profile_path": "/ryowpVIRmdfsrytsYDTxkzVSziW.jpg",
                     "credit_id": "6778957115521f83d966b89e",
                     "department": "Editing",

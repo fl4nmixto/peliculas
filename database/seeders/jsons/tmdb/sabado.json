@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 123450,
-    "cinear_id": null,
     "slug": "sabado",
     "title": "Sábado",
     "original_title": "Sábado",
@@ -11,7 +10,10 @@
     "year": 2002,
     "tagline": "",
     "genres": [
-        "Comedia"
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
     ],
     "countries": [
         "Argentina"
@@ -19,37 +21,38 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/utqHhOrD8rIA7ANymPv7yLc8M5V.jpg",
+    "poster_url": "/storage/posters/sabado-52d643e7.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 119671,
             "name": "Gastón Pauls",
             "character": "Gastón Pauls",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg"
+            "image_url": "/storage/people/gaston-pauls-262eeb5f.jpg"
         },
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "Martín",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 1006305,
             "name": "Camila Toker",
             "character": "Camila",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg"
+            "image_url": "/storage/people/camila-toker-c61e5f47.jpg"
         },
         {
             "id": 544958,
             "name": "Mariana Anghileri",
             "character": "Natalia",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg"
+            "image_url": "/storage/people/mariana-anghileri-a3b8aebf.jpg"
         },
         {
             "id": 1078227,
@@ -72,7 +75,7 @@
             "name": "Juan Villegas",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+            "image_url": "/storage/people/juan-villegas-0917ec9a.jpg"
         },
         {
             "id": 1409126,
@@ -86,7 +89,7 @@
             "name": "Juan Villegas",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+            "image_url": "/storage/people/juan-villegas-0917ec9a.jpg"
         }
     ],
     "raw": {
@@ -109,7 +112,7 @@
         "original_language": "es",
         "original_title": "Sábado",
         "overview": "Un sábado en una Buenos Aires desolada y casi irreconocible. Una pareja casi acostumbrada a su aburrimiento cotidiano, una chica que ya decidió que quiere estar sola, su novio que no quiere aceptarlo, un actor famoso que no parece estar a gusto en ningún lado y una chica que cree divertirse sin notar que se aburre todo el tiempo. Una comedia melancólica sobre la incomodidad y el miedo.",
-        "popularity": 0.9439,
+        "popularity": 2.2286,
         "poster_path": "/utqHhOrD8rIA7ANymPv7yLc8M5V.jpg",
         "production_companies": [
             {
@@ -162,7 +165,7 @@
                     "known_for_department": "Acting",
                     "name": "Gastón Pauls",
                     "original_name": "Gastón Pauls",
-                    "popularity": 0.9213,
+                    "popularity": 0.8286,
                     "profile_path": "/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg",
                     "cast_id": 2,
                     "character": "Gastón Pauls",
@@ -176,7 +179,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Hendler",
                     "original_name": "Daniel Hendler",
-                    "popularity": 1.5111,
+                    "popularity": 0.7411,
                     "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
                     "cast_id": 3,
                     "character": "Martín",
@@ -190,7 +193,7 @@
                     "known_for_department": "Directing",
                     "name": "Camila Toker",
                     "original_name": "Camila Toker",
-                    "popularity": 0.0919,
+                    "popularity": 0.115,
                     "profile_path": "/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg",
                     "cast_id": 4,
                     "character": "Camila",
@@ -204,7 +207,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariana Anghileri",
                     "original_name": "Mariana Anghileri",
-                    "popularity": 0.2108,
+                    "popularity": 0.2248,
                     "profile_path": "/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg",
                     "cast_id": 5,
                     "character": "Natalia",
@@ -218,7 +221,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Murúa",
                     "original_name": "Leonardo Murúa",
-                    "popularity": 0.0143,
+                    "popularity": 0.0532,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "Leopoldo",
@@ -232,7 +235,7 @@
                     "known_for_department": "Acting",
                     "name": "Eva Sola",
                     "original_name": "Eva Sola",
-                    "popularity": 0.0071,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 7,
                     "character": "Andrea",
@@ -248,7 +251,7 @@
                     "known_for_department": "Directing",
                     "name": "Juan Villegas",
                     "original_name": "Juan Villegas",
-                    "popularity": 0.0825,
+                    "popularity": 0.1634,
                     "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
                     "credit_id": "52fe4a95c3a368484e15be2d",
                     "department": "Directing",
@@ -261,7 +264,7 @@
                     "known_for_department": "Crew",
                     "name": "Paola Rizzi",
                     "original_name": "Paola Rizzi",
-                    "popularity": 0.0382,
+                    "popularity": 0.1505,
                     "profile_path": null,
                     "credit_id": "627a7a5eeea34d00656f96a0",
                     "department": "Camera",
@@ -274,7 +277,7 @@
                     "known_for_department": "Directing",
                     "name": "Juan Villegas",
                     "original_name": "Juan Villegas",
-                    "popularity": 0.0825,
+                    "popularity": 0.1634,
                     "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
                     "credit_id": "5e58905fa6d93100145ed4b2",
                     "department": "Writing",

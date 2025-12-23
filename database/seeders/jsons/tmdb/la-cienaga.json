@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 58429,
-    "cinear_id": null,
     "slug": "la-cienaga",
     "title": "La ciénaga",
     "original_title": "La Ciénaga",
@@ -11,7 +10,10 @@
     "year": 2001,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina",
@@ -21,58 +23,62 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/emQIM4vtDbt25tVzdS16w2Gzjbk.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/7IpUXbKHWA1Xt4jCwnP3A2YFPC3.jpg",
+    "poster_url": "/storage/posters/la-cienaga-84dd1e6c.jpg",
+    "backdrop_url": "/storage/backdrops/la-cienaga-36cf8b2e.jpg",
     "trailer": "https://www.youtube.com/watch?v=iHikpCDL2_I",
+    "gallery_urls": [
+        "/storage/gallery/gallery-1-552bb6f6.jpg",
+        "/storage/gallery/gallery-2-0d43a7f1.jpg"
+    ],
     "cast": [
         {
             "id": 18499,
             "name": "Mercedes Morán",
             "character": "Tali",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg"
+            "image_url": "/storage/people/mercedes-moran-6f9af229.jpg"
         },
         {
             "id": 590943,
             "name": "Graciela Borges",
             "character": "Mecha",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/ef1aiRIAAPhU3tblzbxZ0jLUp6V.jpg"
+            "image_url": "/storage/people/graciela-borges-20a83b30.jpg"
         },
         {
             "id": 122696,
             "name": "Martín Adjemián",
             "character": "Gregorio",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/jZgT3mwkfs7F21rLjUWjdi1eSWe.jpg"
+            "image_url": "/storage/people/martin-adjemian-143b8389.jpg"
         },
         {
             "id": 138245,
             "name": "Leonora Balcarce",
             "character": "Verónica",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg"
+            "image_url": "/storage/people/leonora-balcarce-e228980e.jpg"
         },
         {
             "id": 677695,
             "name": "Silvia Baylé",
             "character": "Mercedes",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/gBGNnJpGG8Srq5qQairMIB6WWYl.jpg"
+            "image_url": "/storage/people/silvia-bayle-e7009179.jpg"
         },
         {
             "id": 929483,
             "name": "Sofia Bertolotto",
             "character": "Momi",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/m4s7SW8Ug4Ek6lRXJjnRNkaNXUb.jpg"
+            "image_url": "/storage/people/sofia-bertolotto-aa584a1e.jpg"
         },
         {
             "id": 1056083,
             "name": "Juan Cruz Bordeu",
             "character": "José",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/lTuM8gJR10MF8yCqlTbGKUqsITH.jpg"
+            "image_url": "/storage/people/juan-cruz-bordeu-65e7ac94.jpg"
         },
         {
             "id": 2546867,
@@ -93,7 +99,7 @@
             "name": "Daniel Valenzuela",
             "character": "Rafael",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg"
+            "image_url": "/storage/people/daniel-valenzuela-70ff0bee.jpg"
         },
         {
             "id": 3077863,
@@ -107,7 +113,7 @@
             "name": "Sebastián Montagna",
             "character": "Luciano",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/xodTff7l8rHpZRezA93tq8nO2Dg.jpg"
+            "image_url": "/storage/people/sebastian-montagna-6ae6a536.jpg"
         },
         {
             "id": 3077866,
@@ -172,28 +178,28 @@
             "name": "Lucrecia Martel",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg"
+            "image_url": "/storage/people/lucrecia-martel-81d404e9.jpg"
         },
         {
             "id": 56208,
             "name": "Lucrecia Martel",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg"
+            "image_url": "/storage/people/lucrecia-martel-81d404e9.jpg"
         },
         {
             "id": 46058,
             "name": "Hervé Guyader",
             "department": "Sound",
             "job": "Sound Designer",
-            "image_url": "https://image.tmdb.org/t/p/w154/kffIG15u1ul7Dx0wxP3Wn6Xr2Kn.jpg"
+            "image_url": "/storage/people/herve-guyader-826068df.jpg"
         },
         {
             "id": 1801301,
             "name": "Graciela Oderigo",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/am1z2MbQQLNjqOzMtgM0XvEAE8X.jpg"
+            "image_url": "/storage/people/graciela-oderigo-4a01317a.jpg"
         },
         {
             "id": 1056103,
@@ -207,7 +213,7 @@
             "name": "José María Morales",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": null
+            "image_url": "/storage/people/jose-maria-morales-fd215552.jpg"
         },
         {
             "id": 2662904,
@@ -217,31 +223,10 @@
             "image_url": null
         },
         {
-            "id": 584335,
-            "name": "Daniel Burman",
-            "department": "Crew",
-            "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg"
-        },
-        {
             "id": 3887166,
             "name": "Florencia Blanco",
             "department": "Production",
             "job": "Casting",
-            "image_url": null
-        },
-        {
-            "id": 4095687,
-            "name": "Sebastián Molchasky",
-            "department": "Costume & Make-Up",
-            "job": "Special Effects Makeup Artist",
-            "image_url": null
-        },
-        {
-            "id": 2100753,
-            "name": "Silvana Di Francesco",
-            "department": "Production",
-            "job": "Location Manager",
             "image_url": null
         },
         {
@@ -259,10 +244,38 @@
             "image_url": null
         },
         {
-            "id": 2236744,
-            "name": "Rubén Santeiro",
-            "department": "Crew",
-            "job": "Special Effects",
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": "/storage/people/natalia-smirnoff-3da56b1e.jpg"
+        },
+        {
+            "id": 1801301,
+            "name": "Graciela Oderigo",
+            "department": "Art",
+            "job": "Production Design",
+            "image_url": "/storage/people/graciela-oderigo-4a01317a.jpg"
+        },
+        {
+            "id": 1307952,
+            "name": "Cristina Nigro",
+            "department": "Art",
+            "job": "Set Decoration",
+            "image_url": "/storage/people/cristina-nigro-1d21bd19.jpg"
+        },
+        {
+            "id": 4095687,
+            "name": "Sebastián Molchasky",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 2662904,
+            "name": "Marta Parga",
+            "department": "Production",
+            "job": "Production Manager",
             "image_url": null
         },
         {
@@ -273,27 +286,6 @@
             "image_url": null
         },
         {
-            "id": 1801301,
-            "name": "Graciela Oderigo",
-            "department": "Art",
-            "job": "Production Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/am1z2MbQQLNjqOzMtgM0XvEAE8X.jpg"
-        },
-        {
-            "id": 2662904,
-            "name": "Marta Parga",
-            "department": "Production",
-            "job": "Production Manager",
-            "image_url": null
-        },
-        {
-            "id": 958596,
-            "name": "Hugo Colace",
-            "department": "Camera",
-            "job": "Camera Operator",
-            "image_url": "https://image.tmdb.org/t/p/w154/gF7My4Jqcjg1Xq5OM7ChaWZfc2K.jpg"
-        },
-        {
             "id": 3052494,
             "name": "Salim Amrani",
             "department": "Sound",
@@ -301,11 +293,18 @@
             "image_url": null
         },
         {
-            "id": 1307952,
-            "name": "Cristina Nigro",
-            "department": "Art",
-            "job": "Set Decoration",
-            "image_url": "https://image.tmdb.org/t/p/w154/kcFnxnMAjNyG3eyadFykH5vQouW.jpg"
+            "id": 579210,
+            "name": "Emmanuel Croset",
+            "department": "Sound",
+            "job": "Sound Mixer",
+            "image_url": "/storage/people/emmanuel-croset-4891de1d.jpg"
+        },
+        {
+            "id": 1374461,
+            "name": "Philippe Penot",
+            "department": "Sound",
+            "job": "Foley Artist",
+            "image_url": null
         },
         {
             "id": 1621277,
@@ -315,24 +314,24 @@
             "image_url": null
         },
         {
-            "id": 125978,
-            "name": "Natalia Smirnoff",
-            "department": "Production",
-            "job": "Casting",
-            "image_url": "https://image.tmdb.org/t/p/w154/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
+            "id": 2236744,
+            "name": "Rubén Santeiro",
+            "department": "Crew",
+            "job": "Special Effects",
+            "image_url": null
         },
         {
-            "id": 579210,
-            "name": "Emmanuel Croset",
-            "department": "Sound",
-            "job": "Sound Mixer",
-            "image_url": "https://image.tmdb.org/t/p/w154/hUMasar3leAUw9HzvtGHAj9Ip2R.jpg"
+            "id": 958596,
+            "name": "Hugo Colace",
+            "department": "Camera",
+            "job": "Camera Operator",
+            "image_url": "/storage/people/hugo-colace-28e89a0c.jpg"
         },
         {
-            "id": 1374461,
-            "name": "Philippe Penot",
-            "department": "Sound",
-            "job": "Foley Artist",
+            "id": 4319258,
+            "name": "Leandro Eisenstaedt",
+            "department": "Camera",
+            "job": "Second Assistant Camera",
             "image_url": null
         },
         {
@@ -343,11 +342,18 @@
             "image_url": null
         },
         {
-            "id": 4319258,
-            "name": "Leandro Eisenstaedt",
-            "department": "Camera",
-            "job": "Second Assistant Camera",
+            "id": 2100753,
+            "name": "Silvana Di Francesco",
+            "department": "Production",
+            "job": "Location Manager",
             "image_url": null
+        },
+        {
+            "id": 584335,
+            "name": "Daniel Burman",
+            "department": "Crew",
+            "job": "Thanks",
+            "image_url": "/storage/people/daniel-burman-ee661071.jpg"
         },
         {
             "id": 978234,
@@ -361,14 +367,14 @@
             "name": "Lita Stantic",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/hI9OfVGTBccQdry6GcA2WMVoP02.jpg"
+            "image_url": "/storage/people/lita-stantic-c3de3179.jpg"
         },
         {
             "id": 958596,
             "name": "Hugo Colace",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/gF7My4Jqcjg1Xq5OM7ChaWZfc2K.jpg"
+            "image_url": "/storage/people/hugo-colace-28e89a0c.jpg"
         },
         {
             "id": 1255623,
@@ -389,14 +395,14 @@
             "name": "Mario Pergolini",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/4IfLKbrNqV09ziqZQ5RNLc7xZ0l.jpg"
+            "image_url": "/storage/people/mario-pergolini-cbcce1e3.jpg"
         },
         {
             "id": 1606229,
             "name": "Guido Berenblum",
             "department": "Sound",
             "job": "Sound Recordist",
-            "image_url": "https://image.tmdb.org/t/p/w154/3881lWnKEt2sAwlAFzGU8dJyu14.jpg"
+            "image_url": "/storage/people/guido-berenblum-ed40494b.jpg"
         },
         {
             "id": 1805718,
@@ -410,7 +416,7 @@
             "name": "Matías Mosteirín",
             "department": "Production",
             "job": "Executive Producer's Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg"
+            "image_url": "/storage/people/matias-mosteirin-434b2007.jpg"
         },
         {
             "id": 1805713,
@@ -459,7 +465,7 @@
             "name": "Natalia Smirnoff",
             "department": "Directing",
             "job": "Second Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
+            "image_url": "/storage/people/natalia-smirnoff-3da56b1e.jpg"
         },
         {
             "id": 1631872,
@@ -501,21 +507,21 @@
             "name": "Beto Acevedo",
             "department": "Editing",
             "job": "Color Grading",
-            "image_url": "https://image.tmdb.org/t/p/w154/gjX2cei4k4S5pfBePks15ADyxN6.jpg"
+            "image_url": "/storage/people/beto-acevedo-dfd43d61.jpg"
         },
         {
             "id": 2194954,
             "name": "Mario Varela",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/890RfFJJaG3TfeTNpc3vKoGgyl9.jpg"
+            "image_url": "/storage/people/mario-varela-49057291.jpg"
         },
         {
             "id": 4001290,
             "name": "Alberto Andrés Fasce",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/8V3eskIQJJd6E7oLrF28ur6gLtf.jpg"
+            "image_url": "/storage/people/alberto-andres-fasce-8264d042.jpg"
         }
     ],
     "raw": {
@@ -538,7 +544,7 @@
         "original_language": "es",
         "original_title": "La Ciénaga",
         "overview": "Dos familias -una de clase media urbana y otra de productores rurales en decadencia- se entrecruzan en el sopor provinciano de una Salta caótica e inmutable, donde nada sucede pero todo está a punto de estallar.",
-        "popularity": 0.6218,
+        "popularity": 0.7826,
         "poster_path": "/emQIM4vtDbt25tVzdS16w2Gzjbk.jpg",
         "production_companies": [
             {
@@ -594,7 +600,7 @@
         "tagline": "",
         "title": "La ciénaga",
         "video": false,
-        "vote_average": 6.885,
+        "vote_average": 6.9,
         "vote_count": 140,
         "credits": {
             "cast": [
@@ -605,7 +611,7 @@
                     "known_for_department": "Acting",
                     "name": "Mercedes Morán",
                     "original_name": "Mercedes Morán",
-                    "popularity": 0.4269,
+                    "popularity": 0.5067,
                     "profile_path": "/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg",
                     "cast_id": 3,
                     "character": "Tali",
@@ -619,7 +625,7 @@
                     "known_for_department": "Acting",
                     "name": "Graciela Borges",
                     "original_name": "Graciela Borges",
-                    "popularity": 0.2122,
+                    "popularity": 0.2642,
                     "profile_path": "/ef1aiRIAAPhU3tblzbxZ0jLUp6V.jpg",
                     "cast_id": 4,
                     "character": "Mecha",
@@ -633,7 +639,7 @@
                     "known_for_department": "Acting",
                     "name": "Martín Adjemián",
                     "original_name": "Martín Adjemián",
-                    "popularity": 0.6068,
+                    "popularity": 0.5877,
                     "profile_path": "/jZgT3mwkfs7F21rLjUWjdi1eSWe.jpg",
                     "cast_id": 5,
                     "character": "Gregorio",
@@ -647,7 +653,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonora Balcarce",
                     "original_name": "Leonora Balcarce",
-                    "popularity": 0.3792,
+                    "popularity": 0.3826,
                     "profile_path": "/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg",
                     "cast_id": 16,
                     "character": "Verónica",
@@ -661,7 +667,7 @@
                     "known_for_department": "Acting",
                     "name": "Silvia Baylé",
                     "original_name": "Silvia Baylé",
-                    "popularity": 0.3671,
+                    "popularity": 0.7482,
                     "profile_path": "/gBGNnJpGG8Srq5qQairMIB6WWYl.jpg",
                     "cast_id": 7,
                     "character": "Mercedes",
@@ -675,7 +681,7 @@
                     "known_for_department": "Acting",
                     "name": "Sofia Bertolotto",
                     "original_name": "Sofia Bertolotto",
-                    "popularity": 0.2918,
+                    "popularity": 0.2675,
                     "profile_path": "/m4s7SW8Ug4Ek6lRXJjnRNkaNXUb.jpg",
                     "cast_id": 8,
                     "character": "Momi",
@@ -689,7 +695,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Cruz Bordeu",
                     "original_name": "Juan Cruz Bordeu",
-                    "popularity": 0.1755,
+                    "popularity": 0.1308,
                     "profile_path": "/lTuM8gJR10MF8yCqlTbGKUqsITH.jpg",
                     "cast_id": 17,
                     "character": "José",
@@ -703,7 +709,7 @@
                     "known_for_department": "Acting",
                     "name": "Noelia Bravo Herrera",
                     "original_name": "Noelia Bravo Herrera",
-                    "popularity": 0.0379,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Agustina",
@@ -717,7 +723,7 @@
                     "known_for_department": "Acting",
                     "name": "Maria Micol Ellero",
                     "original_name": "Maria Micol Ellero",
-                    "popularity": 0.0286,
+                    "popularity": 0.0505,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Mariana",
@@ -731,7 +737,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Valenzuela",
                     "original_name": "Daniel Valenzuela",
-                    "popularity": 0.1507,
+                    "popularity": 0.1995,
                     "profile_path": "/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg",
                     "cast_id": 20,
                     "character": "Rafael",
@@ -759,7 +765,7 @@
                     "known_for_department": "Acting",
                     "name": "Sebastián Montagna",
                     "original_name": "Sebastián Montagna",
-                    "popularity": 0.0322,
+                    "popularity": 0.0347,
                     "profile_path": "/xodTff7l8rHpZRezA93tq8nO2Dg.jpg",
                     "cast_id": 22,
                     "character": "Luciano",
@@ -787,7 +793,7 @@
                     "known_for_department": "Acting",
                     "name": "Fabio Villafane",
                     "original_name": "Fabio Villafane",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 24,
                     "character": "Perro",
@@ -801,7 +807,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Baenas",
                     "original_name": "Diego Baenas",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 25,
                     "character": "Joaquín",
@@ -829,7 +835,7 @@
                     "known_for_department": "Acting",
                     "name": "Guido Nunez",
                     "original_name": "Guido Nunez",
-                    "popularity": 0,
+                    "popularity": 0.0429,
                     "profile_path": null,
                     "cast_id": 68,
                     "character": "",
@@ -843,7 +849,7 @@
                     "known_for_department": "Acting",
                     "name": "Guilermina Ruiz Díaz",
                     "original_name": "Guilermina Ruiz Díaz",
-                    "popularity": 0.0521,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 69,
                     "character": "",
@@ -857,7 +863,7 @@
                     "known_for_department": "Acting",
                     "name": "Rosa Mónica Suárez",
                     "original_name": "Rosa Mónica Suárez",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 70,
                     "character": "",
@@ -887,7 +893,7 @@
                     "known_for_department": "Directing",
                     "name": "Lucrecia Martel",
                     "original_name": "Lucrecia Martel",
-                    "popularity": 1.1055,
+                    "popularity": 0.5199,
                     "profile_path": "/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg",
                     "credit_id": "52fe4962c3a36847f8197449",
                     "department": "Directing",
@@ -900,7 +906,7 @@
                     "known_for_department": "Directing",
                     "name": "Lucrecia Martel",
                     "original_name": "Lucrecia Martel",
-                    "popularity": 1.1055,
+                    "popularity": 0.5199,
                     "profile_path": "/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg",
                     "credit_id": "52fe4962c3a36847f8197467",
                     "department": "Writing",
@@ -913,7 +919,7 @@
                     "known_for_department": "Sound",
                     "name": "Hervé Guyader",
                     "original_name": "Hervé Guyader",
-                    "popularity": 0.0404,
+                    "popularity": 0.1299,
                     "profile_path": "/kffIG15u1ul7Dx0wxP3Wn6Xr2Kn.jpg",
                     "credit_id": "629de89d85005d0067554923",
                     "department": "Sound",
@@ -926,7 +932,7 @@
                     "known_for_department": "Art",
                     "name": "Graciela Oderigo",
                     "original_name": "Graciela Oderigo",
-                    "popularity": 0.0314,
+                    "popularity": 0.0357,
                     "profile_path": "/am1z2MbQQLNjqOzMtgM0XvEAE8X.jpg",
                     "credit_id": "629de8be7e12f01217b86044",
                     "department": "Art",
@@ -939,7 +945,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Marisa Amenta",
                     "original_name": "Marisa Amenta",
-                    "popularity": 0.0404,
+                    "popularity": 0.1522,
                     "profile_path": null,
                     "credit_id": "629de90a7d5db5086a4cba15",
                     "department": "Costume & Make-Up",
@@ -952,8 +958,8 @@
                     "known_for_department": "Production",
                     "name": "José María Morales",
                     "original_name": "José María Morales",
-                    "popularity": 0.0839,
-                    "profile_path": null,
+                    "popularity": 0.1004,
+                    "profile_path": "/uZuRnwfCKMYrzkVsnqQ5VhBrtSw.jpg",
                     "credit_id": "6529a336ea84c7010c1b12bd",
                     "department": "Production",
                     "job": "Co-Producer"
@@ -965,24 +971,11 @@
                     "known_for_department": "Production",
                     "name": "Marta Parga",
                     "original_name": "Marta Parga",
-                    "popularity": 0.0143,
+                    "popularity": 0.0695,
                     "profile_path": null,
                     "credit_id": "6529a348358da7011dd76af8",
                     "department": "Production",
                     "job": "Line Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 584335,
-                    "known_for_department": "Directing",
-                    "name": "Daniel Burman",
-                    "original_name": "Daniel Burman",
-                    "popularity": 0.1408,
-                    "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
-                    "credit_id": "6529a573358da7011dd76b8f",
-                    "department": "Crew",
-                    "job": "Thanks"
                 },
                 {
                     "adult": false,
@@ -991,7 +984,7 @@
                     "known_for_department": "Camera",
                     "name": "Florencia Blanco",
                     "original_name": "Florencia Blanco",
-                    "popularity": 0.0256,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "6529a3a11f3e6000e28f4fd4",
                     "department": "Production",
@@ -1000,37 +993,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 4095687,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Sebastián Molchasky",
-                    "original_name": "Sebastián Molchasky",
-                    "popularity": 0.0536,
-                    "profile_path": null,
-                    "credit_id": "6529a432f28838029ec4cabb",
-                    "department": "Costume & Make-Up",
-                    "job": "Special Effects Makeup Artist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2100753,
-                    "known_for_department": "Writing",
-                    "name": "Silvana Di Francesco",
-                    "original_name": "Silvana Di Francesco",
-                    "popularity": 0.0256,
-                    "profile_path": null,
-                    "credit_id": "6529a539ea84c7012d6f362b",
-                    "department": "Production",
-                    "job": "Location Manager"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 1631851,
                     "known_for_department": "Editing",
                     "name": "Martín Mainoli",
                     "original_name": "Martín Mainoli",
-                    "popularity": 0.0214,
+                    "popularity": 0.0952,
                     "profile_path": null,
                     "credit_id": "6529a3b21f3e60011c49b2cb",
                     "department": "Production",
@@ -1043,115 +1010,11 @@
                     "known_for_department": "Production",
                     "name": "Luciana Rico",
                     "original_name": "Luciana Rico",
-                    "popularity": 0.0143,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "6529a3bd358da700ad3430bc",
                     "department": "Production",
                     "job": "Casting"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2236744,
-                    "known_for_department": "Crew",
-                    "name": "Rubén Santeiro",
-                    "original_name": "Rubén Santeiro",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "6529a4ed81383100acf77275",
-                    "department": "Crew",
-                    "job": "Special Effects"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1376045,
-                    "known_for_department": "Directing",
-                    "name": "Fabiana Tiscornia",
-                    "original_name": "Fabiana Tiscornia",
-                    "popularity": 0.0784,
-                    "profile_path": null,
-                    "credit_id": "6529a45f0929f600ad34b6b0",
-                    "department": "Directing",
-                    "job": "Assistant Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1801301,
-                    "known_for_department": "Art",
-                    "name": "Graciela Oderigo",
-                    "original_name": "Graciela Oderigo",
-                    "popularity": 0.0314,
-                    "profile_path": "/am1z2MbQQLNjqOzMtgM0XvEAE8X.jpg",
-                    "credit_id": "6529a3dff2883802a009be6b",
-                    "department": "Art",
-                    "job": "Production Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2662904,
-                    "known_for_department": "Production",
-                    "name": "Marta Parga",
-                    "original_name": "Marta Parga",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "6529a4440929f600e3212ca1",
-                    "department": "Production",
-                    "job": "Production Manager"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 958596,
-                    "known_for_department": "Camera",
-                    "name": "Hugo Colace",
-                    "original_name": "Hugo Colace",
-                    "popularity": 0.0655,
-                    "profile_path": "/gF7My4Jqcjg1Xq5OM7ChaWZfc2K.jpg",
-                    "credit_id": "6529a4fc0929f6011df67c9f",
-                    "department": "Camera",
-                    "job": "Camera Operator"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3052494,
-                    "known_for_department": "Sound",
-                    "name": "Salim Amrani",
-                    "original_name": "Salim Amrani",
-                    "popularity": 0.0616,
-                    "profile_path": null,
-                    "credit_id": "6529a47f358da701406b8479",
-                    "department": "Sound",
-                    "job": "Sound Recordist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1307952,
-                    "known_for_department": "Art",
-                    "name": "Cristina Nigro",
-                    "original_name": "Cristina Nigro",
-                    "popularity": 0.0579,
-                    "profile_path": "/kcFnxnMAjNyG3eyadFykH5vQouW.jpg",
-                    "credit_id": "6529a3f51f3e6000ff85248e",
-                    "department": "Art",
-                    "job": "Set Decoration"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1621277,
-                    "known_for_department": "Sound",
-                    "name": "Víctor Alejandro Tendler",
-                    "original_name": "Víctor Alejandro Tendler",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "6529a4dc1f3e6000ff8524c8",
-                    "department": "Sound",
-                    "job": "Sound Assistant"
                 },
                 {
                     "adult": false,
@@ -1160,11 +1023,89 @@
                     "known_for_department": "Writing",
                     "name": "Natalia Smirnoff",
                     "original_name": "Natalia Smirnoff",
-                    "popularity": 0.053,
+                    "popularity": 0.0894,
                     "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
                     "credit_id": "6529a3cd1f3e6000e28f4fe6",
                     "department": "Production",
                     "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1801301,
+                    "known_for_department": "Art",
+                    "name": "Graciela Oderigo",
+                    "original_name": "Graciela Oderigo",
+                    "popularity": 0.0357,
+                    "profile_path": "/am1z2MbQQLNjqOzMtgM0XvEAE8X.jpg",
+                    "credit_id": "6529a3dff2883802a009be6b",
+                    "department": "Art",
+                    "job": "Production Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1307952,
+                    "known_for_department": "Art",
+                    "name": "Cristina Nigro",
+                    "original_name": "Cristina Nigro",
+                    "popularity": 0.1196,
+                    "profile_path": "/kcFnxnMAjNyG3eyadFykH5vQouW.jpg",
+                    "credit_id": "6529a3f51f3e6000ff85248e",
+                    "department": "Art",
+                    "job": "Set Decoration"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 4095687,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Sebastián Molchasky",
+                    "original_name": "Sebastián Molchasky",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "6529a432f28838029ec4cabb",
+                    "department": "Costume & Make-Up",
+                    "job": "Special Effects Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2662904,
+                    "known_for_department": "Production",
+                    "name": "Marta Parga",
+                    "original_name": "Marta Parga",
+                    "popularity": 0.0695,
+                    "profile_path": null,
+                    "credit_id": "6529a4440929f600e3212ca1",
+                    "department": "Production",
+                    "job": "Production Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1376045,
+                    "known_for_department": "Directing",
+                    "name": "Fabiana Tiscornia",
+                    "original_name": "Fabiana Tiscornia",
+                    "popularity": 0.0368,
+                    "profile_path": null,
+                    "credit_id": "6529a45f0929f600ad34b6b0",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3052494,
+                    "known_for_department": "Sound",
+                    "name": "Salim Amrani",
+                    "original_name": "Salim Amrani",
+                    "popularity": 0.0306,
+                    "profile_path": null,
+                    "credit_id": "6529a47f358da701406b8479",
+                    "department": "Sound",
+                    "job": "Sound Recordist"
                 },
                 {
                     "adult": false,
@@ -1173,7 +1114,7 @@
                     "known_for_department": "Sound",
                     "name": "Emmanuel Croset",
                     "original_name": "Emmanuel Croset",
-                    "popularity": 0.1198,
+                    "popularity": 0.3141,
                     "profile_path": "/hUMasar3leAUw9HzvtGHAj9Ip2R.jpg",
                     "credit_id": "6529a49b0cb33516f8826c8f",
                     "department": "Sound",
@@ -1186,7 +1127,7 @@
                     "known_for_department": "Sound",
                     "name": "Philippe Penot",
                     "original_name": "Philippe Penot",
-                    "popularity": 1.4162,
+                    "popularity": 0.3694,
                     "profile_path": null,
                     "credit_id": "6529a4c0ea84c700aef1edef",
                     "department": "Sound",
@@ -1194,16 +1135,42 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 2059539,
-                    "known_for_department": "Camera",
-                    "name": "Diego Worel",
-                    "original_name": "Diego Worel",
-                    "popularity": 0.0327,
+                    "gender": 2,
+                    "id": 1621277,
+                    "known_for_department": "Sound",
+                    "name": "Víctor Alejandro Tendler",
+                    "original_name": "Víctor Alejandro Tendler",
+                    "popularity": 0.0338,
                     "profile_path": null,
-                    "credit_id": "6529a51b1f3e6001399db88a",
+                    "credit_id": "6529a4dc1f3e6000ff8524c8",
+                    "department": "Sound",
+                    "job": "Sound Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2236744,
+                    "known_for_department": "Crew",
+                    "name": "Rubén Santeiro",
+                    "original_name": "Rubén Santeiro",
+                    "popularity": 0.071,
+                    "profile_path": null,
+                    "credit_id": "6529a4ed81383100acf77275",
+                    "department": "Crew",
+                    "job": "Special Effects"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 958596,
+                    "known_for_department": "Camera",
+                    "name": "Hugo Colace",
+                    "original_name": "Hugo Colace",
+                    "popularity": 0.1368,
+                    "profile_path": "/gF7My4Jqcjg1Xq5OM7ChaWZfc2K.jpg",
+                    "credit_id": "6529a4fc0929f6011df67c9f",
                     "department": "Camera",
-                    "job": "Assistant Camera"
+                    "job": "Camera Operator"
                 },
                 {
                     "adult": false,
@@ -1212,7 +1179,7 @@
                     "known_for_department": "Camera",
                     "name": "Leandro Eisenstaedt",
                     "original_name": "Leandro Eisenstaedt",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "6529a50d813831011b4a03aa",
                     "department": "Camera",
@@ -1221,11 +1188,50 @@
                 {
                     "adult": false,
                     "gender": 0,
+                    "id": 2059539,
+                    "known_for_department": "Camera",
+                    "name": "Diego Worel",
+                    "original_name": "Diego Worel",
+                    "popularity": 0.0482,
+                    "profile_path": null,
+                    "credit_id": "6529a51b1f3e6001399db88a",
+                    "department": "Camera",
+                    "job": "Assistant Camera"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2100753,
+                    "known_for_department": "Writing",
+                    "name": "Silvana Di Francesco",
+                    "original_name": "Silvana Di Francesco",
+                    "popularity": 0.0416,
+                    "profile_path": null,
+                    "credit_id": "6529a539ea84c7012d6f362b",
+                    "department": "Production",
+                    "job": "Location Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 584335,
+                    "known_for_department": "Directing",
+                    "name": "Daniel Burman",
+                    "original_name": "Daniel Burman",
+                    "popularity": 0.3039,
+                    "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
+                    "credit_id": "6529a573358da7011dd76b8f",
+                    "department": "Crew",
+                    "job": "Thanks"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
                     "id": 978234,
                     "known_for_department": "Editing",
                     "name": "Santiago Ricci",
                     "original_name": "Santiago Ricci",
-                    "popularity": 0.0668,
+                    "popularity": 0.0969,
                     "profile_path": null,
                     "credit_id": "5c2e4d4c0e0a2611b838b305",
                     "department": "Editing",
@@ -1238,7 +1244,7 @@
                     "known_for_department": "Production",
                     "name": "Lita Stantic",
                     "original_name": "Lita Stantic",
-                    "popularity": 0.047,
+                    "popularity": 0.1262,
                     "profile_path": "/hI9OfVGTBccQdry6GcA2WMVoP02.jpg",
                     "credit_id": "5c2f59f69251416e456dcfc1",
                     "department": "Production",
@@ -1251,7 +1257,7 @@
                     "known_for_department": "Camera",
                     "name": "Hugo Colace",
                     "original_name": "Hugo Colace",
-                    "popularity": 0.0655,
+                    "popularity": 0.1368,
                     "profile_path": "/gF7My4Jqcjg1Xq5OM7ChaWZfc2K.jpg",
                     "credit_id": "67c1eb23886152404653a86b",
                     "department": "Camera",
@@ -1264,7 +1270,7 @@
                     "known_for_department": "Directing",
                     "name": "Diego Guebel",
                     "original_name": "Diego Guebel",
-                    "popularity": 0.0536,
+                    "popularity": 0.1096,
                     "profile_path": null,
                     "credit_id": "67c204d009a9b8496ddbd29b",
                     "department": "Production",
@@ -1277,7 +1283,7 @@
                     "known_for_department": "Production",
                     "name": "Ana Aizenberg",
                     "original_name": "Ana Aizenberg",
-                    "popularity": 0.0071,
+                    "popularity": 0.0379,
                     "profile_path": null,
                     "credit_id": "67c204e157f49c841653a99f",
                     "department": "Production",
@@ -1290,7 +1296,7 @@
                     "known_for_department": "Acting",
                     "name": "Mario Pergolini",
                     "original_name": "Mario Pergolini",
-                    "popularity": 0.0678,
+                    "popularity": 0.1187,
                     "profile_path": "/4IfLKbrNqV09ziqZQ5RNLc7xZ0l.jpg",
                     "credit_id": "67c204ed8674953b7ddbd6f9",
                     "department": "Production",
@@ -1303,7 +1309,7 @@
                     "known_for_department": "Sound",
                     "name": "Guido Berenblum",
                     "original_name": "Guido Berenblum",
-                    "popularity": 0.0536,
+                    "popularity": 0.0456,
                     "profile_path": "/3881lWnKEt2sAwlAFzGU8dJyu14.jpg",
                     "credit_id": "67c2057c8674953b7ddbd72c",
                     "department": "Sound",
@@ -1316,7 +1322,7 @@
                     "known_for_department": "Sound",
                     "name": "Adrián de Michele",
                     "original_name": "Adrián de Michele",
-                    "popularity": 0.0727,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "67c20589a7af2713c3a2428f",
                     "department": "Sound",
@@ -1329,7 +1335,7 @@
                     "known_for_department": "Production",
                     "name": "Matías Mosteirín",
                     "original_name": "Matías Mosteirín",
-                    "popularity": 0.2575,
+                    "popularity": 0.062,
                     "profile_path": "/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg",
                     "credit_id": "67c254f4886152404653b547",
                     "department": "Production",
@@ -1342,7 +1348,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Araceli Farace",
                     "original_name": "Araceli Farace",
-                    "popularity": 0.0357,
+                    "popularity": 0.1574,
                     "profile_path": null,
                     "credit_id": "67c25520bc6935a001a27eb9",
                     "department": "Costume & Make-Up",
@@ -1355,7 +1361,7 @@
                     "known_for_department": "Art",
                     "name": "Fernando Brun",
                     "original_name": "Fernando Brun",
-                    "popularity": 0.0322,
+                    "popularity": 0.0953,
                     "profile_path": null,
                     "credit_id": "67c2553e09a9b8496ddbdfcf",
                     "department": "Costume & Make-Up",
@@ -1368,7 +1374,7 @@
                     "known_for_department": "Writing",
                     "name": "Silvana Di Francesco",
                     "original_name": "Silvana Di Francesco",
-                    "popularity": 0.0256,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "credit_id": "67c2557dbc6935a001a27ec5",
                     "department": "Production",
@@ -1381,7 +1387,7 @@
                     "known_for_department": "Production",
                     "name": "Diego Copello",
                     "original_name": "Diego Copello",
-                    "popularity": 0.0256,
+                    "popularity": 0.1812,
                     "profile_path": null,
                     "credit_id": "67c2558871804deba153b8e5",
                     "department": "Production",
@@ -1407,7 +1413,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando Alcalde",
                     "original_name": "Fernando Alcalde",
-                    "popularity": 0.0168,
+                    "popularity": 0.0264,
                     "profile_path": null,
                     "credit_id": "67c255c9bc6935a001a27ed5",
                     "department": "Directing",
@@ -1420,7 +1426,7 @@
                     "known_for_department": "Writing",
                     "name": "Natalia Smirnoff",
                     "original_name": "Natalia Smirnoff",
-                    "popularity": 0.053,
+                    "popularity": 0.0894,
                     "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
                     "credit_id": "67c255eac5de842b4ba27f6b",
                     "department": "Directing",
@@ -1433,7 +1439,7 @@
                     "known_for_department": "Lighting",
                     "name": "Eduardo Broman",
                     "original_name": "Eduardo Broman",
-                    "popularity": 0.0071,
+                    "popularity": 0.0264,
                     "profile_path": null,
                     "credit_id": "67c255f9a7af2713c3a24eed",
                     "department": "Lighting",
@@ -1446,7 +1452,7 @@
                     "known_for_department": "Lighting",
                     "name": "Hugo Senlle",
                     "original_name": "Hugo Senlle",
-                    "popularity": 0,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "67c256088674953b7ddbe0e6",
                     "department": "Lighting",
@@ -1459,7 +1465,7 @@
                     "known_for_department": "Lighting",
                     "name": "Horacio Acevedo",
                     "original_name": "Horacio Acevedo",
-                    "popularity": 0.0071,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "credit_id": "67c256198674953b7ddbe0f6",
                     "department": "Lighting",
@@ -1472,7 +1478,7 @@
                     "known_for_department": "Art",
                     "name": "Hernán Cipriani",
                     "original_name": "Hernán Cipriani",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "67c25634bc6935a001a27ee6",
                     "department": "Art",
@@ -1485,7 +1491,7 @@
                     "known_for_department": "Editing",
                     "name": "Cristina González",
                     "original_name": "Cristina González",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "67c256478674953b7ddbe10c",
                     "department": "Editing",
@@ -1498,7 +1504,7 @@
                     "known_for_department": "Editing",
                     "name": "Beto Acevedo",
                     "original_name": "Beto Acevedo",
-                    "popularity": 0.0558,
+                    "popularity": 0.0218,
                     "profile_path": "/gjX2cei4k4S5pfBePks15ADyxN6.jpg",
                     "credit_id": "67c25654c5c2a3629fdbe1b9",
                     "department": "Editing",
@@ -1511,7 +1517,7 @@
                     "known_for_department": "Directing",
                     "name": "Mario Varela",
                     "original_name": "Mario Varela",
-                    "popularity": 0.0286,
+                    "popularity": 0.051,
                     "profile_path": "/890RfFJJaG3TfeTNpc3vKoGgyl9.jpg",
                     "credit_id": "67c2569c886152404653b5a4",
                     "department": "Crew",
@@ -1524,7 +1530,7 @@
                     "known_for_department": "Writing",
                     "name": "Alberto Andrés Fasce",
                     "original_name": "Alberto Andrés Fasce",
-                    "popularity": 0.0214,
+                    "popularity": 0.0538,
                     "profile_path": "/8V3eskIQJJd6E7oLrF28ur6gLtf.jpg",
                     "credit_id": "67c256a58674953b7ddbe137",
                     "department": "Crew",

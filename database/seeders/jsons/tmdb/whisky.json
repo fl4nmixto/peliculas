@@ -28,51 +28,56 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/kWQSSkDmZicbVSK5Y4hw4PPdxEs.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/9uZUSc8S2BlwNKkES4QRwxh9IXm.jpg",
+    "poster_url": "/storage/posters/whisky-3dfa1e23.jpg",
+    "backdrop_url": "/storage/backdrops/whisky-66f148d0.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/gallery/gallery-1-cf2d8b0c.jpg",
+        "/storage/gallery/gallery-2-8b30d80d.jpg",
+        "/storage/gallery/gallery-3-27bb1a0f.jpg"
+    ],
     "cast": [
         {
             "id": 116586,
             "name": "Andrés Pazos",
             "character": "Jacobo Koller",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/9foc7uWSO19Cll6BHw74Ogl6vCf.jpg"
+            "image_url": "/storage/people/andres-pazos-a0bb4e6c.jpg"
         },
         {
             "id": 116587,
             "name": "Mirella Pascual",
             "character": "Marta Acuña",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/x0VkowzoTH44zpxYveyKkx9D8rL.jpg"
+            "image_url": "/storage/people/mirella-pascual-a51da3c8.jpg"
         },
         {
             "id": 116588,
             "name": "Jorge Bolani",
             "character": "Herman Koller",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/1e8nMAQYhRGsuJ74AV71U0NpFJ0.jpg"
+            "image_url": "/storage/people/jorge-bolani-e11675bf.jpg"
         },
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "Martín - newly-married husband",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 556471,
             "name": "Ana Katz",
             "character": "Graciela - newly-married wife",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 548836,
             "name": "Adrián Biniez",
             "character": "Karaoke singer",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/1vpjmLhxkrgaRhKBoAKr839TZDP.jpg"
+            "image_url": "/storage/people/adrian-biniez-76a96273.jpg"
         },
         {
             "id": 3344691,
@@ -86,7 +91,7 @@
             "name": "Verónica Perrotta",
             "character": "Karina / Factory Worker 1",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/zOoijPbRtKmVMDH7A9ZxfZIVli1.jpg"
+            "image_url": "/storage/people/veronica-perrotta-425ba53e.jpg"
         },
         {
             "id": 3344692,
@@ -114,7 +119,7 @@
             "name": "Jorge Temponi",
             "character": "",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/zOHrjzvSE88nUQXKrdnqGzAd2dK.jpg"
+            "image_url": "/storage/people/jorge-temponi-351c43dd.jpg"
         },
         {
             "id": 3344694,
@@ -179,49 +184,49 @@
             "name": "Juan Pablo Rebella",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/95KHswVzlOE6ylJjzJIFn8E8f3P.jpg"
+            "image_url": "/storage/people/juan-pablo-rebella-c7bb50b8.jpg"
         },
         {
             "id": 116583,
             "name": "Juan Pablo Rebella",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/95KHswVzlOE6ylJjzJIFn8E8f3P.jpg"
+            "image_url": "/storage/people/juan-pablo-rebella-c7bb50b8.jpg"
         },
         {
             "id": 116585,
             "name": "Gonzalo Delgado",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 116584,
             "name": "Pablo Stoll",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/vxlI3HziPGeyFEsdkMu6n7q4XhA.jpg"
+            "image_url": "/storage/people/pablo-stoll-ea00f116.jpg"
         },
         {
             "id": 116584,
             "name": "Pablo Stoll",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/vxlI3HziPGeyFEsdkMu6n7q4XhA.jpg"
+            "image_url": "/storage/people/pablo-stoll-ea00f116.jpg"
         },
         {
             "id": 950048,
             "name": "Fernando Epstein",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg"
+            "image_url": "/storage/people/fernando-epstein-56e9e2ff.jpg"
         },
         {
             "id": 950048,
             "name": "Fernando Epstein",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg"
+            "image_url": "/storage/people/fernando-epstein-56e9e2ff.jpg"
         },
         {
             "id": 1892589,
@@ -235,7 +240,7 @@
             "name": "Bárbara Álvarez",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg"
+            "image_url": "/storage/people/barbara-alvarez-1ab36208.jpg"
         },
         {
             "id": 1892589,
@@ -256,7 +261,7 @@
             "name": "Fernando Epstein",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg"
+            "image_url": "/storage/people/fernando-epstein-56e9e2ff.jpg"
         },
         {
             "id": 1202720,
@@ -270,7 +275,7 @@
             "name": "Christoph Friedel",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9hsigb5rNFrkI8PGyOJjiwMfJ6P.jpg"
+            "image_url": "/storage/people/christoph-friedel-0fabf84c.jpg"
         },
         {
             "id": 3162114,
@@ -284,7 +289,7 @@
             "name": "Daniel Yafalián",
             "department": "Sound",
             "job": "Sound",
-            "image_url": "https://image.tmdb.org/t/p/w154/9sT6KdnxVX2IsepTqpfdQRqwVXC.jpg"
+            "image_url": "/storage/people/daniel-yafalian-38f77984.jpg"
         },
         {
             "id": 1867442,
@@ -305,14 +310,14 @@
             "name": "Hernán Musaluppi",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/yWIcXaKPKMAMOAwhjkIeu7aGbhB.jpg"
+            "image_url": "/storage/people/hernan-musaluppi-c1fd814f.jpg"
         },
         {
             "id": 2552718,
             "name": "Bárbara Francisco",
             "department": "Production",
             "job": "Production Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/7277zycIWuOu4hf3cI2kC02BThB.jpg"
+            "image_url": "/storage/people/barbara-francisco-65a507d4.jpg"
         },
         {
             "id": 1892589,
@@ -326,7 +331,7 @@
             "name": "Bárbara Francisco",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/7277zycIWuOu4hf3cI2kC02BThB.jpg"
+            "image_url": "/storage/people/barbara-francisco-65a507d4.jpg"
         },
         {
             "id": 2303306,
@@ -340,7 +345,7 @@
             "name": "Guillermo Rocamora",
             "department": "Production",
             "job": "Production Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/tXxzSXEe0dKeYimIAHPebSikMTa.jpg"
+            "image_url": "/storage/people/guillermo-rocamora-3bd29743.jpg"
         },
         {
             "id": 3344718,
@@ -403,14 +408,14 @@
             "name": "Inés Bortagaray",
             "department": "Production",
             "job": "Casting",
-            "image_url": "https://image.tmdb.org/t/p/w154/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg"
+            "image_url": "/storage/people/ines-bortagaray-5f5ff3dc.jpg"
         },
         {
             "id": 2414200,
             "name": "Romina Peluffo",
             "department": "Production",
             "job": "Casting",
-            "image_url": "https://image.tmdb.org/t/p/w154/nNommpm9a0Lo5Zkypz1pKCMkPlC.jpg"
+            "image_url": "/storage/people/romina-peluffo-ba35dcc0.jpg"
         },
         {
             "id": 4159305,
@@ -424,21 +429,21 @@
             "name": "Manolo Nieto",
             "department": "Directing",
             "job": "Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/2njRhCMYx6diAC5PGEU9TaGoIQT.jpg"
+            "image_url": "/storage/people/manolo-nieto-c520421d.jpg"
         },
         {
             "id": 116585,
             "name": "Gonzalo Delgado",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 1295293,
             "name": "Diego Fernández Pujol",
             "department": "Production",
             "job": "Production Manager",
-            "image_url": "https://image.tmdb.org/t/p/w154/aBqcZgFvwXhFEyx15FXEIAicSja.jpg"
+            "image_url": "/storage/people/diego-fernandez-pujol-4634b932.jpg"
         },
         {
             "id": 4166288,
@@ -452,7 +457,7 @@
             "name": "Diego Fernández Pujol",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/aBqcZgFvwXhFEyx15FXEIAicSja.jpg"
+            "image_url": "/storage/people/diego-fernandez-pujol-4634b932.jpg"
         },
         {
             "id": 4166292,
@@ -473,7 +478,7 @@
             "name": "Inés Bortagaray",
             "department": "Directing",
             "job": "Second Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg"
+            "image_url": "/storage/people/ines-bortagaray-5f5ff3dc.jpg"
         },
         {
             "id": 4166290,
@@ -487,7 +492,7 @@
             "name": "Guillermo Rocamora",
             "department": "Production",
             "job": "Assistant Production Manager",
-            "image_url": "https://image.tmdb.org/t/p/w154/tXxzSXEe0dKeYimIAHPebSikMTa.jpg"
+            "image_url": "/storage/people/guillermo-rocamora-3bd29743.jpg"
         },
         {
             "id": 4166359,
@@ -676,7 +681,7 @@
             "name": "Bárbara Álvarez",
             "department": "Camera",
             "job": "Camera Operator",
-            "image_url": "https://image.tmdb.org/t/p/w154/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg"
+            "image_url": "/storage/people/barbara-alvarez-1ab36208.jpg"
         },
         {
             "id": 4166965,
@@ -697,7 +702,7 @@
             "name": "Santiago Pedroncini",
             "department": "Sound",
             "job": "Musician",
-            "image_url": "https://image.tmdb.org/t/p/w154/31aPhXUTVkrvTVUCNzY2ceZJ2Qo.jpg"
+            "image_url": "/storage/people/santiago-pedroncini-eec1574f.jpg"
         },
         {
             "id": 2768428,
@@ -781,14 +786,14 @@
             "name": "Bárbara Francisco",
             "department": "Production",
             "job": "Executive Producer's Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/7277zycIWuOu4hf3cI2kC02BThB.jpg"
+            "image_url": "/storage/people/barbara-francisco-65a507d4.jpg"
         },
         {
             "id": 564300,
             "name": "Federico Veiroj",
             "department": "Directing",
             "job": "Script Supervisor",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 2028303,
@@ -809,7 +814,7 @@
             "name": "Beto Acevedo",
             "department": "Editing",
             "job": "Color Grading",
-            "image_url": "https://image.tmdb.org/t/p/w154/gjX2cei4k4S5pfBePks15ADyxN6.jpg"
+            "image_url": "/storage/people/beto-acevedo-dfd43d61.jpg"
         },
         {
             "id": 4167031,
@@ -830,7 +835,7 @@
             "name": "Aki Kaurismäki",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/t0pdsYfLts7p01OBN1P9UHp1Z0l.jpg"
+            "image_url": "/storage/people/aki-kaurismaki-c3cb7ac3.jpg"
         },
         {
             "id": 2920196,

@@ -16,63 +16,68 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Mexico"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/xDlcgq80BiRr9ZIA5u5CBtperKM.jpg",
+    "poster_url": "/storage/posters/el-profugo-c0839f63.jpg",
+    "backdrop_url": "/storage/backdrops/el-profugo-853403c6.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-profugo-c0839f63.jpg",
+        "/storage/gallery/gallery-2-fc81f606.jpg"
+    ],
     "cast": [
         {
             "id": 141455,
             "name": "Érica Rivas",
             "character": "Inés",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg"
+            "image_url": "/storage/people/erica-rivas-8c57b056.jpg"
         },
         {
             "id": 66957,
             "name": "Nahuel Pérez Biscayart",
             "character": "Alberto",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg"
+            "image_url": "/storage/people/nahuel-perez-biscayart-c673b8bd.jpg"
         },
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "Leopoldo",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 953,
             "name": "Cecilia Roth",
             "character": "Marta",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg"
+            "image_url": "/storage/people/cecilia-roth-b817b2ab.jpg"
         },
         {
             "id": 2114683,
             "name": "Agustín Rittano",
             "character": "Nelson",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/hfAs4wvI1uw50IufqXEzUxOBvog.jpg"
+            "image_url": "/storage/people/agustin-rittano-bc448896.jpg"
         },
         {
             "id": 50927,
             "name": "Guillermo Arengo",
             "character": "Maestro",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg"
+            "image_url": "/storage/people/guillermo-arengo-09a08f58.jpg"
         },
         {
             "id": 1036284,
             "name": "Mirta Busnelli",
             "character": "Adela",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg"
+            "image_url": "/storage/people/mirta-busnelli-1c22da55.jpg"
         }
     ],
     "crew": [
@@ -81,35 +86,28 @@
             "name": "Natalia Meta",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg"
+            "image_url": "/storage/people/natalia-meta-ca523d4f.jpg"
         },
         {
             "id": 1376037,
             "name": "Natalia Meta",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg"
+            "image_url": "/storage/people/natalia-meta-ca523d4f.jpg"
         },
         {
             "id": 2523512,
             "name": "Ailí Chen",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/z97UZyFQyezHrvwcyGXegjFOUzj.jpg"
+            "image_url": "/storage/people/aili-chen-60b4c577.jpg"
         },
         {
             "id": 1606229,
             "name": "Guido Berenblum",
             "department": "Sound",
             "job": "Sound",
-            "image_url": "https://image.tmdb.org/t/p/w154/3881lWnKEt2sAwlAFzGU8dJyu14.jpg"
-        },
-        {
-            "id": 969231,
-            "name": "Eliane Katz",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg"
+            "image_url": "/storage/people/guido-berenblum-ed40494b.jpg"
         },
         {
             "id": 2523470,
@@ -119,11 +117,25 @@
             "image_url": null
         },
         {
+            "id": 969231,
+            "name": "Eliane Katz",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/eliane-katz-0e04766d.jpg"
+        },
+        {
             "id": 1112961,
             "name": "Bárbara Álvarez",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg"
+            "image_url": "/storage/people/barbara-alvarez-1ab36208.jpg"
+        },
+        {
+            "id": 2523509,
+            "name": "Luciano Azzigotti",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": "/storage/people/luciano-azzigotti-663160e3.jpg"
         },
         {
             "id": 1646650,
@@ -133,18 +145,25 @@
             "image_url": null
         },
         {
-            "id": 2523509,
-            "name": "Luciano Azzigotti",
-            "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/sIcMcH0FcIIek9WGO2gq71KGCK7.jpg"
+            "id": 1376045,
+            "name": "Fabiana Tiscornia",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
         },
         {
-            "id": 1606229,
-            "name": "Guido Berenblum",
-            "department": "Sound",
-            "job": "Sound Designer",
-            "image_url": "https://image.tmdb.org/t/p/w154/3881lWnKEt2sAwlAFzGU8dJyu14.jpg"
+            "id": 1376037,
+            "name": "Natalia Meta",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/natalia-meta-ca523d4f.jpg"
+        },
+        {
+            "id": 1668435,
+            "name": "Lorena Villarreal",
+            "department": "Production",
+            "job": "Co-Producer",
+            "image_url": null
         },
         {
             "id": 1662288,
@@ -161,6 +180,20 @@
             "image_url": null
         },
         {
+            "id": 2384675,
+            "name": "Marcello Pozzo",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 1506619,
+            "name": "Matías Roveda",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
             "id": 1547607,
             "name": "Adriana Vior",
             "department": "Directing",
@@ -168,11 +201,11 @@
             "image_url": null
         },
         {
-            "id": 2384675,
-            "name": "Marcello Pozzo",
-            "department": "Directing",
-            "job": "Assistant Director",
-            "image_url": null
+            "id": 1506620,
+            "name": "Santiago Gallelli",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/santiago-gallelli-907b5b8d.jpg"
         },
         {
             "id": 2254130,
@@ -186,56 +219,28 @@
             "name": "Benjamín Doménech",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9QuTvzzjr835L5ukCY1HuDVNkNR.jpg"
-        },
-        {
-            "id": 1506620,
-            "name": "Santiago Gallelli",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/xZFb0BcStqtR9EGiQjS0HIcAmjq.jpg"
-        },
-        {
-            "id": 1506619,
-            "name": "Matías Roveda",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 1376037,
-            "name": "Natalia Meta",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg"
-        },
-        {
-            "id": 1376045,
-            "name": "Fabiana Tiscornia",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 1668435,
-            "name": "Lorena Villarreal",
-            "department": "Production",
-            "job": "Co-Producer",
-            "image_url": null
+            "image_url": "/storage/people/benjamin-domenech-3ab41ab8.jpg"
         },
         {
             "id": 938781,
             "name": "Axel Kuschevatzky",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg"
+            "image_url": "/storage/people/axel-kuschevatzky-6b66a88c.jpg"
         },
         {
             "id": 1140285,
             "name": "Julio Chavezmontes",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ylGZYbMFjJlEDHiEHkTUQoafoss.jpg"
+            "image_url": "/storage/people/julio-chavezmontes-49d2d569.jpg"
+        },
+        {
+            "id": 1606229,
+            "name": "Guido Berenblum",
+            "department": "Sound",
+            "job": "Sound Designer",
+            "image_url": "/storage/people/guido-berenblum-ed40494b.jpg"
         }
     ],
     "raw": {
@@ -259,7 +264,7 @@
         "original_language": "es",
         "original_title": "El prófugo",
         "overview": "Inés trabaja como actriz de doblaje y canta en un coro en Buenos Aires. Durante un viaje idílico sufre un episodio traumático del que no puede recuperarse. Tiene problemas para dormir y experimenta pesadillas muy vívidas a medida que comienzan a surgir extraños sonidos de su interior. Despierta, Inés se siente de pronto rodeada de personas que parecen salidas de sus sueños.",
-        "popularity": 1.8311,
+        "popularity": 2.1963,
         "poster_path": "/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg",
         "production_companies": [
             {
@@ -316,7 +321,7 @@
                     "known_for_department": "Acting",
                     "name": "Érica Rivas",
                     "original_name": "Érica Rivas",
-                    "popularity": 0.4442,
+                    "popularity": 0.4028,
                     "profile_path": "/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg",
                     "cast_id": 4,
                     "character": "Inés",
@@ -330,7 +335,7 @@
                     "known_for_department": "Acting",
                     "name": "Nahuel Pérez Biscayart",
                     "original_name": "Nahuel Pérez Biscayart",
-                    "popularity": 0.5655,
+                    "popularity": 0.5583,
                     "profile_path": "/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg",
                     "cast_id": 5,
                     "character": "Alberto",
@@ -344,7 +349,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Hendler",
                     "original_name": "Daniel Hendler",
-                    "popularity": 0.7267,
+                    "popularity": 0.7411,
                     "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
                     "cast_id": 6,
                     "character": "Leopoldo",
@@ -358,7 +363,7 @@
                     "known_for_department": "Acting",
                     "name": "Cecilia Roth",
                     "original_name": "Cecilia Roth",
-                    "popularity": 0.9068,
+                    "popularity": 0.9604,
                     "profile_path": "/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg",
                     "cast_id": 7,
                     "character": "Marta",
@@ -372,7 +377,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Rittano",
                     "original_name": "Agustín Rittano",
-                    "popularity": 0.1571,
+                    "popularity": 0.1415,
                     "profile_path": "/hfAs4wvI1uw50IufqXEzUxOBvog.jpg",
                     "cast_id": 8,
                     "character": "Nelson",
@@ -386,7 +391,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Arengo",
                     "original_name": "Guillermo Arengo",
-                    "popularity": 0.5326,
+                    "popularity": 0.4644,
                     "profile_path": "/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
                     "cast_id": 9,
                     "character": "Maestro",
@@ -400,7 +405,7 @@
                     "known_for_department": "Acting",
                     "name": "Mirta Busnelli",
                     "original_name": "Mirta Busnelli",
-                    "popularity": 0.2931,
+                    "popularity": 0.2542,
                     "profile_path": "/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg",
                     "cast_id": 16,
                     "character": "Adela",
@@ -416,7 +421,7 @@
                     "known_for_department": "Writing",
                     "name": "Natalia Meta",
                     "original_name": "Natalia Meta",
-                    "popularity": 0.0681,
+                    "popularity": 0.1231,
                     "profile_path": "/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg",
                     "credit_id": "5e3079314ca67600124b0292",
                     "department": "Writing",
@@ -429,7 +434,7 @@
                     "known_for_department": "Writing",
                     "name": "Natalia Meta",
                     "original_name": "Natalia Meta",
-                    "popularity": 0.0681,
+                    "popularity": 0.1231,
                     "profile_path": "/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg",
                     "credit_id": "5e30793c4ca67600124b0297",
                     "department": "Directing",
@@ -442,7 +447,7 @@
                     "known_for_department": "Art",
                     "name": "Ailí Chen",
                     "original_name": "Ailí Chen",
-                    "popularity": 0.1059,
+                    "popularity": 0.0744,
                     "profile_path": "/z97UZyFQyezHrvwcyGXegjFOUzj.jpg",
                     "credit_id": "5e30882dc56d2d001a4fa474",
                     "department": "Art",
@@ -455,24 +460,11 @@
                     "known_for_department": "Sound",
                     "name": "Guido Berenblum",
                     "original_name": "Guido Berenblum",
-                    "popularity": 0.0714,
+                    "popularity": 0.0456,
                     "profile_path": "/3881lWnKEt2sAwlAFzGU8dJyu14.jpg",
                     "credit_id": "5e308859ac8e6b0015be5872",
                     "department": "Sound",
                     "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 969231,
-                    "known_for_department": "Editing",
-                    "name": "Eliane Katz",
-                    "original_name": "Eliane Katz",
-                    "popularity": 0.1062,
-                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
-                    "credit_id": "5e308870eda4b70013f12756",
-                    "department": "Editing",
-                    "job": "Editor"
                 },
                 {
                     "adult": false,
@@ -481,7 +473,7 @@
                     "known_for_department": "Writing",
                     "name": "C.E. Feiling",
                     "original_name": "C.E. Feiling",
-                    "popularity": 0.0962,
+                    "popularity": 0.1616,
                     "profile_path": null,
                     "credit_id": "5e308a514ca676001a4b6377",
                     "department": "Writing",
@@ -490,28 +482,28 @@
                 {
                     "adult": false,
                     "gender": 1,
+                    "id": 969231,
+                    "known_for_department": "Editing",
+                    "name": "Eliane Katz",
+                    "original_name": "Eliane Katz",
+                    "popularity": 0.1358,
+                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
+                    "credit_id": "5e308870eda4b70013f12756",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
                     "id": 1112961,
                     "known_for_department": "Camera",
                     "name": "Bárbara Álvarez",
                     "original_name": "Bárbara Álvarez",
-                    "popularity": 0.053,
+                    "popularity": 0.0853,
                     "profile_path": "/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg",
                     "credit_id": "5e31633298f1f10012ff31de",
                     "department": "Camera",
                     "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1646650,
-                    "known_for_department": "Writing",
-                    "name": "Leonel D'Agostino",
-                    "original_name": "Leonel D'Agostino",
-                    "popularity": 0.0495,
-                    "profile_path": null,
-                    "credit_id": "5e45d16e9603310017f56ddf",
-                    "department": "Writing",
-                    "job": "Writer"
                 },
                 {
                     "adult": false,
@@ -529,15 +521,54 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1606229,
-                    "known_for_department": "Sound",
-                    "name": "Guido Berenblum",
-                    "original_name": "Guido Berenblum",
-                    "popularity": 0.0714,
-                    "profile_path": "/3881lWnKEt2sAwlAFzGU8dJyu14.jpg",
-                    "credit_id": "5e45d19983ee6700171f41c3",
-                    "department": "Sound",
-                    "job": "Sound Designer"
+                    "id": 1646650,
+                    "known_for_department": "Writing",
+                    "name": "Leonel D'Agostino",
+                    "original_name": "Leonel D'Agostino",
+                    "popularity": 0.0865,
+                    "profile_path": null,
+                    "credit_id": "5e45d16e9603310017f56ddf",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1376045,
+                    "known_for_department": "Directing",
+                    "name": "Fabiana Tiscornia",
+                    "original_name": "Fabiana Tiscornia",
+                    "popularity": 0.0368,
+                    "profile_path": null,
+                    "credit_id": "5e45d3359603310017f56fcb",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1376037,
+                    "known_for_department": "Writing",
+                    "name": "Natalia Meta",
+                    "original_name": "Natalia Meta",
+                    "popularity": 0.1231,
+                    "profile_path": "/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg",
+                    "credit_id": "5e45d32a0c2710001a86c8d1",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1668435,
+                    "known_for_department": "Directing",
+                    "name": "Lorena Villarreal",
+                    "original_name": "Lorena Villarreal",
+                    "popularity": 0.0627,
+                    "profile_path": null,
+                    "credit_id": "5e45d34183ee6700131f39ca",
+                    "department": "Production",
+                    "job": "Co-Producer"
                 },
                 {
                     "adult": false,
@@ -546,7 +577,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Mónica Toschi",
                     "original_name": "Mónica Toschi",
-                    "popularity": 0.1625,
+                    "popularity": 0.1267,
                     "profile_path": null,
                     "credit_id": "5e45d1ef3dd126001a5be21d",
                     "department": "Costume & Make-Up",
@@ -567,25 +598,12 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 1547607,
-                    "known_for_department": "Directing",
-                    "name": "Adriana Vior",
-                    "original_name": "Adriana Vior",
-                    "popularity": 0.0934,
-                    "profile_path": null,
-                    "credit_id": "5e45d2770c271000158616eb",
-                    "department": "Directing",
-                    "job": "Assistant Director"
-                },
-                {
-                    "adult": false,
                     "gender": 2,
                     "id": 2384675,
                     "known_for_department": "Directing",
                     "name": "Marcello Pozzo",
                     "original_name": "Marcello Pozzo",
-                    "popularity": 0.0571,
+                    "popularity": 0.0534,
                     "profile_path": null,
                     "credit_id": "5e45d28441465c0014d3c049",
                     "department": "Directing",
@@ -594,11 +612,50 @@
                 {
                     "adult": false,
                     "gender": 0,
+                    "id": 1506619,
+                    "known_for_department": "Production",
+                    "name": "Matías Roveda",
+                    "original_name": "Matías Roveda",
+                    "popularity": 0.1855,
+                    "profile_path": null,
+                    "credit_id": "5e45d31e83ee6700111f35a0",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1547607,
+                    "known_for_department": "Directing",
+                    "name": "Adriana Vior",
+                    "original_name": "Adriana Vior",
+                    "popularity": 0.0755,
+                    "profile_path": null,
+                    "credit_id": "5e45d2770c271000158616eb",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1506620,
+                    "known_for_department": "Production",
+                    "name": "Santiago Gallelli",
+                    "original_name": "Santiago Gallelli",
+                    "popularity": 0.0143,
+                    "profile_path": "/xZFb0BcStqtR9EGiQjS0HIcAmjq.jpg",
+                    "credit_id": "5e45d2b741465c0018d43003",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
                     "id": 2254130,
                     "known_for_department": "Production",
                     "name": "Mercedes Tarelli",
                     "original_name": "Mercedes Tarelli",
-                    "popularity": 0.0492,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "credit_id": "5e45d29083ee6700151f4f1e",
                     "department": "Production",
@@ -611,76 +668,11 @@
                     "known_for_department": "Production",
                     "name": "Benjamín Doménech",
                     "original_name": "Benjamín Doménech",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": "/9QuTvzzjr835L5ukCY1HuDVNkNR.jpg",
                     "credit_id": "5e45d2aa41465c0016d3d48b",
                     "department": "Production",
                     "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1506620,
-                    "known_for_department": "Production",
-                    "name": "Santiago Gallelli",
-                    "original_name": "Santiago Gallelli",
-                    "popularity": 0.0168,
-                    "profile_path": "/xZFb0BcStqtR9EGiQjS0HIcAmjq.jpg",
-                    "credit_id": "5e45d2b741465c0018d43003",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1506619,
-                    "known_for_department": "Production",
-                    "name": "Matías Roveda",
-                    "original_name": "Matías Roveda",
-                    "popularity": 0.222,
-                    "profile_path": null,
-                    "credit_id": "5e45d31e83ee6700111f35a0",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1376037,
-                    "known_for_department": "Writing",
-                    "name": "Natalia Meta",
-                    "original_name": "Natalia Meta",
-                    "popularity": 0.0681,
-                    "profile_path": "/oe1Nf7KPHPslG3jucQFsoZbg0r8.jpg",
-                    "credit_id": "5e45d32a0c2710001a86c8d1",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1376045,
-                    "known_for_department": "Directing",
-                    "name": "Fabiana Tiscornia",
-                    "original_name": "Fabiana Tiscornia",
-                    "popularity": 0.0486,
-                    "profile_path": null,
-                    "credit_id": "5e45d3359603310017f56fcb",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1668435,
-                    "known_for_department": "Directing",
-                    "name": "Lorena Villarreal",
-                    "original_name": "Lorena Villarreal",
-                    "popularity": 0.0847,
-                    "profile_path": null,
-                    "credit_id": "5e45d34183ee6700131f39ca",
-                    "department": "Production",
-                    "job": "Co-Producer"
                 },
                 {
                     "adult": false,
@@ -689,7 +681,7 @@
                     "known_for_department": "Production",
                     "name": "Axel Kuschevatzky",
                     "original_name": "Axel Kuschevatzky",
-                    "popularity": 0.2496,
+                    "popularity": 0.1522,
                     "profile_path": "/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg",
                     "credit_id": "5e45d34c3dd12600185baedf",
                     "department": "Production",
@@ -702,11 +694,24 @@
                     "known_for_department": "Production",
                     "name": "Julio Chavezmontes",
                     "original_name": "Julio Chavezmontes",
-                    "popularity": 0.1297,
+                    "popularity": 0.1111,
                     "profile_path": "/ylGZYbMFjJlEDHiEHkTUQoafoss.jpg",
                     "credit_id": "5e45d3599603310015f62a7f",
                     "department": "Production",
                     "job": "Co-Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1606229,
+                    "known_for_department": "Sound",
+                    "name": "Guido Berenblum",
+                    "original_name": "Guido Berenblum",
+                    "popularity": 0.0456,
+                    "profile_path": "/3881lWnKEt2sAwlAFzGU8dJyu14.jpg",
+                    "credit_id": "5e45d19983ee6700171f41c3",
+                    "department": "Sound",
+                    "job": "Sound Designer"
                 }
             ]
         },

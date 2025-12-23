@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 279923,
-    "cinear_id": null,
     "slug": "che-un-hombre-nuevo",
     "title": "Che: Un Hombre Nuevo",
     "original_title": "Che: Un Hombre Nuevo",
@@ -17,14 +16,17 @@
         }
     ],
     "countries": [
+        "Spain",
+        "Cuba",
         "Argentina"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/yRBwFDPMBYoOj9cqIt9ztQ8Co12.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/4bnadZbitRlxGMk1OSMytKZZvQA.jpg",
+    "poster_url": "/storage/posters/che-un-hombre-nuevo-85047b20.jpg",
+    "backdrop_url": "/storage/backdrops/che-un-hombre-nuevo-c03deb99.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [],
     "crew": [
         {
@@ -32,7 +34,7 @@
             "name": "Tristán Bauer",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/x8uzR8KBTNhD7kwMeeaSiAXcUTq.jpg"
+            "image_url": "/storage/people/tristan-bauer-c7975007.jpg"
         },
         {
             "id": 1461001,
@@ -46,7 +48,7 @@
             "name": "Tristán Bauer",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/x8uzR8KBTNhD7kwMeeaSiAXcUTq.jpg"
+            "image_url": "/storage/people/tristan-bauer-c7975007.jpg"
         }
     ],
     "raw": {
@@ -69,7 +71,7 @@
         "original_language": "en",
         "original_title": "Che: Un Hombre Nuevo",
         "overview": "Ernesto Guevara, el \"Che\", asesinado a los 39 años, se ha convertido en un verdadero icono de nuestros tiempos. Su imagen, su obra y su pensamiento tienen hoy una fuerza arrolladora. La clave a desentrañar a través del documental es su intimidad, su continua formación, su coherencia, el estudio y el pensamiento al servicio de la acción y de la construcción de un mundo nuevo, su particular mirada poética sobre la realidad.",
-        "popularity": 0.0524,
+        "popularity": 0.9515,
         "poster_path": "/yRBwFDPMBYoOj9cqIt9ztQ8Co12.jpg",
         "production_companies": [
             {
@@ -125,7 +127,7 @@
                     "known_for_department": "Directing",
                     "name": "Tristán Bauer",
                     "original_name": "Tristán Bauer",
-                    "popularity": 0.1935,
+                    "popularity": 0.1045,
                     "profile_path": "/x8uzR8KBTNhD7kwMeeaSiAXcUTq.jpg",
                     "credit_id": "54be15f2c3a3681da0003786",
                     "department": "Directing",
@@ -138,7 +140,7 @@
                     "known_for_department": "Writing",
                     "name": "Carolina Scaglione",
                     "original_name": "Carolina Scaglione",
-                    "popularity": 0.0777,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "6857ec53df13f0fb61a4659d",
                     "department": "Writing",
@@ -151,7 +153,7 @@
                     "known_for_department": "Directing",
                     "name": "Tristán Bauer",
                     "original_name": "Tristán Bauer",
-                    "popularity": 0.1935,
+                    "popularity": 0.1045,
                     "profile_path": "/x8uzR8KBTNhD7kwMeeaSiAXcUTq.jpg",
                     "credit_id": "6857ec63d207761569ded94a",
                     "department": "Writing",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 423778,
-    "cinear_id": null,
     "slug": "la-flor",
     "title": "La flor",
     "original_title": "La flor",
@@ -11,9 +10,18 @@
     "year": 2019,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Fantasía",
-        "Suspense"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasía"
+        },
+        {
+            "id": 53,
+            "name": "Suspense"
+        }
     ],
     "countries": [
         "Argentina"
@@ -26,93 +34,100 @@
         "Español",
         "svenska"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/GMAnDHh4m2mn8schv9DtWF6khv.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/8fylml4dfpIpl5dPP0TGvVGA7eg.jpg",
+    "poster_url": "/storage/posters/la-flor-6ed6972f.jpg",
+    "backdrop_url": "/storage/backdrops/la-flor-dea795cb.jpg",
     "trailer": "https://www.youtube.com/watch?v=rPNxAqeixF0",
+    "gallery_urls": [
+        "/storage/posters/la-flor-6ed6972f.jpg",
+        "/storage/gallery/gallery-2-0132a826.jpg",
+        "/storage/gallery/gallery-3-db9d798a.jpg",
+        "/storage/gallery/gallery-4-5a494bc1.jpg",
+        "/storage/gallery/gallery-5-4f3d4f7c.jpg"
+    ],
     "cast": [
         {
             "id": 1107940,
             "name": "Elisa Carricajo",
             "character": "Marcela / Isabel / Agente 50 / Actriz",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg"
+            "image_url": "/storage/people/elisa-carricajo-c99d60f4.jpg"
         },
         {
             "id": 1349989,
             "name": "Valeria Correa",
             "character": "Yanina / Andrea Nigro / La niña / Actriz",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/iVaTEWx10ik8UbEsE5uDIA8jseH.jpg"
+            "image_url": "/storage/people/valeria-correa-31e96b3e.jpg"
         },
         {
             "id": 1086355,
             "name": "Pilar Gamboa",
             "character": "Valeria / Daniela 'La Niña Cruz' / Actriz",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+            "image_url": "/storage/people/pilar-gamboa-92778784.jpg"
         },
         {
             "id": 1107942,
             "name": "Laura Paredes",
             "character": "Lucia Conti / Flavia / La 301 / Actriz",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/gWuxoUosFG72hpfFcV02kjevdOl.jpg"
+            "image_url": "/storage/people/laura-paredes-a8424388.jpg"
         },
         {
             "id": 1086359,
             "name": "Esteban Lamothe",
             "character": "Turistic Gaucho 1",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+            "image_url": "/storage/people/esteban-lamothe-b3e66bdb.jpg"
         },
         {
             "id": 1404411,
             "name": "Santiago Gobernori",
             "character": "Gaucho Turístico 2",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/eC26m2DHvV97VCppQiLlmDSylMq.jpg"
+            "image_url": "/storage/people/santiago-gobernori-28515bf2.jpg"
         },
         {
             "id": 1293509,
             "name": "Mariano Llinás",
             "character": "Él mismo / Narrador",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         },
         {
             "id": 447207,
             "name": "Romina Paula",
             "character": "Chica de Zurich",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/4R9QOlZ7H5v7jQ9v7AU8L3f2AdU.jpg"
+            "image_url": "/storage/people/romina-paula-5f252822.jpg"
         },
         {
             "id": 1107941,
             "name": "Agustina Muñoz",
             "character": "Fox",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/hFQm8n0DOKwvzxdqivUrvfoj8oq.jpg"
+            "image_url": "/storage/people/agustina-munoz-d9693ad9.jpg"
         },
         {
             "id": 1086354,
             "name": "María Villar",
             "character": "Maritza",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/nXBZSpS6prrTuCXoN8c5XkzrSU6.jpg"
+            "image_url": "/storage/people/maria-villar-64cf6e57.jpg"
         },
         {
             "id": 128049,
             "name": "Alberto Suárez",
             "character": "Frank",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/iWvKRI7Tiya6wj4sNIQCgNSszhJ.jpg"
+            "image_url": "/storage/people/alberto-suarez-ddf3ece1.jpg"
         },
         {
             "id": 1266006,
             "name": "Luciana Acuña",
             "character": "La Madre",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/kH4NxdbDvv1wPfcBgPoCgD2FKE3.jpg"
+            "image_url": "/storage/people/luciana-acuna-7aa82ae2.jpg"
         },
         {
             "id": 2653920,
@@ -126,49 +141,49 @@
             "name": "Juan Barberini",
             "character": "Muchacho",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/xuw7BNTr2L7rhujQ3WnYU78Zkix.jpg"
+            "image_url": "/storage/people/juan-barberini-6e5ce8dd.jpg"
         },
         {
             "id": 1348750,
             "name": "William Prociuk",
             "character": "Espia",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/8QLzJNFaFdSsrrnbDEhqgsM1z39.jpg"
+            "image_url": "/storage/people/william-prociuk-0a2045c0.jpg"
         },
         {
             "id": 138757,
             "name": "Rafael Spregelburd",
             "character": "Araña",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+            "image_url": "/storage/people/rafael-spregelburd-4593ee99.jpg"
         },
         {
             "id": 1122493,
             "name": "Pablo Seijo",
             "character": "Gatto",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/ffuPTq20qRx8Ml6ZbLpC6R4ROhe.jpg"
+            "image_url": "/storage/people/pablo-seijo-9b742f63.jpg"
         },
         {
             "id": 1509970,
             "name": "Marcelo Pozzi",
             "character": "Casterman",
             "order": 17,
-            "image_url": "https://image.tmdb.org/t/p/w154/oXg41wqo3KY9KT3qRVZZdtrkYvk.jpg"
+            "image_url": "/storage/people/marcelo-pozzi-469ce83c.jpg"
         },
         {
             "id": 237958,
             "name": "Walter Jakob",
             "character": "Equipo Técnico 'La Araña'",
             "order": 18,
-            "image_url": "https://image.tmdb.org/t/p/w154/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+            "image_url": "/storage/people/walter-jakob-0a50df26.jpg"
         },
         {
             "id": 1083547,
             "name": "Horacio Marassi",
             "character": "Dreyfuss / Equipo Técnico 'La Araña'",
             "order": 19,
-            "image_url": "https://image.tmdb.org/t/p/w154/yeZFsleHotG5Vcep9wMJJx1ya1O.jpg"
+            "image_url": "/storage/people/horacio-marassi-79a86123.jpg"
         }
     ],
     "crew": [
@@ -177,14 +192,14 @@
             "name": "Mariano Llinás",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         },
         {
             "id": 1266005,
             "name": "Laura Citarella",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/zby9FNc91M0od2oUUDzhBSMlpgu.jpg"
+            "image_url": "/storage/people/laura-citarella-008ab769.jpg"
         },
         {
             "id": 1791449,
@@ -198,14 +213,14 @@
             "name": "Alejo Moguillansky",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/e3Rgu4bdkeK4KkbwmcMrRu8Jo3W.jpg"
+            "image_url": "/storage/people/alejo-moguillansky-02e5687b.jpg"
         },
         {
             "id": 1706305,
             "name": "Agustín Mendilaharzu",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg"
+            "image_url": "/storage/people/agustin-mendilaharzu-ffd96724.jpg"
         },
         {
             "id": 1266007,
@@ -233,7 +248,7 @@
             "name": "Agustín Gagliardi",
             "department": "Directing",
             "job": "Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/mljIXAwxcM6Iy2Tz2mVvelHpXzo.jpg"
+            "image_url": "/storage/people/agustin-gagliardi-e3dbe314.jpg"
         },
         {
             "id": 32356,
@@ -268,14 +283,14 @@
             "name": "Gabriel Chwojnik",
             "department": "Sound",
             "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qr3H8IHD78zjroizTiveDc9w7hT.jpg"
+            "image_url": "/storage/people/gabriel-chwojnik-35051c51.jpg"
         },
         {
             "id": 1293509,
             "name": "Mariano Llinás",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         }
     ],
     "raw": {
@@ -306,7 +321,7 @@
         "original_language": "es",
         "original_title": "La flor",
         "overview": "Un enorme esfuerzo de complejidad narrativa compuesto por seis historias independientes y sucesivas, conectadas por las mismas cuatro actrices que viven experiencias muy diferentes en universos muy distintos.",
-        "popularity": 6.0037,
+        "popularity": 0.2934,
         "poster_path": "/GMAnDHh4m2mn8schv9DtWF6khv.jpg",
         "production_companies": [
             {
@@ -378,7 +393,7 @@
                     "known_for_department": "Acting",
                     "name": "Elisa Carricajo",
                     "original_name": "Elisa Carricajo",
-                    "popularity": 0.1744,
+                    "popularity": 0.2469,
                     "profile_path": "/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg",
                     "cast_id": 3,
                     "character": "Marcela / Isabel / Agente 50 / Actriz",
@@ -392,7 +407,7 @@
                     "known_for_department": "Acting",
                     "name": "Valeria Correa",
                     "original_name": "Valeria Correa",
-                    "popularity": 0.1231,
+                    "popularity": 0.2262,
                     "profile_path": "/iVaTEWx10ik8UbEsE5uDIA8jseH.jpg",
                     "cast_id": 4,
                     "character": "Yanina / Andrea Nigro / La niña / Actriz",
@@ -406,7 +421,7 @@
                     "known_for_department": "Acting",
                     "name": "Pilar Gamboa",
                     "original_name": "Pilar Gamboa",
-                    "popularity": 0.6689,
+                    "popularity": 0.5142,
                     "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg",
                     "cast_id": 1,
                     "character": "Valeria / Daniela 'La Niña Cruz' / Actriz",
@@ -420,7 +435,7 @@
                     "known_for_department": "Acting",
                     "name": "Laura Paredes",
                     "original_name": "Laura Paredes",
-                    "popularity": 0.3061,
+                    "popularity": 0.3077,
                     "profile_path": "/gWuxoUosFG72hpfFcV02kjevdOl.jpg",
                     "cast_id": 2,
                     "character": "Lucia Conti / Flavia / La 301 / Actriz",
@@ -434,7 +449,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Lamothe",
                     "original_name": "Esteban Lamothe",
-                    "popularity": 1.4862,
+                    "popularity": 0.796,
                     "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
                     "cast_id": 14,
                     "character": "Turistic Gaucho 1",
@@ -448,7 +463,7 @@
                     "known_for_department": "Acting",
                     "name": "Santiago Gobernori",
                     "original_name": "Santiago Gobernori",
-                    "popularity": 0.0677,
+                    "popularity": 0.0685,
                     "profile_path": "/eC26m2DHvV97VCppQiLlmDSylMq.jpg",
                     "cast_id": 16,
                     "character": "Gaucho Turístico 2",
@@ -462,7 +477,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.5461,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "cast_id": 18,
                     "character": "Él mismo / Narrador",
@@ -476,7 +491,7 @@
                     "known_for_department": "Acting",
                     "name": "Romina Paula",
                     "original_name": "Romina Paula",
-                    "popularity": 1.284,
+                    "popularity": 1.0101,
                     "profile_path": "/4R9QOlZ7H5v7jQ9v7AU8L3f2AdU.jpg",
                     "cast_id": 19,
                     "character": "Chica de Zurich",
@@ -490,7 +505,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustina Muñoz",
                     "original_name": "Agustina Muñoz",
-                    "popularity": 0.2278,
+                    "popularity": 0.3865,
                     "profile_path": "/hFQm8n0DOKwvzxdqivUrvfoj8oq.jpg",
                     "cast_id": 20,
                     "character": "Fox",
@@ -504,7 +519,7 @@
                     "known_for_department": "Acting",
                     "name": "María Villar",
                     "original_name": "María Villar",
-                    "popularity": 0.058,
+                    "popularity": 0.1525,
                     "profile_path": "/nXBZSpS6prrTuCXoN8c5XkzrSU6.jpg",
                     "cast_id": 21,
                     "character": "Maritza",
@@ -518,7 +533,7 @@
                     "known_for_department": "Acting",
                     "name": "Alberto Suárez",
                     "original_name": "Alberto Suárez",
-                    "popularity": 0.0811,
+                    "popularity": 0.2279,
                     "profile_path": "/iWvKRI7Tiya6wj4sNIQCgNSszhJ.jpg",
                     "cast_id": 31,
                     "character": "Frank",
@@ -532,7 +547,7 @@
                     "known_for_department": "Acting",
                     "name": "Luciana Acuña",
                     "original_name": "Luciana Acuña",
-                    "popularity": 0.1522,
+                    "popularity": 0.1368,
                     "profile_path": "/kH4NxdbDvv1wPfcBgPoCgD2FKE3.jpg",
                     "cast_id": 32,
                     "character": "La Madre",
@@ -560,7 +575,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Barberini",
                     "original_name": "Juan Barberini",
-                    "popularity": 0.1795,
+                    "popularity": 0.533,
                     "profile_path": "/xuw7BNTr2L7rhujQ3WnYU78Zkix.jpg",
                     "cast_id": 34,
                     "character": "Muchacho",
@@ -574,7 +589,7 @@
                     "known_for_department": "Acting",
                     "name": "William Prociuk",
                     "original_name": "William Prociuk",
-                    "popularity": 0.8968,
+                    "popularity": 1.2294,
                     "profile_path": "/8QLzJNFaFdSsrrnbDEhqgsM1z39.jpg",
                     "cast_id": 36,
                     "character": "Espia",
@@ -588,7 +603,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Spregelburd",
                     "original_name": "Rafael Spregelburd",
-                    "popularity": 0.1858,
+                    "popularity": 0.2639,
                     "profile_path": "/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg",
                     "cast_id": 37,
                     "character": "Araña",
@@ -602,7 +617,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Seijo",
                     "original_name": "Pablo Seijo",
-                    "popularity": 0.748,
+                    "popularity": 1.9735,
                     "profile_path": "/ffuPTq20qRx8Ml6ZbLpC6R4ROhe.jpg",
                     "cast_id": 38,
                     "character": "Gatto",
@@ -616,7 +631,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Pozzi",
                     "original_name": "Marcelo Pozzi",
-                    "popularity": 0.0239,
+                    "popularity": 0.0835,
                     "profile_path": "/oXg41wqo3KY9KT3qRVZZdtrkYvk.jpg",
                     "cast_id": 39,
                     "character": "Casterman",
@@ -630,7 +645,7 @@
                     "known_for_department": "Acting",
                     "name": "Walter Jakob",
                     "original_name": "Walter Jakob",
-                    "popularity": 0.6792,
+                    "popularity": 0.8314,
                     "profile_path": "/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg",
                     "cast_id": 40,
                     "character": "Equipo Técnico 'La Araña'",
@@ -644,7 +659,7 @@
                     "known_for_department": "Acting",
                     "name": "Horacio Marassi",
                     "original_name": "Horacio Marassi",
-                    "popularity": 0.0769,
+                    "popularity": 0.0671,
                     "profile_path": "/yeZFsleHotG5Vcep9wMJJx1ya1O.jpg",
                     "cast_id": 41,
                     "character": "Dreyfuss / Equipo Técnico 'La Araña'",
@@ -658,7 +673,7 @@
                     "known_for_department": "Acting",
                     "name": "Federico Buso",
                     "original_name": "Federico Buso",
-                    "popularity": 0.0412,
+                    "popularity": 0.0834,
                     "profile_path": null,
                     "cast_id": 42,
                     "character": "Claudio",
@@ -672,7 +687,7 @@
                     "known_for_department": "Directing",
                     "name": "Paola Michaels",
                     "original_name": "Paola Michaels",
-                    "popularity": 0.0071,
+                    "popularity": 0.0643,
                     "profile_path": null,
                     "cast_id": 43,
                     "character": "Chinos",
@@ -686,7 +701,7 @@
                     "known_for_department": "Acting",
                     "name": "Héctor Díaz",
                     "original_name": "Héctor Díaz",
-                    "popularity": 0.1409,
+                    "popularity": 0.6374,
                     "profile_path": "/ynY6WgUvoP0STIoXg6GYJj2Xc8Q.jpg",
                     "cast_id": 44,
                     "character": "Ricky",
@@ -700,7 +715,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.2956,
+                    "popularity": 0.2782,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 45,
                     "character": "Giardina",
@@ -714,7 +729,7 @@
                     "known_for_department": "Acting",
                     "name": "Ezequiel Rodríguez",
                     "original_name": "Ezequiel Rodríguez",
-                    "popularity": 0.6171,
+                    "popularity": 0.5732,
                     "profile_path": "/pTse3nUKhLOwPvfot1XpQSQt9WI.jpg",
                     "cast_id": 46,
                     "character": "Operador",
@@ -728,7 +743,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Gagliardi",
                     "original_name": "Agustín Gagliardi",
-                    "popularity": 0.0143,
+                    "popularity": 0.0457,
                     "profile_path": "/mljIXAwxcM6Iy2Tz2mVvelHpXzo.jpg",
                     "cast_id": 47,
                     "character": "Zingaro/Bauta/Parroquiano/Salteador/Soldado/Equipo Técnico",
@@ -742,7 +757,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2283,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 48,
                     "character": "Horst",
@@ -756,7 +771,7 @@
                     "known_for_department": "Production",
                     "name": "Ezequiel Pierri",
                     "original_name": "Ezequiel Pierri",
-                    "popularity": 0.0495,
+                    "popularity": 0.0519,
                     "profile_path": "/f48Qu8ldgGBUruGVdprXWNx8auv.jpg",
                     "cast_id": 49,
                     "character": "Club inglés",
@@ -770,7 +785,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Llinás",
                     "original_name": "Verónica Llinás",
-                    "popularity": 0.5668,
+                    "popularity": 0.4266,
                     "profile_path": "/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg",
                     "cast_id": 50,
                     "character": "La gringa / Narradora (voz)",
@@ -784,7 +799,7 @@
                     "known_for_department": "Acting",
                     "name": "Azul Aizenberg",
                     "original_name": "Azul Aizenberg",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 51,
                     "character": "Personal Lubianka",
@@ -798,7 +813,7 @@
                     "known_for_department": "Acting",
                     "name": "Eugenia Alonso",
                     "original_name": "Eugenia Alonso",
-                    "popularity": 0.0841,
+                    "popularity": 0.2146,
                     "profile_path": "/kFr4K0EopeXDmbdjo6YfEsrUfPx.jpg",
                     "cast_id": 52,
                     "character": "Madre de Yanina",
@@ -812,7 +827,7 @@
                     "known_for_department": "Art",
                     "name": "Fernanda Tablón Assillo",
                     "original_name": "Fernanda Tablón Assillo",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 53,
                     "character": "Amarillos",
@@ -826,7 +841,7 @@
                     "known_for_department": "Acting",
                     "name": "Nicolás Azalbert",
                     "original_name": "Nicolás Azalbert",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": "/knpxy9MrxHedlgCdZLrCIen9Tsq.jpg",
                     "cast_id": 54,
                     "character": "Contstador automático / Ángel (voz)",
@@ -840,7 +855,7 @@
                     "known_for_department": "Acting",
                     "name": "Tommy Barban",
                     "original_name": "Tommy Barban",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 55,
                     "character": "Sr. Rubinstein",
@@ -854,7 +869,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Biasotto",
                     "original_name": "Luis Biasotto",
-                    "popularity": 0.0214,
+                    "popularity": 0.0388,
                     "profile_path": null,
                     "cast_id": 56,
                     "character": "Malo 1",
@@ -882,7 +897,7 @@
                     "known_for_department": "Writing",
                     "name": "Joaquín Bonet",
                     "original_name": "Joaquín Bonet",
-                    "popularity": 0.0281,
+                    "popularity": 0.0744,
                     "profile_path": null,
                     "cast_id": 58,
                     "character": "Casanova",
@@ -896,7 +911,7 @@
                     "known_for_department": "Acting",
                     "name": "Héctor Bordoni",
                     "original_name": "Héctor Bordoni",
-                    "popularity": 0.3949,
+                    "popularity": 0.2247,
                     "profile_path": "/qtsurPlKOXd7ARLjyTtdqMigCBp.jpg",
                     "cast_id": 59,
                     "character": "Guasco",
@@ -924,7 +939,7 @@
                     "known_for_department": "Acting",
                     "name": "Florencia Braier",
                     "original_name": "Florencia Braier",
-                    "popularity": 0.0306,
+                    "popularity": 0.0379,
                     "profile_path": null,
                     "cast_id": 61,
                     "character": "Amiga de Conti / Lucía Conti (voz)",
@@ -938,7 +953,7 @@
                     "known_for_department": "Acting",
                     "name": "Patricia Camponovo",
                     "original_name": "Patricia Camponovo",
-                    "popularity": 0.0531,
+                    "popularity": 0.0398,
                     "profile_path": null,
                     "cast_id": 62,
                     "character": "Isabella (voz)",
@@ -952,7 +967,7 @@
                     "known_for_department": "Production",
                     "name": "Eugenia Campos Guevara",
                     "original_name": "Eugenia Campos Guevara",
-                    "popularity": 0.0429,
+                    "popularity": 0.0311,
                     "profile_path": "/gxl5T7m7A0bufx6YxA59WP6CS53.jpg",
                     "cast_id": 63,
                     "character": "Enfermeras lúbricas",
@@ -980,7 +995,7 @@
                     "known_for_department": "Acting",
                     "name": "Edgardo Castro",
                     "original_name": "Edgardo Castro",
-                    "popularity": 0.9009,
+                    "popularity": 0.9419,
                     "profile_path": "/rCnMxrdyNoibI9MQnmN9aJDRE6r.jpg",
                     "cast_id": 65,
                     "character": "Ángel",
@@ -994,7 +1009,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariana Chaud",
                     "original_name": "Mariana Chaud",
-                    "popularity": 0.0505,
+                    "popularity": 0.1017,
                     "profile_path": "/6W18246FoJ5Hd86hmeqS0ixi5nq.jpg",
                     "cast_id": 66,
                     "character": "Susana",
@@ -1008,7 +1023,7 @@
                     "known_for_department": "Sound",
                     "name": "Gabriel Chwojnik",
                     "original_name": "Gabriel Chwojnik",
-                    "popularity": 0.0956,
+                    "popularity": 0.0429,
                     "profile_path": "/qr3H8IHD78zjroizTiveDc9w7hT.jpg",
                     "cast_id": 67,
                     "character": "Bajista",
@@ -1036,7 +1051,7 @@
                     "known_for_department": "Acting",
                     "name": "Julio Citarella",
                     "original_name": "Julio Citarella",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 69,
                     "character": "Laszlo / Pianista",
@@ -1064,7 +1079,7 @@
                     "known_for_department": "Acting",
                     "name": "Miranda Correa",
                     "original_name": "Miranda Correa",
-                    "popularity": 0.1124,
+                    "popularity": 0.0688,
                     "profile_path": "/lj6kmsPddCokTnXNAyUKkzuKhdh.jpg",
                     "cast_id": 71,
                     "character": "Embajaola",
@@ -1078,7 +1093,7 @@
                     "known_for_department": "Directing",
                     "name": "Ingrid Pokropek",
                     "original_name": "Ingrid Pokropek",
-                    "popularity": 0.0071,
+                    "popularity": 0.0538,
                     "profile_path": "/7OvDAGHhRZf7crOoCpduLnWJtHh.jpg",
                     "cast_id": 72,
                     "character": "Personal Lubianka",
@@ -1092,7 +1107,7 @@
                     "known_for_department": "Acting",
                     "name": "Nicolás Schujman",
                     "original_name": "Nicolás Schujman",
-                    "popularity": 0.0256,
+                    "popularity": 0.0382,
                     "profile_path": "/tm2bi53cchSGMmA9y0AUQM4v70a.jpg",
                     "cast_id": 73,
                     "character": "Amarillos",
@@ -1108,7 +1123,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.5461,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "credit_id": "581831eec3a36837d90021a8",
                     "department": "Directing",
@@ -1121,7 +1136,7 @@
                     "known_for_department": "Directing",
                     "name": "Laura Citarella",
                     "original_name": "Laura Citarella",
-                    "popularity": 0.047,
+                    "popularity": 0.1201,
                     "profile_path": "/zby9FNc91M0od2oUUDzhBSMlpgu.jpg",
                     "credit_id": "5823d367c3a3684bf5001402",
                     "department": "Production",
@@ -1134,7 +1149,7 @@
                     "known_for_department": "Editing",
                     "name": "Agustín Rolandelli",
                     "original_name": "Agustín Rolandelli",
-                    "popularity": 0.0143,
+                    "popularity": 0.0281,
                     "profile_path": null,
                     "credit_id": "5b6ad7a60e0a267ef811a054",
                     "department": "Editing",
@@ -1147,7 +1162,7 @@
                     "known_for_department": "Directing",
                     "name": "Alejo Moguillansky",
                     "original_name": "Alejo Moguillansky",
-                    "popularity": 0.0764,
+                    "popularity": 0.171,
                     "profile_path": "/e3Rgu4bdkeK4KkbwmcMrRu8Jo3W.jpg",
                     "credit_id": "5b6ad79b0e0a267ef6113370",
                     "department": "Editing",
@@ -1160,7 +1175,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Mendilaharzu",
                     "original_name": "Agustín Mendilaharzu",
-                    "popularity": 0.0377,
+                    "popularity": 0.0739,
                     "profile_path": "/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg",
                     "credit_id": "5b6c71f50e0a267eeb144b17",
                     "department": "Camera",
@@ -1173,7 +1188,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo Sánchez Mariño",
                     "original_name": "Rodrigo Sánchez Mariño",
-                    "popularity": 0.0669,
+                    "popularity": 0.0352,
                     "profile_path": null,
                     "credit_id": "5c3efe8cc3a368694e3feea5",
                     "department": "Sound",
@@ -1186,7 +1201,7 @@
                     "known_for_department": "Art",
                     "name": "Laura Caligiuri",
                     "original_name": "Laura Caligiuri",
-                    "popularity": 0.0286,
+                    "popularity": 0.0538,
                     "profile_path": null,
                     "credit_id": "5e3ac11798f1f10012091fa5",
                     "department": "Art",
@@ -1199,7 +1214,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Carolina Sosa Loyola",
                     "original_name": "Carolina Sosa Loyola",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5e3ac14c91745b00172e0579",
                     "department": "Costume & Make-Up",
@@ -1212,7 +1227,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Gagliardi",
                     "original_name": "Agustín Gagliardi",
-                    "popularity": 0.0143,
+                    "popularity": 0.0457,
                     "profile_path": "/mljIXAwxcM6Iy2Tz2mVvelHpXzo.jpg",
                     "credit_id": "5e3ac18798f1f100180a4e47",
                     "department": "Directing",
@@ -1225,7 +1240,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Alberto Moccia",
                     "original_name": "Alberto Moccia",
-                    "popularity": 0.0475,
+                    "popularity": 0.1646,
                     "profile_path": null,
                     "credit_id": "5e3ac2a391745b00172e0837",
                     "department": "Costume & Make-Up",
@@ -1238,7 +1253,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Flora Caligiuri",
                     "original_name": "Flora Caligiuri",
-                    "popularity": 0.0143,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5e3ac16191745b00172e05d7",
                     "department": "Costume & Make-Up",
@@ -1251,7 +1266,7 @@
                     "known_for_department": "Directing",
                     "name": "Felicitas Soldi",
                     "original_name": "Felicitas Soldi",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5e3ac19a98f1f1001209201f",
                     "department": "Directing",
@@ -1277,7 +1292,7 @@
                     "known_for_department": "Sound",
                     "name": "Gabriel Chwojnik",
                     "original_name": "Gabriel Chwojnik",
-                    "popularity": 0.0956,
+                    "popularity": 0.0429,
                     "profile_path": "/qr3H8IHD78zjroizTiveDc9w7hT.jpg",
                     "credit_id": "5e3aa734ac8e6b0011c9dbc8",
                     "department": "Sound",
@@ -1290,7 +1305,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.5461,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "credit_id": "5e3aa74698f1f100180a2e04",
                     "department": "Writing",

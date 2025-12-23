@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 313278,
-    "cinear_id": null,
     "slug": "excursiones",
     "title": "Excursiones",
     "original_title": "Excursiones",
@@ -17,9 +16,10 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/qPK2KV3OYGNqzZvrLM3a2rNQFnk.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/sOXAjyqf1H5oiyKU62MKcgyO3kZ.jpg",
+    "poster_url": "/storage/posters/excursiones-9db913de.jpg",
+    "backdrop_url": "/storage/backdrops/excursiones-8be4815d.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1194977,
@@ -40,38 +40,31 @@
             "name": "Martín Piroyansky",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/Zsanxa23zaoDu1FlcjTaB21o49.jpg"
+            "image_url": "/storage/people/martin-piroyansky-4c0ac72f.jpg"
         },
         {
             "id": 567541,
             "name": "Martina Juncadella",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/4UNFx3H4O0Aeupw0XhT1Sg4aKFp.jpg"
+            "image_url": "/storage/people/martina-juncadella-3611a413.jpg"
         },
         {
             "id": 990897,
             "name": "Santiago Pedrero",
             "character": "",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/iHgwHfuW0ohrxn8k5ZD9zG2vLL0.jpg"
+            "image_url": "/storage/people/santiago-pedrero-17462f53.jpg"
         },
         {
             "id": 1035301,
             "name": "Ignacio Rogers",
             "character": "",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/gm1gc8VAfA7z5uC2ap5Q5qqrDf2.jpg"
+            "image_url": "/storage/people/ignacio-rogers-593b8862.jpg"
         }
     ],
     "crew": [
-        {
-            "id": 1122369,
-            "name": "Ezequiel Acuña",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/db78CebWYZytUhCUMiF7XNW5zmi.jpg"
-        },
         {
             "id": 1194977,
             "name": "Alberto Rojas Apel",
@@ -80,18 +73,11 @@
             "image_url": null
         },
         {
-            "id": 2831521,
-            "name": "Mario Pablo Pavez",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": null
-        },
-        {
             "id": 1122369,
             "name": "Ezequiel Acuña",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/db78CebWYZytUhCUMiF7XNW5zmi.jpg"
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/ezequiel-acuna-afa2312f.jpg"
         },
         {
             "id": 1509971,
@@ -103,37 +89,51 @@
         {
             "id": 1122369,
             "name": "Ezequiel Acuña",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/db78CebWYZytUhCUMiF7XNW5zmi.jpg"
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/ezequiel-acuna-afa2312f.jpg"
         },
         {
-            "id": 2163071,
-            "name": "Agustina Llambi Campbell",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lE4ln949FMP4NU6mvWBLKemVhWq.jpg"
+            "id": 1122369,
+            "name": "Ezequiel Acuña",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/ezequiel-acuna-afa2312f.jpg"
         },
         {
             "id": 1122369,
             "name": "Ezequiel Acuña",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/db78CebWYZytUhCUMiF7XNW5zmi.jpg"
+            "image_url": "/storage/people/ezequiel-acuna-afa2312f.jpg"
         },
         {
-            "id": 56210,
-            "name": "Pablo Trapero",
+            "id": 2163071,
+            "name": "Agustina Llambi Campbell",
             "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/h8qZtRXhyheacl37J3MYx7aN05G.jpg"
+            "job": "Executive Producer",
+            "image_url": "/storage/people/agustina-llambi-campbell-d3efc8b3.jpg"
         },
         {
             "id": 84667,
             "name": "Martina Gusmán",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/15My37mfaK8IV7CM5SsqfIxe2Zq.jpg"
+            "image_url": "/storage/people/martina-gusman-fe4ae01a.jpg"
+        },
+        {
+            "id": 2831521,
+            "name": "Mario Pablo Pavez",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 56210,
+            "name": "Pablo Trapero",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/pablo-trapero-eb58daef.jpg"
         }
     ],
     "raw": {
@@ -151,7 +151,7 @@
         "original_language": "es",
         "original_title": "Excursiones",
         "overview": "Martín y Marcos eran mejores amigos pero cuando terminaron la secundaria se dejaron de ver. Al quedarse sin trabajo, Marcos decide retomar un viejo monólogo escolar y convertirlo en una obra de teatro. Convoca a Martín, que luego de años de dialoguista en televisión, está buscando la oportunidad de iniciarse en teatro. Ambos se reencuentran después de diez años pero la relación ya no es lo que era. Es evidente qye algo cambió entre ellos, que el tiempo pasó. Es que hay algo que los distanció hace diez años, algo de lo que nunca pudieron hablar. Tal vez ahora sea el momento.",
-        "popularity": 3.2806,
+        "popularity": 0.3571,
         "poster_path": "/qPK2KV3OYGNqzZvrLM3a2rNQFnk.jpg",
         "production_companies": [
             {
@@ -192,7 +192,7 @@
                     "known_for_department": "Acting",
                     "name": "Alberto Rojas Apel",
                     "original_name": "Alberto Rojas Apel",
-                    "popularity": 0.267,
+                    "popularity": 0.5493,
                     "profile_path": null,
                     "cast_id": 1,
                     "character": "Martín",
@@ -206,7 +206,7 @@
                     "known_for_department": "Acting",
                     "name": "Matías Castelli",
                     "original_name": "Matías Castelli",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "Marcos",
@@ -220,7 +220,7 @@
                     "known_for_department": "Acting",
                     "name": "Martín Piroyansky",
                     "original_name": "Martín Piroyansky",
-                    "popularity": 1.0535,
+                    "popularity": 0.2148,
                     "profile_path": "/Zsanxa23zaoDu1FlcjTaB21o49.jpg",
                     "cast_id": 4,
                     "character": "",
@@ -234,7 +234,7 @@
                     "known_for_department": "Acting",
                     "name": "Martina Juncadella",
                     "original_name": "Martina Juncadella",
-                    "popularity": 0.0735,
+                    "popularity": 0.0555,
                     "profile_path": "/4UNFx3H4O0Aeupw0XhT1Sg4aKFp.jpg",
                     "cast_id": 5,
                     "character": "",
@@ -248,7 +248,7 @@
                     "known_for_department": "Acting",
                     "name": "Santiago Pedrero",
                     "original_name": "Santiago Pedrero",
-                    "popularity": 0.0533,
+                    "popularity": 0.0965,
                     "profile_path": "/iHgwHfuW0ohrxn8k5ZD9zG2vLL0.jpg",
                     "cast_id": 6,
                     "character": "",
@@ -262,7 +262,7 @@
                     "known_for_department": "Acting",
                     "name": "Ignacio Rogers",
                     "original_name": "Ignacio Rogers",
-                    "popularity": 0.8175,
+                    "popularity": 0.5277,
                     "profile_path": "/gm1gc8VAfA7z5uC2ap5Q5qqrDf2.jpg",
                     "cast_id": 15,
                     "character": "",
@@ -273,12 +273,25 @@
             "crew": [
                 {
                     "adult": false,
+                    "gender": 0,
+                    "id": 1194977,
+                    "known_for_department": "Acting",
+                    "name": "Alberto Rojas Apel",
+                    "original_name": "Alberto Rojas Apel",
+                    "popularity": 0.5493,
+                    "profile_path": null,
+                    "credit_id": "579564d59251412c1f00377d",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
                     "gender": 2,
                     "id": 1122369,
                     "known_for_department": "Directing",
                     "name": "Ezequiel Acuña",
                     "original_name": "Ezequiel Acuña",
-                    "popularity": 0.0281,
+                    "popularity": 0.1151,
                     "profile_path": "/db78CebWYZytUhCUMiF7XNW5zmi.jpg",
                     "credit_id": "579563fec3a36837ae00aa20",
                     "department": "Directing",
@@ -287,50 +300,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1194977,
-                    "known_for_department": "Acting",
-                    "name": "Alberto Rojas Apel",
-                    "original_name": "Alberto Rojas Apel",
-                    "popularity": 0.267,
-                    "profile_path": null,
-                    "credit_id": "579564d59251412c1f00377d",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2831521,
-                    "known_for_department": "Editing",
-                    "name": "Mario Pablo Pavez",
-                    "original_name": "Mario Pablo Pavez",
-                    "popularity": 0.0491,
-                    "profile_path": null,
-                    "credit_id": "5f9739c794d8a80037de5f70",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1122369,
-                    "known_for_department": "Directing",
-                    "name": "Ezequiel Acuña",
-                    "original_name": "Ezequiel Acuña",
-                    "popularity": 0.0281,
-                    "profile_path": "/db78CebWYZytUhCUMiF7XNW5zmi.jpg",
-                    "credit_id": "5f9739d364de350036f2b82b",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 1509971,
                     "known_for_department": "Acting",
                     "name": "Matías Castelli",
                     "original_name": "Matías Castelli",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f9739fd1941860038276c10",
                     "department": "Writing",
@@ -343,24 +317,11 @@
                     "known_for_department": "Directing",
                     "name": "Ezequiel Acuña",
                     "original_name": "Ezequiel Acuña",
-                    "popularity": 0.0281,
+                    "popularity": 0.1151,
                     "profile_path": "/db78CebWYZytUhCUMiF7XNW5zmi.jpg",
-                    "credit_id": "5f973a0f6c0b3600360bf647",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2163071,
-                    "known_for_department": "Production",
-                    "name": "Agustina Llambi Campbell",
-                    "original_name": "Agustina Llambi Campbell",
-                    "popularity": 0.0429,
-                    "profile_path": "/lE4ln949FMP4NU6mvWBLKemVhWq.jpg",
-                    "credit_id": "5f973d3f1cc4ff003744f9b3",
-                    "department": "Production",
-                    "job": "Executive Producer"
+                    "credit_id": "5f9739d364de350036f2b82b",
+                    "department": "Editing",
+                    "job": "Editor"
                 },
                 {
                     "adult": false,
@@ -369,7 +330,20 @@
                     "known_for_department": "Directing",
                     "name": "Ezequiel Acuña",
                     "original_name": "Ezequiel Acuña",
-                    "popularity": 0.0281,
+                    "popularity": 0.1151,
+                    "profile_path": "/db78CebWYZytUhCUMiF7XNW5zmi.jpg",
+                    "credit_id": "5f973a0f6c0b3600360bf647",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1122369,
+                    "known_for_department": "Directing",
+                    "name": "Ezequiel Acuña",
+                    "original_name": "Ezequiel Acuña",
+                    "popularity": 0.1151,
                     "profile_path": "/db78CebWYZytUhCUMiF7XNW5zmi.jpg",
                     "credit_id": "5f973e2194d8a80037de67a1",
                     "department": "Production",
@@ -377,16 +351,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 56210,
-                    "known_for_department": "Directing",
-                    "name": "Pablo Trapero",
-                    "original_name": "Pablo Trapero",
-                    "popularity": 1.1765,
-                    "profile_path": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
-                    "credit_id": "5f973e336bdec300358b21ee",
+                    "gender": 1,
+                    "id": 2163071,
+                    "known_for_department": "Production",
+                    "name": "Agustina Llambi Campbell",
+                    "original_name": "Agustina Llambi Campbell",
+                    "popularity": 0.0327,
+                    "profile_path": "/lE4ln949FMP4NU6mvWBLKemVhWq.jpg",
+                    "credit_id": "5f973d3f1cc4ff003744f9b3",
                     "department": "Production",
-                    "job": "Producer"
+                    "job": "Executive Producer"
                 },
                 {
                     "adult": false,
@@ -395,9 +369,35 @@
                     "known_for_department": "Acting",
                     "name": "Martina Gusmán",
                     "original_name": "Martina Gusmán",
-                    "popularity": 0.5171,
+                    "popularity": 0.7454,
                     "profile_path": "/15My37mfaK8IV7CM5SsqfIxe2Zq.jpg",
                     "credit_id": "5f973e486bdec300348b2469",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2831521,
+                    "known_for_department": "Editing",
+                    "name": "Mario Pablo Pavez",
+                    "original_name": "Mario Pablo Pavez",
+                    "popularity": 0.0256,
+                    "profile_path": null,
+                    "credit_id": "5f9739c794d8a80037de5f70",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 56210,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Trapero",
+                    "original_name": "Pablo Trapero",
+                    "popularity": 0.8733,
+                    "profile_path": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
+                    "credit_id": "5f973e336bdec300358b21ee",
                     "department": "Production",
                     "job": "Producer"
                 }

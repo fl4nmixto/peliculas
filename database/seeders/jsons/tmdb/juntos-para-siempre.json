@@ -29,9 +29,12 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/A2HdW03LclMe5T8gHvCT2aDn6aw.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/unRNvOq0F9RCEMX0ESTw90z4hXa.jpg",
+    "poster_url": "/storage/posters/juntos-para-siempre-0cbdbb39.jpg",
+    "backdrop_url": "/storage/backdrops/juntos-para-siempre-bb9e4ebf.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/juntos-para-siempre-0cbdbb39.jpg"
+    ],
     "cast": [
         {
             "id": 934906,
@@ -59,28 +62,28 @@
             "name": "Mirta Busnelli",
             "character": "Elena",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg"
+            "image_url": "/storage/people/mirta-busnelli-1c22da55.jpg"
         },
         {
             "id": 103431,
             "name": "Luis Luque",
             "character": "Fabián",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg"
+            "image_url": "/storage/people/luis-luque-3e8ecb4b.jpg"
         },
         {
             "id": 145026,
             "name": "Marta Lubos",
             "character": "Juana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/uOPmhWyY31hp660vlt65wOcfpBk.jpg"
+            "image_url": "/storage/people/marta-lubos-e574aed8.jpg"
         },
         {
             "id": 1291440,
             "name": "Valeria Lois",
             "character": "La Flaca",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/3RJIJiOQp9XTGytIQwORbD4lNDa.jpg"
+            "image_url": "/storage/people/valeria-lois-306084e4.jpg"
         },
         {
             "id": 933618,
@@ -94,7 +97,7 @@
             "name": "Sergio Boris",
             "character": "Gerardo",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/7gAYXGYklxCUWjW1YZflymI1rQn.jpg"
+            "image_url": "/storage/people/sergio-boris-a7af656a.jpg"
         },
         {
             "id": 1359648,
@@ -117,14 +120,14 @@
             "name": "Pablo Solarz",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/gQgBIw4VZ9wxHqtmoF6gkxwTR7J.jpg"
+            "image_url": "/storage/people/pablo-solarz-34774be9.jpg"
         },
         {
             "id": 934905,
             "name": "Pablo Solarz",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/gQgBIw4VZ9wxHqtmoF6gkxwTR7J.jpg"
+            "image_url": "/storage/people/pablo-solarz-34774be9.jpg"
         }
     ],
     "raw": {
@@ -155,7 +158,7 @@
         "original_language": "es",
         "original_title": "Juntos para siempre",
         "overview": "Gross es un prestigioso guionista que niega su pasado inventando historias de ficción. Lucía, su mujer, cansada de las ficciones que rodean el mundo de Gross, tiene una aventura amorosa. Pero ni si quiera la confesión de la infidelidad conmueve a Gross. Entonces Lucía, tras ver que Gross es inconmovible, decide abandonarlo. Pero Gross no pierde el tiempo: ese mismo día reemplaza a Lucía por Laura. Desde el primer día, Gross confunde los nombres de las mujeres. Es así como Laura se va transformando en una copia de segunda del verdadero amor de Gross.",
-        "popularity": 0.9271,
+        "popularity": 1.6639,
         "poster_path": "/A2HdW03LclMe5T8gHvCT2aDn6aw.jpg",
         "production_companies": [
             {
@@ -202,7 +205,7 @@
                     "known_for_department": "Acting",
                     "name": "Florencia Peña",
                     "original_name": "Florencia Peña",
-                    "popularity": 0.3435,
+                    "popularity": 0.2803,
                     "profile_path": null,
                     "cast_id": 1004,
                     "character": "Laura",
@@ -216,7 +219,7 @@
                     "known_for_department": "Acting",
                     "name": "Peto Menahem",
                     "original_name": "Peto Menahem",
-                    "popularity": 0.1191,
+                    "popularity": 0.5321,
                     "profile_path": null,
                     "cast_id": 1003,
                     "character": "Javier Gross",
@@ -230,7 +233,7 @@
                     "known_for_department": "Acting",
                     "name": "Malena Solda",
                     "original_name": "Malena Solda",
-                    "popularity": 0.226,
+                    "popularity": 0.3085,
                     "profile_path": null,
                     "cast_id": 1006,
                     "character": "Lucía",
@@ -244,7 +247,7 @@
                     "known_for_department": "Acting",
                     "name": "Mirta Busnelli",
                     "original_name": "Mirta Busnelli",
-                    "popularity": 0.1954,
+                    "popularity": 0.2542,
                     "profile_path": "/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg",
                     "cast_id": 1007,
                     "character": "Elena",
@@ -258,7 +261,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Luque",
                     "original_name": "Luis Luque",
-                    "popularity": 0.4604,
+                    "popularity": 0.2355,
                     "profile_path": "/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg",
                     "cast_id": 1009,
                     "character": "Fabián",
@@ -272,7 +275,7 @@
                     "known_for_department": "Acting",
                     "name": "Marta Lubos",
                     "original_name": "Marta Lubos",
-                    "popularity": 0.4476,
+                    "popularity": 0.3822,
                     "profile_path": "/uOPmhWyY31hp660vlt65wOcfpBk.jpg",
                     "cast_id": 1002,
                     "character": "Juana",
@@ -286,7 +289,7 @@
                     "known_for_department": "Acting",
                     "name": "Valeria Lois",
                     "original_name": "Valeria Lois",
-                    "popularity": 0.3275,
+                    "popularity": 0.4669,
                     "profile_path": "/3RJIJiOQp9XTGytIQwORbD4lNDa.jpg",
                     "cast_id": 1010,
                     "character": "La Flaca",
@@ -300,7 +303,7 @@
                     "known_for_department": "Acting",
                     "name": "Silvia Kutika",
                     "original_name": "Silvia Kutika",
-                    "popularity": 0.3063,
+                    "popularity": 0.3183,
                     "profile_path": null,
                     "cast_id": 1008,
                     "character": "Sofía",
@@ -314,7 +317,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Boris",
                     "original_name": "Sergio Boris",
-                    "popularity": 0.2877,
+                    "popularity": 0.5676,
                     "profile_path": "/7gAYXGYklxCUWjW1YZflymI1rQn.jpg",
                     "cast_id": 1000,
                     "character": "Gerardo",
@@ -328,7 +331,7 @@
                     "known_for_department": "Acting",
                     "name": "Ximena Díaz",
                     "original_name": "Ximena Díaz",
-                    "popularity": 0.1842,
+                    "popularity": 0.4826,
                     "profile_path": null,
                     "cast_id": 1005,
                     "character": "Mesera",
@@ -342,7 +345,7 @@
                     "known_for_department": "Acting",
                     "name": "Gustavo Jalife",
                     "original_name": "Gustavo Jalife",
-                    "popularity": 0.0264,
+                    "popularity": 0.088,
                     "profile_path": null,
                     "cast_id": 1011,
                     "character": "Policía",
@@ -358,7 +361,7 @@
                     "known_for_department": "Writing",
                     "name": "Pablo Solarz",
                     "original_name": "Pablo Solarz",
-                    "popularity": 0.1427,
+                    "popularity": 0.379,
                     "profile_path": "/gQgBIw4VZ9wxHqtmoF6gkxwTR7J.jpg",
                     "credit_id": "52fe49b79251416c910b66db",
                     "department": "Directing",
@@ -371,7 +374,7 @@
                     "known_for_department": "Writing",
                     "name": "Pablo Solarz",
                     "original_name": "Pablo Solarz",
-                    "popularity": 0.1427,
+                    "popularity": 0.379,
                     "profile_path": "/gQgBIw4VZ9wxHqtmoF6gkxwTR7J.jpg",
                     "credit_id": "5e5158c0f48b3400156e8277",
                     "department": "Writing",

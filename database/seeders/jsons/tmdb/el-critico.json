@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 268297,
-    "cinear_id": null,
     "slug": "el-critico",
     "title": "El crítico",
     "original_title": "El crítico",
@@ -26,37 +25,38 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/tAlElHCIIFkF99f5xUjkYQIHGoo.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/cxbNLCsoYdhFNf6ni4lCcS9AcS.jpg",
+    "poster_url": "/storage/posters/el-critico-f3a99832.jpg",
+    "backdrop_url": "/storage/backdrops/el-critico-bc24f688.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 138757,
             "name": "Rafael Spregelburd",
             "character": "Víctor Tellez",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+            "image_url": "/storage/people/rafael-spregelburd-4593ee99.jpg"
         },
         {
             "id": 74909,
             "name": "Dolores Fonzi",
             "character": "Sofía",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/4axi3Dz8zKK0b1kk54tPOeywb84.jpg"
+            "image_url": "/storage/people/dolores-fonzi-b25e3402.jpg"
         },
         {
             "id": 32164,
             "name": "Blanca Lewin",
             "character": "Pinni",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/oExXcBTxKMfhbTn1b4emcmq4ZE2.jpg"
+            "image_url": "/storage/people/blanca-lewin-9427ecc5.jpg"
         },
         {
             "id": 1035301,
             "name": "Ignacio Rogers",
             "character": "Leandro Arce",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/gm1gc8VAfA7z5uC2ap5Q5qqrDf2.jpg"
+            "image_url": "/storage/people/ignacio-rogers-593b8862.jpg"
         },
         {
             "id": 2124202,
@@ -70,14 +70,14 @@
             "name": "Ana Katz",
             "character": "Roxana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 1689136,
             "name": "Daniel Kargieman",
             "character": "Shuster",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/oObg3rCFWMNSFEaoaqrssGJDkkQ.jpg"
+            "image_url": "/storage/people/daniel-kargieman-89651fbf.jpg"
         },
         {
             "id": 1618441,
@@ -91,7 +91,7 @@
             "name": "Marcelo Subiotto",
             "character": "Margulis",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
+            "image_url": "/storage/people/marcelo-subiotto-1839b1b0.jpg"
         },
         {
             "id": 2124203,
@@ -119,7 +119,7 @@
             "name": "Cecilia Czornogas",
             "character": "Periodista",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/wTMDa0rUhBfB5UFStjp2PDqKi1V.jpg"
+            "image_url": "/storage/people/cecilia-czornogas-d3a19b8d.jpg"
         },
         {
             "id": 2124205,
@@ -140,14 +140,14 @@
             "name": "Leonardo Sbaraglia",
             "character": "Leonardo Sbaraglia",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg"
+            "image_url": "/storage/people/leonardo-sbaraglia-514ba5f8.jpg"
         },
         {
             "id": 1898282,
             "name": "Luciano Rosso",
             "character": "Actor de teatro",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/o44UZ80Hfiw0gVOS5Z9sDm4wLSk.jpg"
+            "image_url": "/storage/people/luciano-rosso-d2ac719c.jpg"
         }
     ],
     "crew": [
@@ -156,21 +156,21 @@
             "name": "Hernán Guerschuny",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg"
+            "image_url": "/storage/people/hernan-guerschuny-47763ca3.jpg"
         },
         {
             "id": 1316923,
             "name": "Hernán Guerschuny",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg"
+            "image_url": "/storage/people/hernan-guerschuny-47763ca3.jpg"
         },
         {
             "id": 2277874,
             "name": "Pamela Livia Delgado",
             "department": "Production",
             "job": "Administration",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKPMqx3DqlSdqecFGDv1OEg8EDJ.jpg"
+            "image_url": "/storage/people/pamela-livia-delgado-d13e08f2.jpg"
         }
     ],
     "raw": {
@@ -197,7 +197,7 @@
         "original_language": "es",
         "original_title": "El crítico",
         "overview": "Esta es la historia breve y agridulce de un momento en la vida del crítico de cine Víctor Téllez (Rafael Spregelburd), en el que la discusión acerca de cuán mala es la película que acaba de ver, con el eterno bar de la esquina como telón de fondo y la compañía de un grupo de contertulios sacados de una improbable versión de The Big Bang Theory escrita por José Pablo Feinmann, queda de lado para que su agrietado corazón empiece a experimentar otro tipo de latido. “Mierda. Estoy atrapado en una comedia romántica”, dice Téllez, y es eso lo que le pasa: conoce a una mujer (Dolores Fonzi) que no sólo se mete en su vida como un torbellino, sino que además lo arrastra a vivir en el género cinematográfico maligno por excelencia. En su película debut, el crítico Hernán Guerschuny demuestra saber mucho de ambos géneros, la comedia multicolor y la crítica de cine gris, y se anima con una historia romántica sin medias tintas que es a la vez familiar y atípica, osada y sentimental. Marcelo Panozzo",
-        "popularity": 5.2493,
+        "popularity": 4.0322,
         "poster_path": "/tAlElHCIIFkF99f5xUjkYQIHGoo.jpg",
         "production_companies": [],
         "production_countries": [
@@ -231,7 +231,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Spregelburd",
                     "original_name": "Rafael Spregelburd",
-                    "popularity": 0.1392,
+                    "popularity": 0.2639,
                     "profile_path": "/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg",
                     "cast_id": 1,
                     "character": "Víctor Tellez",
@@ -245,7 +245,7 @@
                     "known_for_department": "Acting",
                     "name": "Dolores Fonzi",
                     "original_name": "Dolores Fonzi",
-                    "popularity": 1.0159,
+                    "popularity": 1.1389,
                     "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
                     "cast_id": 2,
                     "character": "Sofía",
@@ -259,7 +259,7 @@
                     "known_for_department": "Acting",
                     "name": "Blanca Lewin",
                     "original_name": "Blanca Lewin",
-                    "popularity": 0.4246,
+                    "popularity": 0.693,
                     "profile_path": "/oExXcBTxKMfhbTn1b4emcmq4ZE2.jpg",
                     "cast_id": 3,
                     "character": "Pinni",
@@ -273,7 +273,7 @@
                     "known_for_department": "Acting",
                     "name": "Ignacio Rogers",
                     "original_name": "Ignacio Rogers",
-                    "popularity": 1.0705,
+                    "popularity": 0.5277,
                     "profile_path": "/gm1gc8VAfA7z5uC2ap5Q5qqrDf2.jpg",
                     "cast_id": 4,
                     "character": "Leandro Arce",
@@ -287,7 +287,7 @@
                     "known_for_department": "Acting",
                     "name": "Telma Crisanti",
                     "original_name": "Telma Crisanti",
-                    "popularity": 0.0071,
+                    "popularity": 0.1032,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "Ágatha",
@@ -301,7 +301,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.1962,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "cast_id": 7,
                     "character": "Roxana",
@@ -329,7 +329,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo Iacono",
                     "original_name": "Eduardo Iacono",
-                    "popularity": 0.0723,
+                    "popularity": 0.1105,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "Gorodisch",
@@ -343,7 +343,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Subiotto",
                     "original_name": "Marcelo Subiotto",
-                    "popularity": 0.6953,
+                    "popularity": 0.2381,
                     "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
                     "cast_id": 10,
                     "character": "Margulis",
@@ -357,7 +357,7 @@
                     "known_for_department": "Acting",
                     "name": "Gabriela Ferrero",
                     "original_name": "Gabriela Ferrero",
-                    "popularity": 0.0811,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "Marta",
@@ -371,7 +371,7 @@
                     "known_for_department": "Acting",
                     "name": "Pino Siano",
                     "original_name": "Pino Siano",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "Jefe",
@@ -385,7 +385,7 @@
                     "known_for_department": "Acting",
                     "name": "Marta Paccamicci",
                     "original_name": "Marta Paccamicci",
-                    "popularity": 0.0379,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Nélida",
@@ -399,7 +399,7 @@
                     "known_for_department": "Acting",
                     "name": "Cecilia Czornogas",
                     "original_name": "Cecilia Czornogas",
-                    "popularity": 0.0387,
+                    "popularity": 0.0789,
                     "profile_path": "/wTMDa0rUhBfB5UFStjp2PDqKi1V.jpg",
                     "cast_id": 14,
                     "character": "Periodista",
@@ -413,7 +413,7 @@
                     "known_for_department": "Acting",
                     "name": "Alfonso Ponchi Baron",
                     "original_name": "Alfonso Ponchi Baron",
-                    "popularity": 0.0538,
+                    "popularity": 0.1827,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "Actor de teatro",
@@ -441,7 +441,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Sbaraglia",
                     "original_name": "Leonardo Sbaraglia",
-                    "popularity": 0.7618,
+                    "popularity": 0.7014,
                     "profile_path": "/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg",
                     "cast_id": 17,
                     "character": "Leonardo Sbaraglia",
@@ -455,7 +455,7 @@
                     "known_for_department": "Acting",
                     "name": "Luciano Rosso",
                     "original_name": "Luciano Rosso",
-                    "popularity": 0.0674,
+                    "popularity": 0.2624,
                     "profile_path": "/o44UZ80Hfiw0gVOS5Z9sDm4wLSk.jpg",
                     "cast_id": 18,
                     "character": "Actor de teatro",
@@ -471,7 +471,7 @@
                     "known_for_department": "Directing",
                     "name": "Hernán Guerschuny",
                     "original_name": "Hernán Guerschuny",
-                    "popularity": 0.1876,
+                    "popularity": 0.1108,
                     "profile_path": "/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg",
                     "credit_id": "5367ed06c3a3681241004fc4",
                     "department": "Directing",
@@ -484,7 +484,7 @@
                     "known_for_department": "Directing",
                     "name": "Hernán Guerschuny",
                     "original_name": "Hernán Guerschuny",
-                    "popularity": 0.1876,
+                    "popularity": 0.1108,
                     "profile_path": "/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg",
                     "credit_id": "5539134692514124230001ba",
                     "department": "Writing",
@@ -497,7 +497,7 @@
                     "known_for_department": "Production",
                     "name": "Pamela Livia Delgado",
                     "original_name": "Pamela Livia Delgado",
-                    "popularity": 0.0487,
+                    "popularity": 0.0143,
                     "profile_path": "/gKPMqx3DqlSdqecFGDv1OEg8EDJ.jpg",
                     "credit_id": "619c9b855c071b0065f8fd9c",
                     "department": "Production",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 104431,
-    "cinear_id": null,
     "slug": "las-mantenidas-sin-suenos",
     "title": "Las mantenidas sin sueños",
     "original_title": "Las mantenidas sin sueños",
@@ -11,7 +10,10 @@
     "year": 2005,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina"
@@ -19,9 +21,12 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/nIStN1FKm1WtIPfyS4qlqqEPTlC.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/j2Xzk3KCje0jlv08ul7JZbdCt1R.jpg",
+    "poster_url": "/storage/posters/las-mantenidas-sin-suenos-11a49771.jpg",
+    "backdrop_url": "/storage/backdrops/las-mantenidas-sin-suenos-8a24c1b0.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/las-mantenidas-sin-suenos-11a49771.jpg"
+    ],
     "cast": [
         {
             "id": 1036283,
@@ -35,42 +40,42 @@
             "name": "Mirta Busnelli",
             "character": "Sara",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg"
+            "image_url": "/storage/people/mirta-busnelli-1c22da55.jpg"
         },
         {
             "id": 1187257,
             "name": "Edda Díaz",
             "character": "Olga",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/A10GGNMj1zqXHa4B3frUcUAEfee.jpg"
+            "image_url": "/storage/people/edda-diaz-f970f429.jpg"
         },
         {
             "id": 6859,
             "name": "Mía Maestro",
             "character": "Celina",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/qRbV2yIrviokWENK7yhzNGGiWrr.jpg"
+            "image_url": "/storage/people/mia-maestro-26bc2676.jpg"
         },
         {
             "id": 1348332,
             "name": "Elsa Berenguer",
             "character": "Lola",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/vbLvVOzkfIy81EZ0aJCIqjFm5nt.jpg"
+            "image_url": "/storage/people/elsa-berenguer-b6dbbb8f.jpg"
         },
         {
             "id": 557725,
             "name": "Anahí Martella",
             "character": "Perla",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/nHhuIfh1oOEQZrciRTUU6xv2XWQ.jpg"
+            "image_url": "/storage/people/anahi-martella-104f10d2.jpg"
         },
         {
             "id": 119671,
             "name": "Gastón Pauls",
             "character": "Martín",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg"
+            "image_url": "/storage/people/gaston-pauls-262eeb5f.jpg"
         },
         {
             "id": 1122518,
@@ -84,7 +89,7 @@
             "name": "Pochi Ducasse",
             "character": "Sofía",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/ut5VRKDkHBR2QKUyZBDfhdHDdjB.jpg"
+            "image_url": "/storage/people/pochi-ducasse-5ba2d548.jpg"
         },
         {
             "id": 3384039,
@@ -98,37 +103,37 @@
             "name": "Vera Fogwill",
             "character": "Florencia",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg"
+            "image_url": "/storage/people/vera-fogwill-21da2c2d.jpg"
         }
     ],
     "crew": [
         {
-            "id": 1187260,
-            "name": "Martín Desalvo",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/eeAvrvDb9fEXd7MeEk8MRym3Ylw.jpg"
-        },
-        {
             "id": 1036281,
             "name": "Vera Fogwill",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg"
+            "image_url": "/storage/people/vera-fogwill-21da2c2d.jpg"
         },
         {
             "id": 1187260,
             "name": "Martín Desalvo",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/eeAvrvDb9fEXd7MeEk8MRym3Ylw.jpg"
+            "image_url": "/storage/people/martin-desalvo-a28f3ec1.jpg"
         },
         {
             "id": 1036281,
             "name": "Vera Fogwill",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg"
+            "image_url": "/storage/people/vera-fogwill-21da2c2d.jpg"
+        },
+        {
+            "id": 1187260,
+            "name": "Martín Desalvo",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/martin-desalvo-a28f3ec1.jpg"
         },
         {
             "id": 3893718,
@@ -165,7 +170,7 @@
         "original_language": "es",
         "original_title": "Las mantenidas sin sueños",
         "overview": "Una madre que no sabe qué hacer con su hija. Eugenia, su hija, sí sabe qué haría siendo madre. Olga, ¿una vecina o parte de la familia? Celina, ¿crisis vocacional o vocación de moda? Sara, ¿abuela o marido? Lola, ¿se quedó sin nada o nunca tuvo? Aquí ninguna puede nada sola. Juntas pueden llegar a soñar aunque sea algo.",
-        "popularity": 1.7764,
+        "popularity": 0.2753,
         "poster_path": "/nIStN1FKm1WtIPfyS4qlqqEPTlC.jpg",
         "production_companies": [],
         "production_countries": [
@@ -199,7 +204,7 @@
                     "known_for_department": "Acting",
                     "name": "Lucia Snieg",
                     "original_name": "Lucia Snieg",
-                    "popularity": 0.0256,
+                    "popularity": 0.0297,
                     "profile_path": null,
                     "cast_id": 1002,
                     "character": "Eugenia",
@@ -213,7 +218,7 @@
                     "known_for_department": "Acting",
                     "name": "Mirta Busnelli",
                     "original_name": "Mirta Busnelli",
-                    "popularity": 0.0778,
+                    "popularity": 0.2542,
                     "profile_path": "/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg",
                     "cast_id": 1003,
                     "character": "Sara",
@@ -227,7 +232,7 @@
                     "known_for_department": "Acting",
                     "name": "Edda Díaz",
                     "original_name": "Edda Díaz",
-                    "popularity": 0.0474,
+                    "popularity": 0.118,
                     "profile_path": "/A10GGNMj1zqXHa4B3frUcUAEfee.jpg",
                     "cast_id": 1004,
                     "character": "Olga",
@@ -241,7 +246,7 @@
                     "known_for_department": "Acting",
                     "name": "Mía Maestro",
                     "original_name": "Mía Maestro",
-                    "popularity": 0.8758,
+                    "popularity": 1.0828,
                     "profile_path": "/qRbV2yIrviokWENK7yhzNGGiWrr.jpg",
                     "cast_id": 1008,
                     "character": "Celina",
@@ -255,7 +260,7 @@
                     "known_for_department": "Acting",
                     "name": "Elsa Berenguer",
                     "original_name": "Elsa Berenguer",
-                    "popularity": 0.9708,
+                    "popularity": 0.752,
                     "profile_path": "/vbLvVOzkfIy81EZ0aJCIqjFm5nt.jpg",
                     "cast_id": 1009,
                     "character": "Lola",
@@ -269,7 +274,7 @@
                     "known_for_department": "Acting",
                     "name": "Anahí Martella",
                     "original_name": "Anahí Martella",
-                    "popularity": 0.1164,
+                    "popularity": 0.1346,
                     "profile_path": "/nHhuIfh1oOEQZrciRTUU6xv2XWQ.jpg",
                     "cast_id": 1010,
                     "character": "Perla",
@@ -283,7 +288,7 @@
                     "known_for_department": "Acting",
                     "name": "Gastón Pauls",
                     "original_name": "Gastón Pauls",
-                    "popularity": 0.9213,
+                    "popularity": 0.8286,
                     "profile_path": "/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg",
                     "cast_id": 1011,
                     "character": "Martín",
@@ -297,7 +302,7 @@
                     "known_for_department": "Acting",
                     "name": "Julián Krakov",
                     "original_name": "Julián Krakov",
-                    "popularity": 0.0409,
+                    "popularity": 0.1233,
                     "profile_path": null,
                     "cast_id": 1012,
                     "character": "Santiago",
@@ -311,7 +316,7 @@
                     "known_for_department": "Acting",
                     "name": "Pochi Ducasse",
                     "original_name": "Pochi Ducasse",
-                    "popularity": 1.1151,
+                    "popularity": 0.8005,
                     "profile_path": "/ut5VRKDkHBR2QKUyZBDfhdHDdjB.jpg",
                     "cast_id": 1013,
                     "character": "Sofía",
@@ -339,7 +344,7 @@
                     "known_for_department": "Acting",
                     "name": "Vera Fogwill",
                     "original_name": "Vera Fogwill",
-                    "popularity": 0.1297,
+                    "popularity": 0.0933,
                     "profile_path": "/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg",
                     "cast_id": 1015,
                     "character": "Florencia",
@@ -351,24 +356,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 1187260,
-                    "known_for_department": "Directing",
-                    "name": "Martín Desalvo",
-                    "original_name": "Martín Desalvo",
-                    "popularity": 0.0352,
-                    "profile_path": "/eeAvrvDb9fEXd7MeEk8MRym3Ylw.jpg",
-                    "credit_id": "52fe4a34c3a36847f81c0b6d",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 1036281,
                     "known_for_department": "Acting",
                     "name": "Vera Fogwill",
                     "original_name": "Vera Fogwill",
-                    "popularity": 0.1297,
+                    "popularity": 0.0933,
                     "profile_path": "/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg",
                     "credit_id": "52fe4a34c3a36847f81c0b4b",
                     "department": "Directing",
@@ -381,7 +373,7 @@
                     "known_for_department": "Directing",
                     "name": "Martín Desalvo",
                     "original_name": "Martín Desalvo",
-                    "popularity": 0.0352,
+                    "popularity": 0.1882,
                     "profile_path": "/eeAvrvDb9fEXd7MeEk8MRym3Ylw.jpg",
                     "credit_id": "52fe4a34c3a36847f81c0b61",
                     "department": "Directing",
@@ -394,9 +386,22 @@
                     "known_for_department": "Acting",
                     "name": "Vera Fogwill",
                     "original_name": "Vera Fogwill",
-                    "popularity": 0.1297,
+                    "popularity": 0.0933,
                     "profile_path": "/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg",
                     "credit_id": "52fe4a34c3a36847f81c0b67",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1187260,
+                    "known_for_department": "Directing",
+                    "name": "Martín Desalvo",
+                    "original_name": "Martín Desalvo",
+                    "popularity": 0.1882,
+                    "profile_path": "/eeAvrvDb9fEXd7MeEk8MRym3Ylw.jpg",
+                    "credit_id": "52fe4a34c3a36847f81c0b6d",
                     "department": "Writing",
                     "job": "Writer"
                 },
@@ -407,7 +412,7 @@
                     "known_for_department": "Directing",
                     "name": "Bruno Roberti",
                     "original_name": "Bruno Roberti",
-                    "popularity": 0.0286,
+                    "popularity": 0.0552,
                     "profile_path": null,
                     "credit_id": "64d6aa45bf31f201cb69c46b",
                     "department": "Directing",
@@ -420,7 +425,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Ramos",
                     "original_name": "Pablo Ramos",
-                    "popularity": 0.6413,
+                    "popularity": 0.8309,
                     "profile_path": null,
                     "credit_id": "660cc1579c97bd017ca614e6",
                     "department": "Directing",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 586459,
-    "cinear_id": null,
     "slug": "iniciales-sg",
     "title": "Iniciales S.G.",
     "original_title": "Iniciales S.G.",
@@ -21,71 +20,76 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Lebanon",
+        "United States of America"
     ],
     "spoken_languages": [
         "English",
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/6vbHgdOji2gdAtUOEzLzaewCJzU.jpg",
+    "poster_url": "/storage/posters/iniciales-sg-457e869e.jpg",
+    "backdrop_url": "/storage/backdrops/iniciales-sg-0b086013.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/iniciales-sg-457e869e.jpg"
+    ],
     "cast": [
         {
             "id": 96429,
             "name": "Diego Peretti",
             "character": "Sergio Garcés",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/honq5g3GPjaCBoiik4uU7va0OJf.jpg"
+            "image_url": "/storage/people/diego-peretti-d15037d9.jpg"
         },
         {
             "id": 86034,
             "name": "Julianne Nicholson",
             "character": "Jane",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg"
+            "image_url": "/storage/people/julianne-nicholson-10c876c2.jpg"
         },
         {
             "id": 1208255,
             "name": "Malena Sánchez",
             "character": "Olga",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/jmClSVqh6wnCI0lf4yKMWFYv7C5.jpg"
+            "image_url": "/storage/people/malena-sanchez-5bd5b8f1.jpg"
         },
         {
             "id": 1291441,
             "name": "Francisco Lumerman",
             "character": "Hombre extraño",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/hwSGh3PpVhqHKPDnDsWSfVFjX6Y.jpg"
+            "image_url": "/storage/people/francisco-lumerman-8312aa8c.jpg"
         },
         {
             "id": 140541,
             "name": "Daniel Fanego",
             "character": "Narrador",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg"
+            "image_url": "/storage/people/daniel-fanego-23942e2c.jpg"
         },
         {
             "id": 1562670,
             "name": "Miriam Odorico",
             "character": "Doctora",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg"
+            "image_url": "/storage/people/miriam-odorico-cd91c10e.jpg"
         },
         {
             "id": 237958,
             "name": "Walter Jakob",
             "character": "Pancho",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+            "image_url": "/storage/people/walter-jakob-0a50df26.jpg"
         },
         {
             "id": 1441739,
             "name": "Miguel Di Lemme",
             "character": "Basta",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/xSTSjWgKRRnBithApVthFRUwdyX.jpg"
+            "image_url": "/storage/people/miguel-di-lemme-5affc611.jpg"
         },
         {
             "id": 1122518,
@@ -99,7 +103,7 @@
             "name": "Gaby Ferrero",
             "character": "Juez",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/hx4gCPJsDxqCKVm150Zaz90fUKj.jpg"
+            "image_url": "/storage/people/gaby-ferrero-d6d718b3.jpg"
         },
         {
             "id": 3590360,
@@ -113,7 +117,7 @@
             "name": "Nicolás Silbert",
             "character": "Cámara Porno",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/h67aZZsuUjTVxDPAZQtAr0J78gN.jpg"
+            "image_url": "/storage/people/nicolas-silbert-4fb577ba.jpg"
         }
     ],
     "crew": [
@@ -178,7 +182,7 @@
             "name": "Roman Kasseroller",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/5m0kP7Lez5dDNZu18aJell9ZNxM.jpg"
+            "image_url": "/storage/people/roman-kasseroller-5e70b925.jpg"
         }
     ],
     "raw": {
@@ -207,7 +211,7 @@
         "original_language": "es",
         "original_title": "Iniciales S.G.",
         "overview": "Un argentino que aspira a convertirse en una especie de Serge Gainsbourg lucha día a día con mejorar en una profesión que no ha elegido, un affair del que intenta huir y de un crimen que nunca quiso cometer.",
-        "popularity": 0.6785,
+        "popularity": 1.1125,
         "poster_path": "/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
         "production_companies": [
             {
@@ -279,7 +283,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Peretti",
                     "original_name": "Diego Peretti",
-                    "popularity": 0.5878,
+                    "popularity": 1.1496,
                     "profile_path": "/honq5g3GPjaCBoiik4uU7va0OJf.jpg",
                     "cast_id": 2,
                     "character": "Sergio Garcés",
@@ -293,7 +297,7 @@
                     "known_for_department": "Acting",
                     "name": "Julianne Nicholson",
                     "original_name": "Julianne Nicholson",
-                    "popularity": 2.137,
+                    "popularity": 2.135,
                     "profile_path": "/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg",
                     "cast_id": 1,
                     "character": "Jane",
@@ -307,7 +311,7 @@
                     "known_for_department": "Acting",
                     "name": "Malena Sánchez",
                     "original_name": "Malena Sánchez",
-                    "popularity": 0.2158,
+                    "popularity": 0.4684,
                     "profile_path": "/jmClSVqh6wnCI0lf4yKMWFYv7C5.jpg",
                     "cast_id": 4,
                     "character": "Olga",
@@ -321,7 +325,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisco Lumerman",
                     "original_name": "Francisco Lumerman",
-                    "popularity": 0.0507,
+                    "popularity": 0.055,
                     "profile_path": "/hwSGh3PpVhqHKPDnDsWSfVFjX6Y.jpg",
                     "cast_id": 5,
                     "character": "Hombre extraño",
@@ -335,7 +339,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Fanego",
                     "original_name": "Daniel Fanego",
-                    "popularity": 0.4613,
+                    "popularity": 1.033,
                     "profile_path": "/z71Gn5UcrY4KVnzXJClFEzMfUi9.jpg",
                     "cast_id": 3,
                     "character": "Narrador",
@@ -349,7 +353,7 @@
                     "known_for_department": "Acting",
                     "name": "Miriam Odorico",
                     "original_name": "Miriam Odorico",
-                    "popularity": 0.1181,
+                    "popularity": 0.4657,
                     "profile_path": "/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg",
                     "cast_id": 14,
                     "character": "Doctora",
@@ -363,7 +367,7 @@
                     "known_for_department": "Acting",
                     "name": "Walter Jakob",
                     "original_name": "Walter Jakob",
-                    "popularity": 0.3703,
+                    "popularity": 0.8314,
                     "profile_path": "/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg",
                     "cast_id": 15,
                     "character": "Pancho",
@@ -377,7 +381,7 @@
                     "known_for_department": "Acting",
                     "name": "Miguel Di Lemme",
                     "original_name": "Miguel Di Lemme",
-                    "popularity": 0.1297,
+                    "popularity": 0.0953,
                     "profile_path": "/xSTSjWgKRRnBithApVthFRUwdyX.jpg",
                     "cast_id": 16,
                     "character": "Basta",
@@ -391,7 +395,7 @@
                     "known_for_department": "Acting",
                     "name": "Julián Krakov",
                     "original_name": "Julián Krakov",
-                    "popularity": 0.0849,
+                    "popularity": 0.1233,
                     "profile_path": null,
                     "cast_id": 17,
                     "character": "Nico",
@@ -405,7 +409,7 @@
                     "known_for_department": "Acting",
                     "name": "Gaby Ferrero",
                     "original_name": "Gaby Ferrero",
-                    "popularity": 0.1303,
+                    "popularity": 0.1293,
                     "profile_path": "/hx4gCPJsDxqCKVm150Zaz90fUKj.jpg",
                     "cast_id": 18,
                     "character": "Juez",
@@ -419,7 +423,7 @@
                     "known_for_department": "Acting",
                     "name": "Sabrina Alfonso",
                     "original_name": "Sabrina Alfonso",
-                    "popularity": 0.0721,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Actriz Porno",
@@ -433,7 +437,7 @@
                     "known_for_department": "Directing",
                     "name": "Nicolás Silbert",
                     "original_name": "Nicolás Silbert",
-                    "popularity": 0.1528,
+                    "popularity": 0.0538,
                     "profile_path": "/h67aZZsuUjTVxDPAZQtAr0J78gN.jpg",
                     "cast_id": 21,
                     "character": "Cámara Porno",
@@ -449,7 +453,7 @@
                     "known_for_department": "Production",
                     "name": "Shruti Ganguly",
                     "original_name": "Shruti Ganguly",
-                    "popularity": 0.1188,
+                    "popularity": 0.1149,
                     "profile_path": null,
                     "credit_id": "646a237ec3514c011dcb5b01",
                     "department": "Production",
@@ -462,7 +466,7 @@
                     "known_for_department": "Directing",
                     "name": "Daniel Garcia",
                     "original_name": "Daniel Garcia",
-                    "popularity": 0.1541,
+                    "popularity": 0.2063,
                     "profile_path": null,
                     "credit_id": "5c7ee2a1925141276f17a166",
                     "department": "Editing",
@@ -475,7 +479,7 @@
                     "known_for_department": "Sound",
                     "name": "Bill Laurance",
                     "original_name": "Bill Laurance",
-                    "popularity": 0.0404,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5c7ee2ae0e0a26430a5b1191",
                     "department": "Sound",
@@ -488,7 +492,7 @@
                     "known_for_department": "Sound",
                     "name": "Maciej Zieliński",
                     "original_name": "Maciej Zieliński",
-                    "popularity": 0.0839,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5c7ee2e9c3a3684e9dd2942a",
                     "department": "Sound",
@@ -501,7 +505,7 @@
                     "known_for_department": "Directing",
                     "name": "Rania Attieh",
                     "original_name": "Rania Attieh",
-                    "popularity": 0.2154,
+                    "popularity": 0.1678,
                     "profile_path": null,
                     "credit_id": "5c7ee25c925141276c17a72b",
                     "department": "Writing",
@@ -514,7 +518,7 @@
                     "known_for_department": "Directing",
                     "name": "Daniel Garcia",
                     "original_name": "Daniel Garcia",
-                    "popularity": 0.1541,
+                    "popularity": 0.2063,
                     "profile_path": null,
                     "credit_id": "5c7ee2710e0a2643055b09dc",
                     "department": "Directing",
@@ -527,7 +531,7 @@
                     "known_for_department": "Directing",
                     "name": "Rania Attieh",
                     "original_name": "Rania Attieh",
-                    "popularity": 0.2154,
+                    "popularity": 0.1678,
                     "profile_path": null,
                     "credit_id": "5c7ee254925141276017989f",
                     "department": "Directing",
@@ -540,7 +544,7 @@
                     "known_for_department": "Directing",
                     "name": "Daniel Garcia",
                     "original_name": "Daniel Garcia",
-                    "popularity": 0.1541,
+                    "popularity": 0.2063,
                     "profile_path": null,
                     "credit_id": "5c7ee27a925141276917a7cf",
                     "department": "Writing",
@@ -553,7 +557,7 @@
                     "known_for_department": "Camera",
                     "name": "Roman Kasseroller",
                     "original_name": "Roman Kasseroller",
-                    "popularity": 0.0479,
+                    "popularity": 0.0168,
                     "profile_path": "/5m0kP7Lez5dDNZu18aJell9ZNxM.jpg",
                     "credit_id": "5c7ee28f0e0a2643015b1546",
                     "department": "Camera",

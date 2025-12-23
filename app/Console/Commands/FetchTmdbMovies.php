@@ -9,6 +9,7 @@ use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
 
 class FetchTmdbMovies extends Command
@@ -18,143 +19,144 @@ class FetchTmdbMovies extends Command
     protected $description = 'Descarga información de películas desde TMDb y la guarda como archivos JSON.';
     protected const IMAGE_SIZE = 'w154';
 
+    protected array $imageCache = [];
+
     protected const MOVIES = [
+        ['title' => 'Bahía Blanca', 'year'=> 2021],
+        ['title' => 'Elda y los monstruos', 'year'=> 2023],
+        ['title' => 'Puan', 'year'=> 2023],
+        ['title' => 'NEY: Nosotros, ellos y yo', 'year'=> 2015],
         /*
-        ['title' => '1976', 'year' => 2022],
-        ['title' => 'Machuca', 'year' => 2004],
         ['title' => '76-89-03'],
-        ['title' => 'masacre-en-el-estadio', 'year' => 2019],
-        ['title' => 'Esperando a Godoy', 'year' => 2025],
-        ['title' => 'Cartero', 'year' => 2019],
-        ['title' => 'La fiesta silenciosa', 'year' => 2019],
-        ['title' => 'Los suicidas'],
-        ['title' => 'Después de Sarmiento', 'year' => 2014],
-        ['title' => 'El prófugo', 'year' => 2021],
-        ['title' => 'La sangre brota', 'year' => 2009],
-        ['title' => 'Juntos para siempre', 'year' => 2011],
+        ['title' => '1976', 'year' => 2022],
+        ['title' => 'Acné', 'year' => 2008],
+        ['title' => 'Adentro mío estoy bailando', 'year' => 2024],
+        ['title' => 'Al acecho', 'year' => 2020],
         ['title' => 'Anina', 'year' => 2013],
-        ['title' => 'Operacion México'],
-        ['title' => 'Nieve negra', 'year' => 2017],
-        ['title' => 'Samy y yo', 'year' => 2002],
-        ['title' => 'Iniciales SG', 'year' => 2019, 'cineArId' => 6116],
-        ['title' => 'Camino a la paz', 'cineArId' => 9560],
         ['title' => 'balnearios', 'cineArId' => 1389],
         ['title' => 'Bill 79', 'cineArId' => 9277],
-        ['title' => 'De caravana', 'cineArId' => 1388],
-        ['title' => 'Errante corazón', 'cineArId' => 9688],
-        ['title' => 'Camino a la paz', 'cineArId' => 9560],
-        ['title' => 'Cetaceos', 'year' => 2018, 'cineArId' => 5717],
-        ['title' => 'Como funcionan casi todas las cosas', 'year' => 2015, 'cineArId' => 6221],
-        ['title' => 'Juan Moreira', 'year' => 1973, 'cineArId' => 405],
-        ['title' => 'La luz incidente', 'year' => 2015, 'cineArId' => 7236],
-        ['title' => 'Las mil y una', 'year' => 2020, 'cineArId' => 6204],
-        ['title' => 'Las siamesas', 'year' => 2022, 'cineArId' => 6877],
-        ['title' => 'Las vegas', 'year' => 2018, 'cineArId' => 5141],
-        ['title' => 'Los sonámbulos', 'year' => 2020, 'cineArId' => 6110],
-        ['title' => 'Rojo', 'year' => 2018, 'cineArId' => 5403],
-        ['title' => 'Una especie de familia', 'year' => 2017, 'cineArId' => 7580],
-        ['title' => 'Villegas', 'year' => 2012, 'cineArId' => 4914],
-        */
-        /*
-
-        ['title' => 'Un Pogrom en Buenos Aires', 'year' => 2007],
-        ['title' => 'Adentro mío estoy bailando', 'year' => 2024],
-        ['title' => 'El peso de la ley', 'year' => 2017],
-        ['title' => 'El sistema K.E.OP/S', 'year' => 2022],
-        ['title' => 'El último Elvis', 'year' => 2012],
-        ['title' => 'El gato desaparece', 'year' => 2011],
-        ['title' => 'El cerrajero', 'year' => 2014],
-        ['title' => 'Pensé que iba a haber fiesta', 'year' => 2013],
-        ['title' => 'El artista', 'year' => 2009],
-        ['title' => 'Los paranoicos', 'year' => 2008],
-        ['title' => 'Che: Un Hombre Nuevo', 'year' => 2010],
-        ['title' => 'El asadito', 'year' => 2000],
-        ['title' => 'Whisky', 'year' => 2004],
-        ['title' => 'Acné', 'year' => 2008],
-        ['title' => 'La vida útil', 'year' => 2010],
-        ['title' => 'Chile '76', 'year' => 2022],
-        ['title' => 'Erdosain', 'year' => 2020],
-        ['title' => 'El crítico', 'year' => 2014],
-        ['title' => 'El fondo del mar', 'year' => 2003],
-        ['title' => 'Una novia errante', 'year' => 2007],
-        ['title' => 'Vaquero', 'year' => 2011],
-        ['title' => 'Los dueños', 'year' => 2014],
-        ['title' => 'Gelbard: la historia secreta del último burgués nacional', 'year' => 2006],
-        ['title' => 'Hombre mirando al sudeste', 'year' => 1987],
-        ['title' => 'Las puertitas del Sr. López', 'year' => 1988],
-        ['title' => 'La clínica del Dr. Cureta', 'year' => 1987],
+        ['title' => 'Blondi', 'year' => 2023],
         ['title' => 'Bolivia', 'year' => 2001],
-        ['title' => 'El Abrazo Partido', 'year' => 2004],
-        ['title' => 'El asaltante', 'year' => 2007],
-        ['title' => 'El hombre de al lado', 'year' => 2009],
-        ['title' => 'El suplente', 'year' => 2022],
-        ['title' => 'Los delincuentes', 'year' => 2023],
-        ['title' => 'Rompecabezas', 'tmdb_id' => 41272],
-        ['title' => 'Tomando estado'],
-        ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
-        ['title' => 'Distancia de rescate', 'year' => 2021],
-        ['title' => 'Los ladrones', 'year' => 2022],
-        ['title' => 'Hotel Descanso', 'year' => 2002],
-        ['title' => 'Un mundo misterioso', 'year' => 2011],
-        ['title' => 'Historias mínimas', 'year' => 2002],
-        ['title' => 'El perro', 'year' => 2004],
-        ['title' => 'Días de pesca', 'year' => 2012],
-        ['title' => 'El otro verano', 'year' => 2018],
-        ['title' => 'Derecho de familia', 'year' => 2006],
-        ['title' => 'Pajaros volando', 'year' => 2010],
-        ['title' => 'El coso', 'year' => 2022],
-        /*
-        ['title' => 'Valentín', 'year' => 2002],
-        ['title' => 'El aura', 'year' => 2005],
-        ['title' => 'Infancia clandestina', 'year' => 2012],
-        ['title' => 'La deuda interna', 'year' => 1988],
-        ['title' => 'La nube', 'year' => 1998],
-        ['title' => 'Sur', 'year' => 1988],
-        ['title' => 'El exilio de Gardel', 'year' => 1985],
-        ['title' => 'Esperando la carroza', 'year' => 1985],
-        ['title' => 'El otro', 'year' => 2007],
-        ['title' => 'Un oso rojo', 'year' => 2002],
-        ['title' => 'Felicidades', 'year' => 2000],
-        ['title' => 'Relatos salvajes', 'year' => 2014],
-        ['title' => 'Tiempo de valientes', 'year' => 2005],
-        ['title' => 'Los guantes mágicos', 'year' => 2003],
-        ['title' => 'Silvia Prieto', 'year' => 1999],
-        ['title' => 'Los hermanos karaoke'],
         ['title' => 'Buenos Aires Viceversa', 'year' => 1996],
-        ['title' => 'Historias extraordinarias', 'year' => 2008],
-        ['title' => 'La flor', 'tmdb_id' => 423778],
-        ['title' => 'La ciénaga', 'year' => 2001],
-        ['title' => 'La niña santa', 'year' => 2004],
-        ['title' => 'El estudiante', 'year' => 2011],
-        ['title' => 'Sábado', 'year' => 2001],
-        ['title' => 'El ángel', 'year' => 2018],
-        ['title' => 'Pizza, birra, faso', 'year' => 1998],
-        ['title' => 'Mundo grúa', 'year' => 1999],
-        ['title' => 'Crónica de una fuga', 'year' => 2006],
-        ['title' => 'La historia oficial', 'year' => 1985],
-        ['title' => 'Nazareno Cruz y el lobo', 'year' => 1975],
+        ['title' => 'Camino a la paz', 'cineArId' => 9560],
+        ['title' => 'Camino a la paz', 'cineArId' => 9560],
+        ['title' => 'Cara de queso', 'year' => 2006],
         ['title' => 'Carancho', 'year' => 2010],
+        ['title' => 'Cartero', 'year' => 2019],
+        ['title' => 'Cetaceos', 'year' => 2018, 'cineArId' => 5717],
+        ['title' => 'Che: Un Hombre Nuevo', 'year' => 2010],
+        ['title' => 'Como funcionan casi todas las cosas', 'year' => 2015, 'cineArId' => 6221],
+        ['title' => 'Crónica de una fuga', 'year' => 2006],
+        ['title' => 'De caravana', 'cineArId' => 1388],
+        ['title' => 'Derecho de familia', 'year' => 2006],
+        ['title' => 'Después de Sarmiento', 'year' => 2014],
+        ['title' => 'Distancia de rescate', 'year' => 2021],
+        ['title' => 'Días de pesca', 'year' => 2012],
+        ['title' => 'El Abrazo Partido', 'year' => 2004],
+        ['title' => 'El amor (primera parte)', 'year' => 2005],
+        ['title' => 'El artista', 'year' => 2009],
+        ['title' => 'El asadito', 'year' => 2000],
+        ['title' => 'El asaltante', 'year' => 2007],
+        ['title' => 'El aura', 'year' => 2005],
         ['title' => 'El bonaerense', 'year' => 2002],
+        ['title' => 'El cerrajero', 'year' => 2014],
         ['title' => 'El clan', 'year' => 2015],
-        ['title' => 'La mirada invisible', 'year' => 2010],
+        ['title' => 'El coso', 'year' => 2022],
+        ['title' => 'El crítico', 'year' => 2014],
         ['title' => 'El custodio', 'year' => 2006],
-        ['title' => 'Las acacias', 'year' => 2011],
-        ['title' => 'Sinfonía para Ana', 'year' => 2017],
-        ['title' => 'Las mantenidas sin sueños', 'year' => 2005],
+        ['title' => 'El estudiante', 'year' => 2011],
+        ['title' => 'El exilio de Gardel', 'year' => 1985],
+        ['title' => 'El fondo del mar', 'year' => 2003],
+        ['title' => 'El futuro que viene', 'year' => 2017],
+        ['title' => 'El gato desaparece', 'year' => 2011],
+        ['title' => 'El hombre de al lado', 'year' => 2009],
+        ['title' => 'El otro', 'year' => 2007],
+        ['title' => 'El otro verano', 'year' => 2018],
+        ['title' => 'El Pampero', 'year' => 2017],
+        ['title' => 'El perro', 'year' => 2004],
+        ['title' => 'El peso de la ley', 'year' => 2017],
+        ['title' => 'el premio', 'year' => 2011],
+        ['title' => 'El prófugo', 'year' => 2021],
         ['title' => 'El Rapto', 'year' => 2023],
         ['title' => 'El rey del once', 'year' => 2016],
-        ['title' => 'Masterplan', 'year' => 2012],
-        ['title' => 'Al acecho', 'year' => 2020],
-        ['title' => 'El futuro que viene', 'year' => 2017],
-        ['title' => 'El Pampero', 'year' => 2017],
-        ['title' => 'El amor (primera parte)', 'year' => 2005],
-        ['title' => 'Cara de queso', 'year' => 2006],
-        ['title' => 'Blondi', 'year' => 2023],
-        ['title' => 'Medianeras', 'year' => 2011],
+        ['title' => 'El sistema K.E.OP/S', 'year' => 2022],
+        ['title' => 'El suplente', 'year' => 2022],
+        ['title' => 'El ángel', 'year' => 2018],
+        ['title' => 'El último Elvis', 'year' => 2012],
+        ['title' => 'Erdosain', 'year' => 2020],
+        ['title' => 'Errante corazón', 'cineArId' => 9688],
+        ['title' => 'Esperando a Godoy', 'year' => 2025],
+        ['title' => 'Esperando la carroza', 'year' => 1985],
         ['title' => 'excursiones', 'year' => 2010],
-        ['title' => 'el premio', 'year' => 2011],
+        ['title' => 'Felicidades', 'year' => 2000],
+        ['title' => 'Gelbard: la historia secreta del último burgués nacional', 'year' => 2006],
+        ['title' => 'Historias extraordinarias', 'year' => 2008],
+        ['title' => 'Historias mínimas', 'year' => 2002],
+        ['title' => 'Hombre mirando al sudeste', 'year' => 1987],
+        ['title' => 'Hotel Descanso', 'year' => 2002],
+        ['title' => 'Infancia clandestina', 'year' => 2012],
+        ['title' => 'Iniciales SG', 'year' => 2019, 'cineArId' => 6116],
+        ['title' => 'Juan Moreira', 'year' => 1973, 'cineArId' => 405],
+        ['title' => 'Juntos para siempre', 'year' => 2011],
+        ['title' => 'La ciénaga', 'year' => 2001],
+        ['title' => 'La clínica del Dr. Cureta', 'year' => 1987],
+        ['title' => 'La deuda interna', 'year' => 1988],
+        ['title' => 'La fiesta silenciosa', 'year' => 2019],
+        ['title' => 'La flor', 'tmdb_id' => 423778],
+        ['title' => 'La historia oficial', 'year' => 1985],
+        ['title' => 'La luz incidente', 'year' => 2015, 'cineArId' => 7236],
+        ['title' => 'La mirada invisible', 'year' => 2010],
+        ['title' => 'La niña santa', 'year' => 2004],
+        ['title' => 'La nube', 'year' => 1998],
+        ['title' => 'Las acacias', 'year' => 2011],
+        ['title' => 'La sangre brota', 'year' => 2009],
+        ['title' => 'Las mantenidas sin sueños', 'year' => 2005],
+        ['title' => 'Las mil y una', 'year' => 2020, 'cineArId' => 6204],
+        ['title' => 'Las puertitas del Sr. López', 'year' => 1988],
+        ['title' => 'Las siamesas', 'year' => 2022, 'cineArId' => 6877],
+        ['title' => 'Las vegas', 'year' => 2018, 'cineArId' => 5141],
+        ['title' => 'La vida útil', 'year' => 2010],
+        ['title' => 'Los delincuentes', 'year' => 2023],
+        ['title' => 'Los dueños', 'year' => 2014],
+        ['title' => 'Los guantes mágicos', 'year' => 2003],
+        ['title' => 'Los hermanos karaoke'],
+        ['title' => 'Los ladrones', 'year' => 2022],
+        ['title' => 'Los paranoicos', 'year' => 2008],
+        ['title' => 'Los sonámbulos', 'year' => 2020, 'cineArId' => 6110],
+        ['title' => 'Los suicidas'],
+        ['title' => 'Machuca', 'year' => 2004],
+        ['title' => 'masacre-en-el-estadio', 'year' => 2019],
+        ['title' => 'Masterplan', 'year' => 2012],
+        ['title' => 'Medianeras', 'year' => 2011],
+        ['title' => 'Mundo grúa', 'year' => 1999],
+        ['title' => 'Nazareno Cruz y el lobo', 'year' => 1975],
+        ['title' => 'Nieve negra', 'year' => 2017],
+        ['title' => 'Operacion México'],
+        ['title' => 'Pajaros volando', 'year' => 2010],
+        ['title' => 'Pensé que iba a haber fiesta', 'year' => 2013],
+        ['title' => 'Pizza, birra, faso', 'year' => 1998],
+        ['title' => 'Relatos salvajes', 'year' => 2014],
+        ['title' => 'Rojo', 'year' => 2018, 'cineArId' => 5403],
+        ['title' => 'Rompecabezas', 'tmdb_id' => 41272],
+        ['title' => 'Samy y yo', 'year' => 2002],
         ['title' => 'Sangre en la boca', 'year' => 2016],
+        ['title' => 'Silvia Prieto', 'year' => 1999],
+        ['title' => 'Sinfonía para Ana', 'year' => 2017],
+        ['title' => 'Sur', 'year' => 1988],
+        ['title' => 'Sábado', 'year' => 2001],
+        ['title' => 'Tiempo de valientes', 'year' => 2005],
         ['title' => 'Todos tenemos un plan', 'year' => 2012],
+        ['title' => 'Tomando estado'],
+        ['title' => 'Una especie de familia', 'year' => 2017, 'cineArId' => 7580],
+        ['title' => 'Una novia errante', 'year' => 2007],
+        ['title' => 'Un mundo misterioso', 'year' => 2011],
+        ['title' => 'Un oso rojo', 'year' => 2002],
+        ['title' => 'Un Pogrom en Buenos Aires', 'year' => 2007],
+        ['title' => 'Valentín', 'year' => 2002],
+        ['title' => 'Vaquero', 'year' => 2011],
+        ['title' => 'Villegas', 'year' => 2012, 'cineArId' => 4914],
+        ['title' => 'Whisky', 'year' => 2004],
+        ['title' => 'Últimas imágenes del naufragio', 'year' => 1989],
         */
     ];
 
@@ -267,14 +269,10 @@ class FetchTmdbMovies extends Command
     protected function formatPayload(array $details): array
     {
         $slug = Str::slug($details['title'] ?? $details['original_title'] ?? 'pelicula');
-        $imagesBaseUrl = preg_replace(
-            '#/([^/]+)$#',
-            '/' . self::IMAGE_SIZE,
-            rtrim(config('services.tmdb.images_base_url'), '/')
-        );
+        $imagesBaseUrl = $this->imageBaseUrl();
 
-        $posterUrl = $this->buildImageUrl($details['poster_path'] ?? null, $imagesBaseUrl);
-        $backdropUrl = $this->buildImageUrl($details['backdrop_path'] ?? null, $imagesBaseUrl);
+        $posterUrl = $this->storeImageFromTmdbPath($details['poster_path'] ?? null, 'posters', $slug, $imagesBaseUrl);
+        $backdropUrl = $this->storeImageFromTmdbPath($details['backdrop_path'] ?? null, 'backdrops', $slug, $imagesBaseUrl);
 
         $trailer = collect(data_get($details, 'videos.results', []))
             ->first(function ($video) {
@@ -290,7 +288,7 @@ class FetchTmdbMovies extends Command
                     'name' => $person['name'],
                     'character' => $person['character'],
                     'order' => $person['order'],
-                    'image_url' => $this->buildImageUrl($person['profile_path'] ?? null, $imagesBaseUrl),
+                    'image_url' => $this->storeImageFromTmdbPath($person['profile_path'] ?? null, 'people', $person['name'], $imagesBaseUrl),
                 ];
             })
             ->values();
@@ -302,12 +300,13 @@ class FetchTmdbMovies extends Command
                     'name' => $person['name'],
                     'department' => $person['department'],
                     'job' => $person['job'],
-                    'image_url' => $this->buildImageUrl($person['profile_path'] ?? null, $imagesBaseUrl),
+                    'image_url' => $this->storeImageFromTmdbPath($person['profile_path'] ?? null, 'people', $person['name'], $imagesBaseUrl),
                 ];
             })
             ->values();
 
         $countries = collect($details['production_countries'] ?? []);
+        $gallery = $this->buildGallery($details, $imagesBaseUrl);
 
         return [
             'source' => 'tmdb',
@@ -329,19 +328,20 @@ class FetchTmdbMovies extends Command
             'poster_url' => $posterUrl,
             'backdrop_url' => $backdropUrl,
             'trailer' => $trailer ? 'https://www.youtube.com/watch?v=' . $trailer['key'] : null,
+            'gallery_urls' => $gallery,
             'cast' => $cast,
             'crew' => $crew,
             'raw' => $details,
         ];
     }
 
-    protected function buildImageUrl(?string $path, string $baseUrl): ?string
+    protected function imageBaseUrl(): string
     {
-        if (! $path) {
-            return null;
-        }
-
-        return rtrim($baseUrl, '/') . $path;
+        return preg_replace(
+            '#/([^/]+)$#',
+            '/' . self::IMAGE_SIZE,
+            rtrim(config('services.tmdb.images_base_url'), '/')
+        );
     }
 
     protected function extractYear(?string $date): ?int
@@ -351,6 +351,56 @@ class FetchTmdbMovies extends Command
         }
 
         return (int) Str::substr($date, 0, 4);
+    }
+
+    protected function storeImageFromTmdbPath(?string $tmdbPath, string $directory, string $nameHint, string $baseUrl): ?string
+    {
+        if (! $tmdbPath) {
+            return null;
+        }
+
+        if (isset($this->imageCache[$tmdbPath])) {
+            return $this->imageCache[$tmdbPath];
+        }
+
+        $url = rtrim($baseUrl, '/') . '/' . ltrim($tmdbPath, '/');
+        $response = Http::retry(3, 250)->get($url);
+
+        if ($response->failed()) {
+            $this->warn("No se pudo descargar la imagen {$tmdbPath}");
+            return null;
+        }
+
+        $extension = pathinfo($tmdbPath, PATHINFO_EXTENSION) ?: 'jpg';
+        $filename = Str::slug(Str::limit($nameHint ?? pathinfo($tmdbPath, PATHINFO_FILENAME), 80, '')) ?: 'image';
+        $filename .= '-' . substr(md5($tmdbPath), 0, 8) . '.' . $extension;
+
+        $relativePath = trim($directory . '/' . $filename, '/');
+        Storage::disk('public')->put($relativePath, $response->body());
+
+        $publicUrl = '/storage/' . ltrim($relativePath, '/');
+        $this->imageCache[$tmdbPath] = $publicUrl;
+
+        return $publicUrl;
+    }
+
+    protected function buildGallery(array $details, string $baseUrl): array
+    {
+        $backdrops = collect(data_get($details, 'images.backdrops', []));
+        $posters = collect(data_get($details, 'images.posters', []));
+
+        $images = $backdrops->isNotEmpty() ? $backdrops : $posters;
+
+        return $images
+            ->map(fn ($image) => $image['file_path'] ?? null)
+            ->filter()
+            ->unique()
+            ->values()
+            ->map(fn ($path, $index) => $this->storeImageFromTmdbPath($path, 'gallery', 'gallery-' . ($index + 1), $baseUrl))
+            ->filter()
+            ->take(12)
+            ->values()
+            ->all();
     }
 
     protected function ensureCineArProvider(): Provider

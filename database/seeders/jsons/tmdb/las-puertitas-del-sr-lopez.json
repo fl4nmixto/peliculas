@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 369447,
-    "cinear_id": null,
     "slug": "las-puertitas-del-sr-lopez",
     "title": "Las puertitas del Sr. López",
     "original_title": "Las puertitas del Sr. López",
@@ -22,65 +21,68 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/iu7DSd0haBh0TCvvm5k1sdgja8o.jpg",
+    "poster_url": "/storage/posters/las-puertitas-del-sr-lopez-562d3081.jpg",
     "backdrop_url": null,
     "trailer": "https://www.youtube.com/watch?v=cY8ka_Pt9ns",
+    "gallery_urls": [
+        "/storage/posters/las-puertitas-del-sr-lopez-562d3081.jpg"
+    ],
     "cast": [
         {
             "id": 105740,
             "name": "Lorenzo Quinteros",
             "character": "Señor López",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg"
+            "image_url": "/storage/people/lorenzo-quinteros-3b6ce3bb.jpg"
         },
         {
             "id": 1036284,
             "name": "Mirta Busnelli",
             "character": "",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg"
+            "image_url": "/storage/people/mirta-busnelli-1c22da55.jpg"
         },
         {
             "id": 1019890,
             "name": "Katja Alemann",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/5W5x2xAEhJueltJWAYnYSReJq5k.jpg"
+            "image_url": "/storage/people/katja-alemann-dc76a646.jpg"
         },
         {
             "id": 3618,
             "name": "Darío Grandinetti",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
+            "image_url": "/storage/people/dario-grandinetti-3fe439a8.jpg"
         },
         {
             "id": 228441,
             "name": "Hugo Arana",
             "character": "",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/aQGlaOp2n1nt8WIEEe82o6nDJSy.jpg"
+            "image_url": "/storage/people/hugo-arana-dd3dab26.jpg"
         },
         {
             "id": 1070717,
             "name": "Gianni Lunadei",
             "character": "",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/k1xbrAiB0G26DpUHQ6FAv1a6RLJ.jpg"
+            "image_url": "/storage/people/gianni-lunadei-bec3c6c6.jpg"
         },
         {
             "id": 1538888,
             "name": "Alejandro Dolina",
             "character": "Dios",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/78lpTxHdJFxXlY1CkNSQl0kN9aN.jpg"
+            "image_url": "/storage/people/alejandro-dolina-06ce396d.jpg"
         },
         {
             "id": 105208,
             "name": "Víctor Bó",
             "character": "",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/hVELREtcHYUCJ7u0IaoSBEUbzlk.jpg"
+            "image_url": "/storage/people/victor-bo-7e9375fc.jpg"
         },
         {
             "id": 3386715,
@@ -94,7 +96,7 @@
             "name": "Estela Garelli",
             "character": "",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/6q6vPxffu2FzrzbtuQyGr8w0dHs.jpg"
+            "image_url": "/storage/people/estela-garelli-07c216f2.jpg"
         }
     ],
     "crew": [
@@ -154,7 +156,7 @@
         "original_language": "es",
         "original_title": "Las puertitas del Sr. López",
         "overview": "Un tímido contador, empleado de una gran empresa y casado con una mujer autoritaria, se evade de la realidad traspasando puertas de baños, a través de las cuales ingresa a un imaginario mundo privado y sensual.",
-        "popularity": 1.6841,
+        "popularity": 2.6876,
         "poster_path": "/iu7DSd0haBh0TCvvm5k1sdgja8o.jpg",
         "production_companies": [
             {
@@ -195,7 +197,7 @@
                     "known_for_department": "Acting",
                     "name": "Lorenzo Quinteros",
                     "original_name": "Lorenzo Quinteros",
-                    "popularity": 0.0637,
+                    "popularity": 0.0835,
                     "profile_path": "/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg",
                     "cast_id": 0,
                     "character": "Señor López",
@@ -209,7 +211,7 @@
                     "known_for_department": "Acting",
                     "name": "Mirta Busnelli",
                     "original_name": "Mirta Busnelli",
-                    "popularity": 0.0934,
+                    "popularity": 0.2542,
                     "profile_path": "/3RuAX1BwG1Px1cIFbZIUCu5avNS.jpg",
                     "cast_id": 1,
                     "character": "",
@@ -223,7 +225,7 @@
                     "known_for_department": "Acting",
                     "name": "Katja Alemann",
                     "original_name": "Katja Alemann",
-                    "popularity": 0.0796,
+                    "popularity": 0.2289,
                     "profile_path": "/5W5x2xAEhJueltJWAYnYSReJq5k.jpg",
                     "cast_id": 2,
                     "character": "",
@@ -237,7 +239,7 @@
                     "known_for_department": "Acting",
                     "name": "Darío Grandinetti",
                     "original_name": "Darío Grandinetti",
-                    "popularity": 0.1811,
+                    "popularity": 0.355,
                     "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg",
                     "cast_id": 3,
                     "character": "",
@@ -251,7 +253,7 @@
                     "known_for_department": "Acting",
                     "name": "Hugo Arana",
                     "original_name": "Hugo Arana",
-                    "popularity": 1.1619,
+                    "popularity": 0.3957,
                     "profile_path": "/aQGlaOp2n1nt8WIEEe82o6nDJSy.jpg",
                     "cast_id": 4,
                     "character": "",
@@ -265,7 +267,7 @@
                     "known_for_department": "Acting",
                     "name": "Gianni Lunadei",
                     "original_name": "Gianni Lunadei",
-                    "popularity": 0.0478,
+                    "popularity": 0.2742,
                     "profile_path": "/k1xbrAiB0G26DpUHQ6FAv1a6RLJ.jpg",
                     "cast_id": 5,
                     "character": "",
@@ -279,7 +281,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Dolina",
                     "original_name": "Alejandro Dolina",
-                    "popularity": 0.0286,
+                    "popularity": 0.0702,
                     "profile_path": "/78lpTxHdJFxXlY1CkNSQl0kN9aN.jpg",
                     "cast_id": 6,
                     "character": "Dios",
@@ -293,7 +295,7 @@
                     "known_for_department": "Acting",
                     "name": "Víctor Bó",
                     "original_name": "Víctor Bó",
-                    "popularity": 1.7367,
+                    "popularity": 0.9405,
                     "profile_path": "/hVELREtcHYUCJ7u0IaoSBEUbzlk.jpg",
                     "cast_id": 9,
                     "character": "",
@@ -307,7 +309,7 @@
                     "known_for_department": "Acting",
                     "name": "Néstor Tirri",
                     "original_name": "Néstor Tirri",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "",
@@ -321,7 +323,7 @@
                     "known_for_department": "Acting",
                     "name": "Estela Garelli",
                     "original_name": "Estela Garelli",
-                    "popularity": 0.0904,
+                    "popularity": 0.217,
                     "profile_path": "/6q6vPxffu2FzrzbtuQyGr8w0dHs.jpg",
                     "cast_id": 14,
                     "character": "",
@@ -337,7 +339,7 @@
                     "known_for_department": "Directing",
                     "name": "Alberto Fischerman",
                     "original_name": "Alberto Fischerman",
-                    "popularity": 0.0071,
+                    "popularity": 0.0327,
                     "profile_path": null,
                     "credit_id": "564fdf499251414b01005c3a",
                     "department": "Directing",
@@ -350,7 +352,7 @@
                     "known_for_department": "Directing",
                     "name": "Alberto Fischerman",
                     "original_name": "Alberto Fischerman",
-                    "popularity": 0.0071,
+                    "popularity": 0.0327,
                     "profile_path": null,
                     "credit_id": "5bb04ecdc3a36814cb00db1b",
                     "department": "Writing",
@@ -363,7 +365,7 @@
                     "known_for_department": "Writing",
                     "name": "Máximo Soto",
                     "original_name": "Máximo Soto",
-                    "popularity": 0.0143,
+                    "popularity": 0.2758,
                     "profile_path": null,
                     "credit_id": "5bb04ee8c3a36814d800e744",
                     "department": "Writing",
@@ -376,7 +378,7 @@
                     "known_for_department": "Writing",
                     "name": "Carlos Trillo",
                     "original_name": "Carlos Trillo",
-                    "popularity": 0.0667,
+                    "popularity": 0.182,
                     "profile_path": null,
                     "credit_id": "5bb04f04925141203900c863",
                     "department": "Writing",
@@ -389,7 +391,7 @@
                     "known_for_department": "Writing",
                     "name": "Jorge Meijide",
                     "original_name": "Jorge Meijide",
-                    "popularity": 0,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "credit_id": "685cee6455bf61479e34ef64",
                     "department": "Writing",

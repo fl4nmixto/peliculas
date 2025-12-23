@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 81523,
-    "cinear_id": null,
     "slug": "la-vida-util",
     "title": "La vida útil",
     "original_title": "La vida útil",
@@ -27,9 +26,13 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/yY5UeXBnTVg70egxsxoKgxytWNv.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/dH27JO3iNHOLQZ7jA8ukiEAKXoc.jpg",
+    "poster_url": "/storage/posters/la-vida-util-0bfdeb98.jpg",
+    "backdrop_url": "/storage/backdrops/la-vida-util-34934d4f.jpg",
     "trailer": "https://www.youtube.com/watch?v=oh1lzsRFpJU",
+    "gallery_urls": [
+        "/storage/posters/la-vida-util-0bfdeb98.jpg",
+        "/storage/gallery/gallery-2-06e1bdef.jpg"
+    ],
     "cast": [
         {
             "id": 1210189,
@@ -57,7 +60,7 @@
             "name": "Gonzalo Delgado",
             "character": "Director",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 3274497,
@@ -78,7 +81,7 @@
             "name": "Pablo Stoll",
             "character": "Moviegoer",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/vxlI3HziPGeyFEsdkMu6n7q4XhA.jpg"
+            "image_url": "/storage/people/pablo-stoll-ea00f116.jpg"
         }
     ],
     "crew": [
@@ -87,7 +90,7 @@
             "name": "Federico Veiroj",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 3166670,
@@ -143,7 +146,7 @@
             "name": "Manolo Nieto",
             "department": "Directing",
             "job": "First Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/2njRhCMYx6diAC5PGEU9TaGoIQT.jpg"
+            "image_url": "/storage/people/manolo-nieto-c520421d.jpg"
         },
         {
             "id": 3274494,
@@ -171,7 +174,7 @@
             "name": "Arauco Hernández Holz",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg"
+            "image_url": "/storage/people/arauco-hernandez-holz-64bd97aa.jpg"
         },
         {
             "id": 1607246,
@@ -185,14 +188,14 @@
             "name": "Gonzalo Delgado",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 564300,
             "name": "Federico Veiroj",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 538450,
@@ -220,7 +223,7 @@
             "name": "Raúl Locatelli",
             "department": "Sound",
             "job": "Sound",
-            "image_url": "https://image.tmdb.org/t/p/w154/vn9EudSKtHxVIJD3Pf8o23EjhRy.jpg"
+            "image_url": "/storage/people/raul-locatelli-e9bde595.jpg"
         },
         {
             "id": 1607244,
@@ -241,28 +244,28 @@
             "name": "Federico Veiroj",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 1563684,
             "name": "Inés Bortagaray",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg"
+            "image_url": "/storage/people/ines-bortagaray-5f5ff3dc.jpg"
         },
         {
             "id": 1607249,
             "name": "Daniel Yafalián",
             "department": "Sound",
             "job": "Sound",
-            "image_url": "https://image.tmdb.org/t/p/w154/9sT6KdnxVX2IsepTqpfdQRqwVXC.jpg"
+            "image_url": "/storage/people/daniel-yafalian-38f77984.jpg"
         },
         {
             "id": 1607240,
             "name": "Arauco Hernández Holz",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg"
+            "image_url": "/storage/people/arauco-hernandez-holz-64bd97aa.jpg"
         },
         {
             "id": 1607247,
@@ -290,14 +293,14 @@
             "name": "Arauco Hernández Holz",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg"
+            "image_url": "/storage/people/arauco-hernandez-holz-64bd97aa.jpg"
         },
         {
             "id": 564300,
             "name": "Federico Veiroj",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         }
     ],
     "raw": {
@@ -324,7 +327,7 @@
         "original_language": "es",
         "original_title": "La vida útil",
         "overview": "Un empleado de cine se adapta a una nueva vida mientras el cine en el que ha trabajado durante más de 25 años se enfrenta al cierre.",
-        "popularity": 0.2118,
+        "popularity": 1.1983,
         "poster_path": "/yY5UeXBnTVg70egxsxoKgxytWNv.jpg",
         "production_companies": [
             {
@@ -395,7 +398,7 @@
                     "known_for_department": "Acting",
                     "name": "Manuel Martinez Carril",
                     "original_name": "Manuel Martinez Carril",
-                    "popularity": 0.0143,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "Martínez",
@@ -409,7 +412,7 @@
                     "known_for_department": "Acting",
                     "name": "Paola Venditto",
                     "original_name": "Paola Venditto",
-                    "popularity": 0.0143,
+                    "popularity": 0.1257,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Paola",
@@ -423,7 +426,7 @@
                     "known_for_department": "Writing",
                     "name": "Gonzalo Delgado",
                     "original_name": "Gonzalo Delgado",
-                    "popularity": 0.2308,
+                    "popularity": 0.2768,
                     "profile_path": "/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg",
                     "cast_id": 23,
                     "character": "Director",
@@ -437,7 +440,7 @@
                     "known_for_department": "Acting",
                     "name": "Felipe Arocena",
                     "original_name": "Felipe Arocena",
-                    "popularity": 0.0214,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "cast_id": 35,
                     "character": "Iriarte Hijo",
@@ -451,7 +454,7 @@
                     "known_for_department": "Acting",
                     "name": "Victoria Novic",
                     "original_name": "Victoria Novic",
-                    "popularity": 0.0168,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "cast_id": 36,
                     "character": "Estudiante (as Victoria Novick)",
@@ -465,7 +468,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Stoll",
                     "original_name": "Pablo Stoll",
-                    "popularity": 0.2227,
+                    "popularity": 0.3188,
                     "profile_path": "/vxlI3HziPGeyFEsdkMu6n7q4XhA.jpg",
                     "cast_id": 38,
                     "character": "Moviegoer",
@@ -481,7 +484,7 @@
                     "known_for_department": "Writing",
                     "name": "Federico Veiroj",
                     "original_name": "Federico Veiroj",
-                    "popularity": 0.0771,
+                    "popularity": 0.2609,
                     "profile_path": "/myk880UXuBmggOXOK4rmhKsu3ic.jpg",
                     "credit_id": "52fe48199251416c9108034b",
                     "department": "Directing",
@@ -494,7 +497,7 @@
                     "known_for_department": "Art",
                     "name": "María Angélica Gil",
                     "original_name": "María Angélica Gil",
-                    "popularity": 0.0297,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "616c56a8894ed6008e36366d",
                     "department": "Directing",
@@ -507,7 +510,7 @@
                     "known_for_department": "Production",
                     "name": "Pedro Barcia",
                     "original_name": "Pedro Barcia",
-                    "popularity": 0.0143,
+                    "popularity": 0.071,
                     "profile_path": null,
                     "credit_id": "616c563efe6c180092827415",
                     "department": "Production",
@@ -520,7 +523,7 @@
                     "known_for_department": "Production",
                     "name": "Juan José López",
                     "original_name": "Juan José López",
-                    "popularity": 0.0143,
+                    "popularity": 0.0495,
                     "profile_path": null,
                     "credit_id": "616c567a00fb6b002b610672",
                     "department": "Production",
@@ -533,7 +536,7 @@
                     "known_for_department": "Camera",
                     "name": "Bruno Alzaga",
                     "original_name": "Bruno Alzaga",
-                    "popularity": 0.0281,
+                    "popularity": 0.0604,
                     "profile_path": null,
                     "credit_id": "616c577003bf8400645bea52",
                     "department": "Lighting",
@@ -546,7 +549,7 @@
                     "known_for_department": "Sound",
                     "name": "Patricia Milanesi",
                     "original_name": "Patricia Milanesi",
-                    "popularity": 0.0389,
+                    "popularity": 0.044,
                     "profile_path": null,
                     "credit_id": "616c56d86f53e1002592dabd",
                     "department": "Sound",
@@ -559,7 +562,7 @@
                     "known_for_department": "Camera",
                     "name": "Karin Porley",
                     "original_name": "Karin Porley",
-                    "popularity": 0.068,
+                    "popularity": 0.0264,
                     "profile_path": null,
                     "credit_id": "616c572c3d4d96008d6cb9bd",
                     "department": "Camera",
@@ -572,7 +575,7 @@
                     "known_for_department": "Editing",
                     "name": "Fran Lorite",
                     "original_name": "Fran Lorite",
-                    "popularity": 0.0193,
+                    "popularity": 0.113,
                     "profile_path": null,
                     "credit_id": "616c57873d4d9600432d77d3",
                     "department": "Editing",
@@ -585,7 +588,7 @@
                     "known_for_department": "Directing",
                     "name": "Manolo Nieto",
                     "original_name": "Manolo Nieto",
-                    "popularity": 0.0977,
+                    "popularity": 0.2077,
                     "profile_path": "/2njRhCMYx6diAC5PGEU9TaGoIQT.jpg",
                     "credit_id": "616c56ba1089ba0095f09aaf",
                     "department": "Directing",
@@ -598,7 +601,7 @@
                     "known_for_department": "Camera",
                     "name": "Karin Porley",
                     "original_name": "Karin Porley",
-                    "popularity": 0.068,
+                    "popularity": 0.0264,
                     "profile_path": null,
                     "credit_id": "616c5722f925320042da8f46",
                     "department": "Camera",
@@ -611,7 +614,7 @@
                     "known_for_department": "Production",
                     "name": "Laura Gutman",
                     "original_name": "Laura Gutman",
-                    "popularity": 0.0379,
+                    "popularity": 0.0336,
                     "profile_path": null,
                     "credit_id": "616c56536f53e1002592d938",
                     "department": "Production",
@@ -624,7 +627,7 @@
                     "known_for_department": "Production",
                     "name": "Marisa Fernández Armenteros",
                     "original_name": "Marisa Fernández Armenteros",
-                    "popularity": 0.0535,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "616c57629715ae002c354735",
                     "department": "Production",
@@ -637,7 +640,7 @@
                     "known_for_department": "Camera",
                     "name": "Arauco Hernández Holz",
                     "original_name": "Arauco Hernández Holz",
-                    "popularity": 0.0586,
+                    "popularity": 0.1813,
                     "profile_path": "/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg",
                     "credit_id": "571401ba925141387d0030c4",
                     "department": "Camera",
@@ -650,7 +653,7 @@
                     "known_for_department": "Art",
                     "name": "Emilia Carlevaro",
                     "original_name": "Emilia Carlevaro",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "571402ff9251413616000d45",
                     "department": "Art",
@@ -663,7 +666,7 @@
                     "known_for_department": "Writing",
                     "name": "Gonzalo Delgado",
                     "original_name": "Gonzalo Delgado",
-                    "popularity": 0.2308,
+                    "popularity": 0.2768,
                     "profile_path": "/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg",
                     "credit_id": "57140127c3a36866780095a6",
                     "department": "Writing",
@@ -676,7 +679,7 @@
                     "known_for_department": "Writing",
                     "name": "Federico Veiroj",
                     "original_name": "Federico Veiroj",
-                    "popularity": 0.0771,
+                    "popularity": 0.2609,
                     "profile_path": "/myk880UXuBmggOXOK4rmhKsu3ic.jpg",
                     "credit_id": "5714014ec3a36860a800d279",
                     "department": "Writing",
@@ -689,7 +692,7 @@
                     "known_for_department": "Sound",
                     "name": "Jaime Fernández",
                     "original_name": "Jaime Fernández",
-                    "popularity": 0.0357,
+                    "popularity": 0.0429,
                     "profile_path": null,
                     "credit_id": "571402e8c3a36866780095f0",
                     "department": "Sound",
@@ -715,7 +718,7 @@
                     "known_for_department": "Sound",
                     "name": "Ricardo Viñas",
                     "original_name": "Ricardo Viñas",
-                    "popularity": 0.0214,
+                    "popularity": 0.1782,
                     "profile_path": null,
                     "credit_id": "5714021cc3a36866780095ce",
                     "department": "Sound",
@@ -728,7 +731,7 @@
                     "known_for_department": "Sound",
                     "name": "Raúl Locatelli",
                     "original_name": "Raúl Locatelli",
-                    "popularity": 0.0792,
+                    "popularity": 0.1051,
                     "profile_path": "/vn9EudSKtHxVIJD3Pf8o23EjhRy.jpg",
                     "credit_id": "571402a4c3a36860a800d2a6",
                     "department": "Sound",
@@ -741,7 +744,7 @@
                     "known_for_department": "Sound",
                     "name": "Macunaima",
                     "original_name": "Macunaima",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5714018fc3a3686636007b15",
                     "department": "Sound",
@@ -754,7 +757,7 @@
                     "known_for_department": "Art",
                     "name": "Emilia Carlevaro",
                     "original_name": "Emilia Carlevaro",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "571401d892514151cf002def",
                     "department": "Art",
@@ -767,7 +770,7 @@
                     "known_for_department": "Writing",
                     "name": "Federico Veiroj",
                     "original_name": "Federico Veiroj",
-                    "popularity": 0.0771,
+                    "popularity": 0.2609,
                     "profile_path": "/myk880UXuBmggOXOK4rmhKsu3ic.jpg",
                     "credit_id": "57140162c3a368537800f75c",
                     "department": "Production",
@@ -780,7 +783,7 @@
                     "known_for_department": "Writing",
                     "name": "Inés Bortagaray",
                     "original_name": "Inés Bortagaray",
-                    "popularity": 0.1084,
+                    "popularity": 0.0744,
                     "profile_path": "/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg",
                     "credit_id": "5714011192514151cf002dce",
                     "department": "Writing",
@@ -793,7 +796,7 @@
                     "known_for_department": "Sound",
                     "name": "Daniel Yafalián",
                     "original_name": "Daniel Yafalián",
-                    "popularity": 0.0214,
+                    "popularity": 0.0441,
                     "profile_path": "/9sT6KdnxVX2IsepTqpfdQRqwVXC.jpg",
                     "credit_id": "5714028992514141a50030b4",
                     "department": "Sound",
@@ -806,7 +809,7 @@
                     "known_for_department": "Camera",
                     "name": "Arauco Hernández Holz",
                     "original_name": "Arauco Hernández Holz",
-                    "popularity": 0.0586,
+                    "popularity": 0.1813,
                     "profile_path": "/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg",
                     "credit_id": "5714013a9251414a19002bc7",
                     "department": "Writing",
@@ -819,7 +822,7 @@
                     "known_for_department": "Camera",
                     "name": "Gerardo González",
                     "original_name": "Gerardo González",
-                    "popularity": 0.0563,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "571402009251413616000d28",
                     "department": "Camera",
@@ -832,7 +835,7 @@
                     "known_for_department": "Sound",
                     "name": "Leo Masliah",
                     "original_name": "Leo Masliah",
-                    "popularity": 0.0503,
+                    "popularity": 0.109,
                     "profile_path": null,
                     "credit_id": "571401a492514141a500309c",
                     "department": "Sound",
@@ -845,7 +848,7 @@
                     "known_for_department": "Art",
                     "name": "Emilia Carlevaro",
                     "original_name": "Emilia Carlevaro",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "64b60893e0ca7f01253eb18c",
                     "department": "Costume & Make-Up",
@@ -858,7 +861,7 @@
                     "known_for_department": "Camera",
                     "name": "Arauco Hernández Holz",
                     "original_name": "Arauco Hernández Holz",
-                    "popularity": 0.0586,
+                    "popularity": 0.1813,
                     "profile_path": "/9rY5VssXP04FEqJgi6yGYl5Il0j.jpg",
                     "credit_id": "5c767b320e0a260b581d6d6b",
                     "department": "Editing",
@@ -871,7 +874,7 @@
                     "known_for_department": "Writing",
                     "name": "Federico Veiroj",
                     "original_name": "Federico Veiroj",
-                    "popularity": 0.0771,
+                    "popularity": 0.2609,
                     "profile_path": "/myk880UXuBmggOXOK4rmhKsu3ic.jpg",
                     "credit_id": "5c767b1fc3a3684846d6ab7a",
                     "department": "Editing",

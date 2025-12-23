@@ -17,51 +17,57 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Italy"
     ],
     "spoken_languages": [
         "Español",
         "English",
         "Italiano"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/j9Sa48BOEvwvqAy9drJXXoDopEG.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/pg4hzEUa6tisJvJaqRlm3aCRdN7.jpg",
+    "poster_url": "/storage/posters/cetaceos-0691711c.jpg",
+    "backdrop_url": "/storage/backdrops/cetaceos-40ed2dbe.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/cetaceos-0691711c.jpg",
+        "/storage/gallery/gallery-2-9de1053b.jpg",
+        "/storage/gallery/gallery-3-a39eeae9.jpg"
+    ],
     "cast": [
         {
             "id": 1107940,
             "name": "Elisa Carricajo",
             "character": "Clara",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg"
+            "image_url": "/storage/people/elisa-carricajo-c99d60f4.jpg"
         },
         {
             "id": 138757,
             "name": "Rafael Spregelburd",
             "character": "Alejandro",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+            "image_url": "/storage/people/rafael-spregelburd-4593ee99.jpg"
         },
         {
             "id": 942216,
             "name": "Susana Pampín",
             "character": "Teresa",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg"
+            "image_url": "/storage/people/susana-pampin-3a3c3bb3.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Martín",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 1021562,
             "name": "Carla Crespo",
             "character": "Carolina",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/lvBGRo5pSMMzjhCFwublzM7h9w4.jpg"
+            "image_url": "/storage/people/carla-crespo-97a421b8.jpg"
         },
         {
             "id": 2124203,
@@ -75,21 +81,21 @@
             "name": "Claudia Cantero",
             "character": "Felisa",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/iZKNLHrvqHlFgzLwY3AEOnXzqmk.jpg"
+            "image_url": "/storage/people/claudia-cantero-06b12af6.jpg"
         },
         {
             "id": 990116,
             "name": "Abián Vainstein",
             "character": "Julio",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/y7t1SIHQdk14pgAcNuBkekkUUF2.jpg"
+            "image_url": "/storage/people/abian-vainstein-0e36eba8.jpg"
         },
         {
             "id": 1083547,
             "name": "Horacio Marassi",
             "character": "Juan",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/yeZFsleHotG5Vcep9wMJJx1ya1O.jpg"
+            "image_url": "/storage/people/horacio-marassi-79a86123.jpg"
         },
         {
             "id": 1366917,
@@ -103,42 +109,42 @@
             "name": "Pablo Seijo",
             "character": "Goyo",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/ffuPTq20qRx8Ml6ZbLpC6R4ROhe.jpg"
+            "image_url": "/storage/people/pablo-seijo-9b742f63.jpg"
         },
         {
             "id": 2541019,
             "name": "Pablo Dacal",
             "character": "Eugenio",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/uJ9YpWZtqKbAfQduwoz6ZlqkhGI.jpg"
+            "image_url": "/storage/people/pablo-dacal-29757226.jpg"
         },
         {
             "id": 1349989,
             "name": "Valeria Correa",
             "character": "María",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/iVaTEWx10ik8UbEsE5uDIA8jseH.jpg"
+            "image_url": "/storage/people/valeria-correa-31e96b3e.jpg"
         },
         {
             "id": 1107942,
             "name": "Laura Paredes",
             "character": "Yani",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/gWuxoUosFG72hpfFcV02kjevdOl.jpg"
+            "image_url": "/storage/people/laura-paredes-a8424388.jpg"
         },
         {
             "id": 2182044,
             "name": "Evan Leed",
             "character": "Matt",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/bVWhuBZ83ZZbc80fo8ZJZjjKBnW.jpg"
+            "image_url": "/storage/people/evan-leed-b511e1de.jpg"
         },
         {
             "id": 2083865,
             "name": "Diego Starosta",
             "character": "Personal trainer",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/3KJwxK13UxyRDq3R9kFGcqOFcRG.jpg"
+            "image_url": "/storage/people/diego-starosta-30b6d591.jpg"
         }
     ],
     "crew": [
@@ -147,27 +153,20 @@
             "name": "Florencia Percia",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg"
+            "image_url": "/storage/people/florencia-percia-f94adef6.jpg"
         },
         {
             "id": 1803957,
             "name": "Florencia Percia",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg"
+            "image_url": "/storage/people/florencia-percia-f94adef6.jpg"
         },
         {
-            "id": 2789763,
-            "name": "Matteo Carbone",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": null
-        },
-        {
-            "id": 1291437,
-            "name": "Andrés Quaranta",
-            "department": "Editing",
-            "job": "Editor",
+            "id": 2789764,
+            "name": "Pablo Penel",
+            "department": "Art",
+            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -178,39 +177,11 @@
             "image_url": null
         },
         {
-            "id": 1147644,
-            "name": "Ana Cambre",
-            "department": "Art",
-            "job": "Art Direction",
+            "id": 1467051,
+            "name": "Adriano Salgado",
+            "department": "Sound",
+            "job": "Sound Designer",
             "image_url": null
-        },
-        {
-            "id": 2789764,
-            "name": "Pablo Penel",
-            "department": "Art",
-            "job": "Art Direction",
-            "image_url": null
-        },
-        {
-            "id": 1406649,
-            "name": "Mercedes Cordova",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 1487767,
-            "name": "Valeria Forster",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 1803957,
-            "name": "Florencia Percia",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg"
         },
         {
             "id": 2347020,
@@ -234,10 +205,45 @@
             "image_url": null
         },
         {
-            "id": 1467051,
-            "name": "Adriano Salgado",
+            "id": 1291437,
+            "name": "Andrés Quaranta",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1487767,
+            "name": "Valeria Forster",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1803957,
+            "name": "Florencia Percia",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/florencia-percia-f94adef6.jpg"
+        },
+        {
+            "id": 2789763,
+            "name": "Matteo Carbone",
             "department": "Sound",
-            "job": "Sound Designer",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1406649,
+            "name": "Mercedes Cordova",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1147644,
+            "name": "Ana Cambre",
+            "department": "Art",
+            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -245,7 +251,7 @@
             "name": "Lucio Bonelli",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg"
+            "image_url": "/storage/people/lucio-bonelli-154ae367.jpg"
         }
     ],
     "raw": {
@@ -268,7 +274,7 @@
         "original_language": "es",
         "original_title": "Cetáceos",
         "overview": "Clara y Alejandro se mudan a una casa nueva. Pocos días después, él viaja por trabajo y ella se queda sola, rodeada de cajas cerradas. Ese desorden la impulsa a aceptar una serie de invitaciones azarosas que la alejarán del mundo hermético en el que vive.",
-        "popularity": 1.1615,
+        "popularity": 0.9582,
         "poster_path": "/j9Sa48BOEvwvqAy9drJXXoDopEG.jpg",
         "production_companies": [
             {
@@ -329,7 +335,7 @@
                     "known_for_department": "Acting",
                     "name": "Elisa Carricajo",
                     "original_name": "Elisa Carricajo",
-                    "popularity": 0.2858,
+                    "popularity": 0.2469,
                     "profile_path": "/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg",
                     "cast_id": 1,
                     "character": "Clara",
@@ -343,7 +349,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Spregelburd",
                     "original_name": "Rafael Spregelburd",
-                    "popularity": 1.9898,
+                    "popularity": 0.2639,
                     "profile_path": "/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg",
                     "cast_id": 3,
                     "character": "Alejandro",
@@ -357,7 +363,7 @@
                     "known_for_department": "Acting",
                     "name": "Susana Pampín",
                     "original_name": "Susana Pampín",
-                    "popularity": 0.3339,
+                    "popularity": 0.3927,
                     "profile_path": "/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg",
                     "cast_id": 2,
                     "character": "Teresa",
@@ -371,7 +377,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2522,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 4,
                     "character": "Martín",
@@ -385,7 +391,7 @@
                     "known_for_department": "Acting",
                     "name": "Carla Crespo",
                     "original_name": "Carla Crespo",
-                    "popularity": 0.2268,
+                    "popularity": 0.2671,
                     "profile_path": "/lvBGRo5pSMMzjhCFwublzM7h9w4.jpg",
                     "cast_id": 9,
                     "character": "Carolina",
@@ -399,7 +405,7 @@
                     "known_for_department": "Acting",
                     "name": "Gabriela Ferrero",
                     "original_name": "Gabriela Ferrero",
-                    "popularity": 0.2166,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Araceli",
@@ -413,7 +419,7 @@
                     "known_for_department": "Acting",
                     "name": "Claudia Cantero",
                     "original_name": "Claudia Cantero",
-                    "popularity": 0.2546,
+                    "popularity": 0.1608,
                     "profile_path": "/iZKNLHrvqHlFgzLwY3AEOnXzqmk.jpg",
                     "cast_id": 5,
                     "character": "Felisa",
@@ -427,7 +433,7 @@
                     "known_for_department": "Acting",
                     "name": "Abián Vainstein",
                     "original_name": "Abián Vainstein",
-                    "popularity": 0.1798,
+                    "popularity": 0.2082,
                     "profile_path": "/y7t1SIHQdk14pgAcNuBkekkUUF2.jpg",
                     "cast_id": 10,
                     "character": "Julio",
@@ -441,7 +447,7 @@
                     "known_for_department": "Acting",
                     "name": "Horacio Marassi",
                     "original_name": "Horacio Marassi",
-                    "popularity": 0.1452,
+                    "popularity": 0.0671,
                     "profile_path": "/yeZFsleHotG5Vcep9wMJJx1ya1O.jpg",
                     "cast_id": 14,
                     "character": "Juan",
@@ -455,7 +461,7 @@
                     "known_for_department": "Acting",
                     "name": "Andrea Strenitz",
                     "original_name": "Andrea Strenitz",
-                    "popularity": 0.2607,
+                    "popularity": 0.0859,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "Ester",
@@ -469,7 +475,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Seijo",
                     "original_name": "Pablo Seijo",
-                    "popularity": 0.6661,
+                    "popularity": 1.9735,
                     "profile_path": "/ffuPTq20qRx8Ml6ZbLpC6R4ROhe.jpg",
                     "cast_id": 15,
                     "character": "Goyo",
@@ -483,7 +489,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Dacal",
                     "original_name": "Pablo Dacal",
-                    "popularity": 0.1876,
+                    "popularity": 0.0239,
                     "profile_path": "/uJ9YpWZtqKbAfQduwoz6ZlqkhGI.jpg",
                     "cast_id": 16,
                     "character": "Eugenio",
@@ -497,7 +503,7 @@
                     "known_for_department": "Acting",
                     "name": "Valeria Correa",
                     "original_name": "Valeria Correa",
-                    "popularity": 0.2325,
+                    "popularity": 0.2262,
                     "profile_path": "/iVaTEWx10ik8UbEsE5uDIA8jseH.jpg",
                     "cast_id": 6,
                     "character": "María",
@@ -511,7 +517,7 @@
                     "known_for_department": "Acting",
                     "name": "Laura Paredes",
                     "original_name": "Laura Paredes",
-                    "popularity": 0.38,
+                    "popularity": 0.3077,
                     "profile_path": "/gWuxoUosFG72hpfFcV02kjevdOl.jpg",
                     "cast_id": 12,
                     "character": "Yani",
@@ -525,7 +531,7 @@
                     "known_for_department": "Acting",
                     "name": "Evan Leed",
                     "original_name": "Evan Leed",
-                    "popularity": 0.2011,
+                    "popularity": 0.0575,
                     "profile_path": "/bVWhuBZ83ZZbc80fo8ZJZjjKBnW.jpg",
                     "cast_id": 17,
                     "character": "Matt",
@@ -539,7 +545,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Starosta",
                     "original_name": "Diego Starosta",
-                    "popularity": 0.1965,
+                    "popularity": 0.1171,
                     "profile_path": "/3KJwxK13UxyRDq3R9kFGcqOFcRG.jpg",
                     "cast_id": 7,
                     "character": "Personal trainer",
@@ -555,7 +561,7 @@
                     "known_for_department": "Directing",
                     "name": "Florencia Percia",
                     "original_name": "Florencia Percia",
-                    "popularity": 0.1442,
+                    "popularity": 0.0362,
                     "profile_path": "/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg",
                     "credit_id": "590023e0c3a3680fcc005fbf",
                     "department": "Directing",
@@ -568,7 +574,7 @@
                     "known_for_department": "Directing",
                     "name": "Florencia Percia",
                     "original_name": "Florencia Percia",
-                    "popularity": 0.1442,
+                    "popularity": 0.0362,
                     "profile_path": "/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg",
                     "credit_id": "5d3fbbb234e1521fb8e7cf67",
                     "department": "Writing",
@@ -577,28 +583,15 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 2789763,
-                    "known_for_department": "Sound",
-                    "name": "Matteo Carbone",
-                    "original_name": "Matteo Carbone",
-                    "popularity": 0.0429,
+                    "id": 2789764,
+                    "known_for_department": "Art",
+                    "name": "Pablo Penel",
+                    "original_name": "Pablo Penel",
+                    "popularity": 0,
                     "profile_path": null,
-                    "credit_id": "5f6bfb18a0b6900038575c14",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1291437,
-                    "known_for_department": "Editing",
-                    "name": "Andrés Quaranta",
-                    "original_name": "Andrés Quaranta",
-                    "popularity": 0.1588,
-                    "profile_path": null,
-                    "credit_id": "5f6bfb2be267de003426e711",
-                    "department": "Editing",
-                    "job": "Editor"
+                    "credit_id": "5f6bfb56d2c0c100346c38dd",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -607,7 +600,7 @@
                     "known_for_department": "Visual Effects",
                     "name": "Santiago Svirsky",
                     "original_name": "Santiago Svirsky",
-                    "popularity": 0.1169,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5f6bfb3acb5c8e0035e4c092",
                     "department": "Editing",
@@ -615,68 +608,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 1,
-                    "id": 1147644,
-                    "known_for_department": "Art",
-                    "name": "Ana Cambre",
-                    "original_name": "Ana Cambre",
-                    "popularity": 0.1808,
-                    "profile_path": null,
-                    "credit_id": "5f6bfb48a7e36300372ab734",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
                     "gender": 0,
-                    "id": 2789764,
-                    "known_for_department": "Art",
-                    "name": "Pablo Penel",
-                    "original_name": "Pablo Penel",
-                    "popularity": 0.0297,
+                    "id": 1467051,
+                    "known_for_department": "Sound",
+                    "name": "Adriano Salgado",
+                    "original_name": "Adriano Salgado",
+                    "popularity": 0.0239,
                     "profile_path": null,
-                    "credit_id": "5f6bfb56d2c0c100346c38dd",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1406649,
-                    "known_for_department": "Acting",
-                    "name": "Mercedes Cordova",
-                    "original_name": "Mercedes Cordova",
-                    "popularity": 0.076,
-                    "profile_path": null,
-                    "credit_id": "5f6bfb68cb5c8e0038e5754c",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1487767,
-                    "known_for_department": "Editing",
-                    "name": "Valeria Forster",
-                    "original_name": "Valeria Forster",
-                    "popularity": 0.123,
-                    "profile_path": null,
-                    "credit_id": "5f6bfb75e267de003426e843",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1803957,
-                    "known_for_department": "Directing",
-                    "name": "Florencia Percia",
-                    "original_name": "Florencia Percia",
-                    "popularity": 0.1442,
-                    "profile_path": "/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg",
-                    "credit_id": "5f6bfba0cee2f6003735708a",
-                    "department": "Production",
-                    "job": "Producer"
+                    "credit_id": "5f6bfc38c1ffbd0036e6def0",
+                    "department": "Sound",
+                    "job": "Sound Designer"
                 },
                 {
                     "adult": false,
@@ -685,7 +626,7 @@
                     "known_for_department": "Production",
                     "name": "Alfredo Federico",
                     "original_name": "Alfredo Federico",
-                    "popularity": 0.1125,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5f6bfbb440d0fe00381be21b",
                     "department": "Production",
@@ -698,7 +639,7 @@
                     "known_for_department": "Production",
                     "name": "Georgina Baisch",
                     "original_name": "Georgina Baisch",
-                    "popularity": 0.1387,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f6bfbc0cb5c8e0038e576f2",
                     "department": "Production",
@@ -711,7 +652,7 @@
                     "known_for_department": "Production",
                     "name": "Simona Banchi",
                     "original_name": "Simona Banchi",
-                    "popularity": 0.1223,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f6bfbf2688cd0003729a32e",
                     "department": "Production",
@@ -720,15 +661,80 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1467051,
-                    "known_for_department": "Sound",
-                    "name": "Adriano Salgado",
-                    "original_name": "Adriano Salgado",
-                    "popularity": 0.2069,
+                    "id": 1291437,
+                    "known_for_department": "Editing",
+                    "name": "Andrés Quaranta",
+                    "original_name": "Andrés Quaranta",
+                    "popularity": 0.0256,
                     "profile_path": null,
-                    "credit_id": "5f6bfc38c1ffbd0036e6def0",
+                    "credit_id": "5f6bfb2be267de003426e711",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1487767,
+                    "known_for_department": "Editing",
+                    "name": "Valeria Forster",
+                    "original_name": "Valeria Forster",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "5f6bfb75e267de003426e843",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1803957,
+                    "known_for_department": "Directing",
+                    "name": "Florencia Percia",
+                    "original_name": "Florencia Percia",
+                    "popularity": 0.0362,
+                    "profile_path": "/tcwKeZqXYiZ28GOlmUMVzWTYKsd.jpg",
+                    "credit_id": "5f6bfba0cee2f6003735708a",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2789763,
+                    "known_for_department": "Sound",
+                    "name": "Matteo Carbone",
+                    "original_name": "Matteo Carbone",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "5f6bfb18a0b6900038575c14",
                     "department": "Sound",
-                    "job": "Sound Designer"
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1406649,
+                    "known_for_department": "Acting",
+                    "name": "Mercedes Cordova",
+                    "original_name": "Mercedes Cordova",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5f6bfb68cb5c8e0038e5754c",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1147644,
+                    "known_for_department": "Art",
+                    "name": "Ana Cambre",
+                    "original_name": "Ana Cambre",
+                    "popularity": 0.0781,
+                    "profile_path": null,
+                    "credit_id": "5f6bfb48a7e36300372ab734",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -737,7 +743,7 @@
                     "known_for_department": "Camera",
                     "name": "Lucio Bonelli",
                     "original_name": "Lucio Bonelli",
-                    "popularity": 0.2814,
+                    "popularity": 0.1437,
                     "profile_path": "/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg",
                     "credit_id": "683127f63a7f0b57818372d3",
                     "department": "Camera",

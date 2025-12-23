@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 30125,
-    "cinear_id": null,
     "slug": "el-sueno-de-valentin",
     "title": "El sueño de Valentín",
     "original_title": "Valentín",
@@ -11,9 +10,18 @@
     "year": 2002,
     "tagline": "",
     "genres": [
-        "Romance",
-        "Drama",
-        "Comedia"
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedia"
+        }
     ],
     "countries": [
         "Argentina"
@@ -21,72 +29,77 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/bPXz8o1V8uq2JVi4pcg3Hu6Eoc9.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/9bukKLKSjANhL1mHkHbmPisWKfA.jpg",
+    "poster_url": "/storage/posters/el-sueno-de-valentin-1ff54ac5.jpg",
+    "backdrop_url": "/storage/backdrops/el-sueno-de-valentin-5befe0f0.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-sueno-de-valentin-1ff54ac5.jpg",
+        "/storage/gallery/gallery-2-2524bef0.jpg",
+        "/storage/gallery/gallery-3-a3d8a896.jpg"
+    ],
     "cast": [
         {
             "id": 105734,
             "name": "Rodrigo Noya",
             "character": "Valentín",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/rZDcD3ipaawYtyJ74Iv8Zw133F9.jpg"
+            "image_url": "/storage/people/rodrigo-noya-b189867c.jpg"
         },
         {
             "id": 2744,
             "name": "Carmen Maura",
             "character": "Abuela",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/sXvr7BvxscBkYpGTcYjpqbzkUSH.jpg"
+            "image_url": "/storage/people/carmen-maura-7e53ca24.jpg"
         },
         {
             "id": 105736,
             "name": "Julieta Cardinali",
             "character": "Leticia",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/l79R8XhjqEb3ekvm9NKzeUY7yIZ.jpg"
+            "image_url": "/storage/people/julieta-cardinali-8beb4f53.jpg"
         },
         {
             "id": 105738,
             "name": "Jean Pierre Noher",
             "character": "El tío Chiche",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/bOhQmfBYSJeNtn6vlsj3tKoOLfc.jpg"
+            "image_url": "/storage/people/jean-pierre-noher-339f6b16.jpg"
         },
         {
             "id": 105739,
             "name": "Mex Urtizberea",
             "character": "Rufo",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/1p1opRWBZ3sEcJTLaYHhfZu21IY.jpg"
+            "image_url": "/storage/people/mex-urtizberea-f54d9fed.jpg"
         },
         {
             "id": 105740,
             "name": "Lorenzo Quinteros",
             "character": "Hombre del bar",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg"
+            "image_url": "/storage/people/lorenzo-quinteros-3b6ce3bb.jpg"
         },
         {
             "id": 21031,
             "name": "Alejandro Agresti",
             "character": "El padre",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+            "image_url": "/storage/people/alejandro-agresti-1f05510d.jpg"
         },
         {
             "id": 105741,
             "name": "Carlos Roffé",
             "character": "Dr. Galaburri",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/sE5WbAHsP36SttszUXR9W9op1Ow.jpg"
+            "image_url": "/storage/people/carlos-roffe-952b698e.jpg"
         },
         {
             "id": 64772,
             "name": "Marina Glezer",
             "character": "La maestra",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/hNVG5wOFEeKrmVleRqsSBywGVzU.jpg"
+            "image_url": "/storage/people/marina-glezer-4bc406ff.jpg"
         },
         {
             "id": 105742,
@@ -100,7 +113,7 @@
             "name": "Fabián Vena",
             "character": "El cura",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/qqu9rRq68TPp5XlNOH1NiX4zSnK.jpg"
+            "image_url": "/storage/people/fabian-vena-4554845f.jpg"
         }
     ],
     "crew": [
@@ -109,21 +122,21 @@
             "name": "Alejandro Agresti",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+            "image_url": "/storage/people/alejandro-agresti-1f05510d.jpg"
         },
         {
             "id": 21031,
             "name": "Alejandro Agresti",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/b41SE0CRRW0D1izYltdBDahSdjW.jpg"
+            "image_url": "/storage/people/alejandro-agresti-1f05510d.jpg"
         },
         {
             "id": 17083,
             "name": "Julio Fernández",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/kPKrqauynMK1ZOjsJJnDeAfNK2K.jpg"
+            "image_url": "/storage/people/julio-fernandez-ed77e167.jpg"
         },
         {
             "id": 21441,
@@ -137,7 +150,7 @@
             "name": "René Goossens",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/r7n9n68YlAHdSCAW74TbUCjDmmm.jpg"
+            "image_url": "/storage/people/rene-goossens-7e4c1a15.jpg"
         },
         {
             "id": 557664,
@@ -151,14 +164,14 @@
             "name": "Dick Maas",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/tNVHmf93U9uL3PJyP09EVs7NEh1.jpg"
+            "image_url": "/storage/people/dick-maas-2fd6688e.jpg"
         },
         {
             "id": 1384843,
             "name": "Massimo Vigliar",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/fzlpkrHQbMmJCsBRpxhMMCZjJ2G.jpg"
+            "image_url": "/storage/people/massimo-vigliar-70ab3c7e.jpg"
         },
         {
             "id": 1570821,
@@ -172,7 +185,7 @@
             "name": "Paul M. van Brugge",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/nPtwxpAODX2RuWKaI1jLUQtNwul.jpg"
+            "image_url": "/storage/people/paul-m-van-brugge-ff5211e9.jpg"
         }
     ],
     "raw": {
@@ -203,7 +216,7 @@
         "original_language": "es",
         "original_title": "Valentín",
         "overview": "1960, Buenos Aires. Valentín es un niño de nueve años que vive con su abuela. Su madre desapareció cuando él tenía tres años, y su padre es un bala perdida incapaz de asumir responsabilidad alguna. Valentín es un niño solitario que busca constantemente el amor y el afecto. Su vida transcurre tranquilamente y sólo tiene dos obsesiones: ser astronauta y que su padre lo lleve junto a su madre. Pero su padre no quiere remover el pasado y, además, no deja de decepcionarle presentándole novias horribles, hasta que un día le presenta a Leticia, de la que Valentín se queda inmediatamente prendado.",
-        "popularity": 1.2718,
+        "popularity": 0.839,
         "poster_path": "/bPXz8o1V8uq2JVi4pcg3Hu6Eoc9.jpg",
         "production_companies": [
             {
@@ -262,7 +275,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo Noya",
                     "original_name": "Rodrigo Noya",
-                    "popularity": 0.0713,
+                    "popularity": 0.4214,
                     "profile_path": "/rZDcD3ipaawYtyJ74Iv8Zw133F9.jpg",
                     "cast_id": 1,
                     "character": "Valentín",
@@ -276,7 +289,7 @@
                     "known_for_department": "Acting",
                     "name": "Carmen Maura",
                     "original_name": "Carmen Maura",
-                    "popularity": 1.1826,
+                    "popularity": 0.5957,
                     "profile_path": "/sXvr7BvxscBkYpGTcYjpqbzkUSH.jpg",
                     "cast_id": 2,
                     "character": "Abuela",
@@ -290,7 +303,7 @@
                     "known_for_department": "Acting",
                     "name": "Julieta Cardinali",
                     "original_name": "Julieta Cardinali",
-                    "popularity": 0.4352,
+                    "popularity": 0.3274,
                     "profile_path": "/l79R8XhjqEb3ekvm9NKzeUY7yIZ.jpg",
                     "cast_id": 3,
                     "character": "Leticia",
@@ -304,7 +317,7 @@
                     "known_for_department": "Acting",
                     "name": "Jean Pierre Noher",
                     "original_name": "Jean Pierre Noher",
-                    "popularity": 0.2068,
+                    "popularity": 0.1709,
                     "profile_path": "/bOhQmfBYSJeNtn6vlsj3tKoOLfc.jpg",
                     "cast_id": 4,
                     "character": "El tío Chiche",
@@ -318,7 +331,7 @@
                     "known_for_department": "Acting",
                     "name": "Mex Urtizberea",
                     "original_name": "Mex Urtizberea",
-                    "popularity": 0.1248,
+                    "popularity": 0.2557,
                     "profile_path": "/1p1opRWBZ3sEcJTLaYHhfZu21IY.jpg",
                     "cast_id": 5,
                     "character": "Rufo",
@@ -332,7 +345,7 @@
                     "known_for_department": "Acting",
                     "name": "Lorenzo Quinteros",
                     "original_name": "Lorenzo Quinteros",
-                    "popularity": 0.0847,
+                    "popularity": 0.0835,
                     "profile_path": "/apxuGdCccZa3AkLW9bqg7yIqf6z.jpg",
                     "cast_id": 6,
                     "character": "Hombre del bar",
@@ -346,7 +359,7 @@
                     "known_for_department": "Directing",
                     "name": "Alejandro Agresti",
                     "original_name": "Alejandro Agresti",
-                    "popularity": 0.135,
+                    "popularity": 0.2407,
                     "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
                     "cast_id": 7,
                     "character": "El padre",
@@ -360,7 +373,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Roffé",
                     "original_name": "Carlos Roffé",
-                    "popularity": 0.1154,
+                    "popularity": 0.556,
                     "profile_path": "/sE5WbAHsP36SttszUXR9W9op1Ow.jpg",
                     "cast_id": 8,
                     "character": "Dr. Galaburri",
@@ -374,7 +387,7 @@
                     "known_for_department": "Acting",
                     "name": "Marina Glezer",
                     "original_name": "Marina Glezer",
-                    "popularity": 0.2923,
+                    "popularity": 0.603,
                     "profile_path": "/hNVG5wOFEeKrmVleRqsSBywGVzU.jpg",
                     "cast_id": 9,
                     "character": "La maestra",
@@ -388,7 +401,7 @@
                     "known_for_department": "Acting",
                     "name": "Stéfano de Gregorio",
                     "original_name": "Stéfano de Gregorio",
-                    "popularity": 0.1405,
+                    "popularity": 0.1501,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Roberto",
@@ -402,7 +415,7 @@
                     "known_for_department": "Acting",
                     "name": "Fabián Vena",
                     "original_name": "Fabián Vena",
-                    "popularity": 0.0639,
+                    "popularity": 0.528,
                     "profile_path": "/qqu9rRq68TPp5XlNOH1NiX4zSnK.jpg",
                     "cast_id": 11,
                     "character": "El cura",
@@ -418,7 +431,7 @@
                     "known_for_department": "Directing",
                     "name": "Alejandro Agresti",
                     "original_name": "Alejandro Agresti",
-                    "popularity": 0.135,
+                    "popularity": 0.2407,
                     "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
                     "credit_id": "52fe43fe9251416c91001793",
                     "department": "Directing",
@@ -431,7 +444,7 @@
                     "known_for_department": "Directing",
                     "name": "Alejandro Agresti",
                     "original_name": "Alejandro Agresti",
-                    "popularity": 0.135,
+                    "popularity": 0.2407,
                     "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
                     "credit_id": "5bdc555c925141784900d7ef",
                     "department": "Writing",
@@ -444,7 +457,7 @@
                     "known_for_department": "Production",
                     "name": "Julio Fernández",
                     "original_name": "Julio Fernández",
-                    "popularity": 0.0841,
+                    "popularity": 0.1377,
                     "profile_path": "/kPKrqauynMK1ZOjsJJnDeAfNK2K.jpg",
                     "credit_id": "5bdc5569c3a368404c00d262",
                     "department": "Production",
@@ -457,7 +470,7 @@
                     "known_for_department": "Production",
                     "name": "Laurens Geels",
                     "original_name": "Laurens Geels",
-                    "popularity": 0.0311,
+                    "popularity": 0.3255,
                     "profile_path": null,
                     "credit_id": "5bdc5577925141785500d22a",
                     "department": "Production",
@@ -470,7 +483,7 @@
                     "known_for_department": "Production",
                     "name": "René Goossens",
                     "original_name": "René Goossens",
-                    "popularity": 0.0261,
+                    "popularity": 0.0214,
                     "profile_path": "/r7n9n68YlAHdSCAW74TbUCjDmmm.jpg",
                     "credit_id": "5bdc5581c3a368404800b8bb",
                     "department": "Production",
@@ -483,7 +496,7 @@
                     "known_for_department": "Production",
                     "name": "Annemiek van Gorp",
                     "original_name": "Annemiek van Gorp",
-                    "popularity": 0.0143,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "5bdc558f0e0a26334100d4a1",
                     "department": "Production",
@@ -496,7 +509,7 @@
                     "known_for_department": "Directing",
                     "name": "Dick Maas",
                     "original_name": "Dick Maas",
-                    "popularity": 0.2166,
+                    "popularity": 0.3629,
                     "profile_path": "/tNVHmf93U9uL3PJyP09EVs7NEh1.jpg",
                     "credit_id": "5bdc55a3c3a368402c00f69e",
                     "department": "Production",
@@ -509,7 +522,7 @@
                     "known_for_department": "Production",
                     "name": "Massimo Vigliar",
                     "original_name": "Massimo Vigliar",
-                    "popularity": 0.0531,
+                    "popularity": 0.0484,
                     "profile_path": "/fzlpkrHQbMmJCsBRpxhMMCZjJ2G.jpg",
                     "credit_id": "5bdc55ac925141784c00d758",
                     "department": "Production",
@@ -522,7 +535,7 @@
                     "known_for_department": "Production",
                     "name": "Luis Salinas",
                     "original_name": "Luis Salinas",
-                    "popularity": 0.0143,
+                    "popularity": 0.0281,
                     "profile_path": null,
                     "credit_id": "5bdc55bec3a368404800b8f5",
                     "department": "Sound",
@@ -535,7 +548,7 @@
                     "known_for_department": "Sound",
                     "name": "Paul M. van Brugge",
                     "original_name": "Paul M. van Brugge",
-                    "popularity": 0.067,
+                    "popularity": 0.0409,
                     "profile_path": "/nPtwxpAODX2RuWKaI1jLUQtNwul.jpg",
                     "credit_id": "5bdc55c90e0a26333600e48e",
                     "department": "Sound",

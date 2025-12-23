@@ -22,30 +22,33 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/90KQw1lwSHVmx1ZlrgCURmfwURy.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/pYXg6VzDDsi2YVR9kK0PMvhZTR0.jpg",
+    "poster_url": "/storage/posters/como-funcionan-casi-todas-las-cosas-0263c467.jpg",
+    "backdrop_url": "/storage/backdrops/como-funcionan-casi-todas-las-cosas-c4468e52.jpg",
     "trailer": "https://www.youtube.com/watch?v=65E5pR3DL8Q",
+    "gallery_urls": [
+        "/storage/posters/como-funcionan-casi-todas-las-cosas-0263c467.jpg"
+    ],
     "cast": [
         {
             "id": 1555115,
             "name": "Verónica Gerez",
             "character": "Celina",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/9TKzflC4US7hJaT9UK5VszXxVda.jpg"
+            "image_url": "/storage/people/veronica-gerez-a32f34b8.jpg"
         },
         {
             "id": 1086355,
             "name": "Pilar Gamboa",
             "character": "Raquel",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+            "image_url": "/storage/people/pilar-gamboa-92778784.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Sandro",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 2778489,
@@ -59,7 +62,7 @@
             "name": "Miriam Odorico",
             "character": "Nora",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg"
+            "image_url": "/storage/people/miriam-odorico-cd91c10e.jpg"
         },
         {
             "id": 582884,
@@ -73,21 +76,21 @@
             "name": "Rafael Spregelburd",
             "character": "Goldberg",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+            "image_url": "/storage/people/rafael-spregelburd-4593ee99.jpg"
         },
         {
             "id": 1051298,
             "name": "María Ucedo",
             "character": "Rita",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/17Ptmayb4O7SRZPOGbbPwBBRQP2.jpg"
+            "image_url": "/storage/people/maria-ucedo-b27fa4b9.jpg"
         },
         {
             "id": 584196,
             "name": "Sergio Pángaro",
             "character": "Aldo",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg"
+            "image_url": "/storage/people/sergio-pangaro-0c16a3d3.jpg"
         }
     ],
     "crew": [
@@ -96,14 +99,14 @@
             "name": "Fernando Salem",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ypmDYa8nSBq47V72MkxPpLJsxc.jpg"
+            "image_url": "/storage/people/fernando-salem-ee1e8818.jpg"
         },
         {
             "id": 1555116,
             "name": "Fernando Salem",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ypmDYa8nSBq47V72MkxPpLJsxc.jpg"
+            "image_url": "/storage/people/fernando-salem-ee1e8818.jpg"
         },
         {
             "id": 1555117,
@@ -145,7 +148,7 @@
             "name": "Juan Pablo Miller",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg"
+            "image_url": "/storage/people/juan-pablo-miller-8a519176.jpg"
         },
         {
             "id": 56248,
@@ -180,7 +183,7 @@
             "name": "Juan Ignacio Bernardis",
             "department": "Sound",
             "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9rO6Tib79NHzIu9rM8DFZxOU5ha.jpg"
+            "image_url": "/storage/people/juan-ignacio-bernardis-5d4cb0cb.jpg"
         },
         {
             "id": 2713623,
@@ -201,7 +204,7 @@
             "name": "Laura Donari",
             "department": "Costume & Make-Up",
             "job": "Costume Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg"
+            "image_url": "/storage/people/laura-donari-a77e1c68.jpg"
         },
         {
             "id": 2778486,
@@ -222,14 +225,14 @@
             "name": "Juan Pablo Miller",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg"
+            "image_url": "/storage/people/juan-pablo-miller-8a519176.jpg"
         },
         {
             "id": 1555116,
             "name": "Fernando Salem",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ypmDYa8nSBq47V72MkxPpLJsxc.jpg"
+            "image_url": "/storage/people/fernando-salem-ee1e8818.jpg"
         },
         {
             "id": 2163419,
@@ -266,7 +269,7 @@
         "original_language": "es",
         "original_title": "Cómo funcionan casi todas las cosas",
         "overview": "Celina trabaja en una casilla de peaje en una ruta remota en un desierto. Pocos días antes de Navidad, su padre muere y se pone a vender enciclopedias para ganar dinero y viajar a Italia para encontrar a su madre.",
-        "popularity": 4.4074,
+        "popularity": 0.2786,
         "poster_path": "/90KQw1lwSHVmx1ZlrgCURmfwURy.jpg",
         "production_companies": [
             {
@@ -319,7 +322,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Gerez",
                     "original_name": "Verónica Gerez",
-                    "popularity": 0.2141,
+                    "popularity": 0.1979,
                     "profile_path": "/9TKzflC4US7hJaT9UK5VszXxVda.jpg",
                     "cast_id": 0,
                     "character": "Celina",
@@ -333,7 +336,7 @@
                     "known_for_department": "Acting",
                     "name": "Pilar Gamboa",
                     "original_name": "Pilar Gamboa",
-                    "popularity": 0.6681,
+                    "popularity": 0.5142,
                     "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg",
                     "cast_id": 1,
                     "character": "Raquel",
@@ -347,7 +350,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2522,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 3,
                     "character": "Sandro",
@@ -361,7 +364,7 @@
                     "known_for_department": "Acting",
                     "name": "Vicente Esquerre",
                     "original_name": "Vicente Esquerre",
-                    "popularity": 0.1026,
+                    "popularity": 0.0327,
                     "profile_path": null,
                     "cast_id": 23,
                     "character": "Brian",
@@ -375,7 +378,7 @@
                     "known_for_department": "Acting",
                     "name": "Miriam Odorico",
                     "original_name": "Miriam Odorico",
-                    "popularity": 0.2604,
+                    "popularity": 0.4657,
                     "profile_path": "/3wdXhgm7DlrYA4mD7NZPwEotMbG.jpg",
                     "cast_id": 24,
                     "character": "Nora",
@@ -389,7 +392,7 @@
                     "known_for_department": "Acting",
                     "name": "Marilú Marini",
                     "original_name": "Marilú Marini",
-                    "popularity": 0.4144,
+                    "popularity": 0.514,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Nelly",
@@ -403,7 +406,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Spregelburd",
                     "original_name": "Rafael Spregelburd",
-                    "popularity": 1.9898,
+                    "popularity": 0.2639,
                     "profile_path": "/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg",
                     "cast_id": 2,
                     "character": "Goldberg",
@@ -417,7 +420,7 @@
                     "known_for_department": "Acting",
                     "name": "María Ucedo",
                     "original_name": "María Ucedo",
-                    "popularity": 0.5533,
+                    "popularity": 0.6454,
                     "profile_path": "/17Ptmayb4O7SRZPOGbbPwBBRQP2.jpg",
                     "cast_id": 9,
                     "character": "Rita",
@@ -431,7 +434,7 @@
                     "known_for_department": "Sound",
                     "name": "Sergio Pángaro",
                     "original_name": "Sergio Pángaro",
-                    "popularity": 0.171,
+                    "popularity": 0.0429,
                     "profile_path": "/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg",
                     "cast_id": 7,
                     "character": "Aldo",
@@ -447,7 +450,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando Salem",
                     "original_name": "Fernando Salem",
-                    "popularity": 0.1533,
+                    "popularity": 0.1352,
                     "profile_path": "/ypmDYa8nSBq47V72MkxPpLJsxc.jpg",
                     "credit_id": "56822258c3a368607501197c",
                     "department": "Writing",
@@ -460,7 +463,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando Salem",
                     "original_name": "Fernando Salem",
-                    "popularity": 0.1533,
+                    "popularity": 0.1352,
                     "profile_path": "/ypmDYa8nSBq47V72MkxPpLJsxc.jpg",
                     "credit_id": "56822224c3a3684be30136a3",
                     "department": "Directing",
@@ -473,7 +476,7 @@
                     "known_for_department": "Writing",
                     "name": "Esteban Garelli",
                     "original_name": "Esteban Garelli",
-                    "popularity": 0.1301,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "56822243925141133400a558",
                     "department": "Writing",
@@ -486,7 +489,7 @@
                     "known_for_department": "Production",
                     "name": "Paula Massa",
                     "original_name": "Paula Massa",
-                    "popularity": 0.1699,
+                    "popularity": 0.0929,
                     "profile_path": null,
                     "credit_id": "668709b8464460e7deafc42c",
                     "department": "Production",
@@ -499,7 +502,7 @@
                     "known_for_department": "Production",
                     "name": "Leandro Borrell",
                     "original_name": "Leandro Borrell",
-                    "popularity": 0.1474,
+                    "popularity": 0.0382,
                     "profile_path": null,
                     "credit_id": "668709cad6dc3c13c4735634",
                     "department": "Production",
@@ -512,7 +515,7 @@
                     "known_for_department": "Production",
                     "name": "Diego Amson",
                     "original_name": "Diego Amson",
-                    "popularity": 0.1692,
+                    "popularity": 0.0906,
                     "profile_path": null,
                     "credit_id": "668709a1ac0ee0006a735619",
                     "department": "Production",
@@ -525,7 +528,7 @@
                     "known_for_department": "Editing",
                     "name": "Sebastián Mignogna",
                     "original_name": "Sebastián Mignogna",
-                    "popularity": 0.0422,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "668709daef5530b4b117f63a",
                     "department": "Production",
@@ -538,7 +541,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Pablo Miller",
                     "original_name": "Juan Pablo Miller",
-                    "popularity": 0.1741,
+                    "popularity": 0.0363,
                     "profile_path": "/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg",
                     "credit_id": "668709acffe18a544f5d2f75",
                     "department": "Production",
@@ -551,7 +554,7 @@
                     "known_for_department": "Production",
                     "name": "Verónica Cura",
                     "original_name": "Verónica Cura",
-                    "popularity": 0.1984,
+                    "popularity": 0.0752,
                     "profile_path": null,
                     "credit_id": "668709c14c0e8d368fafc462",
                     "department": "Production",
@@ -564,7 +567,7 @@
                     "known_for_department": "Camera",
                     "name": "Georgina Pretto",
                     "original_name": "Georgina Pretto",
-                    "popularity": 0.1238,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "5f0fb434d371970034a9bc36",
                     "department": "Camera",
@@ -577,7 +580,7 @@
                     "known_for_department": "Art",
                     "name": "Carina Luján",
                     "original_name": "Carina Luján",
-                    "popularity": 0.1558,
+                    "popularity": 0.0478,
                     "profile_path": null,
                     "credit_id": "5f0fb53920e6a500319faa44",
                     "department": "Art",
@@ -590,7 +593,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Martín Treffinger",
                     "original_name": "Juan Martín Treffinger",
-                    "popularity": 0.0801,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5f0fb54ff0317400378fea19",
                     "department": "Production",
@@ -603,7 +606,7 @@
                     "known_for_department": "Sound",
                     "name": "Juan Ignacio Bernardis",
                     "original_name": "Juan Ignacio Bernardis",
-                    "popularity": 0.1745,
+                    "popularity": 0.0214,
                     "profile_path": "/9rO6Tib79NHzIu9rM8DFZxOU5ha.jpg",
                     "credit_id": "5f0fb42bdcf87500369dd02b",
                     "department": "Sound",
@@ -616,7 +619,7 @@
                     "known_for_department": "Editing",
                     "name": "Emiliano Fardaus",
                     "original_name": "Emiliano Fardaus",
-                    "popularity": 0.0639,
+                    "popularity": 0.0193,
                     "profile_path": null,
                     "credit_id": "5f0fb4c34772150036728afb",
                     "department": "Editing",
@@ -629,7 +632,7 @@
                     "known_for_department": "Directing",
                     "name": "Germán Castelnuovo",
                     "original_name": "Germán Castelnuovo",
-                    "popularity": 0.0682,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5f0fb55b20e6a500339f478b",
                     "department": "Directing",
@@ -642,7 +645,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Laura Donari",
                     "original_name": "Laura Donari",
-                    "popularity": 0.1775,
+                    "popularity": 0.0336,
                     "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
                     "credit_id": "5f0fb54220e6a500319faa50",
                     "department": "Costume & Make-Up",
@@ -655,7 +658,7 @@
                     "known_for_department": "Production",
                     "name": "Florencia Poblete",
                     "original_name": "Florencia Poblete",
-                    "popularity": 0.0801,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f602a294c1d9a0039780489",
                     "department": "Production",
@@ -668,7 +671,7 @@
                     "known_for_department": "Production",
                     "name": "Diego Amson",
                     "original_name": "Diego Amson",
-                    "popularity": 0.1692,
+                    "popularity": 0.0906,
                     "profile_path": null,
                     "credit_id": "5f6029d64c1d9a00397802f0",
                     "department": "Production",
@@ -681,7 +684,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Pablo Miller",
                     "original_name": "Juan Pablo Miller",
-                    "popularity": 0.1741,
+                    "popularity": 0.0363,
                     "profile_path": "/5XHWhWnM7iWqHc7Zsb0txZt9HA8.jpg",
                     "credit_id": "5f6029e3fd7aa40039ebbff4",
                     "department": "Production",
@@ -694,7 +697,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando Salem",
                     "original_name": "Fernando Salem",
-                    "popularity": 0.1533,
+                    "popularity": 0.1352,
                     "profile_path": "/ypmDYa8nSBq47V72MkxPpLJsxc.jpg",
                     "credit_id": "5f602a013f7e1d003694358b",
                     "department": "Production",
@@ -707,7 +710,7 @@
                     "known_for_department": "Art",
                     "name": "Carina Luján",
                     "original_name": "Carina Luján",
-                    "popularity": 0.1558,
+                    "popularity": 0.0478,
                     "profile_path": null,
                     "credit_id": "5f602a4c706b9f003905cd24",
                     "department": "Art",
@@ -720,7 +723,7 @@
                     "known_for_department": "Production",
                     "name": "Paula Massa",
                     "original_name": "Paula Massa",
-                    "popularity": 0.1699,
+                    "popularity": 0.0929,
                     "profile_path": null,
                     "credit_id": "5f6029f34c1d9a00377789e2",
                     "department": "Production",

@@ -1,14 +1,13 @@
 {
     "source": "tmdb",
     "tmdb_id": 278458,
-    "cinear_id": null,
     "slug": "el-artista",
     "title": "El artista",
     "original_title": "El artista",
     "overview": "Un enfermero roba algunos de los dibujos de uno de sus pacientes y gana dinero con ellos.",
     "runtime": 100,
-    "release_date": null,
-    "year": 2008,
+    "release_date": "2009-05-28",
+    "year": 2009,
     "tagline": "",
     "genres": [
         {
@@ -17,14 +16,19 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Italy"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/yCdY2zEo4VpJv59FoEG9gIpwFtD.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/4xzsUYYYFPzXuMX34VzQ7sWge0f.jpg",
+    "poster_url": "/storage/posters/el-artista-14cdcf19.jpg",
+    "backdrop_url": "/storage/backdrops/el-artista-f73c2dfb.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-artista-14cdcf19.jpg",
+        "/storage/gallery/gallery-2-638d0941.jpg"
+    ],
     "cast": [
         {
             "id": 1333898,
@@ -38,7 +42,7 @@
             "name": "Sergio Pángaro",
             "character": "",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg"
+            "image_url": "/storage/people/sergio-pangaro-0c16a3d3.jpg"
         },
         {
             "id": 584195,
@@ -68,14 +72,14 @@
             "name": "Mariano Cohn",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ojioeKl18KByUrAoZlu2DHA9102.jpg"
+            "image_url": "/storage/people/mariano-cohn-2ffb3bb7.jpg"
         },
         {
             "id": 584191,
             "name": "Gastón Duprat",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg"
+            "image_url": "/storage/people/gaston-duprat-c33b1c9d.jpg"
         },
         {
             "id": 584195,
@@ -106,7 +110,7 @@
         "original_language": "es",
         "original_title": "El artista",
         "overview": "Un enfermero roba algunos de los dibujos de uno de sus pacientes y gana dinero con ellos.",
-        "popularity": 0.3756,
+        "popularity": 0.7085,
         "poster_path": "/yCdY2zEo4VpJv59FoEG9gIpwFtD.jpg",
         "production_companies": [
             {
@@ -126,7 +130,7 @@
                 "name": "Italy"
             }
         ],
-        "release_date": null,
+        "release_date": "2009-05-28",
         "revenue": 0,
         "runtime": 100,
         "spoken_languages": [
@@ -151,7 +155,7 @@
                     "known_for_department": "Acting",
                     "name": "Alberto Laiseca",
                     "original_name": "Alberto Laiseca",
-                    "popularity": 0.1641,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "cast_id": 0,
                     "character": "",
@@ -165,7 +169,7 @@
                     "known_for_department": "Sound",
                     "name": "Sergio Pángaro",
                     "original_name": "Sergio Pángaro",
-                    "popularity": 0.1756,
+                    "popularity": 0.0429,
                     "profile_path": "/vzNAPnv1lnHswD4jGIHrVDkFBVv.jpg",
                     "cast_id": 1,
                     "character": "",
@@ -179,7 +183,7 @@
                     "known_for_department": "Writing",
                     "name": "Andrés Duprat",
                     "original_name": "Andrés Duprat",
-                    "popularity": 0.2786,
+                    "popularity": 0.162,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "",
@@ -193,7 +197,7 @@
                     "known_for_department": "Acting",
                     "name": "Enrique Gagliesi",
                     "original_name": "Enrique Gagliesi",
-                    "popularity": 0.0763,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "",
@@ -207,7 +211,7 @@
                     "known_for_department": "Acting",
                     "name": "Ana Laura Loza",
                     "original_name": "Ana Laura Loza",
-                    "popularity": 0.0243,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "",
@@ -223,7 +227,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Cohn",
                     "original_name": "Mariano Cohn",
-                    "popularity": 0.3739,
+                    "popularity": 0.5348,
                     "profile_path": "/ojioeKl18KByUrAoZlu2DHA9102.jpg",
                     "credit_id": "53a9428c0e0a261449007632",
                     "department": "Directing",
@@ -236,7 +240,7 @@
                     "known_for_department": "Directing",
                     "name": "Gastón Duprat",
                     "original_name": "Gastón Duprat",
-                    "popularity": 0.452,
+                    "popularity": 0.5955,
                     "profile_path": "/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg",
                     "credit_id": "53a942970e0a2614320076b7",
                     "department": "Directing",
@@ -249,7 +253,7 @@
                     "known_for_department": "Writing",
                     "name": "Andrés Duprat",
                     "original_name": "Andrés Duprat",
-                    "popularity": 0.2786,
+                    "popularity": 0.162,
                     "profile_path": null,
                     "credit_id": "571f8559c3a3686c99002bf0",
                     "department": "Writing",

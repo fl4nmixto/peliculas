@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 539055,
-    "cinear_id": null,
     "slug": "los-hermanos-karaoke",
     "title": "Los hermanos karaoke",
     "original_title": "Los hermanos karaoke",
@@ -11,16 +10,23 @@
     "year": 2017,
     "tagline": "",
     "genres": [
-        "Comedia",
-        "Música"
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 10402,
+            "name": "Música"
+        }
     ],
     "countries": [],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/nWsNXRDLj7Vw6x6qiaiv0AmJDDK.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/q2fCFYaB70AaM6A9twImQvf5bbf.jpg",
+    "poster_url": "/storage/posters/los-hermanos-karaoke-3f061ebb.jpg",
+    "backdrop_url": "/storage/backdrops/los-hermanos-karaoke-99a73684.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 2582713,
@@ -91,7 +97,7 @@
         "original_language": "es",
         "original_title": "Los hermanos karaoke",
         "overview": "Una comedia, que entre la parodia y el humor inesperado, plantea un trío amoroso imperdible.",
-        "popularity": 0,
+        "popularity": 0.1206,
         "poster_path": "/nWsNXRDLj7Vw6x6qiaiv0AmJDDK.jpg",
         "production_companies": [],
         "production_countries": [],
@@ -120,7 +126,7 @@
                     "known_for_department": "Acting",
                     "name": "Maru Zapata",
                     "original_name": "Maru Zapata",
-                    "popularity": 0.0404,
+                    "popularity": 0.1118,
                     "profile_path": null,
                     "cast_id": 1,
                     "character": "",
@@ -134,7 +140,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Gregori",
                     "original_name": "Agustín Gregori",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "",
@@ -164,7 +170,7 @@
                     "known_for_department": "Directing",
                     "name": "Ignacio Laxalde",
                     "original_name": "Ignacio Laxalde",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "5e809989af85de00166005ba",
                     "department": "Directing",
@@ -177,7 +183,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Gregori",
                     "original_name": "Agustín Gregori",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "5e8099f3a127e5001656c606",
                     "department": "Directing",

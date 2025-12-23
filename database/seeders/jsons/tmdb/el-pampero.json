@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 480882,
-    "cinear_id": null,
     "slug": "el-pampero",
     "title": "El Pampero",
     "original_title": "El Pampero",
@@ -11,8 +10,14 @@
     "year": 2017,
     "tagline": "No se puede escapar de uno mismo.",
     "genres": [
-        "Suspense",
-        "Drama"
+        {
+            "id": 53,
+            "name": "Suspense"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina",
@@ -22,30 +27,33 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/9GcOFLjKlAkG2Jj3Kh1hrG6dpYE.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/yPQ6I7GcooDj4Qe2Q4TkdU2asjC.jpg",
+    "poster_url": "/storage/posters/el-pampero-4d0ebe96.jpg",
+    "backdrop_url": "/storage/backdrops/el-pampero-bd79a802.jpg",
     "trailer": "https://www.youtube.com/watch?v=JyKa-ZkRB_8",
+    "gallery_urls": [
+        "/storage/backdrops/el-pampero-bd79a802.jpg"
+    ],
     "cast": [
         {
             "id": 583126,
             "name": "Julio Chávez",
             "character": "Fernando",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg"
+            "image_url": "/storage/people/julio-chavez-846096d9.jpg"
         },
         {
             "id": 1086355,
             "name": "Pilar Gamboa",
             "character": "Carla",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+            "image_url": "/storage/people/pilar-gamboa-92778784.jpg"
         },
         {
             "id": 54190,
             "name": "César Troncoso",
             "character": "Mario",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
+            "image_url": "/storage/people/cesar-troncoso-aa9ce66c.jpg"
         },
         {
             "id": 1549751,
@@ -59,7 +67,7 @@
             "name": "Ignacio Toselli",
             "character": "Marcos",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/sCVWAC9Eof7f5n5wmoX2PGohsYH.jpg"
+            "image_url": "/storage/people/ignacio-toselli-7ca54fc3.jpg"
         }
     ],
     "crew": [
@@ -68,7 +76,7 @@
             "name": "Matías Lucchesi",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg"
+            "image_url": "/storage/people/matias-lucchesi-8c3a31ab.jpg"
         },
         {
             "id": 1323145,
@@ -82,14 +90,14 @@
             "name": "Matías Lucchesi",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg"
+            "image_url": "/storage/people/matias-lucchesi-8c3a31ab.jpg"
         },
         {
             "id": 1144948,
             "name": "Delfina Castagnino",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg"
+            "image_url": "/storage/people/delfina-castagnino-cd0d8910.jpg"
         },
         {
             "id": 1623998,
@@ -103,7 +111,7 @@
             "name": "Adrián Suárez",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/mt33qMlepQz8xAj5IQZvMKidkVV.jpg"
+            "image_url": "/storage/people/adrian-suarez-2869084f.jpg"
         },
         {
             "id": 983278,
@@ -117,7 +125,7 @@
             "name": "Laura Donari",
             "department": "Costume & Make-Up",
             "job": "Costume Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg"
+            "image_url": "/storage/people/laura-donari-a77e1c68.jpg"
         },
         {
             "id": 2732311,
@@ -158,7 +166,7 @@
         "original_language": "es",
         "original_title": "El Pampero",
         "overview": "Un hombre y una mujer, que nunca se han visto antes, viajan en un velero. Él sólo sabe que lo espera su destino al final del viaje. Ella huye de un crimen que dice no haber cometido. No tienen nada que perder. Sólo los contiene el río y la esperanza de la libertad si logran llegar al otro lado. Pero, en el camino, un guardacosta interviene para complicar sus planes.",
-        "popularity": 0.1681,
+        "popularity": 0.5987,
         "poster_path": "/9GcOFLjKlAkG2Jj3Kh1hrG6dpYE.jpg",
         "production_companies": [
             {
@@ -225,7 +233,7 @@
                     "known_for_department": "Acting",
                     "name": "Julio Chávez",
                     "original_name": "Julio Chávez",
-                    "popularity": 0.1612,
+                    "popularity": 0.6414,
                     "profile_path": "/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg",
                     "cast_id": 3,
                     "character": "Fernando",
@@ -239,7 +247,7 @@
                     "known_for_department": "Acting",
                     "name": "Pilar Gamboa",
                     "original_name": "Pilar Gamboa",
-                    "popularity": 0.6689,
+                    "popularity": 0.5142,
                     "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg",
                     "cast_id": 5,
                     "character": "Carla",
@@ -253,7 +261,7 @@
                     "known_for_department": "Acting",
                     "name": "César Troncoso",
                     "original_name": "César Troncoso",
-                    "popularity": 0.3237,
+                    "popularity": 0.5266,
                     "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg",
                     "cast_id": 4,
                     "character": "Mario",
@@ -267,7 +275,7 @@
                     "known_for_department": "Acting",
                     "name": "Alvin Astorga",
                     "original_name": "Alvin Astorga",
-                    "popularity": 0.0453,
+                    "popularity": 0.1285,
                     "profile_path": null,
                     "cast_id": 7,
                     "character": "Marinero",
@@ -281,7 +289,7 @@
                     "known_for_department": "Acting",
                     "name": "Ignacio Toselli",
                     "original_name": "Ignacio Toselli",
-                    "popularity": 0.0357,
+                    "popularity": 0.0816,
                     "profile_path": "/sCVWAC9Eof7f5n5wmoX2PGohsYH.jpg",
                     "cast_id": 6,
                     "character": "Marcos",
@@ -297,7 +305,7 @@
                     "known_for_department": "Directing",
                     "name": "Matías Lucchesi",
                     "original_name": "Matías Lucchesi",
-                    "popularity": 0.0814,
+                    "popularity": 0.0787,
                     "profile_path": "/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg",
                     "credit_id": "59dfb973c3a36861df0b4bba",
                     "department": "Directing",
@@ -310,7 +318,7 @@
                     "known_for_department": "Writing",
                     "name": "Gonzalo Salaya",
                     "original_name": "Gonzalo Salaya",
-                    "popularity": 0.0071,
+                    "popularity": 0.0423,
                     "profile_path": null,
                     "credit_id": "5ade64289251417656000296",
                     "department": "Writing",
@@ -323,7 +331,7 @@
                     "known_for_department": "Directing",
                     "name": "Matías Lucchesi",
                     "original_name": "Matías Lucchesi",
-                    "popularity": 0.0814,
+                    "popularity": 0.0787,
                     "profile_path": "/jVKMfxp5Rg3i8Pv2GlHafwUgkPD.jpg",
                     "credit_id": "5ade6417925141766800021c",
                     "department": "Writing",
@@ -336,7 +344,7 @@
                     "known_for_department": "Editing",
                     "name": "Delfina Castagnino",
                     "original_name": "Delfina Castagnino",
-                    "popularity": 0.0239,
+                    "popularity": 0.0393,
                     "profile_path": "/gKhjEgz06w9l4lJ8vxd9UA3hDXL.jpg",
                     "credit_id": "5ef21aae6c84d60033af929b",
                     "department": "Editing",
@@ -349,7 +357,7 @@
                     "known_for_department": "Sound",
                     "name": "Martín Litmanovich",
                     "original_name": "Martín Litmanovich",
-                    "popularity": 0.0661,
+                    "popularity": 0.0475,
                     "profile_path": null,
                     "credit_id": "5ef21aeb6e3deb0036aa8f24",
                     "department": "Sound",
@@ -362,7 +370,7 @@
                     "known_for_department": "Art",
                     "name": "Adrián Suárez",
                     "original_name": "Adrián Suárez",
-                    "popularity": 0.0286,
+                    "popularity": 0.1055,
                     "profile_path": "/mt33qMlepQz8xAj5IQZvMKidkVV.jpg",
                     "credit_id": "5ef21ad643cd5400337a0ba3",
                     "department": "Art",
@@ -375,7 +383,7 @@
                     "known_for_department": "Camera",
                     "name": "Guillermo Nieto",
                     "original_name": "Guillermo Nieto",
-                    "popularity": 0.0362,
+                    "popularity": 0.1597,
                     "profile_path": null,
                     "credit_id": "5f0f2461e267de0034ab0393",
                     "department": "Camera",
@@ -388,7 +396,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Laura Donari",
                     "original_name": "Laura Donari",
-                    "popularity": 0.0286,
+                    "popularity": 0.0336,
                     "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
                     "credit_id": "5f0f25335c071b003476e815",
                     "department": "Costume & Make-Up",
@@ -401,7 +409,7 @@
                     "known_for_department": "Art",
                     "name": "Julia Baglietto",
                     "original_name": "Julia Baglietto",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "68b8875de2761164679bb00a",
                     "department": "Art",
@@ -414,7 +422,7 @@
                     "known_for_department": "Art",
                     "name": "Daniel Ladner",
                     "original_name": "Daniel Ladner",
-                    "popularity": 0.0286,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "68b88767b4b474000c1f3d97",
                     "department": "Art",

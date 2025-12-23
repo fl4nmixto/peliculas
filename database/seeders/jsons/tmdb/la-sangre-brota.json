@@ -16,63 +16,66 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "France",
+        "Germany"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/u5p6cR2jZP5zSK2n5rXpeHBxwfX.jpg",
+    "poster_url": "/storage/posters/la-sangre-brota-de552d63.jpg",
     "backdrop_url": null,
     "trailer": "https://www.youtube.com/watch?v=Oq6KcrtcMVw",
+    "gallery_urls": [],
     "cast": [
         {
             "id": 50929,
             "name": "Arturo Goetz",
             "character": "Arturo",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 66957,
             "name": "Nahuel Pérez Biscayart",
             "character": "Leandro",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg"
+            "image_url": "/storage/people/nahuel-perez-biscayart-c673b8bd.jpg"
         },
         {
             "id": 50927,
             "name": "Guillermo Arengo",
             "character": "MC Enroe",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg"
+            "image_url": "/storage/people/guillermo-arengo-09a08f58.jpg"
         },
         {
             "id": 942216,
             "name": "Susana Pampín",
             "character": "Marcela",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg"
+            "image_url": "/storage/people/susana-pampin-3a3c3bb3.jpg"
         },
         {
             "id": 96481,
             "name": "Ailín Salas",
             "character": "Vanesa",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg"
+            "image_url": "/storage/people/ailin-salas-d4bdea1f.jpg"
         },
         {
             "id": 964554,
             "name": "Guadalupe Docampo",
             "character": "Romina",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/kzVzVd52S1kMK8y3yye9x75lpVm.jpg"
+            "image_url": "/storage/people/guadalupe-docampo-62f48eca.jpg"
         },
         {
             "id": 3017569,
             "name": "Stella Galazzi",
             "character": "Irene",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/eQzYw1PCAL39cfBaa059Ueet29Y.jpg"
+            "image_url": "/storage/people/stella-galazzi-a6c2466f.jpg"
         }
     ],
     "crew": [
@@ -81,14 +84,14 @@
             "name": "Pablo Fendrik",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+            "image_url": "/storage/people/pablo-fendrik-d9e3d751.jpg"
         },
         {
             "id": 50922,
             "name": "Pablo Fendrik",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+            "image_url": "/storage/people/pablo-fendrik-d9e3d751.jpg"
         }
     ],
     "raw": {
@@ -112,7 +115,7 @@
         "original_language": "es",
         "original_title": "La sangre brota",
         "overview": "Arturo, un parsimonioso taxista de sesenta años, tiene que conseguir mil dólares en menos de 24 horas. Su hijo mayor, Ramiro, que se fugó de casa hace tres años, acaba de llamar desde Amsterdam pidiéndole ayuda urgente. Ese mismo día, Leandro, el hijo menor que aún vive con él, planea robarle sus ahorros, comprar una partida de drogas y huir a la costa para venderla en los boliches. Cuando el destino los enfrente, Arturo se transformará de nuevo en aquel hombre que obligó a Ramiro a fugarse tres años atrás.",
-        "popularity": 1.39,
+        "popularity": 1.3735,
         "poster_path": "/u5p6cR2jZP5zSK2n5rXpeHBxwfX.jpg",
         "production_companies": [
             {
@@ -173,7 +176,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.3438,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 1,
                     "character": "Arturo",
@@ -187,7 +190,7 @@
                     "known_for_department": "Acting",
                     "name": "Nahuel Pérez Biscayart",
                     "original_name": "Nahuel Pérez Biscayart",
-                    "popularity": 0.5655,
+                    "popularity": 0.5583,
                     "profile_path": "/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg",
                     "cast_id": 2,
                     "character": "Leandro",
@@ -201,7 +204,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Arengo",
                     "original_name": "Guillermo Arengo",
-                    "popularity": 0.5326,
+                    "popularity": 0.4644,
                     "profile_path": "/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
                     "cast_id": 3,
                     "character": "MC Enroe",
@@ -215,7 +218,7 @@
                     "known_for_department": "Acting",
                     "name": "Susana Pampín",
                     "original_name": "Susana Pampín",
-                    "popularity": 0.4406,
+                    "popularity": 0.3927,
                     "profile_path": "/rx60K7WdCl6MRnng5pjmAtUOkcy.jpg",
                     "cast_id": 5,
                     "character": "Marcela",
@@ -229,7 +232,7 @@
                     "known_for_department": "Acting",
                     "name": "Ailín Salas",
                     "original_name": "Ailín Salas",
-                    "popularity": 0.5287,
+                    "popularity": 0.6841,
                     "profile_path": "/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg",
                     "cast_id": 6,
                     "character": "Vanesa",
@@ -243,7 +246,7 @@
                     "known_for_department": "Acting",
                     "name": "Guadalupe Docampo",
                     "original_name": "Guadalupe Docampo",
-                    "popularity": 0.067,
+                    "popularity": 0.0947,
                     "profile_path": "/kzVzVd52S1kMK8y3yye9x75lpVm.jpg",
                     "cast_id": 7,
                     "character": "Romina",
@@ -257,7 +260,7 @@
                     "known_for_department": "Acting",
                     "name": "Stella Galazzi",
                     "original_name": "Stella Galazzi",
-                    "popularity": 0.1426,
+                    "popularity": 0.1464,
                     "profile_path": "/eQzYw1PCAL39cfBaa059Ueet29Y.jpg",
                     "cast_id": 10,
                     "character": "Irene",
@@ -273,7 +276,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Fendrik",
                     "original_name": "Pablo Fendrik",
-                    "popularity": 0.5216,
+                    "popularity": 0.4356,
                     "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
                     "credit_id": "52fe4d119251416c7512ee15",
                     "department": "Directing",
@@ -286,7 +289,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Fendrik",
                     "original_name": "Pablo Fendrik",
-                    "popularity": 0.5216,
+                    "popularity": 0.4356,
                     "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
                     "credit_id": "52fe4d119251416c7512ee1b",
                     "department": "Writing",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 101338,
-    "cinear_id": null,
     "slug": "mundo-grua",
     "title": "Mundo grúa",
     "original_title": "Mundo grúa",
@@ -11,7 +10,10 @@
     "year": 1999,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina",
@@ -20,30 +22,33 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/4JryJHGomK8BYRDcJ5Fg9m1l2PI.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/hoAUWqdkXffHa13H0ZKBdVPovGx.jpg",
+    "poster_url": "/storage/posters/mundo-grua-11c899ed.jpg",
+    "backdrop_url": "/storage/backdrops/mundo-grua-03a2aba2.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/mundo-grua-11c899ed.jpg"
+    ],
     "cast": [
         {
             "id": 990725,
             "name": "Luis Margani",
             "character": "Rulo",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/pRgaOzzCKAf8eFeaoEyj3ydFJoY.jpg"
+            "image_url": "/storage/people/luis-margani-24ca5975.jpg"
         },
         {
             "id": 52235,
             "name": "Daniel Valenzuela",
             "character": "Torres",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg"
+            "image_url": "/storage/people/daniel-valenzuela-70ff0bee.jpg"
         },
         {
             "id": 584336,
             "name": "Adriana Aizemberg",
             "character": "Adriana",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg"
+            "image_url": "/storage/people/adriana-aizemberg-534ffd0a.jpg"
         },
         {
             "id": 1618439,
@@ -57,14 +62,14 @@
             "name": "Graciana Chironi",
             "character": "Rulo's mother",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/eVRRIW9Cyl5oy7mD0RGfIxR8XOi.jpg"
+            "image_url": "/storage/people/graciana-chironi-0fd687d5.jpg"
         },
         {
             "id": 618344,
             "name": "Roly Serrano",
             "character": "Walter",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/87mrTPD9ARHg0aTI9Zfuux4n0wA.jpg"
+            "image_url": "/storage/people/roly-serrano-40183d0a.jpg"
         },
         {
             "id": 5064968,
@@ -78,7 +83,7 @@
             "name": "Oscar Alegre",
             "character": "Médico",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/jhAnxny4y72UlyBZp1iycIrQrkd.jpg"
+            "image_url": "/storage/people/oscar-alegre-eaa130b7.jpg"
         },
         {
             "id": 5064996,
@@ -157,21 +162,21 @@
             "name": "Pablo Trapero",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/h8qZtRXhyheacl37J3MYx7aN05G.jpg"
+            "image_url": "/storage/people/pablo-trapero-eb58daef.jpg"
         },
         {
             "id": 555975,
             "name": "Nicolás Goldbart",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg"
+            "image_url": "/storage/people/nicolas-goldbart-d850215c.jpg"
         },
         {
             "id": 1892587,
             "name": "Hernán Musaluppi",
             "department": "Production",
             "job": "Production Manager",
-            "image_url": "https://image.tmdb.org/t/p/w154/yWIcXaKPKMAMOAwhjkIeu7aGbhB.jpg"
+            "image_url": "/storage/people/hernan-musaluppi-c1fd814f.jpg"
         },
         {
             "id": 2096965,
@@ -192,14 +197,14 @@
             "name": "Beto Acevedo",
             "department": "Editing",
             "job": "Color Timer",
-            "image_url": "https://image.tmdb.org/t/p/w154/gjX2cei4k4S5pfBePks15ADyxN6.jpg"
+            "image_url": "/storage/people/beto-acevedo-dfd43d61.jpg"
         },
         {
             "id": 1310730,
             "name": "Matías Mosteirín",
             "department": "Production",
             "job": "Production Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg"
+            "image_url": "/storage/people/matias-mosteirin-434b2007.jpg"
         },
         {
             "id": 1202720,
@@ -213,14 +218,14 @@
             "name": "Pablo Trapero",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/h8qZtRXhyheacl37J3MYx7aN05G.jpg"
+            "image_url": "/storage/people/pablo-trapero-eb58daef.jpg"
         },
         {
             "id": 1386373,
             "name": "Andrés Tambornino",
             "department": "Art",
             "job": "Production Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
             "id": 50924,
@@ -234,14 +239,14 @@
             "name": "Pablo Trapero",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/h8qZtRXhyheacl37J3MYx7aN05G.jpg"
+            "image_url": "/storage/people/pablo-trapero-eb58daef.jpg"
         },
         {
             "id": 976406,
             "name": "Lita Stantic",
             "department": "Production",
             "job": "Associate Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/hI9OfVGTBccQdry6GcA2WMVoP02.jpg"
+            "image_url": "/storage/people/lita-stantic-c3de3179.jpg"
         },
         {
             "id": 2265508,
@@ -262,14 +267,14 @@
             "name": "Ana Katz",
             "department": "Directing",
             "job": "Assistant Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 1022649,
             "name": "Rodrigo Moreno",
             "department": "Production",
             "job": "Production Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/ffrwertO1hAdl8H7wxIlbqWHzby.jpg"
+            "image_url": "/storage/people/rodrigo-moreno-dd2eff31.jpg"
         },
         {
             "id": 4632869,
@@ -374,14 +379,14 @@
             "name": "Andrés Tambornino",
             "department": "Crew",
             "job": "Post Production Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
             "id": 1002601,
             "name": "Lisandro Alonso",
             "department": "Sound",
             "job": "Sound Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg"
+            "image_url": "/storage/people/lisandro-alonso-d71fbdf4.jpg"
         },
         {
             "id": 1903501,
@@ -409,35 +414,35 @@
             "name": "Manuel Antín",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/kbhEEuzhvtniclp4JQ0Cf5Bv0v9.jpg"
+            "image_url": "/storage/people/manuel-antin-492c1a65.jpg"
         },
         {
             "id": 556471,
             "name": "Ana Katz",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 1386373,
             "name": "Andrés Tambornino",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
             "id": 1083797,
             "name": "José A. Martínez Suárez",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/7V6wyRlULgjt4S8v2hcpZlrvZLW.jpg"
+            "image_url": "/storage/people/jose-a-martinez-suarez-6e2407d4.jpg"
         },
         {
             "id": 1027870,
             "name": "Bruno Stagnaro",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/e52lZywS1Ob5aeedGIqU9ju4n1Y.jpg"
+            "image_url": "/storage/people/bruno-stagnaro-eccd7c61.jpg"
         },
         {
             "id": 2236613,
@@ -458,14 +463,14 @@
             "name": "Lucrecia Martel",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg"
+            "image_url": "/storage/people/lucrecia-martel-81d404e9.jpg"
         },
         {
             "id": 1082091,
             "name": "Martín Rejtman",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/k0PV0Atn7KeJtrShralnLKHoFcp.jpg"
+            "image_url": "/storage/people/martin-rejtman-4bffa2ea.jpg"
         },
         {
             "id": 3119734,
@@ -479,14 +484,14 @@
             "name": "Mariano De Rosa",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/hD3VhuKbRgs6QRjFrKn3ZBP59aY.jpg"
+            "image_url": "/storage/people/mariano-de-rosa-df003a5c.jpg"
         },
         {
             "id": 113625,
             "name": "Esteban Sapir",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/8zvyDqZFIlskA8mTn4ZNJlSaN8G.jpg"
+            "image_url": "/storage/people/esteban-sapir-dbad6808.jpg"
         },
         {
             "id": 1022346,
@@ -523,7 +528,7 @@
         "original_language": "es",
         "original_title": "Mundo grúa",
         "overview": "El retrato de un hombre y sus intentos de reconciliarse con la vida tras perder su trabajo.",
-        "popularity": 4.2518,
+        "popularity": 1.7795,
         "poster_path": "/4JryJHGomK8BYRDcJ5Fg9m1l2PI.jpg",
         "production_companies": [
             {
@@ -593,8 +598,8 @@
         "tagline": "",
         "title": "Mundo grúa",
         "video": false,
-        "vote_average": 6.109,
-        "vote_count": 23,
+        "vote_average": 6.021,
+        "vote_count": 24,
         "credits": {
             "cast": [
                 {
@@ -604,7 +609,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Margani",
                     "original_name": "Luis Margani",
-                    "popularity": 0.0639,
+                    "popularity": 0.2865,
                     "profile_path": "/pRgaOzzCKAf8eFeaoEyj3ydFJoY.jpg",
                     "cast_id": 8,
                     "character": "Rulo",
@@ -618,7 +623,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Valenzuela",
                     "original_name": "Daniel Valenzuela",
-                    "popularity": 0.1507,
+                    "popularity": 0.1995,
                     "profile_path": "/qKPZcY1ACEreQtKzjqkn7YjUMlM.jpg",
                     "cast_id": 10,
                     "character": "Torres",
@@ -632,7 +637,7 @@
                     "known_for_department": "Acting",
                     "name": "Adriana Aizemberg",
                     "original_name": "Adriana Aizemberg",
-                    "popularity": 0.1676,
+                    "popularity": 0.0912,
                     "profile_path": "/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg",
                     "cast_id": 9,
                     "character": "Adriana",
@@ -646,7 +651,7 @@
                     "known_for_department": "Sound",
                     "name": "Federico Esquerro",
                     "original_name": "Federico Esquerro",
-                    "popularity": 0.0538,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Claudio",
@@ -660,7 +665,7 @@
                     "known_for_department": "Acting",
                     "name": "Graciana Chironi",
                     "original_name": "Graciana Chironi",
-                    "popularity": 0.0362,
+                    "popularity": 0.0479,
                     "profile_path": "/eVRRIW9Cyl5oy7mD0RGfIxR8XOi.jpg",
                     "cast_id": 12,
                     "character": "Rulo's mother",
@@ -674,7 +679,7 @@
                     "known_for_department": "Acting",
                     "name": "Roly Serrano",
                     "original_name": "Roly Serrano",
-                    "popularity": 0.2082,
+                    "popularity": 0.6625,
                     "profile_path": "/87mrTPD9ARHg0aTI9Zfuux4n0wA.jpg",
                     "cast_id": 15,
                     "character": "Walter",
@@ -688,7 +693,7 @@
                     "known_for_department": "Acting",
                     "name": "Alfonso Rementería",
                     "original_name": "Alfonso Rementería",
-                    "popularity": 0.0362,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Sartori",
@@ -702,7 +707,7 @@
                     "known_for_department": "Acting",
                     "name": "Oscar Alegre",
                     "original_name": "Oscar Alegre",
-                    "popularity": 0.0547,
+                    "popularity": 0.3565,
                     "profile_path": "/jhAnxny4y72UlyBZp1iycIrQrkd.jpg",
                     "cast_id": 26,
                     "character": "Médico",
@@ -716,7 +721,7 @@
                     "known_for_department": "Acting",
                     "name": "Mario Núñez",
                     "original_name": "Mario Núñez",
-                    "popularity": 0.0168,
+                    "popularity": 0.082,
                     "profile_path": null,
                     "cast_id": 54,
                     "character": "Jefe Armando",
@@ -730,7 +735,7 @@
                     "known_for_department": "Acting",
                     "name": "Adriana Ferro",
                     "original_name": "Adriana Ferro",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 55,
                     "character": "Psicóloga",
@@ -758,7 +763,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Zucco",
                     "original_name": "Alejandro Zucco",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 57,
                     "character": "Zucco",
@@ -772,7 +777,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Verón",
                     "original_name": "Carlos Verón",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 58,
                     "character": "Charly",
@@ -786,7 +791,7 @@
                     "known_for_department": "Acting",
                     "name": "Pilar Curuchaga",
                     "original_name": "Pilar Curuchaga",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 59,
                     "character": "Ingrid",
@@ -800,7 +805,7 @@
                     "known_for_department": "Acting",
                     "name": "Alicia Chillida",
                     "original_name": "Alicia Chillida",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 60,
                     "character": "Amiga abuela",
@@ -828,7 +833,7 @@
                     "known_for_department": "Acting",
                     "name": "Rogelio de Nicola",
                     "original_name": "Rogelio de Nicola",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 62,
                     "character": "Capataz gordo",
@@ -858,7 +863,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Trapero",
                     "original_name": "Pablo Trapero",
-                    "popularity": 1.1765,
+                    "popularity": 0.8733,
                     "profile_path": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
                     "credit_id": "52fe49efc3a36847f81ae6a1",
                     "department": "Directing",
@@ -871,7 +876,7 @@
                     "known_for_department": "Editing",
                     "name": "Nicolás Goldbart",
                     "original_name": "Nicolás Goldbart",
-                    "popularity": 0.0731,
+                    "popularity": 0.0777,
                     "profile_path": "/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg",
                     "credit_id": "64691ad5006b010189589dba",
                     "department": "Editing",
@@ -884,7 +889,7 @@
                     "known_for_department": "Production",
                     "name": "Hernán Musaluppi",
                     "original_name": "Hernán Musaluppi",
-                    "popularity": 0.0718,
+                    "popularity": 0.0445,
                     "profile_path": "/yWIcXaKPKMAMOAwhjkIeu7aGbhB.jpg",
                     "credit_id": "64691aeb33a376011ec3df06",
                     "department": "Production",
@@ -897,7 +902,7 @@
                     "known_for_department": "Sound",
                     "name": "David Miranda-Hardy",
                     "original_name": "David Miranda-Hardy",
-                    "popularity": 0.0645,
+                    "popularity": 0.1149,
                     "profile_path": null,
                     "credit_id": "64691b22006b010147e9ea76",
                     "department": "Sound",
@@ -910,7 +915,7 @@
                     "known_for_department": "Camera",
                     "name": "Cobi Migliora",
                     "original_name": "Cobi Migliora",
-                    "popularity": 0.0071,
+                    "popularity": 0.0404,
                     "profile_path": null,
                     "credit_id": "64691b2b33a37600e67a8c20",
                     "department": "Camera",
@@ -923,7 +928,7 @@
                     "known_for_department": "Editing",
                     "name": "Beto Acevedo",
                     "original_name": "Beto Acevedo",
-                    "popularity": 0.0558,
+                    "popularity": 0.0218,
                     "profile_path": "/gjX2cei4k4S5pfBePks15ADyxN6.jpg",
                     "credit_id": "64691ba8c3514c01577a07f2",
                     "department": "Editing",
@@ -936,7 +941,7 @@
                     "known_for_department": "Production",
                     "name": "Matías Mosteirín",
                     "original_name": "Matías Mosteirín",
-                    "popularity": 0.2575,
+                    "popularity": 0.062,
                     "profile_path": "/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg",
                     "credit_id": "64691bbe33a376013b3e11ff",
                     "department": "Production",
@@ -949,7 +954,7 @@
                     "known_for_department": "Sound",
                     "name": "Catriel Vildosola",
                     "original_name": "Catriel Vildosola",
-                    "popularity": 0.0286,
+                    "popularity": 0.0629,
                     "profile_path": null,
                     "credit_id": "5bff39970e0a2636ce056794",
                     "department": "Sound",
@@ -962,7 +967,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Trapero",
                     "original_name": "Pablo Trapero",
-                    "popularity": 1.1765,
+                    "popularity": 0.8733,
                     "profile_path": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
                     "credit_id": "5bff399fc3a36865bc054dd1",
                     "department": "Writing",
@@ -975,7 +980,7 @@
                     "known_for_department": "Editing",
                     "name": "Andrés Tambornino",
                     "original_name": "Andrés Tambornino",
-                    "popularity": 0.0554,
+                    "popularity": 0.0264,
                     "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
                     "credit_id": "5bff39e1c3a36865dc04351b",
                     "department": "Art",
@@ -988,7 +993,7 @@
                     "known_for_department": "Camera",
                     "name": "Cobi Migliora",
                     "original_name": "Cobi Migliora",
-                    "popularity": 0.0071,
+                    "popularity": 0.0404,
                     "profile_path": null,
                     "credit_id": "5cfefdb4c3a3680cac2008ae",
                     "department": "Camera",
@@ -1001,7 +1006,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Trapero",
                     "original_name": "Pablo Trapero",
-                    "popularity": 1.1765,
+                    "popularity": 0.8733,
                     "profile_path": "/h8qZtRXhyheacl37J3MYx7aN05G.jpg",
                     "credit_id": "673a1b65119917bc1f5e9a4b",
                     "department": "Production",
@@ -1014,7 +1019,7 @@
                     "known_for_department": "Production",
                     "name": "Lita Stantic",
                     "original_name": "Lita Stantic",
-                    "popularity": 0.047,
+                    "popularity": 0.1262,
                     "profile_path": "/hI9OfVGTBccQdry6GcA2WMVoP02.jpg",
                     "credit_id": "673a1b78f741eb0428b60e34",
                     "department": "Production",
@@ -1027,7 +1032,7 @@
                     "known_for_department": "Production",
                     "name": "Fiona Heine",
                     "original_name": "Fiona Heine",
-                    "popularity": 0.0256,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "673a1b8c209d43fbfb348709",
                     "department": "Production",
@@ -1040,7 +1045,7 @@
                     "known_for_department": "Sound",
                     "name": "Catriel Vildosola",
                     "original_name": "Catriel Vildosola",
-                    "popularity": 0.0286,
+                    "popularity": 0.0629,
                     "profile_path": null,
                     "credit_id": "673a1bb7209d43fbfb34872a",
                     "department": "Sound",
@@ -1053,7 +1058,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.0094,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "credit_id": "673a1bddd17d5c34fbeee010",
                     "department": "Directing",
@@ -1066,7 +1071,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Moreno",
                     "original_name": "Rodrigo Moreno",
-                    "popularity": 0.1152,
+                    "popularity": 0.2732,
                     "profile_path": "/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
                     "credit_id": "673a1bee3c831a132953bd64",
                     "department": "Production",
@@ -1105,7 +1110,7 @@
                     "known_for_department": "Art",
                     "name": "Claudia Tortora",
                     "original_name": "Claudia Tortora",
-                    "popularity": 0.0256,
+                    "popularity": 0.0453,
                     "profile_path": null,
                     "credit_id": "673a1c206067cb94676a307e",
                     "department": "Production",
@@ -1118,7 +1123,7 @@
                     "known_for_department": "Editing",
                     "name": "Gabriela Jaime",
                     "original_name": "Gabriela Jaime",
-                    "popularity": 0,
+                    "popularity": 0.0671,
                     "profile_path": null,
                     "credit_id": "673a1c2f5859f981eedfc34d",
                     "department": "Production",
@@ -1131,7 +1136,7 @@
                     "known_for_department": "Production",
                     "name": "Pablo Zoya",
                     "original_name": "Pablo Zoya",
-                    "popularity": 0,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "673a1c39d17d5c34fbeee024",
                     "department": "Production",
@@ -1144,7 +1149,7 @@
                     "known_for_department": "Production",
                     "name": "Cristina Vargas",
                     "original_name": "Cristina Vargas",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "673a1c4c6067cb94676a30c0",
                     "department": "Production",
@@ -1170,7 +1175,7 @@
                     "known_for_department": "Camera",
                     "name": "Cristian Vega",
                     "original_name": "Cristian Vega",
-                    "popularity": 0.0071,
+                    "popularity": 0.0289,
                     "profile_path": null,
                     "credit_id": "673a1c933c831a132953bdaa",
                     "department": "Camera",
@@ -1183,7 +1188,7 @@
                     "known_for_department": "Camera",
                     "name": "Nuria Besser",
                     "original_name": "Nuria Besser",
-                    "popularity": 0.0239,
+                    "popularity": 0.0448,
                     "profile_path": null,
                     "credit_id": "673a1ca1f741eb0428b60ea2",
                     "department": "Camera",
@@ -1196,7 +1201,7 @@
                     "known_for_department": "Camera",
                     "name": "María Laura Iezze",
                     "original_name": "María Laura Iezze",
-                    "popularity": 0.0214,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "673a1cbb6067cb94676a3118",
                     "department": "Lighting",
@@ -1209,7 +1214,7 @@
                     "known_for_department": "Lighting",
                     "name": "Leonardo Lavalle",
                     "original_name": "Leonardo Lavalle",
-                    "popularity": 0.0214,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "673a1ccc6067cb94676a312e",
                     "department": "Lighting",
@@ -1235,7 +1240,7 @@
                     "known_for_department": "Editing",
                     "name": "Cristina González",
                     "original_name": "Cristina González",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "673a1ceff741eb0428b60ebd",
                     "department": "Editing",
@@ -1248,7 +1253,7 @@
                     "known_for_department": "Sound",
                     "name": "Federico Esquerro",
                     "original_name": "Federico Esquerro",
-                    "popularity": 0.0538,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "credit_id": "673a1d0b5859f981eedfc45a",
                     "department": "Sound",
@@ -1261,7 +1266,7 @@
                     "known_for_department": "Editing",
                     "name": "Andrés Tambornino",
                     "original_name": "Andrés Tambornino",
-                    "popularity": 0.0554,
+                    "popularity": 0.0264,
                     "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
                     "credit_id": "673a1d1d209d43fbfb348794",
                     "department": "Crew",
@@ -1274,7 +1279,7 @@
                     "known_for_department": "Directing",
                     "name": "Lisandro Alonso",
                     "original_name": "Lisandro Alonso",
-                    "popularity": 0.3176,
+                    "popularity": 0.1852,
                     "profile_path": "/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg",
                     "credit_id": "673a1d2f5859f981eedfc47a",
                     "department": "Sound",
@@ -1287,7 +1292,7 @@
                     "known_for_department": "Writing",
                     "name": "Hernán Hevia",
                     "original_name": "Hernán Hevia",
-                    "popularity": 0.0168,
+                    "popularity": 0.0903,
                     "profile_path": null,
                     "credit_id": "673a1d406067cb94676a315e",
                     "department": "Sound",
@@ -1300,7 +1305,7 @@
                     "known_for_department": "Sound",
                     "name": "Roberto Espinoza",
                     "original_name": "Roberto Espinoza",
-                    "popularity": 0.3939,
+                    "popularity": 0.1226,
                     "profile_path": null,
                     "credit_id": "673a1d56624a85b8899ed6ea",
                     "department": "Sound",
@@ -1313,7 +1318,7 @@
                     "known_for_department": "Sound",
                     "name": "Roberto Espinoza",
                     "original_name": "Roberto Espinoza",
-                    "popularity": 0.3939,
+                    "popularity": 0.1226,
                     "profile_path": null,
                     "credit_id": "673a1d6d5859f981eedfc4aa",
                     "department": "Sound",
@@ -1326,7 +1331,7 @@
                     "known_for_department": "Directing",
                     "name": "Manuel Antín",
                     "original_name": "Manuel Antín",
-                    "popularity": 0.0641,
+                    "popularity": 0.0825,
                     "profile_path": "/kbhEEuzhvtniclp4JQ0Cf5Bv0v9.jpg",
                     "credit_id": "673a1efaff0e18373ceee2d1",
                     "department": "Crew",
@@ -1339,7 +1344,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.0094,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "credit_id": "673a1f12ff0e18373ceee2ec",
                     "department": "Crew",
@@ -1352,7 +1357,7 @@
                     "known_for_department": "Editing",
                     "name": "Andrés Tambornino",
                     "original_name": "Andrés Tambornino",
-                    "popularity": 0.0554,
+                    "popularity": 0.0264,
                     "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
                     "credit_id": "673a1f1eff0e18373ceee2f5",
                     "department": "Crew",
@@ -1365,7 +1370,7 @@
                     "known_for_department": "Directing",
                     "name": "José A. Martínez Suárez",
                     "original_name": "José A. Martínez Suárez",
-                    "popularity": 0.0658,
+                    "popularity": 0.0364,
                     "profile_path": "/7V6wyRlULgjt4S8v2hcpZlrvZLW.jpg",
                     "credit_id": "673a1f2af741eb0428b60f90",
                     "department": "Crew",
@@ -1378,7 +1383,7 @@
                     "known_for_department": "Directing",
                     "name": "Bruno Stagnaro",
                     "original_name": "Bruno Stagnaro",
-                    "popularity": 0.1907,
+                    "popularity": 0.2817,
                     "profile_path": "/e52lZywS1Ob5aeedGIqU9ju4n1Y.jpg",
                     "credit_id": "673a1f37443543191ccbf1a7",
                     "department": "Crew",
@@ -1391,7 +1396,7 @@
                     "known_for_department": "Writing",
                     "name": "Dodi Scheuer",
                     "original_name": "Dodi Scheuer",
-                    "popularity": 0.0239,
+                    "popularity": 0.1854,
                     "profile_path": null,
                     "credit_id": "673a1f46f741eb0428b60f94",
                     "department": "Crew",
@@ -1404,7 +1409,7 @@
                     "known_for_department": "Acting",
                     "name": "Claudio España",
                     "original_name": "Claudio España",
-                    "popularity": 0.0363,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "673a1f53624a85b8899ed7b9",
                     "department": "Crew",
@@ -1417,7 +1422,7 @@
                     "known_for_department": "Directing",
                     "name": "Lucrecia Martel",
                     "original_name": "Lucrecia Martel",
-                    "popularity": 1.1055,
+                    "popularity": 0.5199,
                     "profile_path": "/e70SUgZRzx5fFZ49zgn2uCqw8Jm.jpg",
                     "credit_id": "673a1f5e209d43fbfb348833",
                     "department": "Crew",
@@ -1430,7 +1435,7 @@
                     "known_for_department": "Directing",
                     "name": "Martín Rejtman",
                     "original_name": "Martín Rejtman",
-                    "popularity": 0.1354,
+                    "popularity": 0.2485,
                     "profile_path": "/k0PV0Atn7KeJtrShralnLKHoFcp.jpg",
                     "credit_id": "673a1f6c443543191ccbf1c5",
                     "department": "Crew",
@@ -1443,7 +1448,7 @@
                     "known_for_department": "Acting",
                     "name": "Ricardo Manetti",
                     "original_name": "Ricardo Manetti",
-                    "popularity": 0.06,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "673a1f7b624a85b8899ed7ca",
                     "department": "Crew",
@@ -1456,7 +1461,7 @@
                     "known_for_department": "Camera",
                     "name": "Mariano De Rosa",
                     "original_name": "Mariano De Rosa",
-                    "popularity": 0.0214,
+                    "popularity": 0.0546,
                     "profile_path": "/hD3VhuKbRgs6QRjFrKn3ZBP59aY.jpg",
                     "credit_id": "673a1f88443543191ccbf1d1",
                     "department": "Crew",
@@ -1469,7 +1474,7 @@
                     "known_for_department": "Directing",
                     "name": "Esteban Sapir",
                     "original_name": "Esteban Sapir",
-                    "popularity": 0.0239,
+                    "popularity": 0.0771,
                     "profile_path": "/8zvyDqZFIlskA8mTn4ZNJlSaN8G.jpg",
                     "credit_id": "673a1f8fc6412b366965206c",
                     "department": "Crew",
@@ -1482,7 +1487,7 @@
                     "known_for_department": "Writing",
                     "name": "Salvador Roselli",
                     "original_name": "Salvador Roselli",
-                    "popularity": 0.0404,
+                    "popularity": 0.051,
                     "profile_path": null,
                     "credit_id": "673a1f9bc6412b3669652073",
                     "department": "Crew",
@@ -1495,7 +1500,7 @@
                     "known_for_department": "Camera",
                     "name": "Göran Gester",
                     "original_name": "Göran Gester",
-                    "popularity": 0.0712,
+                    "popularity": 0.0609,
                     "profile_path": null,
                     "credit_id": "673a1fa4443543191ccbf1e4",
                     "department": "Crew",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 447321,
-    "cinear_id": null,
     "slug": "operacion-mexico-un-pacto-de-amor",
     "title": "Operación México, un pacto de amor",
     "original_title": "Operación México, un pacto de amor",
@@ -25,56 +24,62 @@
         }
     ],
     "countries": [
+        "Cuba",
         "Argentina"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/hvpECixHuwZxMvcpHCujwVY5C8d.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/t4d6PfkLr5NJ1JZpKZUNgJLMT6Z.jpg",
+    "poster_url": "/storage/posters/operacion-mexico-un-pacto-de-amor-eff1416a.jpg",
+    "backdrop_url": "/storage/backdrops/operacion-mexico-un-pacto-de-amor-2655e93c.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/backdrops/operacion-mexico-un-pacto-de-amor-2655e93c.jpg",
+        "/storage/gallery/gallery-2-3c788f2f.jpg",
+        "/storage/gallery/gallery-3-7a3f6846.jpg"
+    ],
     "cast": [
         {
             "id": 79291,
             "name": "Luciano Cáceres",
             "character": "Edgar Tulio Valenzuela",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/z9s7uuEU7cS44idIPI22040ZSZH.jpg"
+            "image_url": "/storage/people/luciano-caceres-5d4e912a.jpg"
         },
         {
             "id": 1777923,
             "name": "Ximena Fassi",
             "character": "Raquel Maria Negro",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/6akz1x3qxOiBCUxkjSWeq9GnuY4.jpg"
+            "image_url": "/storage/people/ximena-fassi-6252eeaf.jpg"
         },
         {
             "id": 71408,
             "name": "Patricio Contreras",
             "character": "Jauregui",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/ypcppaDS2xzNIDphDr4c3LfDbnp.jpg"
+            "image_url": "/storage/people/patricio-contreras-1a2200c2.jpg"
         },
         {
             "id": 1028444,
             "name": "Luis Ziembrowski",
             "character": "Pelado Jaime Dri",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
+            "image_url": "/storage/people/luis-ziembrowski-0fa6da19.jpg"
         },
         {
             "id": 1575191,
             "name": "Ludovico Di Santo",
             "character": "Velazco",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/l1bK9FsKGLfrqAv4k6gAHZCblDw.jpg"
+            "image_url": "/storage/people/ludovico-di-santo-656e6a70.jpg"
         },
         {
             "id": 2386329,
             "name": "Naím Sibara",
             "character": "Bonasso",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/6D7m1qT5I0C9SktLc3N8C1ZsVhA.jpg"
+            "image_url": "/storage/people/naim-sibara-dc9cf69d.jpg"
         },
         {
             "id": 1597804,
@@ -102,7 +107,7 @@
             "name": "Paloma Contreras",
             "character": "Yoyi",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/hiwi0MaWVuR0W5Mktnt0dtL2qRr.jpg"
+            "image_url": "/storage/people/paloma-contreras-2d14e3ef.jpg"
         },
         {
             "id": 1431563,
@@ -116,7 +121,7 @@
             "name": "Santiago Talledo",
             "character": "Papi",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/mafJmdtxrLrUqPZt4KrTKuwWGBG.jpg"
+            "image_url": "/storage/people/santiago-talledo-13306134.jpg"
         },
         {
             "id": 3335083,
@@ -130,7 +135,7 @@
             "name": "Roberto Vallejos",
             "character": "Firmenich",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/u80HlILn6yEkY1K7nKOTC14GtVt.jpg"
+            "image_url": "/storage/people/roberto-vallejos-fa26ff92.jpg"
         },
         {
             "id": 2734404,
@@ -144,7 +149,7 @@
             "name": "Sergio Surracco",
             "character": "Teniente Daniel",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/puqZ6EEI5yRAM7XGb6KC6R975tl.jpg"
+            "image_url": "/storage/people/sergio-surracco-c7a26846.jpg"
         }
     ],
     "crew": [
@@ -174,7 +179,7 @@
             "name": "Fernando Sokolowicz",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg"
+            "image_url": "/storage/people/fernando-sokolowicz-91d4dd85.jpg"
         }
     ],
     "raw": {
@@ -205,7 +210,7 @@
         "original_language": "es",
         "original_title": "Operación México, un pacto de amor",
         "overview": "En una Argentina conmocionada, en el verano de 1978, los militantes de una organización insurgente Edgar Tulio Valenzuela (Tucho) y Raquel Negro (María) con un embarazo avanzado y un hijo de corta edad, son secuestrados por las Fuerzas Armadas y son trasladados a las afueras de Rosario. Un alto mando del Ejército Argentino le hace a Tucho una propuesta que de cumplirla traicionará los ideales a los que dedico su vida y si la rechaza perderá a su mujer, al niño y a los hijos que le depara el futuro. Ellos se aman más allá de toda razón y circunstancia. María y Tucho hacen un pacto… y en medio de la traición y el horror nace una historia de amor que será eterna.",
-        "popularity": 3.4054,
+        "popularity": 1.1409,
         "poster_path": "/hvpECixHuwZxMvcpHCujwVY5C8d.jpg",
         "production_companies": [
             {
@@ -250,7 +255,7 @@
                     "known_for_department": "Acting",
                     "name": "Luciano Cáceres",
                     "original_name": "Luciano Cáceres",
-                    "popularity": 0.2302,
+                    "popularity": 0.3167,
                     "profile_path": "/z9s7uuEU7cS44idIPI22040ZSZH.jpg",
                     "cast_id": 3,
                     "character": "Edgar Tulio Valenzuela",
@@ -264,7 +269,7 @@
                     "known_for_department": "Acting",
                     "name": "Ximena Fassi",
                     "original_name": "Ximena Fassi",
-                    "popularity": 0.272,
+                    "popularity": 0.1979,
                     "profile_path": "/6akz1x3qxOiBCUxkjSWeq9GnuY4.jpg",
                     "cast_id": 5,
                     "character": "Raquel Maria Negro",
@@ -278,7 +283,7 @@
                     "known_for_department": "Acting",
                     "name": "Patricio Contreras",
                     "original_name": "Patricio Contreras",
-                    "popularity": 0.1601,
+                    "popularity": 0.1357,
                     "profile_path": "/ypcppaDS2xzNIDphDr4c3LfDbnp.jpg",
                     "cast_id": 6,
                     "character": "Jauregui",
@@ -292,7 +297,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Ziembrowski",
                     "original_name": "Luis Ziembrowski",
-                    "popularity": 0.1477,
+                    "popularity": 0.2296,
                     "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg",
                     "cast_id": 7,
                     "character": "Pelado Jaime Dri",
@@ -306,7 +311,7 @@
                     "known_for_department": "Acting",
                     "name": "Ludovico Di Santo",
                     "original_name": "Ludovico Di Santo",
-                    "popularity": 0.1566,
+                    "popularity": 0.1652,
                     "profile_path": "/l1bK9FsKGLfrqAv4k6gAHZCblDw.jpg",
                     "cast_id": 8,
                     "character": "Velazco",
@@ -320,7 +325,7 @@
                     "known_for_department": "Acting",
                     "name": "Naím Sibara",
                     "original_name": "Naím Sibara",
-                    "popularity": 0.228,
+                    "popularity": 0.4328,
                     "profile_path": "/6D7m1qT5I0C9SktLc3N8C1ZsVhA.jpg",
                     "cast_id": 9,
                     "character": "Bonasso",
@@ -334,7 +339,7 @@
                     "known_for_department": "Acting",
                     "name": "Héctor Calori",
                     "original_name": "Héctor Calori",
-                    "popularity": 0.1452,
+                    "popularity": 0.1084,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "Galtieri",
@@ -348,7 +353,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Boris",
                     "original_name": "Sergio Boris",
-                    "popularity": 0.0314,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "Mayor Sebastian",
@@ -362,7 +367,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Marcos",
                     "original_name": "Guillermo Marcos",
-                    "popularity": 0.0563,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "El Tucu",
@@ -376,7 +381,7 @@
                     "known_for_department": "Acting",
                     "name": "Paloma Contreras",
                     "original_name": "Paloma Contreras",
-                    "popularity": 0.0842,
+                    "popularity": 0.0666,
                     "profile_path": "/hiwi0MaWVuR0W5Mktnt0dtL2qRr.jpg",
                     "cast_id": 15,
                     "character": "Yoyi",
@@ -390,7 +395,7 @@
                     "known_for_department": "Acting",
                     "name": "Ernesto Larrese",
                     "original_name": "Ernesto Larrese",
-                    "popularity": 0.0168,
+                    "popularity": 0.0898,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "Torres",
@@ -404,7 +409,7 @@
                     "known_for_department": "Acting",
                     "name": "Santiago Talledo",
                     "original_name": "Santiago Talledo",
-                    "popularity": 0.2266,
+                    "popularity": 0.147,
                     "profile_path": "/mafJmdtxrLrUqPZt4KrTKuwWGBG.jpg",
                     "cast_id": 17,
                     "character": "Papi",
@@ -418,7 +423,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Argento",
                     "original_name": "Carlos Argento",
-                    "popularity": 0.0243,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Yaguer",
@@ -432,7 +437,7 @@
                     "known_for_department": "Acting",
                     "name": "Roberto Vallejos",
                     "original_name": "Roberto Vallejos",
-                    "popularity": 0.1217,
+                    "popularity": 0.0613,
                     "profile_path": "/u80HlILn6yEkY1K7nKOTC14GtVt.jpg",
                     "cast_id": 19,
                     "character": "Firmenich",
@@ -446,7 +451,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo Cárdenas",
                     "original_name": "Rodrigo Cárdenas",
-                    "popularity": 0.0286,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 20,
                     "character": "Galimberti",
@@ -460,7 +465,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Surracco",
                     "original_name": "Sergio Surracco",
-                    "popularity": 0.1,
+                    "popularity": 0.082,
                     "profile_path": "/puqZ6EEI5yRAM7XGb6KC6R975tl.jpg",
                     "cast_id": 21,
                     "character": "Teniente Daniel",
@@ -476,7 +481,7 @@
                     "known_for_department": "Writing",
                     "name": "Leonardo Bechini",
                     "original_name": "Leonardo Bechini",
-                    "popularity": 0.0747,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "credit_id": "58caea6a9251415e57001e17",
                     "department": "Directing",
@@ -489,7 +494,7 @@
                     "known_for_department": "Writing",
                     "name": "Leonardo Bechini",
                     "original_name": "Leonardo Bechini",
-                    "popularity": 0.0747,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "credit_id": "58caea7d9251415e5d001f73",
                     "department": "Writing",
@@ -502,7 +507,7 @@
                     "known_for_department": "Writing",
                     "name": "Fernando Sampalione",
                     "original_name": "Fernando Sampalione",
-                    "popularity": 0.0364,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "58caea8d9251415e2f00216a",
                     "department": "Writing",
@@ -515,7 +520,7 @@
                     "known_for_department": "Production",
                     "name": "Fernando Sokolowicz",
                     "original_name": "Fernando Sokolowicz",
-                    "popularity": 0.1174,
+                    "popularity": 0.0487,
                     "profile_path": "/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg",
                     "credit_id": "5f997b3817792c00393f8f6f",
                     "department": "Production",

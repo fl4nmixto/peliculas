@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 640046,
-    "cinear_id": null,
     "slug": "un-pogrom-en-buenos-aires",
     "title": "Un Pogrom en Buenos Aires",
     "original_title": "Un Pogrom en Buenos Aires",
@@ -23,9 +22,10 @@
         "Español",
         ""
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/hH5iPu3KUPEB90xuxuaUwzYUEh5.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/5hYjyjPgqgSb9FWMys5bSsWdISQ.jpg",
+    "poster_url": "/storage/posters/un-pogrom-en-buenos-aires-2d1b9289.jpg",
+    "backdrop_url": "/storage/backdrops/un-pogrom-en-buenos-aires-bacf4799.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [],
     "crew": [
         {
@@ -33,14 +33,14 @@
             "name": "Herman Szwarcbart",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg"
+            "image_url": "/storage/people/herman-szwarcbart-ffe13560.jpg"
         },
         {
             "id": 2434631,
             "name": "Herman Szwarcbart",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg"
+            "image_url": "/storage/people/herman-szwarcbart-ffe13560.jpg"
         },
         {
             "id": 5548417,
@@ -91,7 +91,7 @@
         "original_language": "es",
         "original_title": "Un Pogrom en Buenos Aires",
         "overview": "A principios del siglo XX, muchos judíos llegaron a Buenos Aires escapando de la miseria y las persecuciones que sufrían en Europa. En 1919, durante la Semana Trágica, en el barrio de Once se produjo un pogrom (persecución de judíos). De ese hecho se ha llegado a decir que \"fueron unos niños bien que salieron a la caza del ruso\". Este documental parte de las preguntas que el propio director, cuyo abuelo llegó a Buenos Aires a principios del siglo XX, se hace sobre el suceso y sus implicancias. Y sobre las causas y consecuencias de su escasa difusión, sobre los datos falseados acerca de la cantidad de muertos, y sobre las disputas internas dentro de la comunidad judía.",
-        "popularity": 0.1498,
+        "popularity": 0.0768,
         "poster_path": "/hH5iPu3KUPEB90xuxuaUwzYUEh5.jpg",
         "production_companies": [],
         "production_countries": [
@@ -131,7 +131,7 @@
                     "known_for_department": "Directing",
                     "name": "Herman Szwarcbart",
                     "original_name": "Herman Szwarcbart",
-                    "popularity": 0.0256,
+                    "popularity": 0.0214,
                     "profile_path": "/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg",
                     "credit_id": "5da81076a2423200147abaef",
                     "department": "Directing",
@@ -144,7 +144,7 @@
                     "known_for_department": "Directing",
                     "name": "Herman Szwarcbart",
                     "original_name": "Herman Szwarcbart",
-                    "popularity": 0.0256,
+                    "popularity": 0.0214,
                     "profile_path": "/aBOIYCSEPNHWv3MWQ4XFf5GCqyI.jpg",
                     "credit_id": "686b0136bb64f77f45702a64",
                     "department": "Writing",
@@ -170,7 +170,7 @@
                     "known_for_department": "Editing",
                     "name": "Alejandra Almirón",
                     "original_name": "Alejandra Almirón",
-                    "popularity": 0.0261,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "686b01705a3c40c60053fc83",
                     "department": "Editing",
@@ -183,7 +183,7 @@
                     "known_for_department": "Sound",
                     "name": "Federico Billordo",
                     "original_name": "Federico Billordo",
-                    "popularity": 0.0819,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "686b0185445f5aad1c702b9b",
                     "department": "Sound",
@@ -196,7 +196,7 @@
                     "known_for_department": "Lighting",
                     "name": "Mariano Monti",
                     "original_name": "Mariano Monti",
-                    "popularity": 0.0947,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "686b02936d007f066d103731",
                     "department": "Camera",

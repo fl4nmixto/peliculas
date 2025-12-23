@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 29952,
-    "cinear_id": null,
     "slug": "bombon-el-perro",
     "title": "Bombón el perro",
     "original_title": "El perro",
@@ -17,21 +16,25 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Spain"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/inCQFCbjaeSTnUBaexwmDnV70Ew.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/sY0thMd2lBKUmOfRFP8tY6VCuAz.jpg",
+    "poster_url": "/storage/posters/bombon-el-perro-4a0c49e8.jpg",
+    "backdrop_url": "/storage/backdrops/bombon-el-perro-9b664e42.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/bombon-el-perro-4a0c49e8.jpg"
+    ],
     "cast": [
         {
             "id": 1038479,
             "name": "Walter Donado",
             "character": "Walter Donado",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/nTilBL59HqfLaHnbrUzvCZvLIdj.jpg"
+            "image_url": "/storage/people/walter-donado-606af097.jpg"
         },
         {
             "id": 1038480,
@@ -103,14 +106,14 @@
             "name": "Carlos Sorín",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg"
+            "image_url": "/storage/people/carlos-sorin-81bb2a09.jpg"
         },
         {
             "id": 1521609,
             "name": "Santiago Calori",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/ekVW2dkUthSSkp1oVcemmGjWfti.jpg"
+            "image_url": "/storage/people/santiago-calori-a86a0866.jpg"
         },
         {
             "id": 1022346,
@@ -140,7 +143,7 @@
         "original_language": "es",
         "original_title": "El perro",
         "overview": "Patagonia, Argentina. Un mecánico que sueña con una vida diferente comienza a pensar a lo grande cuando Bombón, un cachorro al que ha adoptado, gana un primer premio en una exposición canina local.",
-        "popularity": 3.5962,
+        "popularity": 2.5403,
         "poster_path": "/inCQFCbjaeSTnUBaexwmDnV70Ew.jpg",
         "production_companies": [
             {
@@ -203,7 +206,7 @@
                     "known_for_department": "Acting",
                     "name": "Walter Donado",
                     "original_name": "Walter Donado",
-                    "popularity": 0.3277,
+                    "popularity": 0.2463,
                     "profile_path": "/nTilBL59HqfLaHnbrUzvCZvLIdj.jpg",
                     "cast_id": 3,
                     "character": "Walter Donado",
@@ -217,7 +220,7 @@
                     "known_for_department": "Acting",
                     "name": "Rosa Valsecchi",
                     "original_name": "Rosa Valsecchi",
-                    "popularity": 0.0286,
+                    "popularity": 0.0602,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Susana (as Rosa Valsechi)",
@@ -231,7 +234,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariela Díaz",
                     "original_name": "Mariela Díaz",
-                    "popularity": 0.0168,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "Coco's daughter",
@@ -245,7 +248,7 @@
                     "known_for_department": "Acting",
                     "name": "Claudina Fazzini",
                     "original_name": "Claudina Fazzini",
-                    "popularity": 0.0071,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "Claudina",
@@ -259,7 +262,7 @@
                     "known_for_department": "Acting",
                     "name": "Kita Ca",
                     "original_name": "Kita Ca",
-                    "popularity": 0.0286,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 7,
                     "character": "Claudina's mother",
@@ -273,7 +276,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Rossi",
                     "original_name": "Carlos Rossi",
-                    "popularity": 0.0143,
+                    "popularity": 0.09,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Bank Manager",
@@ -287,7 +290,7 @@
                     "known_for_department": "Acting",
                     "name": "Rolando Zadra",
                     "original_name": "Rolando Zadra",
-                    "popularity": 0,
+                    "popularity": 0.0352,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "Buselli",
@@ -301,7 +304,7 @@
                     "known_for_department": "Acting",
                     "name": "Pascual Condito",
                     "original_name": "Pascual Condito",
-                    "popularity": 2.1473,
+                    "popularity": 0.1613,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Pascual",
@@ -315,7 +318,7 @@
                     "known_for_department": "Acting",
                     "name": "Adrián Giampani",
                     "original_name": "Adrián Giampani",
-                    "popularity": 0,
+                    "popularity": 0.0379,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "Galván",
@@ -329,7 +332,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Villegas",
                     "original_name": "Juan Villegas",
-                    "popularity": 0,
+                    "popularity": 0.0687,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "Juan Villegas",
@@ -345,7 +348,7 @@
                     "known_for_department": "Directing",
                     "name": "Carlos Sorín",
                     "original_name": "Carlos Sorín",
-                    "popularity": 1.0326,
+                    "popularity": 1.618,
                     "profile_path": "/uweyjMdOLSN6nDAOPF5NipZ6rPc.jpg",
                     "credit_id": "52fe4607c3a368484e07ca53",
                     "department": "Directing",
@@ -358,7 +361,7 @@
                     "known_for_department": "Directing",
                     "name": "Santiago Calori",
                     "original_name": "Santiago Calori",
-                    "popularity": 0.0338,
+                    "popularity": 0.0719,
                     "profile_path": "/ekVW2dkUthSSkp1oVcemmGjWfti.jpg",
                     "credit_id": "5f6d0a441fa1c8003712f0f0",
                     "department": "Writing",
@@ -371,7 +374,7 @@
                     "known_for_department": "Writing",
                     "name": "Salvador Roselli",
                     "original_name": "Salvador Roselli",
-                    "popularity": 0.0193,
+                    "popularity": 0.051,
                     "profile_path": null,
                     "credit_id": "5f6d0a88cee2f600364453ec",
                     "department": "Writing",

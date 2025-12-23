@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 209496,
-    "cinear_id": null,
     "slug": "la-deuda-interna",
     "title": "La deuda interna",
     "original_title": "La deuda interna",
@@ -11,8 +10,14 @@
     "year": 1988,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Bélica"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10752,
+            "name": "Bélica"
+        }
     ],
     "countries": [
         "Argentina",
@@ -21,16 +26,17 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/xgNbrxnRSQoycosF6Q1zVEfKFoq.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/3JiKzYyHnIm9PqEjlJkI5jLSQah.jpg",
+    "poster_url": "/storage/posters/la-deuda-interna-d0bcd432.jpg",
+    "backdrop_url": "/storage/backdrops/la-deuda-interna-0f77783e.jpg",
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1084474,
             "name": "Juan José Camero",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/dfmcflCg8NTz5W34wkUrzAemU4Q.jpg"
+            "image_url": "/storage/people/juan-jose-camero-c61497c7.jpg"
         },
         {
             "id": 1816969,
@@ -133,24 +139,17 @@
             "image_url": null
         },
         {
-            "id": 1518367,
-            "name": "Jaime Torres",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/mIxcZSYQL0GzJ6Xh8OpIgYUyIqe.jpg"
-        },
-        {
-            "id": 1816988,
-            "name": "Gerry Feeny",
-            "department": "Crew",
-            "job": "Cinematography",
-            "image_url": null
-        },
-        {
             "id": 1816976,
             "name": "Fortunato Ramos",
             "department": "Writing",
             "job": "Story",
+            "image_url": null
+        },
+        {
+            "id": 1147399,
+            "name": "Miguel Pereira",
+            "department": "Writing",
+            "job": "Writer",
             "image_url": null
         },
         {
@@ -161,11 +160,18 @@
             "image_url": null
         },
         {
-            "id": 1147399,
-            "name": "Miguel Pereira",
-            "department": "Writing",
-            "job": "Writer",
+            "id": 1816988,
+            "name": "Gerry Feeny",
+            "department": "Crew",
+            "job": "Cinematography",
             "image_url": null
+        },
+        {
+            "id": 1518367,
+            "name": "Jaime Torres",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "/storage/people/jaime-torres-4d955334.jpg"
         }
     ],
     "raw": {
@@ -193,7 +199,7 @@
         "original_language": "es",
         "original_title": "La deuda interna",
         "overview": "En Chorcán, Jujuy, un joven indígena, conoce a un maestro rural recién llegado de la Capital Federal. Entre ambos nace una amistad que se interrumpe cuando al joven le toca el servicio militar y es convocado a participar en la Guerra de Malvinas.",
-        "popularity": 0.1719,
+        "popularity": 1.114,
         "poster_path": "/xgNbrxnRSQoycosF6Q1zVEfKFoq.jpg",
         "production_companies": [],
         "production_countries": [
@@ -231,7 +237,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan José Camero",
                     "original_name": "Juan José Camero",
-                    "popularity": 0.1503,
+                    "popularity": 0.084,
                     "profile_path": "/dfmcflCg8NTz5W34wkUrzAemU4Q.jpg",
                     "cast_id": 1,
                     "character": "",
@@ -245,7 +251,7 @@
                     "known_for_department": "Acting",
                     "name": "Gonzalo Morales",
                     "original_name": "Gonzalo Morales",
-                    "popularity": 0.0327,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "",
@@ -273,7 +279,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Delgado",
                     "original_name": "Guillermo Delgado",
-                    "popularity": 0.0214,
+                    "popularity": 0.0495,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "",
@@ -287,7 +293,7 @@
                     "known_for_department": "Acting",
                     "name": "Leopoldo Abán",
                     "original_name": "Leopoldo Abán",
-                    "popularity": 0.0474,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "",
@@ -301,7 +307,7 @@
                     "known_for_department": "Acting",
                     "name": "Ana María González",
                     "original_name": "Ana María González",
-                    "popularity": 0.0297,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "",
@@ -329,7 +335,7 @@
                     "known_for_department": "Acting",
                     "name": "Juana Daniela Cáceres",
                     "original_name": "Juana Daniela Cáceres",
-                    "popularity": 0.0214,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "",
@@ -343,7 +349,7 @@
                     "known_for_department": "Acting",
                     "name": "Titina Gaspar",
                     "original_name": "Titina Gaspar",
-                    "popularity": 0.0379,
+                    "popularity": 0.0732,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "",
@@ -357,7 +363,7 @@
                     "known_for_department": "Acting",
                     "name": "Raúl Calles",
                     "original_name": "Raúl Calles",
-                    "popularity": 0.0388,
+                    "popularity": 0.0338,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "",
@@ -371,7 +377,7 @@
                     "known_for_department": "Acting",
                     "name": "Leo Salgado",
                     "original_name": "Leo Salgado",
-                    "popularity": 0.0461,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "",
@@ -385,7 +391,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Uceda",
                     "original_name": "Luis Uceda",
-                    "popularity": 0.0482,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "",
@@ -399,7 +405,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Carlos Ocampo",
                     "original_name": "Juan Carlos Ocampo",
-                    "popularity": 0.0363,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "",
@@ -413,7 +419,7 @@
                     "known_for_department": "Acting",
                     "name": "Adolfo Blois",
                     "original_name": "Adolfo Blois",
-                    "popularity": 0.0388,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "",
@@ -429,37 +435,11 @@
                     "known_for_department": "Directing",
                     "name": "Miguel Pereira",
                     "original_name": "Miguel Pereira",
-                    "popularity": 0.0363,
+                    "popularity": 0.072,
                     "profile_path": null,
                     "credit_id": "57b49934c3a3686a4a0007af",
                     "department": "Directing",
                     "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1518367,
-                    "known_for_department": "Acting",
-                    "name": "Jaime Torres",
-                    "original_name": "Jaime Torres",
-                    "popularity": 0.0437,
-                    "profile_path": "/mIxcZSYQL0GzJ6Xh8OpIgYUyIqe.jpg",
-                    "credit_id": "59191dfc925141572305069e",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1816988,
-                    "known_for_department": "Crew",
-                    "name": "Gerry Feeny",
-                    "original_name": "Gerry Feeny",
-                    "popularity": 0.0543,
-                    "profile_path": null,
-                    "credit_id": "59191e0dc3a36842c1051219",
-                    "department": "Crew",
-                    "job": "Cinematography"
                 },
                 {
                     "adult": false,
@@ -477,11 +457,24 @@
                 {
                     "adult": false,
                     "gender": 0,
+                    "id": 1147399,
+                    "known_for_department": "Directing",
+                    "name": "Miguel Pereira",
+                    "original_name": "Miguel Pereira",
+                    "popularity": 0.072,
+                    "profile_path": null,
+                    "credit_id": "59191dd9925141585204fbb6",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
                     "id": 1816987,
                     "known_for_department": "Writing",
                     "name": "Eduardo Leiva Muller",
                     "original_name": "Eduardo Leiva Muller",
-                    "popularity": 0.0816,
+                    "popularity": 0.0412,
                     "profile_path": null,
                     "credit_id": "59191dcc92514105da045e63",
                     "department": "Writing",
@@ -490,15 +483,28 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1147399,
-                    "known_for_department": "Directing",
-                    "name": "Miguel Pereira",
-                    "original_name": "Miguel Pereira",
-                    "popularity": 0.0363,
+                    "id": 1816988,
+                    "known_for_department": "Crew",
+                    "name": "Gerry Feeny",
+                    "original_name": "Gerry Feeny",
+                    "popularity": 0,
                     "profile_path": null,
-                    "credit_id": "59191dd9925141585204fbb6",
-                    "department": "Writing",
-                    "job": "Writer"
+                    "credit_id": "59191e0dc3a36842c1051219",
+                    "department": "Crew",
+                    "job": "Cinematography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1518367,
+                    "known_for_department": "Acting",
+                    "name": "Jaime Torres",
+                    "original_name": "Jaime Torres",
+                    "popularity": 0.0683,
+                    "profile_path": "/mIxcZSYQL0GzJ6Xh8OpIgYUyIqe.jpg",
+                    "credit_id": "59191dfc925141572305069e",
+                    "department": "Sound",
+                    "job": "Music"
                 }
             ]
         },

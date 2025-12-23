@@ -25,30 +25,35 @@
         "Español",
         "English"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/oBDAEhTLWwflrqRZMsrOisqkVSb.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/xPt9uunKOZ8EC2xukQbkSDh45oq.jpg",
+    "poster_url": "/storage/posters/machuca-a224f0c2.jpg",
+    "backdrop_url": "/storage/backdrops/machuca-315152fd.jpg",
     "trailer": "https://www.youtube.com/watch?v=fQCs32A4CkQ",
+    "gallery_urls": [
+        "/storage/posters/machuca-a224f0c2.jpg",
+        "/storage/gallery/gallery-2-92ef68ae.jpg",
+        "/storage/gallery/gallery-3-5d21f37b.jpg"
+    ],
     "cast": [
         {
             "id": 71206,
             "name": "Matías Quer",
             "character": "Gonzalo Infante",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/sjUfpIjgMRUaYhEimMrYBsMmrI0.jpg"
+            "image_url": "/storage/people/matias-quer-82bf30d7.jpg"
         },
         {
             "id": 71207,
             "name": "Ariel Mateluna",
             "character": "Pedro Machuca",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/z1RC0aNHtgqKpMMKX6lcLAxBBJm.jpg"
+            "image_url": "/storage/people/ariel-mateluna-7242005a.jpg"
         },
         {
             "id": 71208,
             "name": "Aline Küppenheim",
             "character": "María Luisa",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/q28ocDTSuq5USf3MxYXw98mV3VU.jpg"
+            "image_url": "/storage/people/aline-kuppenheim-c8850174.jpg"
         },
         {
             "id": 71209,
@@ -62,84 +67,84 @@
             "name": "Federico Luppi",
             "character": "Roberto",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/jBzJ3t4kRssFbEuZxSnHxACe6oC.jpg"
+            "image_url": "/storage/people/federico-luppi-145dff14.jpg"
         },
         {
             "id": 1040061,
             "name": "Manuela Martelli",
             "character": "Silvana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/fH2Ir9Qh37ivjyGSEht3aX4qFp4.jpg"
+            "image_url": "/storage/people/manuela-martelli-4c75e393.jpg"
         },
         {
             "id": 941639,
             "name": "Tamara Acosta",
             "character": "Juana",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/o7vPwaqwDNojUvaHVcrOjfJ6GAB.jpg"
+            "image_url": "/storage/people/tamara-acosta-9a3f65c9.jpg"
         },
         {
             "id": 975976,
             "name": "Francisco Reyes",
             "character": "Patricio Infante",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/39vxTjzjqCgvA0Tf7NGGKiRsYKC.jpg"
+            "image_url": "/storage/people/francisco-reyes-266ac735.jpg"
         },
         {
             "id": 66904,
             "name": "Alejandro Trejo",
             "character": "Willy",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/uW8LQotVaWRFJl7mSNFr0GvMFQ0.jpg"
+            "image_url": "/storage/people/alejandro-trejo-c28f699b.jpg"
         },
         {
             "id": 1161655,
             "name": "María Olga Matte",
             "character": "Miss Gilda",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/wpXX6Cws2kf4Mm3pVf2cnj5HDVQ.jpg"
+            "image_url": "/storage/people/maria-olga-matte-7fc0780f.jpg"
         },
         {
             "id": 944486,
             "name": "Gabriela Medina",
             "character": "Lucy",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/cjTqN3ncOGC1pYB9bDgGU6n2QR6.jpg"
+            "image_url": "/storage/people/gabriela-medina-d4aba75b.jpg"
         },
         {
             "id": 127247,
             "name": "Luis Dubó",
             "character": "Ismael Machuca",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/qtujcN7pquefZlR45sUmKFCBsHw.jpg"
+            "image_url": "/storage/people/luis-dubo-58050629.jpg"
         },
         {
             "id": 98239,
             "name": "Andrea García-Huidobro",
             "character": "Isabel",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/91c1sBSDS24WplpucWWUg7iWro2.jpg"
+            "image_url": "/storage/people/andrea-garcia-huidobro-5846a753.jpg"
         },
         {
             "id": 999870,
             "name": "Tiago Correa",
             "character": "Pablo",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/eA6O9b0s6EQok9eyI2rsoHyIpoQ.jpg"
+            "image_url": "/storage/people/tiago-correa-3a6064b7.jpg"
         },
         {
             "id": 1061534,
             "name": "Alejandro Goic",
             "character": "Father Robles",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/8z2lGgKgZO5H5Iin4k3BBpw54Du.jpg"
+            "image_url": "/storage/people/alejandro-goic-8ab007db.jpg"
         },
         {
             "id": 1041197,
             "name": "Pablo Krögh",
             "character": "Colonel Sotomayor",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/3o1yCshLPEcE89adxe3CFEc7Ncs.jpg"
+            "image_url": "/storage/people/pablo-krogh-35a12703.jpg"
         },
         {
             "id": 118376,
@@ -153,30 +158,44 @@
             "name": "Francisca Imboden",
             "character": "Maria Luisa's Friend 2",
             "order": 17,
-            "image_url": "https://image.tmdb.org/t/p/w154/w0crfboED1V2QxsEhBvZ0GzuSsn.jpg"
+            "image_url": "/storage/people/francisca-imboden-0f0ecf02.jpg"
         },
         {
             "id": 1260910,
             "name": "Catherine Mazoyer",
             "character": "New Teacher",
             "order": 18,
-            "image_url": "https://image.tmdb.org/t/p/w154/ybfcpGLkYMJZzSFdSybOtbBuGpL.jpg"
+            "image_url": "/storage/people/catherine-mazoyer-e7140c44.jpg"
         },
         {
             "id": 66902,
             "name": "Juan Pablo Miranda",
             "character": "Soldier",
             "order": 19,
-            "image_url": "https://image.tmdb.org/t/p/w154/9dMHQhRcrg7lZeewC6ZiJwtz5S0.jpg"
+            "image_url": "/storage/people/juan-pablo-miranda-c18e4cee.jpg"
         }
     ],
     "crew": [
         {
             "id": 71203,
             "name": "Andrés Wood",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "/storage/people/andres-wood-1f75e3f9.jpg"
+        },
+        {
+            "id": 72816,
+            "name": "Juan Carlos Arriagada",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 71203,
+            "name": "Andrés Wood",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+            "image_url": "/storage/people/andres-wood-1f75e3f9.jpg"
         },
         {
             "id": 71204,
@@ -184,6 +203,27 @@
             "department": "Writing",
             "job": "Screenplay",
             "image_url": null
+        },
+        {
+            "id": 47059,
+            "name": "Gerardo Herrero",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/gerardo-herrero-8ab412db.jpg"
+        },
+        {
+            "id": 72814,
+            "name": "Soledad Salfate",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/soledad-salfate-62619687.jpg"
+        },
+        {
+            "id": 72810,
+            "name": "Mamoun Hassan",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": "/storage/people/mamoun-hassan-03aa16cc.jpg"
         },
         {
             "id": 71205,
@@ -195,23 +235,23 @@
         {
             "id": 71203,
             "name": "Andrés Wood",
-            "department": "Writing",
-            "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/andres-wood-1f75e3f9.jpg"
+        },
+        {
+            "id": 72815,
+            "name": "Carlos Johnson",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
         },
         {
             "id": 72810,
             "name": "Mamoun Hassan",
-            "department": "Writing",
-            "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg"
-        },
-        {
-            "id": 71203,
-            "name": "Andrés Wood",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg"
+            "image_url": "/storage/people/mamoun-hassan-03aa16cc.jpg"
         },
         {
             "id": 72812,
@@ -225,69 +265,13 @@
             "name": "Fernando Pardo",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/qU4pjTaoJdeNwLp1bKQYQcXHAKd.jpg"
+            "image_url": "/storage/people/fernando-pardo-497faddc.jpg"
         },
         {
-            "id": 72814,
-            "name": "Soledad Salfate",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/3TivNgafncpD8aoTd720rKGpMM4.jpg"
-        },
-        {
-            "id": 72815,
-            "name": "Carlos Johnson",
+            "id": 1040059,
+            "name": "Julio Jorquera",
             "department": "Production",
-            "job": "Casting",
-            "image_url": null
-        },
-        {
-            "id": 72816,
-            "name": "Juan Carlos Arriagada",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": null
-        },
-        {
-            "id": 72810,
-            "name": "Mamoun Hassan",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg"
-        },
-        {
-            "id": 47059,
-            "name": "Gerardo Herrero",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/bAJRt3PSM2oL1UuIsyaDsIsS8Gv.jpg"
-        },
-        {
-            "id": 1136892,
-            "name": "Nathalie Trafford",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": null
-        },
-        {
-            "id": 1090650,
-            "name": "Miguel Miranda",
-            "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": null
-        },
-        {
-            "id": 1607369,
-            "name": "José Miguel Tobar",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": null
-        },
-        {
-            "id": 966771,
-            "name": "Rodrigo Bazaes",
-            "department": "Art",
-            "job": "Production Design",
+            "job": "Location Manager",
             "image_url": null
         },
         {
@@ -298,31 +282,10 @@
             "image_url": null
         },
         {
-            "id": 1287615,
-            "name": "Javiera Varas",
-            "department": "Art",
-            "job": "Art Direction",
-            "image_url": null
-        },
-        {
-            "id": 1116694,
-            "name": "Miguel Hormazábal",
+            "id": 1090650,
+            "name": "Miguel Miranda",
             "department": "Sound",
-            "job": "Sound",
-            "image_url": null
-        },
-        {
-            "id": 1407620,
-            "name": "Mauricio López",
-            "department": "Sound",
-            "job": "Sound Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0WICbPIGCheKrWkuy3hicEk6l.jpg"
-        },
-        {
-            "id": 1040059,
-            "name": "Julio Jorquera",
-            "department": "Production",
-            "job": "Location Manager",
+            "job": "Original Music Composer",
             "image_url": null
         },
         {
@@ -333,18 +296,60 @@
             "image_url": null
         },
         {
+            "id": 1116694,
+            "name": "Miguel Hormazábal",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
             "id": 225012,
             "name": "Amparo Noguera",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg"
+            "image_url": "/storage/people/amparo-noguera-c2b5a87b.jpg"
+        },
+        {
+            "id": 1136892,
+            "name": "Nathalie Trafford",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 1407620,
+            "name": "Mauricio López",
+            "department": "Sound",
+            "job": "Sound Editor",
+            "image_url": "/storage/people/mauricio-lopez-5cb5cba8.jpg"
+        },
+        {
+            "id": 1287615,
+            "name": "Javiera Varas",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 1607369,
+            "name": "José Miguel Tobar",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
         },
         {
             "id": 941061,
             "name": "María Izquierdo",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/7uTHfv4xls7ZyhJHBjsu4IWe5uU.jpg"
+            "image_url": "/storage/people/maria-izquierdo-863f0bee.jpg"
+        },
+        {
+            "id": 966771,
+            "name": "Rodrigo Bazaes",
+            "department": "Art",
+            "job": "Production Design",
+            "image_url": null
         },
         {
             "id": 2708046,
@@ -383,7 +388,7 @@
         "original_language": "es",
         "original_title": "Machuca",
         "overview": "Santiago de Chile, 1973. Gonzalo Infante y Pedro Machuca, dos niños de once años, viven en dos mundos diametralmente opuestos: el primero en un barrio residencial, y el segundo en un poblado ilegal a pocas manzanas de distancia. El director de un colegio religioso privado, el padre McEnroe, es un idealista que, con el apoyo de algunos padres, intenta integrar en el elitista colegio a chicos procedentes del poblado. Es así como Pedro Machuca y Gonzalo Infante llegan a ser compañeros de clase y amigos en un momento de gravísíma división y enfrentamiento dentro de la sociedad chilena. (FILMAFFINITY)",
-        "popularity": 1.9217,
+        "popularity": 2.3444,
         "poster_path": "/oBDAEhTLWwflrqRZMsrOisqkVSb.jpg",
         "production_companies": [
             {
@@ -477,7 +482,7 @@
                     "known_for_department": "Acting",
                     "name": "Matías Quer",
                     "original_name": "Matías Quer",
-                    "popularity": 0.1372,
+                    "popularity": 0.2004,
                     "profile_path": "/sjUfpIjgMRUaYhEimMrYBsMmrI0.jpg",
                     "cast_id": 4,
                     "character": "Gonzalo Infante",
@@ -491,7 +496,7 @@
                     "known_for_department": "Acting",
                     "name": "Ariel Mateluna",
                     "original_name": "Ariel Mateluna",
-                    "popularity": 0.2648,
+                    "popularity": 0.2381,
                     "profile_path": "/z1RC0aNHtgqKpMMKX6lcLAxBBJm.jpg",
                     "cast_id": 5,
                     "character": "Pedro Machuca",
@@ -505,7 +510,7 @@
                     "known_for_department": "Acting",
                     "name": "Aline Küppenheim",
                     "original_name": "Aline Küppenheim",
-                    "popularity": 0.5423,
+                    "popularity": 0.5104,
                     "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
                     "cast_id": 6,
                     "character": "María Luisa",
@@ -519,7 +524,7 @@
                     "known_for_department": "Acting",
                     "name": "Ernesto Malbrán",
                     "original_name": "Ernesto Malbrán",
-                    "popularity": 1.6411,
+                    "popularity": 2.0731,
                     "profile_path": null,
                     "cast_id": 7,
                     "character": "Father McEnroe",
@@ -533,7 +538,7 @@
                     "known_for_department": "Acting",
                     "name": "Federico Luppi",
                     "original_name": "Federico Luppi",
-                    "popularity": 0.285,
+                    "popularity": 0.3509,
                     "profile_path": "/jBzJ3t4kRssFbEuZxSnHxACe6oC.jpg",
                     "cast_id": 8,
                     "character": "Roberto",
@@ -547,7 +552,7 @@
                     "known_for_department": "Acting",
                     "name": "Manuela Martelli",
                     "original_name": "Manuela Martelli",
-                    "popularity": 0.3427,
+                    "popularity": 0.3091,
                     "profile_path": "/fH2Ir9Qh37ivjyGSEht3aX4qFp4.jpg",
                     "cast_id": 21,
                     "character": "Silvana",
@@ -561,7 +566,7 @@
                     "known_for_department": "Acting",
                     "name": "Tamara Acosta",
                     "original_name": "Tamara Acosta",
-                    "popularity": 0.2078,
+                    "popularity": 0.3753,
                     "profile_path": "/o7vPwaqwDNojUvaHVcrOjfJ6GAB.jpg",
                     "cast_id": 22,
                     "character": "Juana",
@@ -575,7 +580,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisco Reyes",
                     "original_name": "Francisco Reyes",
-                    "popularity": 0.3561,
+                    "popularity": 0.282,
                     "profile_path": "/39vxTjzjqCgvA0Tf7NGGKiRsYKC.jpg",
                     "cast_id": 23,
                     "character": "Patricio Infante",
@@ -589,7 +594,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Trejo",
                     "original_name": "Alejandro Trejo",
-                    "popularity": 0.2602,
+                    "popularity": 0.3243,
                     "profile_path": "/uW8LQotVaWRFJl7mSNFr0GvMFQ0.jpg",
                     "cast_id": 24,
                     "character": "Willy",
@@ -603,7 +608,7 @@
                     "known_for_department": "Acting",
                     "name": "María Olga Matte",
                     "original_name": "María Olga Matte",
-                    "popularity": 0.0762,
+                    "popularity": 0.0861,
                     "profile_path": "/wpXX6Cws2kf4Mm3pVf2cnj5HDVQ.jpg",
                     "cast_id": 25,
                     "character": "Miss Gilda",
@@ -617,7 +622,7 @@
                     "known_for_department": "Acting",
                     "name": "Gabriela Medina",
                     "original_name": "Gabriela Medina",
-                    "popularity": 0.2751,
+                    "popularity": 0.2614,
                     "profile_path": "/cjTqN3ncOGC1pYB9bDgGU6n2QR6.jpg",
                     "cast_id": 26,
                     "character": "Lucy",
@@ -631,7 +636,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Dubó",
                     "original_name": "Luis Dubó",
-                    "popularity": 0.146,
+                    "popularity": 0.2791,
                     "profile_path": "/qtujcN7pquefZlR45sUmKFCBsHw.jpg",
                     "cast_id": 27,
                     "character": "Ismael Machuca",
@@ -645,7 +650,7 @@
                     "known_for_department": "Acting",
                     "name": "Andrea García-Huidobro",
                     "original_name": "Andrea García-Huidobro",
-                    "popularity": 0.1337,
+                    "popularity": 0.1172,
                     "profile_path": "/91c1sBSDS24WplpucWWUg7iWro2.jpg",
                     "cast_id": 28,
                     "character": "Isabel",
@@ -659,7 +664,7 @@
                     "known_for_department": "Acting",
                     "name": "Tiago Correa",
                     "original_name": "Tiago Correa",
-                    "popularity": 0.8939,
+                    "popularity": 0.7917,
                     "profile_path": "/eA6O9b0s6EQok9eyI2rsoHyIpoQ.jpg",
                     "cast_id": 29,
                     "character": "Pablo",
@@ -673,7 +678,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Goic",
                     "original_name": "Alejandro Goic",
-                    "popularity": 0.2551,
+                    "popularity": 0.2888,
                     "profile_path": "/8z2lGgKgZO5H5Iin4k3BBpw54Du.jpg",
                     "cast_id": 59,
                     "character": "Father Robles",
@@ -687,7 +692,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Krögh",
                     "original_name": "Pablo Krögh",
-                    "popularity": 0.6914,
+                    "popularity": 0.6318,
                     "profile_path": "/3o1yCshLPEcE89adxe3CFEc7Ncs.jpg",
                     "cast_id": 30,
                     "character": "Colonel Sotomayor",
@@ -701,7 +706,7 @@
                     "known_for_department": "Acting",
                     "name": "Jack Arama",
                     "original_name": "Jack Arama",
-                    "popularity": 0.1741,
+                    "popularity": 0.1228,
                     "profile_path": null,
                     "cast_id": 31,
                     "character": "Parent",
@@ -715,7 +720,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisca Imboden",
                     "original_name": "Francisca Imboden",
-                    "popularity": 0.1066,
+                    "popularity": 0.1175,
                     "profile_path": "/w0crfboED1V2QxsEhBvZ0GzuSsn.jpg",
                     "cast_id": 51,
                     "character": "Maria Luisa's Friend 2",
@@ -729,7 +734,7 @@
                     "known_for_department": "Acting",
                     "name": "Catherine Mazoyer",
                     "original_name": "Catherine Mazoyer",
-                    "popularity": 0.1363,
+                    "popularity": 0.1484,
                     "profile_path": "/ybfcpGLkYMJZzSFdSybOtbBuGpL.jpg",
                     "cast_id": 33,
                     "character": "New Teacher",
@@ -743,7 +748,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Pablo Miranda",
                     "original_name": "Juan Pablo Miranda",
-                    "popularity": 0.1998,
+                    "popularity": 0.2549,
                     "profile_path": "/9dMHQhRcrg7lZeewC6ZiJwtz5S0.jpg",
                     "cast_id": 34,
                     "character": "Soldier",
@@ -757,7 +762,7 @@
                     "known_for_department": "Acting",
                     "name": "Aldo Parodi",
                     "original_name": "Aldo Parodi",
-                    "popularity": 0.4497,
+                    "popularity": 0.465,
                     "profile_path": "/cqkBnvq5mdCHvkTwnpxYbT8Fg9B.jpg",
                     "cast_id": 35,
                     "character": "Tailor",
@@ -771,7 +776,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo Burlé",
                     "original_name": "Eduardo Burlé",
-                    "popularity": 0.2154,
+                    "popularity": 0.2241,
                     "profile_path": "/tDJUTLspuhGfoKIt5HwerhF4cjx.jpg",
                     "cast_id": 36,
                     "character": "Rolando Hamilton",
@@ -785,7 +790,7 @@
                     "known_for_department": "Acting",
                     "name": "Jorge Zepeda",
                     "original_name": "Jorge Zepeda",
-                    "popularity": 0.2709,
+                    "popularity": 0.4568,
                     "profile_path": null,
                     "cast_id": 37,
                     "character": "Chofer de Ochagavía",
@@ -799,7 +804,7 @@
                     "known_for_department": "Acting",
                     "name": "María Izquierdo",
                     "original_name": "María Izquierdo",
-                    "popularity": 0.2815,
+                    "popularity": 0.2246,
                     "profile_path": "/7uTHfv4xls7ZyhJHBjsu4IWe5uU.jpg",
                     "cast_id": 38,
                     "character": "(uncredited)",
@@ -813,7 +818,7 @@
                     "known_for_department": "Acting",
                     "name": "Hugo Vásquez",
                     "original_name": "Hugo Vásquez",
-                    "popularity": 0.2462,
+                    "popularity": 0.2092,
                     "profile_path": "/3OAcK8I1VmsvRfWJLd6JRME6gLy.jpg",
                     "cast_id": 52,
                     "character": "Parent 1",
@@ -841,7 +846,7 @@
                     "known_for_department": "Acting",
                     "name": "Mauricio Bustos",
                     "original_name": "Mauricio Bustos",
-                    "popularity": 0.0239,
+                    "popularity": 0.0478,
                     "profile_path": null,
                     "cast_id": 54,
                     "character": "Kiosquero",
@@ -855,7 +860,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisca Concha",
                     "original_name": "Francisca Concha",
-                    "popularity": 0.1018,
+                    "popularity": 0.0716,
                     "profile_path": null,
                     "cast_id": 55,
                     "character": "Mother Robles",
@@ -869,7 +874,7 @@
                     "known_for_department": "Acting",
                     "name": "Lucas Edwards",
                     "original_name": "Lucas Edwards",
-                    "popularity": 0.0387,
+                    "popularity": 0.0363,
                     "profile_path": null,
                     "cast_id": 56,
                     "character": "Lucas Honorato",
@@ -883,7 +888,7 @@
                     "known_for_department": "Acting",
                     "name": "Samuel Guajardo",
                     "original_name": "Samuel Guajardo",
-                    "popularity": 0.0579,
+                    "popularity": 0.0636,
                     "profile_path": null,
                     "cast_id": 57,
                     "character": "Bus Driver",
@@ -897,7 +902,7 @@
                     "known_for_department": "Acting",
                     "name": "Julio Briceño",
                     "original_name": "Julio Briceño",
-                    "popularity": 0.0858,
+                    "popularity": 0.0677,
                     "profile_path": null,
                     "cast_id": 58,
                     "character": "Priest 2",
@@ -911,7 +916,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Striano",
                     "original_name": "Pablo Striano",
-                    "popularity": 0.1632,
+                    "popularity": 0.1628,
                     "profile_path": null,
                     "cast_id": 60,
                     "character": "Store Clerk",
@@ -925,7 +930,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Alcaíno",
                     "original_name": "Daniel Alcaíno",
-                    "popularity": 0.4079,
+                    "popularity": 0.2765,
                     "profile_path": "/g07gRMC48FNqC2W6bMLKmOFVbl.jpg",
                     "cast_id": 63,
                     "character": "Army Sergeant",
@@ -955,128 +960,11 @@
                     "known_for_department": "Directing",
                     "name": "Andrés Wood",
                     "original_name": "Andrés Wood",
-                    "popularity": 0.2873,
-                    "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg",
-                    "credit_id": "52fe44b19251416c7503dae7",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 71204,
-                    "known_for_department": "Writing",
-                    "name": "Eliseo Altunaga",
-                    "original_name": "Eliseo Altunaga",
-                    "popularity": 0.1696,
-                    "profile_path": null,
-                    "credit_id": "52fe44b19251416c7503daed",
-                    "department": "Writing",
-                    "job": "Screenplay"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 71205,
-                    "known_for_department": "Writing",
-                    "name": "Roberto Brodsky",
-                    "original_name": "Roberto Brodsky",
-                    "popularity": 0.1496,
-                    "profile_path": null,
-                    "credit_id": "52fe44b19251416c7503daf3",
-                    "department": "Writing",
-                    "job": "Screenplay"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 71203,
-                    "known_for_department": "Directing",
-                    "name": "Andrés Wood",
-                    "original_name": "Andrés Wood",
-                    "popularity": 0.2873,
+                    "popularity": 0.2499,
                     "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg",
                     "credit_id": "52fe44b19251416c7503db0d",
                     "department": "Writing",
                     "job": "Screenplay"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 72810,
-                    "known_for_department": "Writing",
-                    "name": "Mamoun Hassan",
-                    "original_name": "Mamoun Hassan",
-                    "popularity": 0.3185,
-                    "profile_path": "/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg",
-                    "credit_id": "52fe44b19251416c7503db13",
-                    "department": "Writing",
-                    "job": "Screenplay"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 71203,
-                    "known_for_department": "Directing",
-                    "name": "Andrés Wood",
-                    "original_name": "Andrés Wood",
-                    "popularity": 0.2873,
-                    "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg",
-                    "credit_id": "52fe44b19251416c7503db19",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 72812,
-                    "known_for_department": "Camera",
-                    "name": "M.I. Littin-Menz",
-                    "original_name": "M.I. Littin-Menz",
-                    "popularity": 0.1939,
-                    "profile_path": null,
-                    "credit_id": "52fe44b19251416c7503db1f",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 46861,
-                    "known_for_department": "Editing",
-                    "name": "Fernando Pardo",
-                    "original_name": "Fernando Pardo",
-                    "popularity": 0.1532,
-                    "profile_path": "/qU4pjTaoJdeNwLp1bKQYQcXHAKd.jpg",
-                    "credit_id": "52fe44b19251416c7503db25",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 72814,
-                    "known_for_department": "Editing",
-                    "name": "Soledad Salfate",
-                    "original_name": "Soledad Salfate",
-                    "popularity": 0.5697,
-                    "profile_path": "/3TivNgafncpD8aoTd720rKGpMM4.jpg",
-                    "credit_id": "52fe44b19251416c7503db2b",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 72815,
-                    "known_for_department": "Production",
-                    "name": "Carlos Johnson",
-                    "original_name": "Carlos Johnson",
-                    "popularity": 0.0311,
-                    "profile_path": null,
-                    "credit_id": "52fe44b19251416c7503db31",
-                    "department": "Production",
-                    "job": "Casting"
                 },
                 {
                     "adult": false,
@@ -1094,145 +982,15 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 72810,
-                    "known_for_department": "Writing",
-                    "name": "Mamoun Hassan",
-                    "original_name": "Mamoun Hassan",
-                    "popularity": 0.3185,
-                    "profile_path": "/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg",
-                    "credit_id": "52fe44b19251416c7503db3d",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 47059,
-                    "known_for_department": "Production",
-                    "name": "Gerardo Herrero",
-                    "original_name": "Gerardo Herrero",
-                    "popularity": 0.3385,
-                    "profile_path": "/bAJRt3PSM2oL1UuIsyaDsIsS8Gv.jpg",
-                    "credit_id": "52fe44b19251416c7503db43",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1136892,
-                    "known_for_department": "Production",
-                    "name": "Nathalie Trafford",
-                    "original_name": "Nathalie Trafford",
-                    "popularity": 0.0451,
-                    "profile_path": null,
-                    "credit_id": "57a3d3909251413b80000101",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1090650,
-                    "known_for_department": "Sound",
-                    "name": "Miguel Miranda",
-                    "original_name": "Miguel Miranda",
-                    "popularity": 0.2023,
-                    "profile_path": null,
-                    "credit_id": "57a3d3cbc3a36842020003b7",
-                    "department": "Sound",
-                    "job": "Original Music Composer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1607369,
-                    "known_for_department": "Sound",
-                    "name": "José Miguel Tobar",
-                    "original_name": "José Miguel Tobar",
-                    "popularity": 0.0785,
-                    "profile_path": null,
-                    "credit_id": "57a3d3e2c3a3684abd000196",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 966771,
-                    "known_for_department": "Art",
-                    "name": "Rodrigo Bazaes",
-                    "original_name": "Rodrigo Bazaes",
-                    "popularity": 0.1659,
-                    "profile_path": null,
-                    "credit_id": "57a3d41ec3a3684b26000198",
-                    "department": "Art",
-                    "job": "Production Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 81733,
-                    "known_for_department": "Production",
-                    "name": "Eduardo Castro",
-                    "original_name": "Eduardo Castro",
-                    "popularity": 1.8539,
-                    "profile_path": null,
-                    "credit_id": "57a3d4719251413b00000182",
-                    "department": "Production",
-                    "job": "Production Manager"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1287615,
-                    "known_for_department": "Art",
-                    "name": "Javiera Varas",
-                    "original_name": "Javiera Varas",
-                    "popularity": 0.1799,
-                    "profile_path": null,
-                    "credit_id": "57a3d4edc3a3684bae0001b7",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1116694,
-                    "known_for_department": "Sound",
-                    "name": "Miguel Hormazábal",
-                    "original_name": "Miguel Hormazábal",
-                    "popularity": 0.0414,
-                    "profile_path": null,
-                    "credit_id": "57a3d520c3a3684b26000241",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1407620,
-                    "known_for_department": "Sound",
-                    "name": "Mauricio López",
-                    "original_name": "Mauricio López",
-                    "popularity": 0.2751,
-                    "profile_path": "/xH0WICbPIGCheKrWkuy3hicEk6l.jpg",
-                    "credit_id": "57a3d53ec3a3684202000485",
-                    "department": "Sound",
-                    "job": "Sound Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1040059,
+                    "id": 71203,
                     "known_for_department": "Directing",
-                    "name": "Julio Jorquera",
-                    "original_name": "Julio Jorquera",
-                    "popularity": 0.1134,
-                    "profile_path": null,
-                    "credit_id": "57a3d5e1c3a3683835001f9e",
-                    "department": "Production",
-                    "job": "Location Manager"
+                    "name": "Andrés Wood",
+                    "original_name": "Andrés Wood",
+                    "popularity": 0.2499,
+                    "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg",
+                    "credit_id": "52fe44b19251416c7503dae7",
+                    "department": "Directing",
+                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -1241,11 +999,193 @@
                     "known_for_department": "Writing",
                     "name": "Eliseo Altunaga",
                     "original_name": "Eliseo Altunaga",
-                    "popularity": 0.1696,
+                    "popularity": 0.1395,
+                    "profile_path": null,
+                    "credit_id": "52fe44b19251416c7503daed",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 47059,
+                    "known_for_department": "Production",
+                    "name": "Gerardo Herrero",
+                    "original_name": "Gerardo Herrero",
+                    "popularity": 0.5927,
+                    "profile_path": "/bAJRt3PSM2oL1UuIsyaDsIsS8Gv.jpg",
+                    "credit_id": "52fe44b19251416c7503db43",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 72814,
+                    "known_for_department": "Editing",
+                    "name": "Soledad Salfate",
+                    "original_name": "Soledad Salfate",
+                    "popularity": 0.6736,
+                    "profile_path": "/3TivNgafncpD8aoTd720rKGpMM4.jpg",
+                    "credit_id": "52fe44b19251416c7503db2b",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 72810,
+                    "known_for_department": "Writing",
+                    "name": "Mamoun Hassan",
+                    "original_name": "Mamoun Hassan",
+                    "popularity": 0.3244,
+                    "profile_path": "/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg",
+                    "credit_id": "52fe44b19251416c7503db13",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 71205,
+                    "known_for_department": "Writing",
+                    "name": "Roberto Brodsky",
+                    "original_name": "Roberto Brodsky",
+                    "popularity": 0.1203,
+                    "profile_path": null,
+                    "credit_id": "52fe44b19251416c7503daf3",
+                    "department": "Writing",
+                    "job": "Screenplay"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71203,
+                    "known_for_department": "Directing",
+                    "name": "Andrés Wood",
+                    "original_name": "Andrés Wood",
+                    "popularity": 0.2499,
+                    "profile_path": "/5HfXcNhAGv1j8crUOmpDmkWi5WM.jpg",
+                    "credit_id": "52fe44b19251416c7503db19",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 72815,
+                    "known_for_department": "Production",
+                    "name": "Carlos Johnson",
+                    "original_name": "Carlos Johnson",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "52fe44b19251416c7503db31",
+                    "department": "Production",
+                    "job": "Casting"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 72810,
+                    "known_for_department": "Writing",
+                    "name": "Mamoun Hassan",
+                    "original_name": "Mamoun Hassan",
+                    "popularity": 0.3244,
+                    "profile_path": "/uS4JnxmuG03CprpXSdWKIbeTDWX.jpg",
+                    "credit_id": "52fe44b19251416c7503db3d",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 72812,
+                    "known_for_department": "Camera",
+                    "name": "M.I. Littin-Menz",
+                    "original_name": "M.I. Littin-Menz",
+                    "popularity": 0.2062,
+                    "profile_path": null,
+                    "credit_id": "52fe44b19251416c7503db1f",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 46861,
+                    "known_for_department": "Editing",
+                    "name": "Fernando Pardo",
+                    "original_name": "Fernando Pardo",
+                    "popularity": 0.1901,
+                    "profile_path": "/qU4pjTaoJdeNwLp1bKQYQcXHAKd.jpg",
+                    "credit_id": "52fe44b19251416c7503db25",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1040059,
+                    "known_for_department": "Directing",
+                    "name": "Julio Jorquera",
+                    "original_name": "Julio Jorquera",
+                    "popularity": 0.113,
+                    "profile_path": null,
+                    "credit_id": "57a3d5e1c3a3683835001f9e",
+                    "department": "Production",
+                    "job": "Location Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 81733,
+                    "known_for_department": "Production",
+                    "name": "Eduardo Castro",
+                    "original_name": "Eduardo Castro",
+                    "popularity": 2.5453,
+                    "profile_path": null,
+                    "credit_id": "57a3d4719251413b00000182",
+                    "department": "Production",
+                    "job": "Production Manager"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1090650,
+                    "known_for_department": "Sound",
+                    "name": "Miguel Miranda",
+                    "original_name": "Miguel Miranda",
+                    "popularity": 0.185,
+                    "profile_path": null,
+                    "credit_id": "57a3d3cbc3a36842020003b7",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71204,
+                    "known_for_department": "Writing",
+                    "name": "Eliseo Altunaga",
+                    "original_name": "Eliseo Altunaga",
+                    "popularity": 0.1395,
                     "profile_path": null,
                     "credit_id": "57a3d6649251413bb3000227",
                     "department": "Directing",
                     "job": "Script Supervisor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1116694,
+                    "known_for_department": "Sound",
+                    "name": "Miguel Hormazábal",
+                    "original_name": "Miguel Hormazábal",
+                    "popularity": 0.0536,
+                    "profile_path": null,
+                    "credit_id": "57a3d520c3a3684b26000241",
+                    "department": "Sound",
+                    "job": "Sound"
                 },
                 {
                     "adult": false,
@@ -1254,11 +1194,63 @@
                     "known_for_department": "Acting",
                     "name": "Amparo Noguera",
                     "original_name": "Amparo Noguera",
-                    "popularity": 0.3055,
+                    "popularity": 0.2175,
                     "profile_path": "/9VYxx11lDsWDoj0CcbHhTcymHA1.jpg",
                     "credit_id": "57a3d6b2c3a3684abd000370",
                     "department": "Crew",
                     "job": "Thanks"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1136892,
+                    "known_for_department": "Production",
+                    "name": "Nathalie Trafford",
+                    "original_name": "Nathalie Trafford",
+                    "popularity": 0.0386,
+                    "profile_path": null,
+                    "credit_id": "57a3d3909251413b80000101",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1407620,
+                    "known_for_department": "Sound",
+                    "name": "Mauricio López",
+                    "original_name": "Mauricio López",
+                    "popularity": 0.1952,
+                    "profile_path": "/xH0WICbPIGCheKrWkuy3hicEk6l.jpg",
+                    "credit_id": "57a3d53ec3a3684202000485",
+                    "department": "Sound",
+                    "job": "Sound Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1287615,
+                    "known_for_department": "Art",
+                    "name": "Javiera Varas",
+                    "original_name": "Javiera Varas",
+                    "popularity": 0.1458,
+                    "profile_path": null,
+                    "credit_id": "57a3d4edc3a3684bae0001b7",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1607369,
+                    "known_for_department": "Sound",
+                    "name": "José Miguel Tobar",
+                    "original_name": "José Miguel Tobar",
+                    "popularity": 0.1017,
+                    "profile_path": null,
+                    "credit_id": "57a3d3e2c3a3684abd000196",
+                    "department": "Sound",
+                    "job": "Music"
                 },
                 {
                     "adult": false,
@@ -1267,11 +1259,24 @@
                     "known_for_department": "Acting",
                     "name": "María Izquierdo",
                     "original_name": "María Izquierdo",
-                    "popularity": 0.2815,
+                    "popularity": 0.2246,
                     "profile_path": "/7uTHfv4xls7ZyhJHBjsu4IWe5uU.jpg",
                     "credit_id": "57a3d71d925141346d0004fb",
                     "department": "Crew",
                     "job": "Thanks"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 966771,
+                    "known_for_department": "Art",
+                    "name": "Rodrigo Bazaes",
+                    "original_name": "Rodrigo Bazaes",
+                    "popularity": 0.1415,
+                    "profile_path": null,
+                    "credit_id": "57a3d41ec3a3684b26000198",
+                    "department": "Art",
+                    "job": "Production Design"
                 },
                 {
                     "adult": false,
@@ -1293,7 +1298,7 @@
                     "known_for_department": "Directing",
                     "name": "Felipe del Río",
                     "original_name": "Felipe del Río",
-                    "popularity": 0.1585,
+                    "popularity": 0.1901,
                     "profile_path": null,
                     "credit_id": "5fb6b637373ac2003d2ccb2d",
                     "department": "Directing",

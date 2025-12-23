@@ -31,9 +31,14 @@
         "Español",
         "English"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/2dC2qNbNSoGDNenGTKco9TPxKAD.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/yTLjK7jw4jEenUZg5NLcVS01BUF.jpg",
+    "poster_url": "/storage/posters/acne-7052eda4.jpg",
+    "backdrop_url": "/storage/backdrops/acne-7b78a86c.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/acne-7052eda4.jpg",
+        "/storage/gallery/gallery-2-2c736f90.jpg",
+        "/storage/gallery/gallery-3-7c6c5f83.jpg"
+    ],
     "cast": [
         {
             "id": 564302,
@@ -61,7 +66,7 @@
             "name": "David Blankleider",
             "character": "Martin Bregman",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/oGWHXk61Lkin9yX3BSaauziwVcO.jpg"
+            "image_url": "/storage/people/david-blankleider-430bec54.jpg"
         },
         {
             "id": 564306,
@@ -103,21 +108,21 @@
             "name": "Verónica Perrotta",
             "character": "Angélica",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/zOoijPbRtKmVMDH7A9ZxfZIVli1.jpg"
+            "image_url": "/storage/people/veronica-perrotta-425ba53e.jpg"
         },
         {
             "id": 1760441,
             "name": "Jenny Goldstein",
             "character": "Cosmetologist",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/n0Lg1Uuy5KI9nVUnnsQIXzleAcd.jpg"
+            "image_url": "/storage/people/jenny-goldstein-9e0e3d91.jpg"
         },
         {
             "id": 548835,
             "name": "Néstor Guzzini",
             "character": "Andy's father",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/sIxuUnMnHGG0Z0ohQYfF3AmI7nw.jpg"
+            "image_url": "/storage/people/nestor-guzzini-65afce43.jpg"
         }
     ],
     "crew": [
@@ -126,14 +131,14 @@
             "name": "Federico Veiroj",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 950048,
             "name": "Fernando Epstein",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg"
+            "image_url": "/storage/people/fernando-epstein-56e9e2ff.jpg"
         },
         {
             "id": 1202720,
@@ -147,35 +152,35 @@
             "name": "Federico Veiroj",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/myk880UXuBmggOXOK4rmhKsu3ic.jpg"
+            "image_url": "/storage/people/federico-veiroj-8afb0b3a.jpg"
         },
         {
             "id": 116585,
             "name": "Gonzalo Delgado",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 950048,
             "name": "Fernando Epstein",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg"
+            "image_url": "/storage/people/fernando-epstein-56e9e2ff.jpg"
         },
         {
             "id": 1112961,
             "name": "Bárbara Álvarez",
             "department": "Crew",
             "job": "Cinematography",
-            "image_url": "https://image.tmdb.org/t/p/w154/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg"
+            "image_url": "/storage/people/barbara-alvarez-1ab36208.jpg"
         },
         {
             "id": 1063051,
             "name": "Leticia Jorge",
             "department": "Production",
             "job": "Casting",
-            "image_url": "https://image.tmdb.org/t/p/w154/sdLnDvjgG1b93CHTMFodZ6keMea.jpg"
+            "image_url": "/storage/people/leticia-jorge-6c79e1c1.jpg"
         }
     ],
     "raw": {

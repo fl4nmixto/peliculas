@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 182469,
-    "cinear_id": null,
     "slug": "el-exilio-de-gardel-tangos",
     "title": "El exilio de Gardel: Tangos",
     "original_title": "El exilio de Gardel: Tangos",
@@ -11,8 +10,14 @@
     "year": 1985,
     "tagline": "",
     "genres": [
-        "Música",
-        "Drama"
+        {
+            "id": 10402,
+            "name": "Música"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina",
@@ -21,58 +26,63 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/zQRi8YujjyglVuBiMjDOGjB5xFs.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/tOH2ZhhVSJsxl66vHZM53ElvUgO.jpg",
+    "poster_url": "/storage/posters/el-exilio-de-gardel-tangos-70933b82.jpg",
+    "backdrop_url": "/storage/backdrops/el-exilio-de-gardel-tangos-1725e4b0.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-exilio-de-gardel-tangos-70933b82.jpg",
+        "/storage/gallery/gallery-2-d165d049.jpg",
+        "/storage/gallery/gallery-3-d36c12fa.jpg"
+    ],
     "cast": [
         {
             "id": 39644,
             "name": "Marie Laforêt",
             "character": "Mariana",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/8y9gJDW8m5cXbdLvAgnThaYzQ3h.jpg"
+            "image_url": "/storage/people/marie-laforet-ea6b7be0.jpg"
         },
         {
             "id": 3581,
             "name": "Philippe Léotard",
             "character": "Pierre",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/rjvSxdR594HfvlaRKURZDlPE36p.jpg"
+            "image_url": "/storage/people/philippe-leotard-a55d703a.jpg"
         },
         {
             "id": 230213,
             "name": "Miguel Ángel Solá",
             "character": "Juan Dos",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/jvkbzIBASI8H91kuN0z9bnLuQuB.jpg"
+            "image_url": "/storage/people/miguel-angel-sola-9fee8d73.jpg"
         },
         {
             "id": 7277,
             "name": "Georges Wilson",
             "character": "Jean-Marie",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/hifU1QhRKnX44VyrRBHmPldTsRy.jpg"
+            "image_url": "/storage/people/georges-wilson-569c164c.jpg"
         },
         {
             "id": 14813,
             "name": "Marina Vlady",
             "character": "Florence",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/wxBo8F5Y0aSmxITs5CQJ5Vpezug.jpg"
+            "image_url": "/storage/people/marina-vlady-d22d2baa.jpg"
         },
         {
             "id": 589413,
             "name": "Ana María Picchio",
             "character": "Ana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/dmHyVLePGOpFITsx0W3j2Wg4ptm.jpg"
+            "image_url": "/storage/people/ana-maria-picchio-93014da8.jpg"
         },
         {
             "id": 104068,
             "name": "Gabriela Toscano",
             "character": "Maria / Les jeunes danseurs",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/AnIvhsKDVRg37xjfdoUVA0wnJCv.jpg"
+            "image_url": "/storage/people/gabriela-toscano-6991d7e4.jpg"
         },
         {
             "id": 1145611,
@@ -86,20 +96,20 @@
             "name": "Lautaro Murúa",
             "character": "Gerardo",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/a7teROxSkY9tuisxJmWXZIVMss0.jpg"
+            "image_url": "/storage/people/lautaro-murua-c7b9ae2a.jpg"
         }
     ],
     "crew": [
         {
-            "id": 140557,
-            "name": "Luis César D'Angiolillo",
+            "id": 19087,
+            "name": "Jacques Gaillard",
             "department": "Editing",
             "job": "Editor",
             "image_url": null
         },
         {
-            "id": 19087,
-            "name": "Jacques Gaillard",
+            "id": 140557,
+            "name": "Luis César D'Angiolillo",
             "department": "Editing",
             "job": "Editor",
             "image_url": null
@@ -109,27 +119,13 @@
             "name": "Fernando E. Solanas",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+            "image_url": "/storage/people/fernando-e-solanas-f576ff5e.jpg"
         },
         {
-            "id": 3886984,
-            "name": "Nathalie Dubois",
-            "department": "Costume & Make-Up",
-            "job": "Special Effects Makeup Artist",
-            "image_url": null
-        },
-        {
-            "id": 39452,
-            "name": "Astor Piazzolla",
+            "id": 22208,
+            "name": "Paul Bertault",
             "department": "Sound",
-            "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg"
-        },
-        {
-            "id": 1963880,
-            "name": "Cédric Chami",
-            "department": "Costume & Make-Up",
-            "job": "Makeup Artist",
+            "job": "Sound Mixer",
             "image_url": null
         },
         {
@@ -140,66 +136,10 @@
             "image_url": null
         },
         {
-            "id": 1730029,
-            "name": "Patrice Grisolet",
-            "department": "Sound",
-            "job": "Sound Editor",
-            "image_url": null
-        },
-        {
-            "id": 3315179,
-            "name": "Marta Roig",
-            "department": "Costume & Make-Up",
-            "job": "Hairstylist",
-            "image_url": null
-        },
-        {
-            "id": 1145440,
-            "name": "Jonathan Liebling",
-            "department": "Sound",
-            "job": "Foley Artist",
-            "image_url": null
-        },
-        {
-            "id": 3887000,
-            "name": "Philippe Margottin",
-            "department": "Crew",
-            "job": "Special Effects",
-            "image_url": null
-        },
-        {
-            "id": 3886982,
-            "name": "V. Diaz Amo",
-            "department": "Production",
-            "job": "Associate Producer",
-            "image_url": null
-        },
-        {
-            "id": 2733145,
-            "name": "Hermenegildo Sabat",
+            "id": 1177501,
+            "name": "Denis Mercier",
             "department": "Art",
-            "job": "Painter",
-            "image_url": null
-        },
-        {
-            "id": 1037498,
-            "name": "Jérôme Lévy",
-            "department": "Sound",
-            "job": "Foley Artist",
-            "image_url": null
-        },
-        {
-            "id": 1640440,
-            "name": "Javier Salinas",
-            "department": "Sound",
-            "job": "ADR Recordist",
-            "image_url": null
-        },
-        {
-            "id": 3886996,
-            "name": "Ruben Costa",
-            "department": "Crew",
-            "job": "Special Effects",
+            "job": "Set Designer",
             "image_url": null
         },
         {
@@ -210,10 +150,59 @@
             "image_url": null
         },
         {
-            "id": 1177501,
-            "name": "Denis Mercier",
+            "id": 3886985,
+            "name": "Pascale Lites",
+            "department": "Costume & Make-Up",
+            "job": "Assistant Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 1963880,
+            "name": "Cédric Chami",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist",
+            "image_url": null
+        },
+        {
+            "id": 1037498,
+            "name": "Jérôme Lévy",
+            "department": "Sound",
+            "job": "Foley Artist",
+            "image_url": null
+        },
+        {
+            "id": 3315179,
+            "name": "Marta Roig",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist",
+            "image_url": null
+        },
+        {
+            "id": 2733145,
+            "name": "Hermenegildo Sabat",
             "department": "Art",
-            "job": "Set Designer",
+            "job": "Painter",
+            "image_url": null
+        },
+        {
+            "id": 3887000,
+            "name": "Philippe Margottin",
+            "department": "Crew",
+            "job": "Special Effects",
+            "image_url": null
+        },
+        {
+            "id": 3886996,
+            "name": "Ruben Costa",
+            "department": "Crew",
+            "job": "Special Effects",
+            "image_url": null
+        },
+        {
+            "id": 3886986,
+            "name": "Catalina Mena",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist",
             "image_url": null
         },
         {
@@ -224,17 +213,24 @@
             "image_url": null
         },
         {
-            "id": 22208,
-            "name": "Paul Bertault",
+            "id": 1730029,
+            "name": "Patrice Grisolet",
             "department": "Sound",
-            "job": "Sound Mixer",
+            "job": "Sound Editor",
             "image_url": null
         },
         {
-            "id": 3886999,
-            "name": "Jean-François Cousson",
-            "department": "Crew",
-            "job": "Special Effects",
+            "id": 3886982,
+            "name": "V. Diaz Amo",
+            "department": "Production",
+            "job": "Associate Producer",
+            "image_url": null
+        },
+        {
+            "id": 3886984,
+            "name": "Nathalie Dubois",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist",
             "image_url": null
         },
         {
@@ -242,27 +238,6 @@
             "name": "Alain Folgoas",
             "department": "Costume & Make-Up",
             "job": "Special Effects Makeup Artist",
-            "image_url": null
-        },
-        {
-            "id": 7704,
-            "name": "Jean Minondo",
-            "department": "Sound",
-            "job": "Sound Assistant",
-            "image_url": "https://image.tmdb.org/t/p/w154/6yu2CWF9e7rvXYnwQo2W9zOowex.jpg"
-        },
-        {
-            "id": 2174564,
-            "name": "Aldo Lobótrico",
-            "department": "Camera",
-            "job": "Camera Operator",
-            "image_url": null
-        },
-        {
-            "id": 3886985,
-            "name": "Pascale Lites",
-            "department": "Costume & Make-Up",
-            "job": "Assistant Makeup Artist",
             "image_url": null
         },
         {
@@ -277,21 +252,14 @@
             "name": "Frédéric Léotard",
             "department": "Art",
             "job": "Set Designer",
-            "image_url": "https://image.tmdb.org/t/p/w154/16ubzrPSONWQc3YMM4FAEKPjaUE.jpg"
+            "image_url": "/storage/people/frederic-leotard-4207f0b1.jpg"
         },
         {
-            "id": 3886986,
-            "name": "Catalina Mena",
-            "department": "Costume & Make-Up",
-            "job": "Makeup Artist",
-            "image_url": null
-        },
-        {
-            "id": 2878273,
-            "name": "Mario Emilio Marchioli",
-            "department": "Production",
-            "job": "Production Assistant",
-            "image_url": null
+            "id": 39452,
+            "name": "Astor Piazzolla",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": "/storage/people/astor-piazzolla-a2c0571d.jpg"
         },
         {
             "id": 3886992,
@@ -308,53 +276,46 @@
             "image_url": null
         },
         {
-            "id": 71353,
-            "name": "Fernando E. Solanas",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
-        },
-        {
-            "id": 957442,
-            "name": "Judy Shrewsbury",
-            "department": "Costume & Make-Up",
-            "job": "Costume Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/662N2ZWsA06Qa3LcubMvJbZT74c.jpg"
-        },
-        {
-            "id": 1917463,
-            "name": "Sabina Sigler",
-            "department": "Production",
-            "job": "Executive Producer",
+            "id": 3886999,
+            "name": "Jean-François Cousson",
+            "department": "Crew",
+            "job": "Special Effects",
             "image_url": null
         },
         {
-            "id": 1917464,
-            "name": "Luis Diego Pedreira",
-            "department": "Costume & Make-Up",
-            "job": "Costume Design",
-            "image_url": null
-        },
-        {
-            "id": 71353,
-            "name": "Fernando E. Solanas",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
-        },
-        {
-            "id": 39452,
-            "name": "Astor Piazzolla",
+            "id": 1640440,
+            "name": "Javier Salinas",
             "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg"
+            "job": "ADR Recordist",
+            "image_url": null
         },
         {
-            "id": 414697,
-            "name": "Félix Monti",
+            "id": 2878273,
+            "name": "Mario Emilio Marchioli",
+            "department": "Production",
+            "job": "Production Assistant",
+            "image_url": null
+        },
+        {
+            "id": 7704,
+            "name": "Jean Minondo",
+            "department": "Sound",
+            "job": "Sound Assistant",
+            "image_url": "/storage/people/jean-minondo-0805cb92.jpg"
+        },
+        {
+            "id": 1145440,
+            "name": "Jonathan Liebling",
+            "department": "Sound",
+            "job": "Foley Artist",
+            "image_url": null
+        },
+        {
+            "id": 2174564,
+            "name": "Aldo Lobótrico",
             "department": "Camera",
-            "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/lana2GPvtdkTj2EJFY7D6m54Mr7.jpg"
+            "job": "Camera Operator",
+            "image_url": null
         },
         {
             "id": 1917462,
@@ -371,6 +332,20 @@
             "image_url": null
         },
         {
+            "id": 39452,
+            "name": "Astor Piazzolla",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": "/storage/people/astor-piazzolla-a2c0571d.jpg"
+        },
+        {
+            "id": 1917464,
+            "name": "Luis Diego Pedreira",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
+        },
+        {
             "id": 1161037,
             "name": "Jimmy Vansteenkiste",
             "department": "Art",
@@ -382,21 +357,56 @@
             "name": "Fernando E. Solanas",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+            "image_url": "/storage/people/fernando-e-solanas-f576ff5e.jpg"
+        },
+        {
+            "id": 1917463,
+            "name": "Sabina Sigler",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 414697,
+            "name": "Félix Monti",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "/storage/people/felix-monti-4665436c.jpg"
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/fernando-e-solanas-f576ff5e.jpg"
+        },
+        {
+            "id": 71353,
+            "name": "Fernando E. Solanas",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/fernando-e-solanas-f576ff5e.jpg"
+        },
+        {
+            "id": 957442,
+            "name": "Judy Shrewsbury",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": "/storage/people/judy-shrewsbury-053f8d29.jpg"
         },
         {
             "id": 1616844,
             "name": "Norma Guevara",
             "department": "Art",
             "job": "Conceptual Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/dZWWZR5ZpgrKZWtO0vYsBMryoEg.jpg"
+            "image_url": "/storage/people/norma-guevara-75996712.jpg"
         },
         {
             "id": 71353,
             "name": "Fernando E. Solanas",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/iagqlE7LYudXnX88gajkfiWRtnl.jpg"
+            "image_url": "/storage/people/fernando-e-solanas-f576ff5e.jpg"
         },
         {
             "id": 1370555,
@@ -431,7 +441,7 @@
         "original_language": "es",
         "original_title": "El exilio de Gardel: Tangos",
         "overview": "Unos argentinos, exiliados en París, deciden montar un tango-ballet, dedicado a Carlos Gardel, una legendaria estrella del tango argentino.",
-        "popularity": 4.1496,
+        "popularity": 1.2553,
         "poster_path": "/zQRi8YujjyglVuBiMjDOGjB5xFs.jpg",
         "production_companies": [
             {
@@ -500,7 +510,7 @@
                     "known_for_department": "Acting",
                     "name": "Marie Laforêt",
                     "original_name": "Marie Laforêt",
-                    "popularity": 0.5965,
+                    "popularity": 1.0115,
                     "profile_path": "/8y9gJDW8m5cXbdLvAgnThaYzQ3h.jpg",
                     "cast_id": 1,
                     "character": "Mariana",
@@ -514,7 +524,7 @@
                     "known_for_department": "Acting",
                     "name": "Philippe Léotard",
                     "original_name": "Philippe Léotard",
-                    "popularity": 0.3214,
+                    "popularity": 0.4422,
                     "profile_path": "/rjvSxdR594HfvlaRKURZDlPE36p.jpg",
                     "cast_id": 2,
                     "character": "Pierre",
@@ -528,7 +538,7 @@
                     "known_for_department": "Acting",
                     "name": "Miguel Ángel Solá",
                     "original_name": "Miguel Ángel Solá",
-                    "popularity": 0.7908,
+                    "popularity": 1.4489,
                     "profile_path": "/jvkbzIBASI8H91kuN0z9bnLuQuB.jpg",
                     "cast_id": 3,
                     "character": "Juan Dos",
@@ -542,7 +552,7 @@
                     "known_for_department": "Acting",
                     "name": "Georges Wilson",
                     "original_name": "Georges Wilson",
-                    "popularity": 0.3958,
+                    "popularity": 0.6649,
                     "profile_path": "/hifU1QhRKnX44VyrRBHmPldTsRy.jpg",
                     "cast_id": 4,
                     "character": "Jean-Marie",
@@ -556,7 +566,7 @@
                     "known_for_department": "Acting",
                     "name": "Marina Vlady",
                     "original_name": "Marina Vlady",
-                    "popularity": 1.2207,
+                    "popularity": 1.7895,
                     "profile_path": "/wxBo8F5Y0aSmxITs5CQJ5Vpezug.jpg",
                     "cast_id": 18,
                     "character": "Florence",
@@ -570,7 +580,7 @@
                     "known_for_department": "Acting",
                     "name": "Ana María Picchio",
                     "original_name": "Ana María Picchio",
-                    "popularity": 0.1046,
+                    "popularity": 0.1116,
                     "profile_path": "/dmHyVLePGOpFITsx0W3j2Wg4ptm.jpg",
                     "cast_id": 19,
                     "character": "Ana",
@@ -584,7 +594,7 @@
                     "known_for_department": "Acting",
                     "name": "Gabriela Toscano",
                     "original_name": "Gabriela Toscano",
-                    "popularity": 0.2004,
+                    "popularity": 0.2991,
                     "profile_path": "/AnIvhsKDVRg37xjfdoUVA0wnJCv.jpg",
                     "cast_id": 20,
                     "character": "Maria / Les jeunes danseurs",
@@ -598,7 +608,7 @@
                     "known_for_department": "Acting",
                     "name": "Nora Codina",
                     "original_name": "Nora Codina",
-                    "popularity": 0.0261,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 21,
                     "character": "Danseurs Solistes",
@@ -612,7 +622,7 @@
                     "known_for_department": "Acting",
                     "name": "Lautaro Murúa",
                     "original_name": "Lautaro Murúa",
-                    "popularity": 0.7979,
+                    "popularity": 0.5582,
                     "profile_path": "/a7teROxSkY9tuisxJmWXZIVMss0.jpg",
                     "cast_id": 22,
                     "character": "Gerardo",
@@ -624,26 +634,26 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 140557,
+                    "id": 19087,
                     "known_for_department": "Editing",
-                    "name": "Luis César D'Angiolillo",
-                    "original_name": "Luis César D'Angiolillo",
-                    "popularity": 0.0721,
+                    "name": "Jacques Gaillard",
+                    "original_name": "Jacques Gaillard",
+                    "popularity": 0.2532,
                     "profile_path": null,
-                    "credit_id": "6065eacbfea0d70079cf9e48",
+                    "credit_id": "6065eae70a94d40040cb91c5",
                     "department": "Editing",
                     "job": "Editor"
                 },
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 19087,
+                    "id": 140557,
                     "known_for_department": "Editing",
-                    "name": "Jacques Gaillard",
-                    "original_name": "Jacques Gaillard",
-                    "popularity": 0.0777,
+                    "name": "Luis César D'Angiolillo",
+                    "original_name": "Luis César D'Angiolillo",
+                    "popularity": 0.0239,
                     "profile_path": null,
-                    "credit_id": "6065eae70a94d40040cb91c5",
+                    "credit_id": "6065eacbfea0d70079cf9e48",
                     "department": "Editing",
                     "job": "Editor"
                 },
@@ -654,7 +664,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando E. Solanas",
                     "original_name": "Fernando E. Solanas",
-                    "popularity": 0.1073,
+                    "popularity": 0.1356,
                     "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
                     "credit_id": "52fe4c849251416c7511cd53",
                     "department": "Directing",
@@ -662,42 +672,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 3886984,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Nathalie Dubois",
-                    "original_name": "Nathalie Dubois",
-                    "popularity": 0,
-                    "profile_path": null,
-                    "credit_id": "63ce35857aecc600ba59f0b6",
-                    "department": "Costume & Make-Up",
-                    "job": "Special Effects Makeup Artist"
-                },
-                {
-                    "adult": false,
                     "gender": 2,
-                    "id": 39452,
+                    "id": 22208,
                     "known_for_department": "Sound",
-                    "name": "Astor Piazzolla",
-                    "original_name": "Astor Piazzolla",
-                    "popularity": 0.1115,
-                    "profile_path": "/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg",
-                    "credit_id": "63ce35415bce9e00d9d8756d",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1963880,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Cédric Chami",
-                    "original_name": "Cédric Chami",
-                    "popularity": 0.0659,
+                    "name": "Paul Bertault",
+                    "original_name": "Paul Bertault",
+                    "popularity": 0.0608,
                     "profile_path": null,
-                    "credit_id": "63ce356b63536a00874510b4",
-                    "department": "Costume & Make-Up",
-                    "job": "Makeup Artist"
+                    "credit_id": "63ce36dbe16e5a02e918fbf5",
+                    "department": "Sound",
+                    "job": "Sound Mixer"
                 },
                 {
                     "adult": false,
@@ -706,7 +690,7 @@
                     "known_for_department": "Writing",
                     "name": "Tomás Sánchez",
                     "original_name": "Tomás Sánchez",
-                    "popularity": 0.0492,
+                    "popularity": 0.1511,
                     "profile_path": null,
                     "credit_id": "63ce36ad7f054000bd003967",
                     "department": "Art",
@@ -714,16 +698,68 @@
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 1730029,
-                    "known_for_department": "Sound",
-                    "name": "Patrice Grisolet",
-                    "original_name": "Patrice Grisolet",
-                    "popularity": 0.0677,
+                    "gender": 0,
+                    "id": 1177501,
+                    "known_for_department": "Art",
+                    "name": "Denis Mercier",
+                    "original_name": "Denis Mercier",
+                    "popularity": 0.0853,
                     "profile_path": null,
-                    "credit_id": "63ce36e87f0540008a7724c6",
+                    "credit_id": "63ce36697f054000d9cd1306",
+                    "department": "Art",
+                    "job": "Set Designer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3886981,
+                    "known_for_department": "Writing",
+                    "name": "Djamila Olivessi",
+                    "original_name": "Djamila Olivessi",
+                    "popularity": 0.0393,
+                    "profile_path": null,
+                    "credit_id": "63ce34b27f0540008a77231b",
+                    "department": "Writing",
+                    "job": "Writers' Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3886985,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Pascale Lites",
+                    "original_name": "Pascale Lites",
+                    "popularity": 0.0418,
+                    "profile_path": null,
+                    "credit_id": "63ce35af7aecc60080c9221e",
+                    "department": "Costume & Make-Up",
+                    "job": "Assistant Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1963880,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Cédric Chami",
+                    "original_name": "Cédric Chami",
+                    "popularity": 0.1443,
+                    "profile_path": null,
+                    "credit_id": "63ce356b63536a00874510b4",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1037498,
+                    "known_for_department": "Sound",
+                    "name": "Jérôme Lévy",
+                    "original_name": "Jérôme Lévy",
+                    "popularity": 0.4784,
+                    "profile_path": null,
+                    "credit_id": "63ce36f97aecc6008af13dbf",
                     "department": "Sound",
-                    "job": "Sound Editor"
+                    "job": "Foley Artist"
                 },
                 {
                     "adult": false,
@@ -732,7 +768,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Marta Roig",
                     "original_name": "Marta Roig",
-                    "popularity": 0.0336,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "63ce35c97f054000bd0038bf",
                     "department": "Costume & Make-Up",
@@ -740,16 +776,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 1145440,
-                    "known_for_department": "Sound",
-                    "name": "Jonathan Liebling",
-                    "original_name": "Jonathan Liebling",
-                    "popularity": 0.2734,
+                    "gender": 0,
+                    "id": 2733145,
+                    "known_for_department": "Acting",
+                    "name": "Hermenegildo Sabat",
+                    "original_name": "Hermenegildo Sabat",
+                    "popularity": 0.0286,
                     "profile_path": null,
-                    "credit_id": "63ce374a3c4344009db96812",
-                    "department": "Sound",
-                    "job": "Foley Artist"
+                    "credit_id": "63ce36833c43440085fa9593",
+                    "department": "Art",
+                    "job": "Painter"
                 },
                 {
                     "adult": false,
@@ -767,63 +803,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3886982,
-                    "known_for_department": "Production",
-                    "name": "V. Diaz Amo",
-                    "original_name": "V. Diaz Amo",
-                    "popularity": 0,
-                    "profile_path": null,
-                    "credit_id": "63ce34dae16e5a02c52a02a5",
-                    "department": "Production",
-                    "job": "Associate Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2733145,
-                    "known_for_department": "Acting",
-                    "name": "Hermenegildo Sabat",
-                    "original_name": "Hermenegildo Sabat",
-                    "popularity": 0.0382,
-                    "profile_path": null,
-                    "credit_id": "63ce36833c43440085fa9593",
-                    "department": "Art",
-                    "job": "Painter"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1037498,
-                    "known_for_department": "Sound",
-                    "name": "Jérôme Lévy",
-                    "original_name": "Jérôme Lévy",
-                    "popularity": 0.219,
-                    "profile_path": null,
-                    "credit_id": "63ce36f97aecc6008af13dbf",
-                    "department": "Sound",
-                    "job": "Foley Artist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1640440,
-                    "known_for_department": "Sound",
-                    "name": "Javier Salinas",
-                    "original_name": "Javier Salinas",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "63ce37583c434400ceed5b6c",
-                    "department": "Sound",
-                    "job": "ADR Recordist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 3886996,
                     "known_for_department": "Crew",
                     "name": "Ruben Costa",
                     "original_name": "Ruben Costa",
-                    "popularity": 0,
+                    "popularity": 0.0363,
                     "profile_path": null,
                     "credit_id": "63ce376e7aecc600a271d240",
                     "department": "Crew",
@@ -832,28 +816,15 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3886981,
-                    "known_for_department": "Writing",
-                    "name": "Djamila Olivessi",
-                    "original_name": "Djamila Olivessi",
-                    "popularity": 0.0071,
+                    "id": 3886986,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Catalina Mena",
+                    "original_name": "Catalina Mena",
+                    "popularity": 0.0521,
                     "profile_path": null,
-                    "credit_id": "63ce34b27f0540008a77231b",
-                    "department": "Writing",
-                    "job": "Writers' Assistant"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1177501,
-                    "known_for_department": "Art",
-                    "name": "Denis Mercier",
-                    "original_name": "Denis Mercier",
-                    "popularity": 0.0071,
-                    "profile_path": null,
-                    "credit_id": "63ce36697f054000d9cd1306",
-                    "department": "Art",
-                    "job": "Set Designer"
+                    "credit_id": "63ce35ba7aecc600ba59f0e8",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup Artist"
                 },
                 {
                     "adult": false,
@@ -862,7 +833,7 @@
                     "known_for_department": "Art",
                     "name": "Henri Moisan",
                     "original_name": "Henri Moisan",
-                    "popularity": 0.0143,
+                    "popularity": 0.0336,
                     "profile_path": null,
                     "credit_id": "63ce3676e16e5a02bd1884e0",
                     "department": "Art",
@@ -871,28 +842,41 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 22208,
+                    "id": 1730029,
                     "known_for_department": "Sound",
-                    "name": "Paul Bertault",
-                    "original_name": "Paul Bertault",
-                    "popularity": 0.0789,
+                    "name": "Patrice Grisolet",
+                    "original_name": "Patrice Grisolet",
+                    "popularity": 0.0377,
                     "profile_path": null,
-                    "credit_id": "63ce36dbe16e5a02e918fbf5",
+                    "credit_id": "63ce36e87f0540008a7724c6",
                     "department": "Sound",
-                    "job": "Sound Mixer"
+                    "job": "Sound Editor"
                 },
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 3886999,
-                    "known_for_department": "Crew",
-                    "name": "Jean-François Cousson",
-                    "original_name": "Jean-François Cousson",
-                    "popularity": 0,
+                    "id": 3886982,
+                    "known_for_department": "Production",
+                    "name": "V. Diaz Amo",
+                    "original_name": "V. Diaz Amo",
+                    "popularity": 0.1136,
                     "profile_path": null,
-                    "credit_id": "63ce37a57aecc6008af13e56",
-                    "department": "Crew",
-                    "job": "Special Effects"
+                    "credit_id": "63ce34dae16e5a02c52a02a5",
+                    "department": "Production",
+                    "job": "Associate Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3886984,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Nathalie Dubois",
+                    "original_name": "Nathalie Dubois",
+                    "popularity": 0.082,
+                    "profile_path": null,
+                    "credit_id": "63ce35857aecc600ba59f0b6",
+                    "department": "Costume & Make-Up",
+                    "job": "Special Effects Makeup Artist"
                 },
                 {
                     "adult": false,
@@ -901,50 +885,11 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Alain Folgoas",
                     "original_name": "Alain Folgoas",
-                    "popularity": 0.0804,
+                    "popularity": 0.0555,
                     "profile_path": null,
                     "credit_id": "63ce35a17aecc60084007e1c",
                     "department": "Costume & Make-Up",
                     "job": "Special Effects Makeup Artist"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 7704,
-                    "known_for_department": "Sound",
-                    "name": "Jean Minondo",
-                    "original_name": "Jean Minondo",
-                    "popularity": 0.0944,
-                    "profile_path": "/6yu2CWF9e7rvXYnwQo2W9zOowex.jpg",
-                    "credit_id": "63ce37075bce9e007f0945dc",
-                    "department": "Sound",
-                    "job": "Sound Assistant"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2174564,
-                    "known_for_department": "Camera",
-                    "name": "Aldo Lobótrico",
-                    "original_name": "Aldo Lobótrico",
-                    "popularity": 0.0327,
-                    "profile_path": null,
-                    "credit_id": "63ce37da5bce9e00b6693633",
-                    "department": "Camera",
-                    "job": "Camera Operator"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3886985,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Pascale Lites",
-                    "original_name": "Pascale Lites",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "63ce35af7aecc60080c9221e",
-                    "department": "Costume & Make-Up",
-                    "job": "Assistant Makeup Artist"
                 },
                 {
                     "adult": false,
@@ -966,7 +911,7 @@
                     "known_for_department": "Art",
                     "name": "Frédéric Léotard",
                     "original_name": "Frédéric Léotard",
-                    "popularity": 0.0997,
+                    "popularity": 0.0609,
                     "profile_path": "/16ubzrPSONWQc3YMM4FAEKPjaUE.jpg",
                     "credit_id": "63ce3632e16e5a02c52a038e",
                     "department": "Art",
@@ -974,29 +919,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 3886986,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Catalina Mena",
-                    "original_name": "Catalina Mena",
-                    "popularity": 0.0336,
-                    "profile_path": null,
-                    "credit_id": "63ce35ba7aecc600ba59f0e8",
-                    "department": "Costume & Make-Up",
-                    "job": "Makeup Artist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2878273,
-                    "known_for_department": "Production",
-                    "name": "Mario Emilio Marchioli",
-                    "original_name": "Mario Emilio Marchioli",
-                    "popularity": 0.0239,
-                    "profile_path": null,
-                    "credit_id": "63ce35053c4344007c3aca59",
-                    "department": "Production",
-                    "job": "Production Assistant"
+                    "gender": 2,
+                    "id": 39452,
+                    "known_for_department": "Sound",
+                    "name": "Astor Piazzolla",
+                    "original_name": "Astor Piazzolla",
+                    "popularity": 0.3251,
+                    "profile_path": "/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg",
+                    "credit_id": "63ce35415bce9e00d9d8756d",
+                    "department": "Sound",
+                    "job": "Music"
                 },
                 {
                     "adult": false,
@@ -1005,7 +937,7 @@
                     "known_for_department": "Art",
                     "name": "Tomás Sánchez",
                     "original_name": "Tomás Sánchez",
-                    "popularity": 0.0264,
+                    "popularity": 0.0434,
                     "profile_path": null,
                     "credit_id": "63ce36c47aecc6008af13d83",
                     "department": "Art",
@@ -1018,7 +950,7 @@
                     "known_for_department": "Sound",
                     "name": "Adrien Nataf",
                     "original_name": "Adrien Nataf",
-                    "popularity": 0.0168,
+                    "popularity": 0.0193,
                     "profile_path": null,
                     "credit_id": "63ce373e7f0540008a77251c",
                     "department": "Sound",
@@ -1026,94 +958,81 @@
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 71353,
-                    "known_for_department": "Directing",
-                    "name": "Fernando E. Solanas",
-                    "original_name": "Fernando E. Solanas",
-                    "popularity": 0.1073,
-                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
-                    "credit_id": "59fdede092514146bd01eb15",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 957442,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Judy Shrewsbury",
-                    "original_name": "Judy Shrewsbury",
-                    "popularity": 1.3111,
-                    "profile_path": "/662N2ZWsA06Qa3LcubMvJbZT74c.jpg",
-                    "credit_id": "59fdee1bc3a368685301ef91",
-                    "department": "Costume & Make-Up",
-                    "job": "Costume Design"
+                    "gender": 0,
+                    "id": 3886999,
+                    "known_for_department": "Crew",
+                    "name": "Jean-François Cousson",
+                    "original_name": "Jean-François Cousson",
+                    "popularity": 0.0491,
+                    "profile_path": null,
+                    "credit_id": "63ce37a57aecc6008af13e56",
+                    "department": "Crew",
+                    "job": "Special Effects"
                 },
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1917463,
-                    "known_for_department": "Production",
-                    "name": "Sabina Sigler",
-                    "original_name": "Sabina Sigler",
-                    "popularity": 0.0923,
-                    "profile_path": null,
-                    "credit_id": "59fdedf1c3a368685301ef32",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1917464,
-                    "known_for_department": "Art",
-                    "name": "Luis Diego Pedreira",
-                    "original_name": "Luis Diego Pedreira",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "59fdee13c3a36868a701aac6",
-                    "department": "Costume & Make-Up",
-                    "job": "Costume Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 71353,
-                    "known_for_department": "Directing",
-                    "name": "Fernando E. Solanas",
-                    "original_name": "Fernando E. Solanas",
-                    "popularity": 0.1073,
-                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
-                    "credit_id": "59fdedbcc3a368687e01ab36",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 39452,
+                    "id": 1640440,
                     "known_for_department": "Sound",
-                    "name": "Astor Piazzolla",
-                    "original_name": "Astor Piazzolla",
-                    "popularity": 0.1115,
-                    "profile_path": "/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg",
-                    "credit_id": "59fdedd992514146f501e18b",
+                    "name": "Javier Salinas",
+                    "original_name": "Javier Salinas",
+                    "popularity": 0.0193,
+                    "profile_path": null,
+                    "credit_id": "63ce37583c434400ceed5b6c",
                     "department": "Sound",
-                    "job": "Original Music Composer"
+                    "job": "ADR Recordist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2878273,
+                    "known_for_department": "Production",
+                    "name": "Mario Emilio Marchioli",
+                    "original_name": "Mario Emilio Marchioli",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "63ce35053c4344007c3aca59",
+                    "department": "Production",
+                    "job": "Production Assistant"
                 },
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 414697,
+                    "id": 7704,
+                    "known_for_department": "Sound",
+                    "name": "Jean Minondo",
+                    "original_name": "Jean Minondo",
+                    "popularity": 0.1305,
+                    "profile_path": "/6yu2CWF9e7rvXYnwQo2W9zOowex.jpg",
+                    "credit_id": "63ce37075bce9e007f0945dc",
+                    "department": "Sound",
+                    "job": "Sound Assistant"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1145440,
+                    "known_for_department": "Sound",
+                    "name": "Jonathan Liebling",
+                    "original_name": "Jonathan Liebling",
+                    "popularity": 0.0971,
+                    "profile_path": null,
+                    "credit_id": "63ce374a3c4344009db96812",
+                    "department": "Sound",
+                    "job": "Foley Artist"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2174564,
                     "known_for_department": "Camera",
-                    "name": "Félix Monti",
-                    "original_name": "Félix Monti",
-                    "popularity": 0.3337,
-                    "profile_path": "/lana2GPvtdkTj2EJFY7D6m54Mr7.jpg",
-                    "credit_id": "59fdedc9925141470501d71f",
+                    "name": "Aldo Lobótrico",
+                    "original_name": "Aldo Lobótrico",
+                    "popularity": 0.0596,
+                    "profile_path": null,
+                    "credit_id": "63ce37da5bce9e00b6693633",
                     "department": "Camera",
-                    "job": "Director of Photography"
+                    "job": "Camera Operator"
                 },
                 {
                     "adult": false,
@@ -1122,7 +1041,7 @@
                     "known_for_department": "Production",
                     "name": "Envar El Kadri",
                     "original_name": "Envar El Kadri",
-                    "popularity": 0.0071,
+                    "popularity": 0.1587,
                     "profile_path": null,
                     "credit_id": "59fdede8925141473301da08",
                     "department": "Production",
@@ -1135,11 +1054,37 @@
                     "known_for_department": "Art",
                     "name": "Luis Diego Pedreira",
                     "original_name": "Luis Diego Pedreira",
-                    "popularity": 0.0286,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "59fdedfec3a368687e01ab85",
                     "department": "Art",
                     "job": "Production Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 39452,
+                    "known_for_department": "Sound",
+                    "name": "Astor Piazzolla",
+                    "original_name": "Astor Piazzolla",
+                    "popularity": 0.3251,
+                    "profile_path": "/nyMLYtcaCr1y1cCiy3A8GlnAuTW.jpg",
+                    "credit_id": "59fdedd992514146f501e18b",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1917464,
+                    "known_for_department": "Art",
+                    "name": "Luis Diego Pedreira",
+                    "original_name": "Luis Diego Pedreira",
+                    "popularity": 0.0261,
+                    "profile_path": null,
+                    "credit_id": "59fdee13c3a36868a701aac6",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
                 },
                 {
                     "adult": false,
@@ -1148,7 +1093,7 @@
                     "known_for_department": "Art",
                     "name": "Jimmy Vansteenkiste",
                     "original_name": "Jimmy Vansteenkiste",
-                    "popularity": 0.0409,
+                    "popularity": 0.0462,
                     "profile_path": null,
                     "credit_id": "59fdee06c3a36867f601fe9a",
                     "department": "Art",
@@ -1161,11 +1106,76 @@
                     "known_for_department": "Directing",
                     "name": "Fernando E. Solanas",
                     "original_name": "Fernando E. Solanas",
-                    "popularity": 0.1073,
+                    "popularity": 0.1356,
                     "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
                     "credit_id": "59fdee0c925141473301da4b",
                     "department": "Art",
                     "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1917463,
+                    "known_for_department": "Production",
+                    "name": "Sabina Sigler",
+                    "original_name": "Sabina Sigler",
+                    "popularity": 0.0338,
+                    "profile_path": null,
+                    "credit_id": "59fdedf1c3a368685301ef32",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 414697,
+                    "known_for_department": "Camera",
+                    "name": "Félix Monti",
+                    "original_name": "Félix Monti",
+                    "popularity": 0.1955,
+                    "profile_path": "/lana2GPvtdkTj2EJFY7D6m54Mr7.jpg",
+                    "credit_id": "59fdedc9925141470501d71f",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1356,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "credit_id": "59fdedbcc3a368687e01ab36",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 71353,
+                    "known_for_department": "Directing",
+                    "name": "Fernando E. Solanas",
+                    "original_name": "Fernando E. Solanas",
+                    "popularity": 0.1356,
+                    "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
+                    "credit_id": "59fdede092514146bd01eb15",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 957442,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Judy Shrewsbury",
+                    "original_name": "Judy Shrewsbury",
+                    "popularity": 0.4623,
+                    "profile_path": "/662N2ZWsA06Qa3LcubMvJbZT74c.jpg",
+                    "credit_id": "59fdee1bc3a368685301ef91",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
                 },
                 {
                     "adult": false,
@@ -1174,7 +1184,7 @@
                     "known_for_department": "Acting",
                     "name": "Norma Guevara",
                     "original_name": "Norma Guevara",
-                    "popularity": 0.0071,
+                    "popularity": 0.0256,
                     "profile_path": "/dZWWZR5ZpgrKZWtO0vYsBMryoEg.jpg",
                     "credit_id": "6664a4be966a13ff3741488d",
                     "department": "Art",
@@ -1187,7 +1197,7 @@
                     "known_for_department": "Directing",
                     "name": "Fernando E. Solanas",
                     "original_name": "Fernando E. Solanas",
-                    "popularity": 0.1073,
+                    "popularity": 0.1356,
                     "profile_path": "/iagqlE7LYudXnX88gajkfiWRtnl.jpg",
                     "credit_id": "5fce3703a5743d003f0920fd",
                     "department": "Sound",
@@ -1200,7 +1210,7 @@
                     "known_for_department": "Sound",
                     "name": "José Luis Castiñeira de Dios",
                     "original_name": "José Luis Castiñeira de Dios",
-                    "popularity": 0.0168,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5fce36f2b34409003c3b5229",
                     "department": "Sound",

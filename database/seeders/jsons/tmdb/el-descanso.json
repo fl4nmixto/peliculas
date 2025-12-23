@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 415533,
-    "cinear_id": null,
     "slug": "el-descanso",
     "title": "El descanso",
     "original_title": "El descanso",
@@ -22,16 +21,17 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/mIntzp5koBXbCRbS3eOEgD0bjPZ.jpg",
+    "poster_url": "/storage/posters/el-descanso-ddcaf136.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1696699,
             "name": "Juan Ignacio Machado",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/lW4xYPo6WOzoNf85crdZ1rJUoB1.jpg"
+            "image_url": "/storage/people/juan-ignacio-machado-ebd6a606.jpg"
         },
         {
             "id": 2651296,
@@ -52,7 +52,7 @@
             "name": "José Palomino",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/3TTNs97sLq79msl0tPCoSYMYbbh.jpg"
+            "image_url": "/storage/people/jose-palomino-efe10f0e.jpg"
         },
         {
             "id": 945604,
@@ -64,46 +64,46 @@
     ],
     "crew": [
         {
-            "id": 1106618,
-            "name": "Ulises Rosell",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg"
-        },
-        {
-            "id": 1106618,
-            "name": "Ulises Rosell",
+            "id": 1386373,
+            "name": "Andrés Tambornino",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
             "id": 1386373,
             "name": "Andrés Tambornino",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
-            "id": 1386373,
-            "name": "Andrés Tambornino",
+            "id": 1106618,
+            "name": "Ulises Rosell",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/ulises-rosell-2e40463d.jpg"
+        },
+        {
+            "id": 1106618,
+            "name": "Ulises Rosell",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/ulises-rosell-2e40463d.jpg"
         },
         {
             "id": 1022649,
             "name": "Rodrigo Moreno",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ffrwertO1hAdl8H7wxIlbqWHzby.jpg"
+            "image_url": "/storage/people/rodrigo-moreno-dd2eff31.jpg"
         },
         {
             "id": 1022649,
             "name": "Rodrigo Moreno",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ffrwertO1hAdl8H7wxIlbqWHzby.jpg"
+            "image_url": "/storage/people/rodrigo-moreno-dd2eff31.jpg"
         }
     ],
     "raw": {
@@ -126,7 +126,7 @@
         "original_language": "es",
         "original_title": "El descanso",
         "overview": "Un absurdo choque provoca el encuentro entre Freddy Fassano y El Descanso, antiguo hotel totalmente en ruinas. Seducido por la idea de recuperar la buena vida de épocas pasadas, Freddy encabezará el extravagante proyecto de reabrirlo. Pero todo sucumbirá ante la aparición del Dr. McDonell, un notable abogado de la zona que desatará una imprevisible batalla revelando el oscuro pasado de este misterioso recinto.",
-        "popularity": 0.3048,
+        "popularity": 0.4347,
         "poster_path": "/mIntzp5koBXbCRbS3eOEgD0bjPZ.jpg",
         "production_companies": [],
         "production_countries": [
@@ -160,7 +160,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Ignacio Machado",
                     "original_name": "Juan Ignacio Machado",
-                    "popularity": 0.0239,
+                    "popularity": 0.1099,
                     "profile_path": "/lW4xYPo6WOzoNf85crdZ1rJUoB1.jpg",
                     "cast_id": 7,
                     "character": "",
@@ -174,7 +174,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernando Miaznik",
                     "original_name": "Fernando Miaznik",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "",
@@ -188,7 +188,7 @@
                     "known_for_department": "Acting",
                     "name": "Raúl Urtizberea",
                     "original_name": "Raúl Urtizberea",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "",
@@ -202,7 +202,7 @@
                     "known_for_department": "Acting",
                     "name": "José Palomino",
                     "original_name": "José Palomino",
-                    "popularity": 0.0617,
+                    "popularity": 0.1177,
                     "profile_path": "/3TTNs97sLq79msl0tPCoSYMYbbh.jpg",
                     "cast_id": 10,
                     "character": "",
@@ -216,7 +216,7 @@
                     "known_for_department": "Acting",
                     "name": "Javier Lombardo",
                     "original_name": "Javier Lombardo",
-                    "popularity": 0.0818,
+                    "popularity": 0.2152,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "",
@@ -228,26 +228,13 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1106618,
-                    "known_for_department": "Directing",
-                    "name": "Ulises Rosell",
-                    "original_name": "Ulises Rosell",
-                    "popularity": 0.0256,
-                    "profile_path": "/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg",
-                    "credit_id": "5ec9e1f18e2e003dd6135279",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1106618,
-                    "known_for_department": "Directing",
-                    "name": "Ulises Rosell",
-                    "original_name": "Ulises Rosell",
-                    "popularity": 0.0256,
-                    "profile_path": "/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg",
-                    "credit_id": "5ec9e26f6c8492001f2ba64b",
+                    "id": 1386373,
+                    "known_for_department": "Editing",
+                    "name": "Andrés Tambornino",
+                    "original_name": "Andrés Tambornino",
+                    "popularity": 0.0264,
+                    "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
+                    "credit_id": "5ec9e282d2147c0023c2e6c8",
                     "department": "Writing",
                     "job": "Writer"
                 },
@@ -267,13 +254,26 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1386373,
-                    "known_for_department": "Editing",
-                    "name": "Andrés Tambornino",
-                    "original_name": "Andrés Tambornino",
-                    "popularity": 0.0264,
-                    "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
-                    "credit_id": "5ec9e282d2147c0023c2e6c8",
+                    "id": 1106618,
+                    "known_for_department": "Directing",
+                    "name": "Ulises Rosell",
+                    "original_name": "Ulises Rosell",
+                    "popularity": 0.1293,
+                    "profile_path": "/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg",
+                    "credit_id": "5ec9e1f18e2e003dd6135279",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1106618,
+                    "known_for_department": "Directing",
+                    "name": "Ulises Rosell",
+                    "original_name": "Ulises Rosell",
+                    "popularity": 0.1293,
+                    "profile_path": "/ekHi3el99b0q6wF1dNWWvOyr0IM.jpg",
+                    "credit_id": "5ec9e26f6c8492001f2ba64b",
                     "department": "Writing",
                     "job": "Writer"
                 },
@@ -284,7 +284,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Moreno",
                     "original_name": "Rodrigo Moreno",
-                    "popularity": 0.0675,
+                    "popularity": 0.2732,
                     "profile_path": "/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
                     "credit_id": "5ee373105b4fed0020620af8",
                     "department": "Directing",
@@ -297,7 +297,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Moreno",
                     "original_name": "Rodrigo Moreno",
-                    "popularity": 0.0675,
+                    "popularity": 0.2732,
                     "profile_path": "/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
                     "credit_id": "5ee3731997eab4001fe223d1",
                     "department": "Writing",

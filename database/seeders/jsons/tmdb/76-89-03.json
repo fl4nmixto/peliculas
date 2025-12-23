@@ -25,9 +25,14 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/y1lr40nalaOm6QXOVjJVbDAcj8F.jpg",
+    "poster_url": "/storage/posters/76-89-03-ef3e9a2c.jpg",
     "backdrop_url": null,
     "trailer": "https://www.youtube.com/watch?v=OCSiFGHMGI4",
+    "gallery_urls": [
+        "/storage/posters/76-89-03-ef3e9a2c.jpg",
+        "/storage/gallery/gallery-2-ed83da19.jpg",
+        "/storage/gallery/gallery-3-d4d9083f.jpg"
+    ],
     "cast": [
         {
             "id": 1277624,
@@ -55,7 +60,7 @@
             "name": "Claudio Rissi",
             "character": "Rudy",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/szQiObvrLjeJxz7y3yhC7gcs16R.jpg"
+            "image_url": "/storage/people/claudio-rissi-26e9500f.jpg"
         },
         {
             "id": 122701,
@@ -74,10 +79,17 @@
     ],
     "crew": [
         {
-            "id": 2059540,
-            "name": "Giselle Peisojovich",
-            "department": "Art",
-            "job": "Art Direction",
+            "id": 1516508,
+            "name": "Orlando Rodríguez",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "/storage/people/orlando-rodriguez-ae051bcc.jpg"
+        },
+        {
+            "id": 1815780,
+            "name": "Edi Flehner",
+            "department": "Production",
+            "job": "Associate Producer",
             "image_url": null
         },
         {
@@ -88,10 +100,17 @@
             "image_url": null
         },
         {
-            "id": 3129058,
-            "name": "Juan de Francesco",
-            "department": "Production",
-            "job": "Production Manager",
+            "id": 2059540,
+            "name": "Giselle Peisojovich",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 1983596,
+            "name": "Sergio Iglesias",
+            "department": "Sound",
+            "job": "Sound",
             "image_url": null
         },
         {
@@ -99,21 +118,7 @@
             "name": "Eliane Katz",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg"
-        },
-        {
-            "id": 1815780,
-            "name": "Edi Flehner",
-            "department": "Production",
-            "job": "Associate Producer",
-            "image_url": null
-        },
-        {
-            "id": 1516508,
-            "name": "Orlando Rodríguez",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/27GPe7t2P3pcryph4yQyhYJks11.jpg"
+            "image_url": "/storage/people/eliane-katz-0e04766d.jpg"
         },
         {
             "id": 1625244,
@@ -123,10 +128,10 @@
             "image_url": null
         },
         {
-            "id": 1983596,
-            "name": "Sergio Iglesias",
-            "department": "Sound",
-            "job": "Sound",
+            "id": 3129058,
+            "name": "Juan de Francesco",
+            "department": "Production",
+            "job": "Production Manager",
             "image_url": null
         },
         {
@@ -139,16 +144,16 @@
         {
             "id": 1800570,
             "name": "Cristian Bernard",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg"
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/cristian-bernard-eab19bbc.jpg"
         },
         {
             "id": 1800570,
             "name": "Cristian Bernard",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg"
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/cristian-bernard-eab19bbc.jpg"
         },
         {
             "id": 1800571,
@@ -182,7 +187,7 @@
         "original_language": "es",
         "original_title": "76 89 03",
         "overview": "La película cuenta la historia de tres amigos y su sueño en común, a lo largo de tres momentos históricos claves de la Argentina. Todo comienza en 1976, con la aparición de una sex symbol que despierta los primeros ratones de cada uno de ellos. Continúa y se desarrolla en 1989, durante la noche de mayor hiperinflación. Ante la decadencia del país, la aún famosísima sex symbol es sospechada de prostitución, motivo por el cual nuestro protagónico trío se lanza a la caza de la afamada diva, con un solo problema: tienen australes y la estrella sólo trabaja en dólares. Ahí comienza la accidentada aventura en donde vemos desfilar un verdadero bestiario porteño. Aventura que termina en el 2003 con un trágico e imprevisible desenlace.",
-        "popularity": 0.9029,
+        "popularity": 1.0201,
         "poster_path": "/y1lr40nalaOm6QXOVjJVbDAcj8F.jpg",
         "production_companies": [
             {
@@ -235,7 +240,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Baldini",
                     "original_name": "Sergio Baldini",
-                    "popularity": 0.1236,
+                    "popularity": 0.1133,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "Dino",
@@ -249,7 +254,7 @@
                     "known_for_department": "Acting",
                     "name": "Gerardo Chendo",
                     "original_name": "Gerardo Chendo",
-                    "popularity": 0.3692,
+                    "popularity": 0.3715,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "Salvador",
@@ -263,7 +268,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Mackenzie",
                     "original_name": "Diego Mackenzie",
-                    "popularity": 0.0642,
+                    "popularity": 0.0492,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Paco",
@@ -277,7 +282,7 @@
                     "known_for_department": "Acting",
                     "name": "Claudio Rissi",
                     "original_name": "Claudio Rissi",
-                    "popularity": 0.3165,
+                    "popularity": 0.3178,
                     "profile_path": "/szQiObvrLjeJxz7y3yhC7gcs16R.jpg",
                     "cast_id": 5,
                     "character": "Rudy",
@@ -291,7 +296,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernando Cia",
                     "original_name": "Fernando Cia",
-                    "popularity": 0.1693,
+                    "popularity": 0.2187,
                     "profile_path": null,
                     "cast_id": 6,
                     "character": "Simón",
@@ -305,7 +310,7 @@
                     "known_for_department": "Acting",
                     "name": "Sol Alac",
                     "original_name": "Sol Alac",
-                    "popularity": 0.0495,
+                    "popularity": 0.0382,
                     "profile_path": null,
                     "cast_id": 1,
                     "character": "Wanda Manera",
@@ -316,77 +321,12 @@
             "crew": [
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 2059540,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Giselle Peisojovich",
-                    "original_name": "Giselle Peisojovich",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "60cd263d5ed962006f193695",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2419799,
-                    "known_for_department": "Crew",
-                    "name": "Daniel Sotelo",
-                    "original_name": "Daniel Sotelo",
-                    "popularity": 0.0338,
-                    "profile_path": null,
-                    "credit_id": "60cd2628e267de005725f90c",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3129058,
-                    "known_for_department": "Production",
-                    "name": "Juan de Francesco",
-                    "original_name": "Juan de Francesco",
-                    "popularity": 0.0379,
-                    "profile_path": null,
-                    "credit_id": "60cd2690bc2cb300557b7492",
-                    "department": "Production",
-                    "job": "Production Manager"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 969231,
-                    "known_for_department": "Editing",
-                    "name": "Eliane Katz",
-                    "original_name": "Eliane Katz",
-                    "popularity": 0.1062,
-                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
-                    "credit_id": "60cd2650bc2cb300752cd272",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1815780,
-                    "known_for_department": "Production",
-                    "name": "Edi Flehner",
-                    "original_name": "Edi Flehner",
-                    "popularity": 0.0791,
-                    "profile_path": null,
-                    "credit_id": "60cd26042790bf0029b47274",
-                    "department": "Production",
-                    "job": "Associate Producer"
-                },
-                {
-                    "adult": false,
                     "gender": 2,
                     "id": 1516508,
                     "known_for_department": "Acting",
                     "name": "Orlando Rodríguez",
                     "original_name": "Orlando Rodríguez",
-                    "popularity": 0.9571,
+                    "popularity": 1.2786,
                     "profile_path": "/27GPe7t2P3pcryph4yQyhYJks11.jpg",
                     "credit_id": "60cd25fa3679a1005aa2af77",
                     "department": "Production",
@@ -395,15 +335,41 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1625244,
-                    "known_for_department": "Editing",
-                    "name": "Andres Duran",
-                    "original_name": "Andres Duran",
-                    "popularity": 0.0214,
+                    "id": 1815780,
+                    "known_for_department": "Production",
+                    "name": "Edi Flehner",
+                    "original_name": "Edi Flehner",
+                    "popularity": 0.1021,
                     "profile_path": null,
-                    "credit_id": "60cd267612c6040078e203ce",
-                    "department": "Directing",
-                    "job": "Assistant Director"
+                    "credit_id": "60cd26042790bf0029b47274",
+                    "department": "Production",
+                    "job": "Associate Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2419799,
+                    "known_for_department": "Crew",
+                    "name": "Daniel Sotelo",
+                    "original_name": "Daniel Sotelo",
+                    "popularity": 0.0409,
+                    "profile_path": null,
+                    "credit_id": "60cd2628e267de005725f90c",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2059540,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Giselle Peisojovich",
+                    "original_name": "Giselle Peisojovich",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "credit_id": "60cd263d5ed962006f193695",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -412,11 +378,50 @@
                     "known_for_department": "Sound",
                     "name": "Sergio Iglesias",
                     "original_name": "Sergio Iglesias",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "60cd2648bc2cb300286a2e37",
                     "department": "Sound",
                     "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 969231,
+                    "known_for_department": "Editing",
+                    "name": "Eliane Katz",
+                    "original_name": "Eliane Katz",
+                    "popularity": 0.1358,
+                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
+                    "credit_id": "60cd2650bc2cb300752cd272",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1625244,
+                    "known_for_department": "Editing",
+                    "name": "Andres Duran",
+                    "original_name": "Andres Duran",
+                    "popularity": 0.0286,
+                    "profile_path": null,
+                    "credit_id": "60cd267612c6040078e203ce",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3129058,
+                    "known_for_department": "Production",
+                    "name": "Juan de Francesco",
+                    "original_name": "Juan de Francesco",
+                    "popularity": 0.045,
+                    "profile_path": null,
+                    "credit_id": "60cd2690bc2cb300557b7492",
+                    "department": "Production",
+                    "job": "Production Manager"
                 },
                 {
                     "adult": false,
@@ -425,7 +430,7 @@
                     "known_for_department": "Writing",
                     "name": "Flavio Nardini",
                     "original_name": "Flavio Nardini",
-                    "popularity": 0.1627,
+                    "popularity": 0.1322,
                     "profile_path": null,
                     "credit_id": "5eba179ecc277c002171b2a8",
                     "department": "Directing",
@@ -438,11 +443,11 @@
                     "known_for_department": "Directing",
                     "name": "Cristian Bernard",
                     "original_name": "Cristian Bernard",
-                    "popularity": 0.0637,
+                    "popularity": 0.0557,
                     "profile_path": "/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg",
-                    "credit_id": "5eba1830cc277c002171b413",
-                    "department": "Writing",
-                    "job": "Writer"
+                    "credit_id": "5eba17b5511d09001fd5761a",
+                    "department": "Directing",
+                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -451,11 +456,11 @@
                     "known_for_department": "Directing",
                     "name": "Cristian Bernard",
                     "original_name": "Cristian Bernard",
-                    "popularity": 0.0637,
+                    "popularity": 0.0557,
                     "profile_path": "/9tKYIsleqISjlHe5BuBTP5UNfbZ.jpg",
-                    "credit_id": "5eba17b5511d09001fd5761a",
-                    "department": "Directing",
-                    "job": "Director"
+                    "credit_id": "5eba1830cc277c002171b413",
+                    "department": "Writing",
+                    "job": "Writer"
                 },
                 {
                     "adult": false,
@@ -464,7 +469,7 @@
                     "known_for_department": "Writing",
                     "name": "Flavio Nardini",
                     "original_name": "Flavio Nardini",
-                    "popularity": 0.1627,
+                    "popularity": 0.1322,
                     "profile_path": null,
                     "credit_id": "6734f3424c0d01863c76e602",
                     "department": "Writing",

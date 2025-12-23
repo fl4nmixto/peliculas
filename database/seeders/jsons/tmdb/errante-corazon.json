@@ -17,36 +17,50 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Netherlands",
+        "Spain"
     ],
     "spoken_languages": [
         "Português",
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/elpPt87ULQvaERjZ5DFYRQD7wOl.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/eZUQoZNCfX1xT2oztBLjo2Yw2Oc.jpg",
+    "poster_url": "/storage/posters/errante-corazon-20e383d7.jpg",
+    "backdrop_url": "/storage/backdrops/errante-corazon-22b94ed2.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/errante-corazon-20e383d7.jpg",
+        "/storage/gallery/gallery-2-cd4dd179.jpg",
+        "/storage/gallery/gallery-3-ef7f222c.jpg",
+        "/storage/gallery/gallery-4-07c9901b.jpg",
+        "/storage/gallery/gallery-5-60ff01e3.jpg",
+        "/storage/gallery/gallery-6-e92947c7.jpg",
+        "/storage/gallery/gallery-7-5fb4fa64.jpg",
+        "/storage/gallery/gallery-8-a911f7ec.jpg"
+    ],
     "cast": [
         {
             "id": 19803,
             "name": "Leonardo Sbaraglia",
             "character": "Santiago",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg"
+            "image_url": "/storage/people/leonardo-sbaraglia-514ba5f8.jpg"
         },
         {
             "id": 1392584,
             "name": "Miranda de la Serna",
             "character": "Laila",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/xihT5vO6k7yIPiQR84NlWU3WuSB.jpg"
+            "image_url": "/storage/people/miranda-de-la-serna-b274ca27.jpg"
         },
         {
             "id": 1102408,
             "name": "Eva Llorach",
             "character": "Eloísa",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+            "image_url": "/storage/people/eva-llorach-3cac90b6.jpg"
         },
         {
             "id": 1020716,
@@ -60,21 +74,21 @@
             "name": "Alberto Ajaka",
             "character": "Luis",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/9oXv8WaA1aOptEfOZgvruaPCfr9.jpg"
+            "image_url": "/storage/people/alberto-ajaka-a6fb2cb9.jpg"
         },
         {
             "id": 1375822,
             "name": "Thalita Carauta",
             "character": "Júlia",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/pxp4jAJWJfpzYp7EVnmAzaO8O9c.jpg"
+            "image_url": "/storage/people/thalita-carauta-07d23ce6.jpg"
         },
         {
             "id": 55026,
             "name": "Tuca Andrada",
             "character": "Silvio",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/xK0464NhRY67ZTX45os2oEwRWyT.jpg"
+            "image_url": "/storage/people/tuca-andrada-29273927.jpg"
         },
         {
             "id": 3013820,
@@ -88,7 +102,7 @@
             "name": "Rodrigo de Odé",
             "character": "Gilberto",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/5CLF8IMkrtasoTHpJsjqPOj3r9o.jpg"
+            "image_url": "/storage/people/rodrigo-de-ode-7c725ec8.jpg"
         },
         {
             "id": 3308158,
@@ -109,42 +123,42 @@
             "name": "Veronica Hassan",
             "character": "Laura",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/wMKYSVQhhehmQOMeNzOP89NXavD.jpg"
+            "image_url": "/storage/people/veronica-hassan-57499867.jpg"
         },
         {
             "id": 2251631,
             "name": "Vanesa Maja",
             "character": "Sofía",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/elw6Sy1HXtpTxsDzqXyd3CqDsV4.jpg"
+            "image_url": "/storage/people/vanesa-maja-d0e7da56.jpg"
         },
         {
             "id": 1979102,
             "name": "Diogo Almeida",
             "character": "Pedro",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/qd6RwRNhrkpckDdDYwM3nPIitqq.jpg"
+            "image_url": "/storage/people/diogo-almeida-2d75b510.jpg"
         },
         {
             "id": 571707,
             "name": "D.O.",
             "character": "",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/2euDe2wqerMne87wJgwiovgahdg.jpg"
+            "image_url": "/storage/people/do-484e085a.jpg"
         },
         {
             "id": 1750690,
             "name": "Sacha Amaral",
             "character": "",
             "order": 15,
-            "image_url": "https://image.tmdb.org/t/p/w154/lIjLqiDg111KGgjwKbVp9PeoDuH.jpg"
+            "image_url": "/storage/people/sacha-amaral-fb241672.jpg"
         },
         {
             "id": 3073347,
             "name": "Paco Gorriz",
             "character": "",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+            "image_url": "/storage/people/paco-gorriz-30ab956d.jpg"
         },
         {
             "id": 4162601,
@@ -195,28 +209,28 @@
             "name": "Derk-Jan Warrink",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/xG9bFLjjnucirIT03lvIGaS7LM.jpg"
+            "image_url": "/storage/people/derk-jan-warrink-91fb8763.jpg"
         },
         {
             "id": 1077750,
             "name": "Koji Nelissen",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lqhPj5c3oCJB0A4kFSb6o8159aF.jpg"
+            "image_url": "/storage/people/koji-nelissen-39a7a75f.jpg"
         },
         {
             "id": 1725308,
             "name": "Giancarlo Nasi",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/vSGlKgp6j7PvmRCkWPgwaSDQvRZ.jpg"
+            "image_url": "/storage/people/giancarlo-nasi-64ac5fb3.jpg"
         },
         {
             "id": 1300796,
             "name": "Rodrigo Teixeira",
             "department": "Production",
             "job": "Co-Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/jCI3zbBuNV6aaR8KxLvYniNS8rg.jpg"
+            "image_url": "/storage/people/rodrigo-teixeira-4491b0ca.jpg"
         },
         {
             "id": 1590595,
@@ -258,21 +272,21 @@
             "name": "Marta Velasco",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/w9JHBtAzsSSO1ImJKnv8WbKgXEW.jpg"
+            "image_url": "/storage/people/marta-velasco-9424486e.jpg"
         },
         {
             "id": 44224,
             "name": "Leonardo Brzezicki",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/jVrtsy8c6sI6eSzcth85LrQ1kwL.jpg"
+            "image_url": "/storage/people/leonardo-brzezicki-8c6c15cc.jpg"
         },
         {
             "id": 44224,
             "name": "Leonardo Brzezicki",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/jVrtsy8c6sI6eSzcth85LrQ1kwL.jpg"
+            "image_url": "/storage/people/leonardo-brzezicki-8c6c15cc.jpg"
         }
     ],
     "raw": {
@@ -296,7 +310,7 @@
         "original_language": "es",
         "original_title": "Errante corazón",
         "overview": "Un verano caótico en Argentina y Brasil se convierte en un punto de inflexión en la vida de un hombre destrozado y su hija adolescente.",
-        "popularity": 0.8374,
+        "popularity": 1.8844,
         "poster_path": "/elpPt87ULQvaERjZ5DFYRQD7wOl.jpg",
         "production_companies": [
             {
@@ -406,7 +420,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Sbaraglia",
                     "original_name": "Leonardo Sbaraglia",
-                    "popularity": 0.89,
+                    "popularity": 0.7014,
                     "profile_path": "/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg",
                     "cast_id": 3,
                     "character": "Santiago",
@@ -420,7 +434,7 @@
                     "known_for_department": "Acting",
                     "name": "Miranda de la Serna",
                     "original_name": "Miranda de la Serna",
-                    "popularity": 0.3443,
+                    "popularity": 0.2193,
                     "profile_path": "/xihT5vO6k7yIPiQR84NlWU3WuSB.jpg",
                     "cast_id": 4,
                     "character": "Laila",
@@ -434,7 +448,7 @@
                     "known_for_department": "Acting",
                     "name": "Eva Llorach",
                     "original_name": "Eva Llorach",
-                    "popularity": 0.4074,
+                    "popularity": 0.6228,
                     "profile_path": "/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg",
                     "cast_id": 19,
                     "character": "Eloísa",
@@ -448,7 +462,7 @@
                     "known_for_department": "Acting",
                     "name": "Iván González",
                     "original_name": "Iván González",
-                    "popularity": 0.2275,
+                    "popularity": 0.3193,
                     "profile_path": null,
                     "cast_id": 22,
                     "character": "Federico",
@@ -462,7 +476,7 @@
                     "known_for_department": "Acting",
                     "name": "Alberto Ajaka",
                     "original_name": "Alberto Ajaka",
-                    "popularity": 0.4034,
+                    "popularity": 0.3766,
                     "profile_path": "/9oXv8WaA1aOptEfOZgvruaPCfr9.jpg",
                     "cast_id": 20,
                     "character": "Luis",
@@ -476,7 +490,7 @@
                     "known_for_department": "Acting",
                     "name": "Thalita Carauta",
                     "original_name": "Thalita Carauta",
-                    "popularity": 0.2248,
+                    "popularity": 0.2847,
                     "profile_path": "/pxp4jAJWJfpzYp7EVnmAzaO8O9c.jpg",
                     "cast_id": 23,
                     "character": "Júlia",
@@ -490,7 +504,7 @@
                     "known_for_department": "Acting",
                     "name": "Tuca Andrada",
                     "original_name": "Tuca Andrada",
-                    "popularity": 0.3851,
+                    "popularity": 0.4106,
                     "profile_path": "/xK0464NhRY67ZTX45os2oEwRWyT.jpg",
                     "cast_id": 24,
                     "character": "Silvio",
@@ -504,7 +518,7 @@
                     "known_for_department": "Acting",
                     "name": "Beatriz Rajland",
                     "original_name": "Beatriz Rajland",
-                    "popularity": 0.0368,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 21,
                     "character": "Isabel",
@@ -518,7 +532,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo de Odé",
                     "original_name": "Rodrigo de Odé",
-                    "popularity": 0.4306,
+                    "popularity": 0.4299,
                     "profile_path": "/5CLF8IMkrtasoTHpJsjqPOj3r9o.jpg",
                     "cast_id": 26,
                     "character": "Gilberto",
@@ -532,7 +546,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Ignacio Ugüet",
                     "original_name": "Juan Ignacio Ugüet",
-                    "popularity": 0.1043,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 27,
                     "character": "Eugenio",
@@ -546,7 +560,7 @@
                     "known_for_department": "Acting",
                     "name": "Benjamín Ruiz",
                     "original_name": "Benjamín Ruiz",
-                    "popularity": 0.0239,
+                    "popularity": 0.0771,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Martín",
@@ -560,7 +574,7 @@
                     "known_for_department": "Acting",
                     "name": "Veronica Hassan",
                     "original_name": "Veronica Hassan",
-                    "popularity": 0.0766,
+                    "popularity": 0.0516,
                     "profile_path": "/wMKYSVQhhehmQOMeNzOP89NXavD.jpg",
                     "cast_id": 29,
                     "character": "Laura",
@@ -574,7 +588,7 @@
                     "known_for_department": "Acting",
                     "name": "Vanesa Maja",
                     "original_name": "Vanesa Maja",
-                    "popularity": 0.135,
+                    "popularity": 0.2105,
                     "profile_path": "/elw6Sy1HXtpTxsDzqXyd3CqDsV4.jpg",
                     "cast_id": 30,
                     "character": "Sofía",
@@ -588,7 +602,7 @@
                     "known_for_department": "Acting",
                     "name": "Diogo Almeida",
                     "original_name": "Diogo Almeida",
-                    "popularity": 0.1066,
+                    "popularity": 0.178,
                     "profile_path": "/qd6RwRNhrkpckDdDYwM3nPIitqq.jpg",
                     "cast_id": 31,
                     "character": "Pedro",
@@ -616,7 +630,7 @@
                     "known_for_department": "Directing",
                     "name": "Sacha Amaral",
                     "original_name": "Sacha Amaral",
-                    "popularity": 0.135,
+                    "popularity": 0.1254,
                     "profile_path": "/lIjLqiDg111KGgjwKbVp9PeoDuH.jpg",
                     "cast_id": 33,
                     "character": "",
@@ -630,7 +644,7 @@
                     "known_for_department": "Acting",
                     "name": "Paco Gorriz",
                     "original_name": "Paco Gorriz",
-                    "popularity": 0.1593,
+                    "popularity": 0.1367,
                     "profile_path": "/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg",
                     "cast_id": 35,
                     "character": "",
@@ -644,7 +658,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Lapa",
                     "original_name": "Pablo Lapa",
-                    "popularity": 0.0952,
+                    "popularity": 0.1639,
                     "profile_path": null,
                     "cast_id": 36,
                     "character": "",
@@ -660,7 +674,7 @@
                     "known_for_department": "Production",
                     "name": "Violeta Bava",
                     "original_name": "Violeta Bava",
-                    "popularity": 0.1025,
+                    "popularity": 0.0193,
                     "profile_path": null,
                     "credit_id": "6051cadb4ca67600285aaf15",
                     "department": "Production",
@@ -673,7 +687,7 @@
                     "known_for_department": "Production",
                     "name": "Rosa Martínez Rivero",
                     "original_name": "Rosa Martínez Rivero",
-                    "popularity": 0.0781,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "6051cae28c7b0f0028586c6e",
                     "department": "Production",
@@ -686,7 +700,7 @@
                     "known_for_department": "Production",
                     "name": "Mariana Coelho",
                     "original_name": "Mariana Coelho",
-                    "popularity": 0.0786,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "6051caf66517d6006a23b98e",
                     "department": "Production",
@@ -699,7 +713,7 @@
                     "known_for_department": "Production",
                     "name": "Marília Garske",
                     "original_name": "Marília Garske",
-                    "popularity": 0.0874,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "6051caff1130bd00282da286",
                     "department": "Production",
@@ -712,7 +726,7 @@
                     "known_for_department": "Production",
                     "name": "Elena Manrique",
                     "original_name": "Elena Manrique",
-                    "popularity": 0.1344,
+                    "popularity": 0.1063,
                     "profile_path": null,
                     "credit_id": "6051cb072cde980028c033a5",
                     "department": "Production",
@@ -725,7 +739,7 @@
                     "known_for_department": "Production",
                     "name": "Derk-Jan Warrink",
                     "original_name": "Derk-Jan Warrink",
-                    "popularity": 0.0872,
+                    "popularity": 0.0768,
                     "profile_path": "/xG9bFLjjnucirIT03lvIGaS7LM.jpg",
                     "credit_id": "6051cb1a2cde980073cd6a17",
                     "department": "Production",
@@ -738,7 +752,7 @@
                     "known_for_department": "Production",
                     "name": "Koji Nelissen",
                     "original_name": "Koji Nelissen",
-                    "popularity": 0.0716,
+                    "popularity": 0.1005,
                     "profile_path": "/lqhPj5c3oCJB0A4kFSb6o8159aF.jpg",
                     "credit_id": "6051cb2324b333003d2009fd",
                     "department": "Production",
@@ -751,7 +765,7 @@
                     "known_for_department": "Production",
                     "name": "Giancarlo Nasi",
                     "original_name": "Giancarlo Nasi",
-                    "popularity": 0.0912,
+                    "popularity": 0.0921,
                     "profile_path": "/vSGlKgp6j7PvmRCkWPgwaSDQvRZ.jpg",
                     "credit_id": "6051cb2f22e4800054892ab7",
                     "department": "Production",
@@ -764,7 +778,7 @@
                     "known_for_department": "Production",
                     "name": "Rodrigo Teixeira",
                     "original_name": "Rodrigo Teixeira",
-                    "popularity": 0.1538,
+                    "popularity": 0.2143,
                     "profile_path": "/jCI3zbBuNV6aaR8KxLvYniNS8rg.jpg",
                     "credit_id": "6051cb394ca67600285aaf37",
                     "department": "Production",
@@ -777,7 +791,7 @@
                     "known_for_department": "Production",
                     "name": "Andrés Martín",
                     "original_name": "Andrés Martín",
-                    "popularity": 0.0389,
+                    "popularity": 0.0662,
                     "profile_path": null,
                     "credit_id": "6051cb4c24b33300530a28f5",
                     "department": "Production",
@@ -790,7 +804,7 @@
                     "known_for_department": "Camera",
                     "name": "Pedro Sotero",
                     "original_name": "Pedro Sotero",
-                    "popularity": 0.1482,
+                    "popularity": 0.0727,
                     "profile_path": null,
                     "credit_id": "6051cb546517d6003ff7e023",
                     "department": "Camera",
@@ -803,7 +817,7 @@
                     "known_for_department": "Art",
                     "name": "Eugenia Lestard",
                     "original_name": "Eugenia Lestard",
-                    "popularity": 0.0218,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "6051cb616517d6003ff7e02d",
                     "department": "Art",
@@ -816,7 +830,7 @@
                     "known_for_department": "Sound",
                     "name": "Roberto Espinoza",
                     "original_name": "Roberto Espinoza",
-                    "popularity": 0.0725,
+                    "popularity": 0.1226,
                     "profile_path": null,
                     "credit_id": "6051cb6b2cde980028c033d0",
                     "department": "Sound",
@@ -829,7 +843,7 @@
                     "known_for_department": "Sound",
                     "name": "Javier Farina",
                     "original_name": "Javier Farina",
-                    "popularity": 0.1075,
+                    "popularity": 0.1648,
                     "profile_path": null,
                     "credit_id": "6051cb7322e480006ad9339b",
                     "department": "Sound",
@@ -842,7 +856,7 @@
                     "known_for_department": "Editing",
                     "name": "Marta Velasco",
                     "original_name": "Marta Velasco",
-                    "popularity": 0.146,
+                    "popularity": 0.1567,
                     "profile_path": "/w9JHBtAzsSSO1ImJKnv8WbKgXEW.jpg",
                     "credit_id": "61052e9d4f33ad00454040a3",
                     "department": "Editing",
@@ -855,7 +869,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Brzezicki",
                     "original_name": "Leonardo Brzezicki",
-                    "popularity": 0.1487,
+                    "popularity": 0.0814,
                     "profile_path": "/jVrtsy8c6sI6eSzcth85LrQ1kwL.jpg",
                     "credit_id": "5f60639190dde00036222bb1",
                     "department": "Directing",
@@ -868,7 +882,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonardo Brzezicki",
                     "original_name": "Leonardo Brzezicki",
-                    "popularity": 0.1487,
+                    "popularity": 0.0814,
                     "profile_path": "/jVrtsy8c6sI6eSzcth85LrQ1kwL.jpg",
                     "credit_id": "5f606396d8cc4a003afc68e3",
                     "department": "Writing",

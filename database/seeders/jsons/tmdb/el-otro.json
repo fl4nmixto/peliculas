@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 78115,
-    "cinear_id": null,
     "slug": "el-otro",
     "title": "El otro",
     "original_title": "El otro",
@@ -11,7 +10,10 @@
     "year": 2007,
     "tagline": "",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina",
@@ -21,30 +23,33 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/7jxxVLx3DgT9LM8lwOE8xVl27lF.jpg",
+    "poster_url": "/storage/posters/el-otro-bcbaac26.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-otro-bcbaac26.jpg"
+    ],
     "cast": [
         {
             "id": 583126,
             "name": "Julio Chávez",
             "character": "Juan Desouza",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg"
+            "image_url": "/storage/people/julio-chavez-846096d9.jpg"
         },
         {
             "id": 27050,
             "name": "María Onetto",
             "character": "Receptionist",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/m869UDThEKOUbYxDxw5384LMcFJ.jpg"
+            "image_url": "/storage/people/maria-onetto-5c1af003.jpg"
         },
         {
             "id": 1051298,
             "name": "María Ucedo",
             "character": "Woman",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/17Ptmayb4O7SRZPOGbbPwBBRQP2.jpg"
+            "image_url": "/storage/people/maria-ucedo-b27fa4b9.jpg"
         },
         {
             "id": 1282575,
@@ -58,37 +63,37 @@
             "name": "Arturo Goetz",
             "character": "Notary",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 999999,
             "name": "Osvaldo Bonet",
             "character": "Father John",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/6zlIUg4rksuFGZsuyKcEph4jwrl.jpg"
+            "image_url": "/storage/people/osvaldo-bonet-1a133c4d.jpg"
         }
     ],
     "crew": [
-        {
-            "id": 969231,
-            "name": "Eliane Katz",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg"
-        },
         {
             "id": 583125,
             "name": "Ariel Rotter",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/66blcJnWsBrbjP8hODoJMLSiWGM.jpg"
+            "image_url": "/storage/people/ariel-rotter-33d4bcd2.jpg"
         },
         {
             "id": 583125,
             "name": "Ariel Rotter",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/66blcJnWsBrbjP8hODoJMLSiWGM.jpg"
+            "image_url": "/storage/people/ariel-rotter-33d4bcd2.jpg"
+        },
+        {
+            "id": 969231,
+            "name": "Eliane Katz",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/eliane-katz-0e04766d.jpg"
         },
         {
             "id": 966352,
@@ -118,7 +123,7 @@
         "original_language": "es",
         "original_title": "El otro",
         "overview": "Un hombre maduro, situado entre las coordenadas que trazan su padre y su mujer, se encuentra con que todo lo que parecía garantizar su propia identidad presenta síntomas de fragilidad. Frágil el cuerpo,  los afectos, la conciencia. Este hombre tomará distancia respecto de lo que hasta entonces parecía constituir su día a día. Un habitual viaje de negocios de medio día al interior del país se trasforma en otro viaje. Al llegar a destino, Juan Desouza, descubre que el hombre que viajaba a su lado no se despierta. Secretamente, casi como un juego, decide tomar la identidad de este hombre, inventarse una profesión, conseguir un lugar donde dormir: la posibilidad de no regresar. La posibilidad de ser otro, de ser muchos. En sus nuevos días libres,  el hombre realizará, sin saberlo, una suerte de travesía hacia la naturaleza y al reencuentro de sus gustos, de sus instintos básicos, intentando abrazarse a la idea de que la vida que le tocó y que eligió vivir, no es la única posible.",
-        "popularity": 1.2237,
+        "popularity": 2.086,
         "poster_path": "/7jxxVLx3DgT9LM8lwOE8xVl27lF.jpg",
         "production_companies": [
             {
@@ -167,7 +172,7 @@
                     "known_for_department": "Acting",
                     "name": "Julio Chávez",
                     "original_name": "Julio Chávez",
-                    "popularity": 0.2531,
+                    "popularity": 0.6414,
                     "profile_path": "/jjZ8N4zVHLBBsiX44o2qrfXI78X.jpg",
                     "cast_id": 1001,
                     "character": "Juan Desouza",
@@ -181,7 +186,7 @@
                     "known_for_department": "Acting",
                     "name": "María Onetto",
                     "original_name": "María Onetto",
-                    "popularity": 0.6364,
+                    "popularity": 0.3908,
                     "profile_path": "/m869UDThEKOUbYxDxw5384LMcFJ.jpg",
                     "cast_id": 1002,
                     "character": "Receptionist",
@@ -195,7 +200,7 @@
                     "known_for_department": "Acting",
                     "name": "María Ucedo",
                     "original_name": "María Ucedo",
-                    "popularity": 0.7501,
+                    "popularity": 0.6454,
                     "profile_path": "/17Ptmayb4O7SRZPOGbbPwBBRQP2.jpg",
                     "cast_id": 1003,
                     "character": "Woman",
@@ -209,7 +214,7 @@
                     "known_for_department": "Acting",
                     "name": "Inés Molina",
                     "original_name": "Inés Molina",
-                    "popularity": 0.0214,
+                    "popularity": 0.2283,
                     "profile_path": null,
                     "cast_id": 1004,
                     "character": "Claudia",
@@ -223,7 +228,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.0924,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 1005,
                     "character": "Notary",
@@ -237,7 +242,7 @@
                     "known_for_department": "Acting",
                     "name": "Osvaldo Bonet",
                     "original_name": "Osvaldo Bonet",
-                    "popularity": 0.0143,
+                    "popularity": 0.1408,
                     "profile_path": "/6zlIUg4rksuFGZsuyKcEph4jwrl.jpg",
                     "cast_id": 1006,
                     "character": "Father John",
@@ -248,25 +253,12 @@
             "crew": [
                 {
                     "adult": false,
-                    "gender": 1,
-                    "id": 969231,
-                    "known_for_department": "Editing",
-                    "name": "Eliane Katz",
-                    "original_name": "Eliane Katz",
-                    "popularity": 0.0429,
-                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
-                    "credit_id": "52fe498ec3a368484e131639",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
                     "gender": 2,
                     "id": 583125,
                     "known_for_department": "Directing",
                     "name": "Ariel Rotter",
                     "original_name": "Ariel Rotter",
-                    "popularity": 0.0525,
+                    "popularity": 0.2188,
                     "profile_path": "/66blcJnWsBrbjP8hODoJMLSiWGM.jpg",
                     "credit_id": "52fe498ec3a368484e13160f",
                     "department": "Directing",
@@ -279,11 +271,24 @@
                     "known_for_department": "Directing",
                     "name": "Ariel Rotter",
                     "original_name": "Ariel Rotter",
-                    "popularity": 0.0525,
+                    "popularity": 0.2188,
                     "profile_path": "/66blcJnWsBrbjP8hODoJMLSiWGM.jpg",
                     "credit_id": "52fe498ec3a368484e13162d",
                     "department": "Writing",
                     "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 969231,
+                    "known_for_department": "Editing",
+                    "name": "Eliane Katz",
+                    "original_name": "Eliane Katz",
+                    "popularity": 0.1358,
+                    "profile_path": "/gKcsiJbCzCP0JbneTOqSvfGZsdR.jpg",
+                    "credit_id": "52fe498ec3a368484e131639",
+                    "department": "Editing",
+                    "job": "Editor"
                 },
                 {
                     "adult": false,
@@ -292,7 +297,7 @@
                     "known_for_department": "Camera",
                     "name": "Marcelo Lavintman",
                     "original_name": "Marcelo Lavintman",
-                    "popularity": 0.0338,
+                    "popularity": 0.051,
                     "profile_path": null,
                     "credit_id": "5f0f2416e267de0035acd7c0",
                     "department": "Camera",

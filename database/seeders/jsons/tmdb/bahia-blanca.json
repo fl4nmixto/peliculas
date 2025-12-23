@@ -1,8 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 804784,
-    "cinear_id": null,
-    "ba_filma": "bahia-blanca",
     "slug": "bahia-blanca",
     "title": "Bahía Blanca",
     "original_title": "Bahía Blanca",
@@ -27,51 +25,52 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/jpaq1QopSc1Hf6F6IAllFZBYmIt.jpg",
+    "poster_url": "/storage/posters/bahia-blanca-d96e5732.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 81155,
             "name": "Guillermo Pfening",
             "character": "Mario",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/1UciaaaWUaVPduXFlkfjYouB0Qt.jpg"
+            "image_url": "/storage/people/guillermo-pfening-3b4c1905.jpg"
         },
         {
             "id": 1107940,
             "name": "Elisa Carricajo",
             "character": "Patricia",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg"
+            "image_url": "/storage/people/elisa-carricajo-c99d60f4.jpg"
         },
         {
             "id": 562363,
             "name": "Javier Drolas",
             "character": "Ernesto",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/tZOiQME91PuApfAOO9W1ERxgo9R.jpg"
+            "image_url": "/storage/people/javier-drolas-04606c6b.jpg"
         },
         {
             "id": 1500062,
             "name": "Marcelo Subiotto",
             "character": "Vecino",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
+            "image_url": "/storage/people/marcelo-subiotto-1839b1b0.jpg"
         },
         {
             "id": 96481,
             "name": "Ailín Salas",
             "character": "Chica locutorio",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg"
+            "image_url": "/storage/people/ailin-salas-d4bdea1f.jpg"
         },
         {
             "id": 128048,
             "name": "Julia Martínez Rubio",
             "character": "Becaria",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/l5vItU9QRcwybFhm2nYc8arxbCB.jpg"
+            "image_url": "/storage/people/julia-martinez-rubio-e81115ea.jpg"
         },
         {
             "id": 1158492,
@@ -92,7 +91,7 @@
             "name": "Matías Sanders",
             "character": "Catequista 2",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/ezaHlsewPvbPEW9CCskTIjtoe8n.jpg"
+            "image_url": "/storage/people/matias-sanders-d475cc4e.jpg"
         },
         {
             "id": 145023,
@@ -108,7 +107,7 @@
             "name": "Rodrigo Caprotti",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
+            "image_url": "/storage/people/rodrigo-caprotti-a4dd4411.jpg"
         },
         {
             "id": 3006711,
@@ -122,7 +121,7 @@
             "name": "Rodrigo Caprotti",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
+            "image_url": "/storage/people/rodrigo-caprotti-a4dd4411.jpg"
         },
         {
             "id": 3006707,
@@ -178,7 +177,7 @@
             "name": "Rodrigo Caprotti",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
+            "image_url": "/storage/people/rodrigo-caprotti-a4dd4411.jpg"
         },
         {
             "id": 2739346,
@@ -206,7 +205,7 @@
             "name": "Rodrigo Caprotti",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg"
+            "image_url": "/storage/people/rodrigo-caprotti-a4dd4411.jpg"
         },
         {
             "id": 3006714,
@@ -234,7 +233,7 @@
             "name": "Héctor Fazio",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/wCs8qb3LOg4EagdHKMh9gxCqmcn.jpg"
+            "image_url": "/storage/people/hector-fazio-e7d0d7a6.jpg"
         },
         {
             "id": 4362225,
@@ -255,14 +254,14 @@
             "name": "Facundo Aybar",
             "department": "Camera",
             "job": "Second Assistant \"A\" Camera",
-            "image_url": "https://image.tmdb.org/t/p/w154/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg"
+            "image_url": "/storage/people/facundo-aybar-3ce5d380.jpg"
         },
         {
             "id": 4362224,
             "name": "Facundo Aybar",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg"
+            "image_url": "/storage/people/facundo-aybar-3ce5d380.jpg"
         }
     ],
     "raw": {
@@ -289,7 +288,7 @@
         "original_language": "es",
         "original_title": "Bahía Blanca",
         "overview": "Mario, docente universitario, utiliza una investigación sobre el escritor Ezequiel Martínez Estrada para huir de su pasado. Establecido en Bahía Blanca, la nueva ciudad parece ser el lugar ideal para el olvido, hasta que un encuentro fortuito con un viejo amigo desencadena el peor de los peligros.",
-        "popularity": 0.0854,
+        "popularity": 0.1884,
         "poster_path": "/jpaq1QopSc1Hf6F6IAllFZBYmIt.jpg",
         "production_companies": [
             {
@@ -342,7 +341,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Pfening",
                     "original_name": "Guillermo Pfening",
-                    "popularity": 1.3908,
+                    "popularity": 0.2804,
                     "profile_path": "/1UciaaaWUaVPduXFlkfjYouB0Qt.jpg",
                     "cast_id": 18,
                     "character": "Mario",
@@ -356,7 +355,7 @@
                     "known_for_department": "Acting",
                     "name": "Elisa Carricajo",
                     "original_name": "Elisa Carricajo",
-                    "popularity": 0.1295,
+                    "popularity": 0.2469,
                     "profile_path": "/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg",
                     "cast_id": 19,
                     "character": "Patricia",
@@ -370,7 +369,7 @@
                     "known_for_department": "Acting",
                     "name": "Javier Drolas",
                     "original_name": "Javier Drolas",
-                    "popularity": 0.3283,
+                    "popularity": 0.4189,
                     "profile_path": "/tZOiQME91PuApfAOO9W1ERxgo9R.jpg",
                     "cast_id": 20,
                     "character": "Ernesto",
@@ -384,7 +383,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Subiotto",
                     "original_name": "Marcelo Subiotto",
-                    "popularity": 0.6953,
+                    "popularity": 0.2381,
                     "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
                     "cast_id": 21,
                     "character": "Vecino",
@@ -398,7 +397,7 @@
                     "known_for_department": "Acting",
                     "name": "Ailín Salas",
                     "original_name": "Ailín Salas",
-                    "popularity": 2.2842,
+                    "popularity": 0.6841,
                     "profile_path": "/bZWFFUdjs8oMX4sVfCaKi17aFrd.jpg",
                     "cast_id": 22,
                     "character": "Chica locutorio",
@@ -412,7 +411,7 @@
                     "known_for_department": "Acting",
                     "name": "Julia Martínez Rubio",
                     "original_name": "Julia Martínez Rubio",
-                    "popularity": 0.0886,
+                    "popularity": 0.0968,
                     "profile_path": "/l5vItU9QRcwybFhm2nYc8arxbCB.jpg",
                     "cast_id": 24,
                     "character": "Becaria",
@@ -426,7 +425,7 @@
                     "known_for_department": "Acting",
                     "name": "Violeta Palukas",
                     "original_name": "Violeta Palukas",
-                    "popularity": 0.0409,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 23,
                     "character": "Catequista mujer",
@@ -440,7 +439,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisco Manuel Mayor",
                     "original_name": "Francisco Manuel Mayor",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 26,
                     "character": "Catequista 1",
@@ -454,7 +453,7 @@
                     "known_for_department": "Acting",
                     "name": "Matías Sanders",
                     "original_name": "Matías Sanders",
-                    "popularity": 0,
+                    "popularity": 0.0168,
                     "profile_path": "/ezaHlsewPvbPEW9CCskTIjtoe8n.jpg",
                     "cast_id": 27,
                     "character": "Catequista 2",
@@ -468,7 +467,7 @@
                     "known_for_department": "Writing",
                     "name": "Martín Kohan",
                     "original_name": "Martín Kohan",
-                    "popularity": 0.072,
+                    "popularity": 0.1599,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Secretario de investigación",
@@ -484,7 +483,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0336,
+                    "popularity": 0.0143,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a5971c8a5ac004576a63f",
                     "department": "Editing",
@@ -497,7 +496,7 @@
                     "known_for_department": "Production",
                     "name": "Teresa Saporiti",
                     "original_name": "Teresa Saporiti",
-                    "popularity": 0,
+                    "popularity": 0.0604,
                     "profile_path": null,
                     "credit_id": "604a59be90b87e0058ed89bf",
                     "department": "Production",
@@ -510,7 +509,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0336,
+                    "popularity": 0.0143,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a596d8a0e9b00468e7491",
                     "department": "Production",
@@ -523,7 +522,7 @@
                     "known_for_department": "Writing",
                     "name": "Bárbara Scotto",
                     "original_name": "Bárbara Scotto",
-                    "popularity": 0.0214,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "604a59a1982f74006d9fe6fa",
                     "department": "Production",
@@ -549,7 +548,7 @@
                     "known_for_department": "Writing",
                     "name": "Nicolás Allegro",
                     "original_name": "Nicolás Allegro",
-                    "popularity": 0,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "604a59868741c400460812f5",
                     "department": "Writing",
@@ -575,7 +574,7 @@
                     "known_for_department": "Production",
                     "name": "Teresa Saporiti",
                     "original_name": "Teresa Saporiti",
-                    "popularity": 0,
+                    "popularity": 0.0604,
                     "profile_path": null,
                     "credit_id": "604a59c8439be100583d6abe",
                     "department": "Production",
@@ -588,7 +587,7 @@
                     "known_for_department": "Sound",
                     "name": "Sofía Straface",
                     "original_name": "Sofía Straface",
-                    "popularity": 0.0505,
+                    "popularity": 0.088,
                     "profile_path": null,
                     "credit_id": "604a5a09d8e225006f3e5405",
                     "department": "Sound",
@@ -601,7 +600,7 @@
                     "known_for_department": "Writing",
                     "name": "Bárbara Scotto",
                     "original_name": "Bárbara Scotto",
-                    "popularity": 0.0214,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "credit_id": "604a598cfa4046006d5ae624",
                     "department": "Writing",
@@ -614,7 +613,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0336,
+                    "popularity": 0.0143,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a595e66a0d300296a558b",
                     "department": "Directing",
@@ -627,7 +626,7 @@
                     "known_for_department": "Crew",
                     "name": "Max Ruggieri",
                     "original_name": "Max Ruggieri",
-                    "popularity": 0.0573,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "credit_id": "604a59d35f622b002afc407b",
                     "department": "Camera",
@@ -640,7 +639,7 @@
                     "known_for_department": "Editing",
                     "name": "Julia Straface",
                     "original_name": "Julia Straface",
-                    "popularity": 0,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "604a59da9e458600243e4632",
                     "department": "Editing",
@@ -653,7 +652,7 @@
                     "known_for_department": "Sound",
                     "name": "Juan Polito",
                     "original_name": "Juan Polito",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "604a5a0fd8e2250025e103e9",
                     "department": "Sound",
@@ -666,7 +665,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Caprotti",
                     "original_name": "Rodrigo Caprotti",
-                    "popularity": 0.0336,
+                    "popularity": 0.0143,
                     "profile_path": "/1TIvDJCRuNWtpfMbqrruT1EpdyR.jpg",
                     "credit_id": "604a5975ec4552006e18a1c6",
                     "department": "Writing",
@@ -692,7 +691,7 @@
                     "known_for_department": "Art",
                     "name": "Renata Montalbano",
                     "original_name": "Renata Montalbano",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "604a59ff9e45860045ad880b",
                     "department": "Art",
@@ -705,7 +704,7 @@
                     "known_for_department": "Writing",
                     "name": "Martín Kohan",
                     "original_name": "Martín Kohan",
-                    "popularity": 0.072,
+                    "popularity": 0.1599,
                     "profile_path": null,
                     "credit_id": "604a5c3c90fca3005a8af02a",
                     "department": "Writing",
@@ -718,7 +717,7 @@
                     "known_for_department": "Production",
                     "name": "Héctor Fazio",
                     "original_name": "Héctor Fazio",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": "/wCs8qb3LOg4EagdHKMh9gxCqmcn.jpg",
                     "credit_id": "654a238e2866fa00ab1290bb",
                     "department": "Production",
@@ -731,7 +730,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Bahurlet",
                     "original_name": "Juan Bahurlet",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "654a2b87fd4f80013cea6fc0",
                     "department": "Production",
@@ -744,7 +743,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Bahurlet",
                     "original_name": "Juan Bahurlet",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "654a237e2866fa00fe00f432",
                     "department": "Production",
@@ -757,7 +756,7 @@
                     "known_for_department": "Production",
                     "name": "Facundo Aybar",
                     "original_name": "Facundo Aybar",
-                    "popularity": 0.0243,
+                    "popularity": 0.0071,
                     "profile_path": "/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg",
                     "credit_id": "654a2b5067b61300afc842d8",
                     "department": "Camera",
@@ -770,7 +769,7 @@
                     "known_for_department": "Production",
                     "name": "Facundo Aybar",
                     "original_name": "Facundo Aybar",
-                    "popularity": 0.0243,
+                    "popularity": 0.0071,
                     "profile_path": "/qXl36c9BvYHGctkrmXs2sgBqPRT.jpg",
                     "credit_id": "654a23722866fa0138a89759",
                     "department": "Production",

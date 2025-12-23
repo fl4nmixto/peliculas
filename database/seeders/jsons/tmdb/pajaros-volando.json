@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 94180,
-    "cinear_id": null,
     "slug": "pajaros-volando",
     "title": "Pájaros volando",
     "original_title": "Pájaros volando",
@@ -22,44 +21,47 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/ptGAsnFcZDF186SusDtY2wjqpR5.jpg",
+    "poster_url": "/storage/posters/pajaros-volando-d1fd2a1d.jpg",
     "backdrop_url": null,
     "trailer": "https://www.youtube.com/watch?v=7pLSBs-NPZE",
+    "gallery_urls": [
+        "/storage/posters/pajaros-volando-d1fd2a1d.jpg"
+    ],
     "cast": [
         {
             "id": 1001045,
             "name": "Diego Capusotto",
             "character": "José",
             "order": 0,
-            "image_url": null
+            "image_url": "/storage/people/diego-capusotto-2915daf6.jpg"
         },
         {
             "id": 103431,
             "name": "Luis Luque",
             "character": "Miguel",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg"
+            "image_url": "/storage/people/luis-luque-3e8ecb4b.jpg"
         },
         {
             "id": 66959,
             "name": "Verónica Llinás",
             "character": "Ruth",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg"
+            "image_url": "/storage/people/veronica-llinas-bcaa0790.jpg"
         },
         {
             "id": 239252,
             "name": "Alejandra Flechner",
             "character": "Policewoman",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg"
+            "image_url": "/storage/people/alejandra-flechner-81afebcd.jpg"
         },
         {
             "id": 995616,
             "name": "Damián Dreizik",
             "character": "Tomás",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg"
+            "image_url": "/storage/people/damian-dreizik-91d65795.jpg"
         },
         {
             "id": 1176147,
@@ -73,7 +75,7 @@
             "name": "Juan Carlos Mesa",
             "character": "Matildo",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/aRyqwQrewnx7gr9AYZA6ADwBOYl.jpg"
+            "image_url": "/storage/people/juan-carlos-mesa-f7d74301.jpg"
         },
         {
             "id": 1664414,
@@ -87,14 +89,14 @@
             "name": "Lola Berthet",
             "character": "Saleswoman",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/fzq9MZkqHiI89cBXapRz002KZyL.jpg"
+            "image_url": "/storage/people/lola-berthet-bc26b030.jpg"
         },
         {
             "id": 1164143,
             "name": "Atilio Pozzobón",
             "character": "Ignacio",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/fToIebJEzra4myVGdTtAX6I0sBm.jpg"
+            "image_url": "/storage/people/atilio-pozzobon-4ef3da90.jpg"
         },
         {
             "id": 1664415,
@@ -115,65 +117,65 @@
             "name": "Oscar Guzmán",
             "character": "Braulio",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/ceeXqZPlKLnqqeb07diFCmyIvwX.jpg"
+            "image_url": "/storage/people/oscar-guzman-0dd8544b.jpg"
         },
         {
             "id": 235127,
             "name": "Mariano Chiesa",
             "character": "Gallina (voz)",
             "order": 13,
-            "image_url": "https://image.tmdb.org/t/p/w154/kRuoUwwrIQE6DxR8gVTe9AiIvua.jpg"
+            "image_url": "/storage/people/mariano-chiesa-df2fd550.jpg"
         },
         {
             "id": 3377934,
             "name": "Eduardo Calvo",
             "character": "Cara de pez",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/46p5ESrpTTqwx56DxpmUbfEPNeQ.jpg"
+            "image_url": "/storage/people/eduardo-calvo-6be7cd83.jpg"
         }
     ],
     "crew": [
-        {
-            "id": 995616,
-            "name": "Damián Dreizik",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg"
-        },
         {
             "id": 1004733,
             "name": "Néstor Montalbano",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/leTXaqkYyBXkhgt01nHDrQ3wBHs.jpg"
+            "image_url": "/storage/people/nestor-montalbano-0932e1b2.jpg"
+        },
+        {
+            "id": 995616,
+            "name": "Damián Dreizik",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/damian-dreizik-91d65795.jpg"
         },
         {
             "id": 1519657,
             "name": "Pablo Borghi",
             "department": "Sound",
             "job": "Music",
-            "image_url": "https://image.tmdb.org/t/p/w154/sm1cd1aXIusMhCbXqs73BsWFstP.jpg"
-        },
-        {
-            "id": 1509681,
-            "name": "Marcelo Schapces",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/6zJ7ql4JpchMFiGSkiGwyNmqlBf.jpg"
-        },
-        {
-            "id": 1509683,
-            "name": "Alejandro Israel",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg"
+            "image_url": "/storage/people/pablo-borghi-2ddf84f7.jpg"
         },
         {
             "id": 955287,
             "name": "Fernando Sokolowicz",
             "department": "Production",
             "job": "Associate Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg"
+            "image_url": "/storage/people/fernando-sokolowicz-91d4dd85.jpg"
+        },
+        {
+            "id": 1509681,
+            "name": "Marcelo Schapces",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/marcelo-schapces-d552a034.jpg"
+        },
+        {
+            "id": 1509683,
+            "name": "Alejandro Israel",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "/storage/people/alejandro-israel-26cacdaa.jpg"
         }
     ],
     "raw": {
@@ -196,7 +198,7 @@
         "original_language": "es",
         "original_title": "Pájaros volando",
         "overview": "José (Diego Capusotto), vive en Buenos Aires con su padre, con quien no tiene una buena relación. Es músico, pero se mantiene con las ganancias que le da su remisería, y cuando puede toca con su banda en algún Pub. Siente nostalgia del éxito que ya nunca más pudo alcanzar, como en la época en la que tocaba con su primo Miguel (Luis Luque). Ambos habían logrado cierta notoriedad con el tema “Pájaros volando”, de su banda “Dientes de Limón”. Después de mucho tiempo de no verse, Miguel, que vive en Las Pircas, un pueblito de las sierras cordobesas, viene a visitarlo, y le propone que abandone la ciudad y se vaya con él.",
-        "popularity": 0.1737,
+        "popularity": 0.0953,
         "poster_path": "/ptGAsnFcZDF186SusDtY2wjqpR5.jpg",
         "production_companies": [
             {
@@ -255,8 +257,8 @@
                     "known_for_department": "Acting",
                     "name": "Diego Capusotto",
                     "original_name": "Diego Capusotto",
-                    "popularity": 0.1039,
-                    "profile_path": null,
+                    "popularity": 0.255,
+                    "profile_path": "/rHXSrbL3l7gS6M3MSZt3sDjwfoc.jpg",
                     "cast_id": 1000,
                     "character": "José",
                     "credit_id": "52fe494c9251416c750c38e9",
@@ -269,7 +271,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Luque",
                     "original_name": "Luis Luque",
-                    "popularity": 0.2797,
+                    "popularity": 0.2355,
                     "profile_path": "/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg",
                     "cast_id": 1003,
                     "character": "Miguel",
@@ -283,7 +285,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Llinás",
                     "original_name": "Verónica Llinás",
-                    "popularity": 0.7421,
+                    "popularity": 0.4266,
                     "profile_path": "/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg",
                     "cast_id": 1004,
                     "character": "Ruth",
@@ -297,7 +299,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandra Flechner",
                     "original_name": "Alejandra Flechner",
-                    "popularity": 0.138,
+                    "popularity": 0.1255,
                     "profile_path": "/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg",
                     "cast_id": 1005,
                     "character": "Policewoman",
@@ -311,7 +313,7 @@
                     "known_for_department": "Acting",
                     "name": "Damián Dreizik",
                     "original_name": "Damián Dreizik",
-                    "popularity": 0.7089,
+                    "popularity": 0.4898,
                     "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
                     "cast_id": 1006,
                     "character": "Tomás",
@@ -325,7 +327,7 @@
                     "known_for_department": "Acting",
                     "name": "Vanessa Weinberg",
                     "original_name": "Vanessa Weinberg",
-                    "popularity": 0.0658,
+                    "popularity": 0.0387,
                     "profile_path": null,
                     "cast_id": 1007,
                     "character": "Any",
@@ -339,7 +341,7 @@
                     "known_for_department": "Writing",
                     "name": "Juan Carlos Mesa",
                     "original_name": "Juan Carlos Mesa",
-                    "popularity": 0.0552,
+                    "popularity": 0.1539,
                     "profile_path": "/aRyqwQrewnx7gr9AYZA6ADwBOYl.jpg",
                     "cast_id": 1008,
                     "character": "Matildo",
@@ -353,7 +355,7 @@
                     "known_for_department": "Acting",
                     "name": "Tahiel Arévalo",
                     "original_name": "Tahiel Arévalo",
-                    "popularity": 0.0481,
+                    "popularity": 0.0363,
                     "profile_path": null,
                     "cast_id": 1010,
                     "character": "Matías",
@@ -367,7 +369,7 @@
                     "known_for_department": "Acting",
                     "name": "Lola Berthet",
                     "original_name": "Lola Berthet",
-                    "popularity": 0.1465,
+                    "popularity": 0.3149,
                     "profile_path": "/fzq9MZkqHiI89cBXapRz002KZyL.jpg",
                     "cast_id": 1011,
                     "character": "Saleswoman",
@@ -381,7 +383,7 @@
                     "known_for_department": "Acting",
                     "name": "Atilio Pozzobón",
                     "original_name": "Atilio Pozzobón",
-                    "popularity": 0.1691,
+                    "popularity": 0.1646,
                     "profile_path": "/fToIebJEzra4myVGdTtAX6I0sBm.jpg",
                     "cast_id": 1012,
                     "character": "Ignacio",
@@ -395,7 +397,7 @@
                     "known_for_department": "Acting",
                     "name": "Miguel Cantilo",
                     "original_name": "Miguel Cantilo",
-                    "popularity": 0.0362,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 1013,
                     "character": "Craftsman",
@@ -409,7 +411,7 @@
                     "known_for_department": "Acting",
                     "name": "Antonio Cafiero",
                     "original_name": "Antonio Cafiero",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 1014,
                     "character": "",
@@ -423,7 +425,7 @@
                     "known_for_department": "Acting",
                     "name": "Oscar Guzmán",
                     "original_name": "Oscar Guzmán",
-                    "popularity": 0.0682,
+                    "popularity": 0.0834,
                     "profile_path": "/ceeXqZPlKLnqqeb07diFCmyIvwX.jpg",
                     "cast_id": 1016,
                     "character": "Braulio",
@@ -437,7 +439,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariano Chiesa",
                     "original_name": "Mariano Chiesa",
-                    "popularity": 0.259,
+                    "popularity": 0.4462,
                     "profile_path": "/kRuoUwwrIQE6DxR8gVTe9AiIvua.jpg",
                     "cast_id": 1020,
                     "character": "Gallina (voz)",
@@ -451,7 +453,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo Calvo",
                     "original_name": "Eduardo Calvo",
-                    "popularity": 0.0362,
+                    "popularity": 0.1483,
                     "profile_path": "/46p5ESrpTTqwx56DxpmUbfEPNeQ.jpg",
                     "cast_id": 1021,
                     "character": "Cara de pez",
@@ -463,24 +465,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 995616,
-                    "known_for_department": "Acting",
-                    "name": "Damián Dreizik",
-                    "original_name": "Damián Dreizik",
-                    "popularity": 0.7089,
-                    "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
-                    "credit_id": "52fe494c9251416c750c38f5",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 1004733,
                     "known_for_department": "Directing",
                     "name": "Néstor Montalbano",
                     "original_name": "Néstor Montalbano",
-                    "popularity": 1.5929,
+                    "popularity": 0.2625,
                     "profile_path": "/leTXaqkYyBXkhgt01nHDrQ3wBHs.jpg",
                     "credit_id": "52fe494c9251416c750c38ef",
                     "department": "Directing",
@@ -489,15 +478,41 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 995616,
+                    "known_for_department": "Acting",
+                    "name": "Damián Dreizik",
+                    "original_name": "Damián Dreizik",
+                    "popularity": 0.4898,
+                    "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
+                    "credit_id": "52fe494c9251416c750c38f5",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 1519657,
                     "known_for_department": "Sound",
                     "name": "Pablo Borghi",
                     "original_name": "Pablo Borghi",
-                    "popularity": 0.0512,
+                    "popularity": 0.0698,
                     "profile_path": "/sm1cd1aXIusMhCbXqs73BsWFstP.jpg",
                     "credit_id": "57aba123c3a368230b00093c",
                     "department": "Sound",
                     "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 955287,
+                    "known_for_department": "Production",
+                    "name": "Fernando Sokolowicz",
+                    "original_name": "Fernando Sokolowicz",
+                    "popularity": 0.0487,
+                    "profile_path": "/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg",
+                    "credit_id": "5f9976d543999b0038fc347c",
+                    "department": "Production",
+                    "job": "Associate Producer"
                 },
                 {
                     "adult": false,
@@ -506,7 +521,7 @@
                     "known_for_department": "Directing",
                     "name": "Marcelo Schapces",
                     "original_name": "Marcelo Schapces",
-                    "popularity": 0.0695,
+                    "popularity": 0.0377,
                     "profile_path": "/6zJ7ql4JpchMFiGSkiGwyNmqlBf.jpg",
                     "credit_id": "5f9972cd2f8d0900376f316d",
                     "department": "Production",
@@ -519,24 +534,11 @@
                     "known_for_department": "Production",
                     "name": "Alejandro Israel",
                     "original_name": "Alejandro Israel",
-                    "popularity": 0.0362,
+                    "popularity": 0.0512,
                     "profile_path": "/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg",
                     "credit_id": "5f9972e522931a00353bb416",
                     "department": "Production",
                     "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 955287,
-                    "known_for_department": "Production",
-                    "name": "Fernando Sokolowicz",
-                    "original_name": "Fernando Sokolowicz",
-                    "popularity": 0.1453,
-                    "profile_path": "/lhv5ec04SErCC6Mozsrbh7ZblXM.jpg",
-                    "credit_id": "5f9976d543999b0038fc347c",
-                    "department": "Production",
-                    "job": "Associate Producer"
                 }
             ]
         },

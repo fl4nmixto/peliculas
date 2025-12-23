@@ -23,9 +23,10 @@
         "English",
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/icFlsKg55Tg05zATMZTq1gOQMV9.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/yc6sONY8BqEAhcScxoXAwqrRMXS.jpg",
+    "poster_url": "/storage/posters/bill-79-1e253c05.jpg",
+    "backdrop_url": "/storage/backdrops/bill-79-6a837d4a.jpg",
     "trailer": "https://www.youtube.com/watch?v=pTq4gMAGdsY",
+    "gallery_urls": [],
     "cast": [
         {
             "id": 989363,
@@ -39,21 +40,21 @@
             "name": "Marina Bellati",
             "character": "Susan",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/paLF8lIlwpWkAu5SJDVFSuTrLWW.jpg"
+            "image_url": "/storage/people/marina-bellati-706c30c5.jpg"
         },
         {
             "id": 237958,
             "name": "Walter Jakob",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+            "image_url": "/storage/people/walter-jakob-0a50df26.jpg"
         },
         {
             "id": 128048,
             "name": "Julia Martínez Rubio",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/l5vItU9QRcwybFhm2nYc8arxbCB.jpg"
+            "image_url": "/storage/people/julia-martinez-rubio-e81115ea.jpg"
         },
         {
             "id": 2380162,
@@ -67,28 +68,28 @@
             "name": "Guido Botto Fiora",
             "character": "",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/sVoNrbDgVdvoHbp4CjInU4JdYHc.jpg"
+            "image_url": "/storage/people/guido-botto-fiora-01f3bb39.jpg"
         },
         {
             "id": 3073347,
             "name": "Paco Gorriz",
             "character": "",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg"
+            "image_url": "/storage/people/paco-gorriz-30ab956d.jpg"
         },
         {
             "id": 1022933,
             "name": "Elvira Onetto",
             "character": "",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg"
+            "image_url": "/storage/people/elvira-onetto-851eb121.jpg"
         },
         {
             "id": 122699,
             "name": "Martín Pavlovsky",
             "character": "",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/2MW5yYEPNA9GHGmNuOLEJF3E0bO.jpg"
+            "image_url": "/storage/people/martin-pavlovsky-b9488f20.jpg"
         },
         {
             "id": 1043851,
@@ -107,13 +108,6 @@
             "image_url": null
         },
         {
-            "id": 3993430,
-            "name": "Alejandro Guiliani",
-            "department": "Crew",
-            "job": "Cinematography",
-            "image_url": null
-        },
-        {
             "id": 81154,
             "name": "Mariano Galperin",
             "department": "Directing",
@@ -121,24 +115,24 @@
             "image_url": null
         },
         {
-            "id": 4115458,
-            "name": "Ana Casariego",
+            "id": 3993430,
+            "name": "Alejandro Guiliani",
+            "department": "Crew",
+            "job": "Cinematography",
+            "image_url": null
+        },
+        {
+            "id": 1409148,
+            "name": "Lorena Ventimiglia",
             "department": "Art",
             "job": "Art Direction",
             "image_url": null
         },
         {
-            "id": 2827609,
-            "name": "Diego Tuñon",
-            "department": "Sound",
-            "job": "Music",
-            "image_url": null
-        },
-        {
-            "id": 2235596,
-            "name": "Pablo Bustamante",
-            "department": "Sound",
-            "job": "Sound",
+            "id": 4115458,
+            "name": "Ana Casariego",
+            "department": "Art",
+            "job": "Art Direction",
             "image_url": null
         },
         {
@@ -153,13 +147,20 @@
             "name": "Andrés Tambornino",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
-            "id": 1409148,
-            "name": "Lorena Ventimiglia",
-            "department": "Art",
-            "job": "Art Direction",
+            "id": 2827609,
+            "name": "Diego Tuñon",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 2235596,
+            "name": "Pablo Bustamante",
+            "department": "Sound",
+            "job": "Sound",
             "image_url": null
         }
     ],
@@ -183,7 +184,7 @@
         "original_language": "es",
         "original_title": "Bill 79",
         "overview": "Inspirada en hechos reales. Buenos Aires, 1979.  Bill Evans, el gran pianista de jazz, llega a la Argentina para una serie de conciertos. Uno de ellos es en San Nicolás, una localidad de la provincia de Buenos Aires. Evans (adicto a la heroína hace veinte años) junto a sus dos músicos y su manager suben al auto del empresario argentino. El día del concierto se enteran que tocarán durante el concurso de “Miss Invierno 1979” Piano desafinado, box, drogas, muertes, recuerdos, whisky y empanadas. En un pueblo similar al de su infancia, lo imposible y cierto colisiona en Evans.",
-        "popularity": 1.7105,
+        "popularity": 0.8567,
         "poster_path": "/icFlsKg55Tg05zATMZTq1gOQMV9.jpg",
         "production_companies": [
             {
@@ -235,7 +236,7 @@
                     "known_for_department": "Acting",
                     "name": "Diego Gentile",
                     "original_name": "Diego Gentile",
-                    "popularity": 0.5131,
+                    "popularity": 0.2991,
                     "profile_path": null,
                     "cast_id": 1,
                     "character": "Bill Evans",
@@ -249,7 +250,7 @@
                     "known_for_department": "Acting",
                     "name": "Marina Bellati",
                     "original_name": "Marina Bellati",
-                    "popularity": 0.5122,
+                    "popularity": 0.4621,
                     "profile_path": "/paLF8lIlwpWkAu5SJDVFSuTrLWW.jpg",
                     "cast_id": 2,
                     "character": "Susan",
@@ -263,7 +264,7 @@
                     "known_for_department": "Acting",
                     "name": "Walter Jakob",
                     "original_name": "Walter Jakob",
-                    "popularity": 0.6214,
+                    "popularity": 0.8314,
                     "profile_path": "/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg",
                     "cast_id": 13,
                     "character": "",
@@ -277,7 +278,7 @@
                     "known_for_department": "Acting",
                     "name": "Julia Martínez Rubio",
                     "original_name": "Julia Martínez Rubio",
-                    "popularity": 0.2006,
+                    "popularity": 0.0968,
                     "profile_path": "/l5vItU9QRcwybFhm2nYc8arxbCB.jpg",
                     "cast_id": 14,
                     "character": "",
@@ -291,7 +292,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Jovic",
                     "original_name": "Alejandro Jovic",
-                    "popularity": 0.0912,
+                    "popularity": 0.0495,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "",
@@ -305,7 +306,7 @@
                     "known_for_department": "Acting",
                     "name": "Guido Botto Fiora",
                     "original_name": "Guido Botto Fiora",
-                    "popularity": 0.1825,
+                    "popularity": 0.0143,
                     "profile_path": "/sVoNrbDgVdvoHbp4CjInU4JdYHc.jpg",
                     "cast_id": 16,
                     "character": "",
@@ -319,7 +320,7 @@
                     "known_for_department": "Acting",
                     "name": "Paco Gorriz",
                     "original_name": "Paco Gorriz",
-                    "popularity": 0.3016,
+                    "popularity": 0.1367,
                     "profile_path": "/1LQCoc1e5hdyQDZ4VOCKoxY1k55.jpg",
                     "cast_id": 17,
                     "character": "",
@@ -333,7 +334,7 @@
                     "known_for_department": "Acting",
                     "name": "Elvira Onetto",
                     "original_name": "Elvira Onetto",
-                    "popularity": 0.2502,
+                    "popularity": 0.348,
                     "profile_path": "/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg",
                     "cast_id": 18,
                     "character": "",
@@ -347,7 +348,7 @@
                     "known_for_department": "Acting",
                     "name": "Martín Pavlovsky",
                     "original_name": "Martín Pavlovsky",
-                    "popularity": 0.3249,
+                    "popularity": 0.1554,
                     "profile_path": "/2MW5yYEPNA9GHGmNuOLEJF3E0bO.jpg",
                     "cast_id": 19,
                     "character": "",
@@ -361,7 +362,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Xicarte",
                     "original_name": "Marcelo Xicarte",
-                    "popularity": 0.1592,
+                    "popularity": 0.0604,
                     "profile_path": null,
                     "cast_id": 20,
                     "character": "",
@@ -377,11 +378,24 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Galperin",
                     "original_name": "Mariano Galperin",
-                    "popularity": 0.1592,
+                    "popularity": 0.07,
                     "profile_path": null,
                     "credit_id": "642b76b6c0a30800f2e318d5",
                     "department": "Writing",
                     "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 81154,
+                    "known_for_department": "Directing",
+                    "name": "Mariano Galperin",
+                    "original_name": "Mariano Galperin",
+                    "popularity": 0.07,
+                    "profile_path": null,
+                    "credit_id": "642b76bda3e4ba3d3e131959",
+                    "department": "Directing",
+                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -399,15 +413,15 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 81154,
-                    "known_for_department": "Directing",
-                    "name": "Mariano Galperin",
-                    "original_name": "Mariano Galperin",
-                    "popularity": 0.1592,
+                    "id": 1409148,
+                    "known_for_department": "Art",
+                    "name": "Lorena Ventimiglia",
+                    "original_name": "Lorena Ventimiglia",
+                    "popularity": 0.0239,
                     "profile_path": null,
-                    "credit_id": "642b76bda3e4ba3d3e131959",
-                    "department": "Directing",
-                    "job": "Director"
+                    "credit_id": "648c7b6042bf01013bbc167d",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -416,7 +430,7 @@
                     "known_for_department": "Art",
                     "name": "Ana Casariego",
                     "original_name": "Ana Casariego",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "648c7b6a26346200eb753d32",
                     "department": "Art",
@@ -425,37 +439,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 2827609,
-                    "known_for_department": "Acting",
-                    "name": "Diego Tuñon",
-                    "original_name": "Diego Tuñon",
-                    "popularity": 0.0409,
-                    "profile_path": null,
-                    "credit_id": "648c7b84c3c89100eb31de25",
-                    "department": "Sound",
-                    "job": "Music"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2235596,
-                    "known_for_department": "Sound",
-                    "name": "Pablo Bustamante",
-                    "original_name": "Pablo Bustamante",
-                    "popularity": 0.0663,
-                    "profile_path": null,
-                    "credit_id": "648c7b8d263462010cbb01de",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 1997430,
                     "known_for_department": "Editing",
                     "name": "Alejo Santos",
                     "original_name": "Alejo Santos",
-                    "popularity": 0.1295,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "648c7b74559d22011c4b5c1a",
                     "department": "Editing",
@@ -468,7 +456,7 @@
                     "known_for_department": "Editing",
                     "name": "Andrés Tambornino",
                     "original_name": "Andrés Tambornino",
-                    "popularity": 0.2019,
+                    "popularity": 0.0264,
                     "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
                     "credit_id": "648c7b7926346200eb753d36",
                     "department": "Editing",
@@ -477,15 +465,28 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1409148,
-                    "known_for_department": "Art",
-                    "name": "Lorena Ventimiglia",
-                    "original_name": "Lorena Ventimiglia",
-                    "popularity": 0.1536,
+                    "id": 2827609,
+                    "known_for_department": "Acting",
+                    "name": "Diego Tuñon",
+                    "original_name": "Diego Tuñon",
+                    "popularity": 0.0696,
                     "profile_path": null,
-                    "credit_id": "648c7b6042bf01013bbc167d",
-                    "department": "Art",
-                    "job": "Art Direction"
+                    "credit_id": "648c7b84c3c89100eb31de25",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2235596,
+                    "known_for_department": "Sound",
+                    "name": "Pablo Bustamante",
+                    "original_name": "Pablo Bustamante",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "648c7b8d263462010cbb01de",
+                    "department": "Sound",
+                    "job": "Sound"
                 }
             ]
         },

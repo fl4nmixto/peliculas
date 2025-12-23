@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 41272,
-    "cinear_id": null,
     "slug": "rompecabezas",
     "title": "Rompecabezas",
     "original_title": "Rompecabezas",
@@ -17,35 +16,39 @@
         }
     ],
     "countries": [
+        "France",
         "Argentina"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/5RDBZGS5iAEPh1uxetbdbz7fPH5.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/aFFyNxrO5y4MMpU7Er6dvqLWubt.jpg",
+    "poster_url": "/storage/posters/rompecabezas-eb15b22a.jpg",
+    "backdrop_url": "/storage/backdrops/rompecabezas-5b4d0f44.jpg",
     "trailer": "https://www.youtube.com/watch?v=e7490rC914o",
+    "gallery_urls": [
+        "/storage/posters/rompecabezas-eb15b22a.jpg"
+    ],
     "cast": [
         {
             "id": 27050,
             "name": "María Onetto",
             "character": "María del Carmen",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/m869UDThEKOUbYxDxw5384LMcFJ.jpg"
+            "image_url": "/storage/people/maria-onetto-5c1af003.jpg"
         },
         {
             "id": 50929,
             "name": "Arturo Goetz",
             "character": "Roberto",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 81011,
             "name": "Gabriel Goity",
             "character": "Juan",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/hAHbDad6k0VQwAGZn3w8F6WZD3U.jpg"
+            "image_url": "/storage/people/gabriel-goity-2f38b199.jpg"
         },
         {
             "id": 980649,
@@ -80,7 +83,7 @@
             "name": "Mirta Wons",
             "character": "Graciela",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/bsexfxOJ0pgS7jMjkle9EZXsFbr.jpg"
+            "image_url": "/storage/people/mirta-wons-7420a37f.jpg"
         },
         {
             "id": 962094,
@@ -94,45 +97,17 @@
             "name": "Denise Groesman",
             "character": "Victoria",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/aPZlNy9uyqs5iWjfB02euOpBt3W.jpg"
+            "image_url": "/storage/people/denise-groesman-5e21a317.jpg"
         },
         {
             "id": 96483,
             "name": "Julián Doregger",
             "character": "Iván",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/zD2AkA5vhh8RGpphwnvNkDkGpWr.jpg"
+            "image_url": "/storage/people/julian-doregger-d1286dca.jpg"
         }
     ],
     "crew": [
-        {
-            "id": 125978,
-            "name": "Natalia Smirnoff",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
-        },
-        {
-            "id": 125978,
-            "name": "Natalia Smirnoff",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg"
-        },
-        {
-            "id": 984322,
-            "name": "Alejandro Franov",
-            "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": null
-        },
-        {
-            "id": 1112961,
-            "name": "Bárbara Álvarez",
-            "department": "Camera",
-            "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg"
-        },
         {
             "id": 984323,
             "name": "Natacha Valerga",
@@ -141,11 +116,11 @@
             "image_url": null
         },
         {
-            "id": 122682,
-            "name": "Natalia Urruty",
-            "department": "Production",
-            "job": "Casting",
-            "image_url": null
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/natalia-smirnoff-3da56b1e.jpg"
         },
         {
             "id": 122689,
@@ -155,10 +130,38 @@
             "image_url": null
         },
         {
+            "id": 984322,
+            "name": "Alejandro Franov",
+            "department": "Sound",
+            "job": "Original Music Composer",
+            "image_url": null
+        },
+        {
             "id": 983358,
             "name": "Julio Suárez",
             "department": "Costume & Make-Up",
             "job": "Costume Design",
+            "image_url": null
+        },
+        {
+            "id": 1112961,
+            "name": "Bárbara Álvarez",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "/storage/people/barbara-alvarez-1ab36208.jpg"
+        },
+        {
+            "id": 125978,
+            "name": "Natalia Smirnoff",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/natalia-smirnoff-3da56b1e.jpg"
+        },
+        {
+            "id": 122682,
+            "name": "Natalia Urruty",
+            "department": "Production",
+            "job": "Casting",
             "image_url": null
         }
     ],
@@ -182,7 +185,7 @@
         "original_language": "es",
         "original_title": "Rompecabezas",
         "overview": "María del Carmen, un ama de casa de 50 años que vive en Turdera, un suburbio bonaerense, descubre que tiene un don: armar rompecabezas. Ya metida de lleno en esta actividad, conoce a Roberto, un millonario de 60 años que aspira a participar en el torneo mundial de rompecabezas de Alemania. Juntos logran formar una pareja imbatible en este juego.",
-        "popularity": 3.7634,
+        "popularity": 1.261,
         "poster_path": "/5RDBZGS5iAEPh1uxetbdbz7fPH5.jpg",
         "production_companies": [
             {
@@ -251,7 +254,7 @@
                     "known_for_department": "Acting",
                     "name": "María Onetto",
                     "original_name": "María Onetto",
-                    "popularity": 0.4626,
+                    "popularity": 0.3908,
                     "profile_path": "/m869UDThEKOUbYxDxw5384LMcFJ.jpg",
                     "cast_id": 2,
                     "character": "María del Carmen",
@@ -265,7 +268,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.1401,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 4,
                     "character": "Roberto",
@@ -279,7 +282,7 @@
                     "known_for_department": "Acting",
                     "name": "Gabriel Goity",
                     "original_name": "Gabriel Goity",
-                    "popularity": 1.109,
+                    "popularity": 0.7827,
                     "profile_path": "/hAHbDad6k0VQwAGZn3w8F6WZD3U.jpg",
                     "cast_id": 5,
                     "character": "Juan",
@@ -293,7 +296,7 @@
                     "known_for_department": "Acting",
                     "name": "Henny Trayles",
                     "original_name": "Henny Trayles",
-                    "popularity": 0.2003,
+                    "popularity": 0.302,
                     "profile_path": null,
                     "cast_id": 7,
                     "character": "Carlotta",
@@ -307,7 +310,7 @@
                     "known_for_department": "Sound",
                     "name": "Felipe Villanueva",
                     "original_name": "Felipe Villanueva",
-                    "popularity": 0.0938,
+                    "popularity": 0.0398,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Juan Pablo",
@@ -321,7 +324,7 @@
                     "known_for_department": "Acting",
                     "name": "Nora Zinsky",
                     "original_name": "Nora Zinsky",
-                    "popularity": 0.0261,
+                    "popularity": 0.1274,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "Raquel",
@@ -335,7 +338,7 @@
                     "known_for_department": "Writing",
                     "name": "Marcela Guerty",
                     "original_name": "Marcela Guerty",
-                    "popularity": 0.2211,
+                    "popularity": 0.282,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Susana",
@@ -349,7 +352,7 @@
                     "known_for_department": "Acting",
                     "name": "Mirta Wons",
                     "original_name": "Mirta Wons",
-                    "popularity": 0.4628,
+                    "popularity": 0.5413,
                     "profile_path": "/bsexfxOJ0pgS7jMjkle9EZXsFbr.jpg",
                     "cast_id": 11,
                     "character": "Graciela",
@@ -363,7 +366,7 @@
                     "known_for_department": "Acting",
                     "name": "Mercedes Fraile",
                     "original_name": "Mercedes Fraile",
-                    "popularity": 0.0261,
+                    "popularity": 0.1414,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "Carmen",
@@ -377,7 +380,7 @@
                     "known_for_department": "Acting",
                     "name": "Denise Groesman",
                     "original_name": "Denise Groesman",
-                    "popularity": 0.0595,
+                    "popularity": 0.0754,
                     "profile_path": "/aPZlNy9uyqs5iWjfB02euOpBt3W.jpg",
                     "cast_id": 19,
                     "character": "Victoria",
@@ -391,7 +394,7 @@
                     "known_for_department": "Acting",
                     "name": "Julián Doregger",
                     "original_name": "Julián Doregger",
-                    "popularity": 0.2069,
+                    "popularity": 0.3511,
                     "profile_path": "/zD2AkA5vhh8RGpphwnvNkDkGpWr.jpg",
                     "cast_id": 20,
                     "character": "Iván",
@@ -403,11 +406,24 @@
                 {
                     "adult": false,
                     "gender": 1,
+                    "id": 984323,
+                    "known_for_department": "Editing",
+                    "name": "Natacha Valerga",
+                    "original_name": "Natacha Valerga",
+                    "popularity": 0.0311,
+                    "profile_path": null,
+                    "credit_id": "52fe45bfc3a36847f80d8459",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
                     "id": 125978,
                     "known_for_department": "Writing",
                     "name": "Natalia Smirnoff",
                     "original_name": "Natalia Smirnoff",
-                    "popularity": 0.0286,
+                    "popularity": 0.0894,
                     "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
                     "credit_id": "52fe45bfc3a36847f80d841d",
                     "department": "Directing",
@@ -416,76 +432,11 @@
                 {
                     "adult": false,
                     "gender": 1,
-                    "id": 125978,
-                    "known_for_department": "Writing",
-                    "name": "Natalia Smirnoff",
-                    "original_name": "Natalia Smirnoff",
-                    "popularity": 0.0286,
-                    "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
-                    "credit_id": "52fe45bfc3a36847f80d842f",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 984322,
-                    "known_for_department": "Sound",
-                    "name": "Alejandro Franov",
-                    "original_name": "Alejandro Franov",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "52fe45bfc3a36847f80d844d",
-                    "department": "Sound",
-                    "job": "Original Music Composer"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1112961,
-                    "known_for_department": "Camera",
-                    "name": "Bárbara Álvarez",
-                    "original_name": "Bárbara Álvarez",
-                    "popularity": 0.0445,
-                    "profile_path": "/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg",
-                    "credit_id": "52fe45bfc3a36847f80d8453",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 984323,
-                    "known_for_department": "Editing",
-                    "name": "Natacha Valerga",
-                    "original_name": "Natacha Valerga",
-                    "popularity": 0.0239,
-                    "profile_path": null,
-                    "credit_id": "52fe45bfc3a36847f80d8459",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 122682,
-                    "known_for_department": "Production",
-                    "name": "Natalia Urruty",
-                    "original_name": "Natalia Urruty",
-                    "popularity": 0.0306,
-                    "profile_path": null,
-                    "credit_id": "52fe45bfc3a36847f80d845f",
-                    "department": "Production",
-                    "job": "Casting"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
                     "id": 122689,
                     "known_for_department": "Art",
                     "name": "María Eugenia Sueiro",
                     "original_name": "María Eugenia Sueiro",
-                    "popularity": 0.0429,
+                    "popularity": 0.0991,
                     "profile_path": null,
                     "credit_id": "52fe45bfc3a36847f80d8465",
                     "department": "Art",
@@ -494,15 +445,67 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 984322,
+                    "known_for_department": "Sound",
+                    "name": "Alejandro Franov",
+                    "original_name": "Alejandro Franov",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "52fe45bfc3a36847f80d844d",
+                    "department": "Sound",
+                    "job": "Original Music Composer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 983358,
                     "known_for_department": "Costume & Make-Up",
                     "name": "Julio Suárez",
                     "original_name": "Julio Suárez",
-                    "popularity": 0.0658,
+                    "popularity": 0.0713,
                     "profile_path": null,
                     "credit_id": "52fe45bfc3a36847f80d846b",
                     "department": "Costume & Make-Up",
                     "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1112961,
+                    "known_for_department": "Camera",
+                    "name": "Bárbara Álvarez",
+                    "original_name": "Bárbara Álvarez",
+                    "popularity": 0.0853,
+                    "profile_path": "/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg",
+                    "credit_id": "52fe45bfc3a36847f80d8453",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 125978,
+                    "known_for_department": "Writing",
+                    "name": "Natalia Smirnoff",
+                    "original_name": "Natalia Smirnoff",
+                    "popularity": 0.0894,
+                    "profile_path": "/kl8T0fenlBk8MtEnPCjsIb8rBBY.jpg",
+                    "credit_id": "52fe45bfc3a36847f80d842f",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 122682,
+                    "known_for_department": "Production",
+                    "name": "Natalia Urruty",
+                    "original_name": "Natalia Urruty",
+                    "popularity": 0.1154,
+                    "profile_path": null,
+                    "credit_id": "52fe45bfc3a36847f80d845f",
+                    "department": "Production",
+                    "job": "Casting"
                 }
             ]
         },

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 85549,
-    "cinear_id": null,
     "slug": "las-acacias",
     "title": "Las acacias",
     "original_title": "Las acacias",
@@ -11,8 +10,14 @@
     "year": 2011,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Romance"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
     ],
     "countries": [
         "Argentina",
@@ -21,23 +26,27 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/18Or1npceKFzayR2Np6HWM9Dabc.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/nmAZEPceLBRHoiUYRwS4tr4aebu.jpg",
+    "poster_url": "/storage/posters/las-acacias-b1bd9c3a.jpg",
+    "backdrop_url": "/storage/backdrops/las-acacias-f4dcb399.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/las-acacias-b1bd9c3a.jpg",
+        "/storage/gallery/gallery-2-0d2171ec.jpg"
+    ],
     "cast": [
         {
             "id": 50928,
             "name": "Germán de Silva",
             "character": "Rubén",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+            "image_url": "/storage/people/german-de-silva-dd209247.jpg"
         },
         {
             "id": 1061428,
             "name": "Hebe Duarte",
             "character": "Jacinta",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/zVRIjEDaNqBPJmBGxG49vkkANqJ.jpg"
+            "image_url": "/storage/people/hebe-duarte-8730d209.jpg"
         },
         {
             "id": 1080023,
@@ -63,18 +72,18 @@
     ],
     "crew": [
         {
-            "id": 932318,
-            "name": "Pablo Giorgelli",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
+            "id": 976674,
+            "name": "Diego Poleri",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": "/storage/people/diego-poleri-d5737f40.jpg"
         },
         {
             "id": 932318,
             "name": "Pablo Giorgelli",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/pablo-giorgelli-ad333097.jpg"
         },
         {
             "id": 1022346,
@@ -84,11 +93,18 @@
             "image_url": null
         },
         {
-            "id": 976674,
-            "name": "Diego Poleri",
-            "department": "Camera",
-            "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg"
+            "id": 932318,
+            "name": "Pablo Giorgelli",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/pablo-giorgelli-ad333097.jpg"
+        },
+        {
+            "id": 1310722,
+            "name": "Javier Braier",
+            "department": "Production",
+            "job": "Casting",
+            "image_url": null
         },
         {
             "id": 1506959,
@@ -98,10 +114,52 @@
             "image_url": null
         },
         {
-            "id": 1310722,
-            "name": "Javier Braier",
+            "id": 2423587,
+            "name": "Yamila Fontán",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 932318,
+            "name": "Pablo Giorgelli",
             "department": "Production",
-            "job": "Casting",
+            "job": "Producer",
+            "image_url": "/storage/people/pablo-giorgelli-ad333097.jpg"
+        },
+        {
+            "id": 69318,
+            "name": "Alex Zito",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/alex-zito-9af11392.jpg"
+        },
+        {
+            "id": 2713693,
+            "name": "Diego Amson",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 1769624,
+            "name": "Laura Donari",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": "/storage/people/laura-donari-a77e1c68.jpg"
+        },
+        {
+            "id": 583125,
+            "name": "Ariel Rotter",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/ariel-rotter-33d4bcd2.jpg"
+        },
+        {
+            "id": 1391916,
+            "name": "Eduardo Carneros",
+            "department": "Production",
+            "job": "Executive Producer",
             "image_url": null
         },
         {
@@ -117,55 +175,6 @@
             "department": "Production",
             "job": "Executive Producer",
             "image_url": null
-        },
-        {
-            "id": 932318,
-            "name": "Pablo Giorgelli",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg"
-        },
-        {
-            "id": 69318,
-            "name": "Alex Zito",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/bcqApi33Ccl8mbIPlybSD5dD4CQ.jpg"
-        },
-        {
-            "id": 2713693,
-            "name": "Diego Amson",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": null
-        },
-        {
-            "id": 1391916,
-            "name": "Eduardo Carneros",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": null
-        },
-        {
-            "id": 1769624,
-            "name": "Laura Donari",
-            "department": "Costume & Make-Up",
-            "job": "Costume Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg"
-        },
-        {
-            "id": 2423587,
-            "name": "Yamila Fontán",
-            "department": "Art",
-            "job": "Art Direction",
-            "image_url": null
-        },
-        {
-            "id": 583125,
-            "name": "Ariel Rotter",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/66blcJnWsBrbjP8hODoJMLSiWGM.jpg"
         }
     ],
     "raw": {
@@ -192,7 +201,7 @@
         "original_language": "es",
         "original_title": "Las acacias",
         "overview": "Las acacias de Pablo Giorgelli cuenta el viaje que emprenden, entre la ciudad paraguaya de Asunción y Buenos Aires, la capital de Argentina, un camionero y una mujer que carga con un bebé. Un film que habla del dolor de la pérdida, de la soledad y de los infinitos caminos que ofrece la vida cuando parece que se ha convertido en un callejón sin salida.",
-        "popularity": 1.5133,
+        "popularity": 0.3555,
         "poster_path": "/18Or1npceKFzayR2Np6HWM9Dabc.jpg",
         "production_companies": [
             {
@@ -255,7 +264,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.2956,
+                    "popularity": 0.2782,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 1003,
                     "character": "Rubén",
@@ -269,7 +278,7 @@
                     "known_for_department": "Acting",
                     "name": "Hebe Duarte",
                     "original_name": "Hebe Duarte",
-                    "popularity": 0.0919,
+                    "popularity": 0.1613,
                     "profile_path": "/zVRIjEDaNqBPJmBGxG49vkkANqJ.jpg",
                     "cast_id": 1004,
                     "character": "Jacinta",
@@ -283,7 +292,7 @@
                     "known_for_department": "Acting",
                     "name": "Nayra Calle Mamani",
                     "original_name": "Nayra Calle Mamani",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 1005,
                     "character": "Anahí",
@@ -297,7 +306,7 @@
                     "known_for_department": "Acting",
                     "name": "Monica Coca",
                     "original_name": "Monica Coca",
-                    "popularity": 0,
+                    "popularity": 0.0382,
                     "profile_path": null,
                     "cast_id": 1006,
                     "character": "Shop assistant",
@@ -311,7 +320,7 @@
                     "known_for_department": "Acting",
                     "name": "Lili Lopez",
                     "original_name": "Lili Lopez",
-                    "popularity": 0.0214,
+                    "popularity": 0.0579,
                     "profile_path": null,
                     "cast_id": 1010,
                     "character": "",
@@ -323,11 +332,24 @@
                 {
                     "adult": false,
                     "gender": 2,
+                    "id": 976674,
+                    "known_for_department": "Camera",
+                    "name": "Diego Poleri",
+                    "original_name": "Diego Poleri",
+                    "popularity": 0.1043,
+                    "profile_path": "/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg",
+                    "credit_id": "52fe494b9251416c910a8b29",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
                     "id": 932318,
                     "known_for_department": "Directing",
                     "name": "Pablo Giorgelli",
                     "original_name": "Pablo Giorgelli",
-                    "popularity": 0.084,
+                    "popularity": 0.1997,
                     "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
                     "credit_id": "52fe494b9251416c910a8b0d",
                     "department": "Writing",
@@ -336,24 +358,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 932318,
-                    "known_for_department": "Directing",
-                    "name": "Pablo Giorgelli",
-                    "original_name": "Pablo Giorgelli",
-                    "popularity": 0.084,
-                    "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
-                    "credit_id": "52fe494b9251416c910a8b07",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 1022346,
                     "known_for_department": "Writing",
                     "name": "Salvador Roselli",
                     "original_name": "Salvador Roselli",
-                    "popularity": 0.0404,
+                    "popularity": 0.051,
                     "profile_path": null,
                     "credit_id": "52fe494b9251416c910a8b13",
                     "department": "Writing",
@@ -362,15 +371,28 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 976674,
-                    "known_for_department": "Camera",
-                    "name": "Diego Poleri",
-                    "original_name": "Diego Poleri",
-                    "popularity": 0.0533,
-                    "profile_path": "/wLLySGpfiiUdpKkxOqLzNT0pB00.jpg",
-                    "credit_id": "52fe494b9251416c910a8b29",
-                    "department": "Camera",
-                    "job": "Director of Photography"
+                    "id": 932318,
+                    "known_for_department": "Directing",
+                    "name": "Pablo Giorgelli",
+                    "original_name": "Pablo Giorgelli",
+                    "popularity": 0.1997,
+                    "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
+                    "credit_id": "52fe494b9251416c910a8b07",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1310722,
+                    "known_for_department": "Production",
+                    "name": "Javier Braier",
+                    "original_name": "Javier Braier",
+                    "popularity": 0.1679,
+                    "profile_path": null,
+                    "credit_id": "55eec416c3a368090c008fff",
+                    "department": "Production",
+                    "job": "Casting"
                 },
                 {
                     "adult": false,
@@ -387,42 +409,16 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 1310722,
-                    "known_for_department": "Production",
-                    "name": "Javier Braier",
-                    "original_name": "Javier Braier",
-                    "popularity": 0.0459,
+                    "gender": 1,
+                    "id": 2423587,
+                    "known_for_department": "Art",
+                    "name": "Yamila Fontán",
+                    "original_name": "Yamila Fontán",
+                    "popularity": 0.0168,
                     "profile_path": null,
-                    "credit_id": "55eec416c3a368090c008fff",
-                    "department": "Production",
-                    "job": "Casting"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 56248,
-                    "known_for_department": "Production",
-                    "name": "Verónica Cura",
-                    "original_name": "Verónica Cura",
-                    "popularity": 0.0379,
-                    "profile_path": null,
-                    "credit_id": "5f0fe0ac2d8ef300383b9329",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1417461,
-                    "known_for_department": "Production",
-                    "name": "Javier Ibarretxe",
-                    "original_name": "Javier Ibarretxe",
-                    "popularity": 0.0404,
-                    "profile_path": null,
-                    "credit_id": "5f0fe0c0dff66e00377a0f34",
-                    "department": "Production",
-                    "job": "Executive Producer"
+                    "credit_id": "5f0fe08523d278003508c122",
+                    "department": "Art",
+                    "job": "Art Direction"
                 },
                 {
                     "adult": false,
@@ -431,7 +427,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Giorgelli",
                     "original_name": "Pablo Giorgelli",
-                    "popularity": 0.084,
+                    "popularity": 0.1997,
                     "profile_path": "/rixODZPmXZ4uKRwz84uEPAtFJR4.jpg",
                     "credit_id": "5f0fe0b62a210c0036ec7c75",
                     "department": "Production",
@@ -444,7 +440,7 @@
                     "known_for_department": "Production",
                     "name": "Alex Zito",
                     "original_name": "Alex Zito",
-                    "popularity": 0.1185,
+                    "popularity": 0.0865,
                     "profile_path": "/bcqApi33Ccl8mbIPlybSD5dD4CQ.jpg",
                     "credit_id": "5f0fe0d96743fa0035cf4cc6",
                     "department": "Production",
@@ -457,9 +453,35 @@
                     "known_for_department": "Production",
                     "name": "Diego Amson",
                     "original_name": "Diego Amson",
-                    "popularity": 0.0758,
+                    "popularity": 0.0906,
                     "profile_path": null,
                     "credit_id": "5f0fe0992495ab0034341220",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1769624,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Laura Donari",
+                    "original_name": "Laura Donari",
+                    "popularity": 0.0336,
+                    "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
+                    "credit_id": "5f0fe08d6743fa0034cf4993",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 583125,
+                    "known_for_department": "Directing",
+                    "name": "Ariel Rotter",
+                    "original_name": "Ariel Rotter",
+                    "popularity": 0.2188,
+                    "profile_path": "/66blcJnWsBrbjP8hODoJMLSiWGM.jpg",
+                    "credit_id": "5f0fe0ca7cffda0037281c2f",
                     "department": "Production",
                     "job": "Producer"
                 },
@@ -470,7 +492,7 @@
                     "known_for_department": "Production",
                     "name": "Eduardo Carneros",
                     "original_name": "Eduardo Carneros",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f0fe0a3dff66e00377a0ea7",
                     "department": "Production",
@@ -478,42 +500,29 @@
                 },
                 {
                     "adult": false,
-                    "gender": 1,
-                    "id": 1769624,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Laura Donari",
-                    "original_name": "Laura Donari",
-                    "popularity": 0.0286,
-                    "profile_path": "/n0JBuzlumIA5SK4V5Z1vaf887Mo.jpg",
-                    "credit_id": "5f0fe08d6743fa0034cf4993",
-                    "department": "Costume & Make-Up",
-                    "job": "Costume Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2423587,
-                    "known_for_department": "Art",
-                    "name": "Yamila Fontán",
-                    "original_name": "Yamila Fontán",
-                    "popularity": 0.0071,
+                    "gender": 0,
+                    "id": 56248,
+                    "known_for_department": "Production",
+                    "name": "Verónica Cura",
+                    "original_name": "Verónica Cura",
+                    "popularity": 0.0752,
                     "profile_path": null,
-                    "credit_id": "5f0fe08523d278003508c122",
-                    "department": "Art",
-                    "job": "Art Direction"
+                    "credit_id": "5f0fe0ac2d8ef300383b9329",
+                    "department": "Production",
+                    "job": "Executive Producer"
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 583125,
-                    "known_for_department": "Directing",
-                    "name": "Ariel Rotter",
-                    "original_name": "Ariel Rotter",
-                    "popularity": 0.1325,
-                    "profile_path": "/66blcJnWsBrbjP8hODoJMLSiWGM.jpg",
-                    "credit_id": "5f0fe0ca7cffda0037281c2f",
+                    "gender": 0,
+                    "id": 1417461,
+                    "known_for_department": "Production",
+                    "name": "Javier Ibarretxe",
+                    "original_name": "Javier Ibarretxe",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "5f0fe0c0dff66e00377a0f34",
                     "department": "Production",
-                    "job": "Producer"
+                    "job": "Executive Producer"
                 }
             ]
         },

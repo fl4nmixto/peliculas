@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 408771,
-    "cinear_id": null,
     "slug": "el-amor-primera-parte",
     "title": "El amor (primera parte)",
     "original_title": "El amor (primera parte)",
@@ -11,8 +10,14 @@
     "year": 2005,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Romance"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
     ],
     "countries": [
         "Argentina"
@@ -20,37 +25,41 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/meVqYFxTt7R8qkKAxVlUxGcMyww.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/mJjP3n2cijcT57QVU1MeGRlU9Uk.jpg",
+    "poster_url": "/storage/posters/el-amor-primera-parte-9fc5b23c.jpg",
+    "backdrop_url": "/storage/backdrops/el-amor-primera-parte-e7d73686.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/el-amor-primera-parte-9fc5b23c.jpg",
+        "/storage/gallery/gallery-2-10e468d4.jpg"
+    ],
     "cast": [
         {
             "id": 138245,
             "name": "Leonora Balcarce",
             "character": "Sofía",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg"
+            "image_url": "/storage/people/leonora-balcarce-e228980e.jpg"
         },
         {
             "id": 79291,
             "name": "Luciano Cáceres",
             "character": "Pedro",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/z9s7uuEU7cS44idIPI22040ZSZH.jpg"
+            "image_url": "/storage/people/luciano-caceres-5d4e912a.jpg"
         },
         {
             "id": 2610551,
             "name": "Lucila Mangone",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/nr0xznx8gVaxdXB5WYv8o9ac7kV.jpg"
+            "image_url": "/storage/people/lucila-mangone-81ec0e6b.jpg"
         },
         {
             "id": 236727,
             "name": "Víctor Hugo Carrizo",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/tMMHSm8yDVBHqKVjGhQkSAvFtd1.jpg"
+            "image_url": "/storage/people/victor-hugo-carrizo-ee2a8894.jpg"
         },
         {
             "id": 1122518,
@@ -71,16 +80,23 @@
             "name": "Agustín Mendilaharzu",
             "character": "",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg"
+            "image_url": "/storage/people/agustin-mendilaharzu-ffd96724.jpg"
         }
     ],
     "crew": [
         {
-            "id": 84675,
-            "name": "Alejandro Fadel",
+            "id": 84677,
+            "name": "Santiago Mitre",
             "department": "Directing",
             "job": "Director",
-            "image_url": null
+            "image_url": "/storage/people/santiago-mitre-709dd045.jpg"
+        },
+        {
+            "id": 1411662,
+            "name": "Juan Schnitman",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/juan-schnitman-7b54d288.jpg"
         },
         {
             "id": 84676,
@@ -90,18 +106,11 @@
             "image_url": null
         },
         {
-            "id": 84677,
-            "name": "Santiago Mitre",
+            "id": 84675,
+            "name": "Alejandro Fadel",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/8pV496cw7Sj2ngx9SNtrhWqJU7b.jpg"
-        },
-        {
-            "id": 1411662,
-            "name": "Juan Schnitman",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/vBgjh687ljtylMIa7JZX00bpGee.jpg"
+            "image_url": null
         },
         {
             "id": 1142739,
@@ -129,14 +138,14 @@
             "name": "Juan Schnitman",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/vBgjh687ljtylMIa7JZX00bpGee.jpg"
+            "image_url": "/storage/people/juan-schnitman-7b54d288.jpg"
         },
         {
             "id": 84677,
             "name": "Santiago Mitre",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/8pV496cw7Sj2ngx9SNtrhWqJU7b.jpg"
+            "image_url": "/storage/people/santiago-mitre-709dd045.jpg"
         }
     ],
     "raw": {
@@ -163,7 +172,7 @@
         "original_language": "es",
         "original_title": "El amor (primera parte)",
         "overview": "La historia de una joven pareja, desde su inicio hasta su conclusión, desde las euforias del enamoramiento hasta los desdibujados y oscuros días finales, es observada con ojo analítico y afán investigador. Pedro y Sofía, con su sencilla historia de amor, se convierten en representantes de todos aquellos que, a los veinticinco años, hayan estado enamorados.",
-        "popularity": 1.468,
+        "popularity": 1.6175,
         "poster_path": "/meVqYFxTt7R8qkKAxVlUxGcMyww.jpg",
         "production_companies": [
             {
@@ -204,7 +213,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonora Balcarce",
                     "original_name": "Leonora Balcarce",
-                    "popularity": 0.3792,
+                    "popularity": 0.3826,
                     "profile_path": "/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg",
                     "cast_id": 4,
                     "character": "Sofía",
@@ -218,7 +227,7 @@
                     "known_for_department": "Acting",
                     "name": "Luciano Cáceres",
                     "original_name": "Luciano Cáceres",
-                    "popularity": 0.8213,
+                    "popularity": 0.3167,
                     "profile_path": "/z9s7uuEU7cS44idIPI22040ZSZH.jpg",
                     "cast_id": 5,
                     "character": "Pedro",
@@ -232,7 +241,7 @@
                     "known_for_department": "Acting",
                     "name": "Lucila Mangone",
                     "original_name": "Lucila Mangone",
-                    "popularity": 0.0754,
+                    "popularity": 0.1378,
                     "profile_path": "/nr0xznx8gVaxdXB5WYv8o9ac7kV.jpg",
                     "cast_id": 6,
                     "character": "",
@@ -246,7 +255,7 @@
                     "known_for_department": "Acting",
                     "name": "Víctor Hugo Carrizo",
                     "original_name": "Víctor Hugo Carrizo",
-                    "popularity": 0.0683,
+                    "popularity": 0.0445,
                     "profile_path": "/tMMHSm8yDVBHqKVjGhQkSAvFtd1.jpg",
                     "cast_id": 7,
                     "character": "",
@@ -260,7 +269,7 @@
                     "known_for_department": "Acting",
                     "name": "Julián Krakov",
                     "original_name": "Julián Krakov",
-                    "popularity": 0.0409,
+                    "popularity": 0.1233,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "",
@@ -274,7 +283,7 @@
                     "known_for_department": "Acting",
                     "name": "Soledad Cagnoni",
                     "original_name": "Soledad Cagnoni",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 9,
                     "character": "",
@@ -288,7 +297,7 @@
                     "known_for_department": "Acting",
                     "name": "Agustín Mendilaharzu",
                     "original_name": "Agustín Mendilaharzu",
-                    "popularity": 0.0377,
+                    "popularity": 0.0739,
                     "profile_path": "/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg",
                     "cast_id": 10,
                     "character": "",
@@ -300,37 +309,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 84675,
-                    "known_for_department": "Writing",
-                    "name": "Alejandro Fadel",
-                    "original_name": "Alejandro Fadel",
-                    "popularity": 0.0757,
-                    "profile_path": null,
-                    "credit_id": "579c6f35c3a3685be3005c79",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 84676,
-                    "known_for_department": "Writing",
-                    "name": "Martín Mauregui",
-                    "original_name": "Martín Mauregui",
-                    "popularity": 0.0551,
-                    "profile_path": null,
-                    "credit_id": "579c6f3ec3a36855d2005fd1",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 84677,
                     "known_for_department": "Writing",
                     "name": "Santiago Mitre",
                     "original_name": "Santiago Mitre",
-                    "popularity": 0.4969,
+                    "popularity": 0.1508,
                     "profile_path": "/8pV496cw7Sj2ngx9SNtrhWqJU7b.jpg",
                     "credit_id": "579c6f4892514116820058bc",
                     "department": "Directing",
@@ -343,9 +326,35 @@
                     "known_for_department": "Directing",
                     "name": "Juan Schnitman",
                     "original_name": "Juan Schnitman",
-                    "popularity": 0.0264,
+                    "popularity": 0.248,
                     "profile_path": "/vBgjh687ljtylMIa7JZX00bpGee.jpg",
                     "credit_id": "579c6f51c3a3685b6d005994",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 84676,
+                    "known_for_department": "Writing",
+                    "name": "Martín Mauregui",
+                    "original_name": "Martín Mauregui",
+                    "popularity": 0.2454,
+                    "profile_path": null,
+                    "credit_id": "579c6f3ec3a36855d2005fd1",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 84675,
+                    "known_for_department": "Writing",
+                    "name": "Alejandro Fadel",
+                    "original_name": "Alejandro Fadel",
+                    "popularity": 0.2277,
+                    "profile_path": null,
+                    "credit_id": "579c6f35c3a3685be3005c79",
                     "department": "Directing",
                     "job": "Director"
                 },
@@ -356,7 +365,7 @@
                     "known_for_department": "Camera",
                     "name": "Soledad Rodríguez",
                     "original_name": "Soledad Rodríguez",
-                    "popularity": 0.0596,
+                    "popularity": 0.0835,
                     "profile_path": null,
                     "credit_id": "645d842cd6c3000103d755ea",
                     "department": "Crew",
@@ -369,7 +378,7 @@
                     "known_for_department": "Writing",
                     "name": "Alejandro Fadel",
                     "original_name": "Alejandro Fadel",
-                    "popularity": 0.0757,
+                    "popularity": 0.2277,
                     "profile_path": null,
                     "credit_id": "5ef2672643cd5400327a3ebb",
                     "department": "Writing",
@@ -382,7 +391,7 @@
                     "known_for_department": "Writing",
                     "name": "Martín Mauregui",
                     "original_name": "Martín Mauregui",
-                    "popularity": 0.0551,
+                    "popularity": 0.2454,
                     "profile_path": null,
                     "credit_id": "5ef267356e3deb0038a8e89c",
                     "department": "Writing",
@@ -395,7 +404,7 @@
                     "known_for_department": "Directing",
                     "name": "Juan Schnitman",
                     "original_name": "Juan Schnitman",
-                    "popularity": 0.0264,
+                    "popularity": 0.248,
                     "profile_path": "/vBgjh687ljtylMIa7JZX00bpGee.jpg",
                     "credit_id": "5ef2673a3927120035ee1769",
                     "department": "Writing",
@@ -408,7 +417,7 @@
                     "known_for_department": "Writing",
                     "name": "Santiago Mitre",
                     "original_name": "Santiago Mitre",
-                    "popularity": 0.4969,
+                    "popularity": 0.1508,
                     "profile_path": "/8pV496cw7Sj2ngx9SNtrhWqJU7b.jpg",
                     "credit_id": "5ef267426c84d60034b169f9",
                     "department": "Writing",

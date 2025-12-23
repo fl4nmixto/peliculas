@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 209420,
-    "cinear_id": null,
     "slug": "pense-que-iba-a-haber-fiesta",
     "title": "Pensé que iba a haber fiesta",
     "original_title": "Pensé que iba a haber fiesta",
@@ -17,49 +16,53 @@
         }
     ],
     "countries": [
+        "Spain",
         "Argentina"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/hCMNuE9W3WX8k9MAWWdjIEIkJyI.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/pzgSDrHYOIL29oavvdsWkblN8VT.jpg",
+    "poster_url": "/storage/posters/pense-que-iba-a-haber-fiesta-cf460486.jpg",
+    "backdrop_url": "/storage/backdrops/pense-que-iba-a-haber-fiesta-3150efdd.jpg",
     "trailer": "https://www.youtube.com/watch?v=OnNILmZC2vg",
+    "gallery_urls": [
+        "/storage/posters/pense-que-iba-a-haber-fiesta-cf460486.jpg"
+    ],
     "cast": [
         {
             "id": 3623,
             "name": "Elena Anaya",
             "character": "Ana",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/vZ5ewGX4mzwERL7MCFthRBcq2jz.jpg"
+            "image_url": "/storage/people/elena-anaya-d737c97b.jpg"
         },
         {
             "id": 69311,
             "name": "Valeria Bertuccelli",
             "character": "",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/sXmxe7sf2RxMGzRyMFBrcezyoJq.jpg"
+            "image_url": "/storage/people/valeria-bertuccelli-a947a251.jpg"
         },
         {
             "id": 536259,
             "name": "Fernán Mirás",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+            "image_url": "/storage/people/fernan-miras-4e9a1889.jpg"
         },
         {
             "id": 1086359,
             "name": "Esteban Lamothe",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg"
+            "image_url": "/storage/people/esteban-lamothe-b3e66bdb.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Eduardo",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         }
     ],
     "crew": [
@@ -78,6 +81,13 @@
             "image_url": null
         },
         {
+            "id": 981342,
+            "name": "Victoria Galardi",
+            "department": "Writing",
+            "job": "Screenplay",
+            "image_url": null
+        },
+        {
             "id": 1062041,
             "name": "Niño Josele",
             "department": "Sound",
@@ -89,13 +99,6 @@
             "name": "Alejandro Brodersohn",
             "department": "Editing",
             "job": "Editor",
-            "image_url": null
-        },
-        {
-            "id": 981342,
-            "name": "Victoria Galardi",
-            "department": "Writing",
-            "job": "Screenplay",
             "image_url": null
         },
         {
@@ -126,7 +129,7 @@
         "original_language": "es",
         "original_title": "Pensé que iba a haber fiesta",
         "overview": "Ana (Elena Anaya, 'La piel que habito') y Lucía (Valeria Bertuccelli, 'Luna de avellaneda') son amigas desde hace mucho tiempo. Durante el verano Lucía le pide a Ana que se quede en su casa para cuidarla mientras ella se va unos días. Ana se relaja pasando las horas tomando el sol en la piscina, hasta que interrumpe su calma una visita inesperada, Ricki (Fernan Miras, 'Días de vinilo'), el ex de su amiga desde hace 3 años, quien viene a recoger a Abi, su hija.",
-        "popularity": 6.355,
+        "popularity": 0.3123,
         "poster_path": "/hCMNuE9W3WX8k9MAWWdjIEIkJyI.jpg",
         "production_companies": [
             {
@@ -189,7 +192,7 @@
                     "known_for_department": "Acting",
                     "name": "Elena Anaya",
                     "original_name": "Elena Anaya",
-                    "popularity": 2.3864,
+                    "popularity": 2.0013,
                     "profile_path": "/vZ5ewGX4mzwERL7MCFthRBcq2jz.jpg",
                     "cast_id": 2,
                     "character": "Ana",
@@ -203,7 +206,7 @@
                     "known_for_department": "Acting",
                     "name": "Valeria Bertuccelli",
                     "original_name": "Valeria Bertuccelli",
-                    "popularity": 0.6203,
+                    "popularity": 0.3676,
                     "profile_path": "/sXmxe7sf2RxMGzRyMFBrcezyoJq.jpg",
                     "cast_id": 3,
                     "character": "",
@@ -217,7 +220,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernán Mirás",
                     "original_name": "Fernán Mirás",
-                    "popularity": 1.8448,
+                    "popularity": 0.6236,
                     "profile_path": "/23qPVThNWu0OtpSZtBcMLYngo96.jpg",
                     "cast_id": 4,
                     "character": "",
@@ -231,7 +234,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Lamothe",
                     "original_name": "Esteban Lamothe",
-                    "popularity": 0.9879,
+                    "popularity": 0.796,
                     "profile_path": "/e0uyZGY20gXgAnv2uxlwzOxod9X.jpg",
                     "cast_id": 5,
                     "character": "",
@@ -245,7 +248,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2362,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 6,
                     "character": "Eduardo",
@@ -261,7 +264,7 @@
                     "known_for_department": "Directing",
                     "name": "Bruno Roberti",
                     "original_name": "Bruno Roberti",
-                    "popularity": 0.1406,
+                    "popularity": 0.0552,
                     "profile_path": null,
                     "credit_id": "64d6aba7bf31f201cb69c4a5",
                     "department": "Directing",
@@ -274,11 +277,24 @@
                     "known_for_department": "Directing",
                     "name": "Victoria Galardi",
                     "original_name": "Victoria Galardi",
-                    "popularity": 0.2146,
+                    "popularity": 0.0639,
                     "profile_path": null,
                     "credit_id": "52fe4d65c3a368484e1e6e45",
                     "department": "Directing",
                     "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 981342,
+                    "known_for_department": "Directing",
+                    "name": "Victoria Galardi",
+                    "original_name": "Victoria Galardi",
+                    "popularity": 0.0639,
+                    "profile_path": null,
+                    "credit_id": "5f86263d69eb900039cadb56",
+                    "department": "Writing",
+                    "job": "Screenplay"
                 },
                 {
                     "adult": false,
@@ -287,7 +303,7 @@
                     "known_for_department": "Acting",
                     "name": "Niño Josele",
                     "original_name": "Niño Josele",
-                    "popularity": 0.122,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "5f86266d2d8ef30039bb56b6",
                     "department": "Sound",
@@ -300,24 +316,11 @@
                     "known_for_department": "Editing",
                     "name": "Alejandro Brodersohn",
                     "original_name": "Alejandro Brodersohn",
-                    "popularity": 0.1247,
+                    "popularity": 0.0466,
                     "profile_path": null,
                     "credit_id": "5f8626866082eb0036f54774",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 981342,
-                    "known_for_department": "Directing",
-                    "name": "Victoria Galardi",
-                    "original_name": "Victoria Galardi",
-                    "popularity": 0.2146,
-                    "profile_path": null,
-                    "credit_id": "5f86263d69eb900039cadb56",
-                    "department": "Writing",
-                    "job": "Screenplay"
                 },
                 {
                     "adult": false,
@@ -326,7 +329,7 @@
                     "known_for_department": "Camera",
                     "name": "Julián Ledesma",
                     "original_name": "Julián Ledesma",
-                    "popularity": 0.1391,
+                    "popularity": 0.1542,
                     "profile_path": null,
                     "credit_id": "5f9daa62bd990c003a4730ce",
                     "department": "Camera",

@@ -313,38 +313,40 @@ class ImportTmdbJsons extends Command
 
     protected function syncGalleryImages(Movie $movie, array $data): void
     {
-        $baseUrl = config('services.tmdb.images_base_url');
-
-        if (! $baseUrl) {
-            return;
-        }
-
-        $backdrops = collect(Arr::get($data, 'raw.images.backdrops', []));
-        $posters = collect(Arr::get($data, 'raw.images.posters', []));
-
-        $images = $backdrops->isNotEmpty() ? $backdrops : $posters;
-
-        $gallery = $images
-            ->map(fn ($image) => $image['file_path'] ?? null)
-            ->filter()
-            ->unique()
-            ->values()
-            ->map(fn ($path) => rtrim($baseUrl, '/') . $path)
-            ->take(12);
-
         $movie->galleryImages()->delete();
 
+        $gallery = collect(Arr::get($data, 'gallery_urls', []))->filter()->values();
+
         if ($gallery->isEmpty()) {
-            return;
+            $baseUrl = config('services.tmdb.images_base_url');
+
+            if (! $baseUrl) {
+                return;
+            }
+
+            $backdrops = collect(Arr::get($data, 'raw.images.backdrops', []));
+            $posters = collect(Arr::get($data, 'raw.images.posters', []));
+
+            $images = $backdrops->isNotEmpty() ? $backdrops : $posters;
+
+            $gallery = $images
+                ->map(fn ($image) => $image['file_path'] ?? null)
+                ->filter()
+                ->unique()
+                ->values()
+                ->map(fn ($path) => rtrim($baseUrl, '/') . $path)
+                ->take(12);
         }
 
-        $movie->galleryImages()->createMany(
-            $gallery->map(fn ($url, $index) => [
-                'image_url' => $url,
-                'position' => $index + 1,
-            ])
-            ->all()
-        );
+        if ($gallery->isNotEmpty()) {
+            $movie->galleryImages()->createMany(
+                $gallery->map(fn ($url, $index) => [
+                    'image_url' => $url,
+                    'position' => $index + 1,
+                ])
+                ->all()
+            );
+        }
     }
 
     protected function attachTmdbSource(Movie $movie, ?int $tmdbId): void

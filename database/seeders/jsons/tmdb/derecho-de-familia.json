@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 97548,
-    "cinear_id": null,
     "slug": "derecho-de-familia",
     "title": "Derecho de familia",
     "original_title": "Derecho de familia",
@@ -21,29 +20,36 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Spain",
+        "France",
+        "Italy"
     ],
     "spoken_languages": [
         "Español",
         "עִבְרִית"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/50lgEhfkMuwLH55EmMnZUNU2lMm.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/ktPneDl4YnYw5zL4UKpWpxcPimA.jpg",
+    "poster_url": "/storage/posters/derecho-de-familia-10bd867a.jpg",
+    "backdrop_url": "/storage/backdrops/derecho-de-familia-589460b5.jpg",
     "trailer": "https://www.youtube.com/watch?v=GcK2KQLsgms",
+    "gallery_urls": [
+        "/storage/posters/derecho-de-familia-10bd867a.jpg",
+        "/storage/gallery/gallery-2-17d915bb.jpg"
+    ],
     "cast": [
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "Ariel Perelman",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 50929,
             "name": "Arturo Goetz",
             "character": "Bernardo Perelman",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 1013995,
@@ -57,21 +63,21 @@
             "name": "Adriana Aizemberg",
             "character": "Norita",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg"
+            "image_url": "/storage/people/adriana-aizemberg-534ffd0a.jpg"
         },
         {
             "id": 140542,
             "name": "Julieta Díaz",
             "character": "Sandra",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/9zJGNtye3SXLPRJYZEQhbOZ0r4P.jpg"
+            "image_url": "/storage/people/julieta-diaz-00a84119.jpg"
         },
         {
             "id": 995616,
             "name": "Damián Dreizik",
             "character": "",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg"
+            "image_url": "/storage/people/damian-dreizik-91d65795.jpg"
         }
     ],
     "crew": [
@@ -80,21 +86,21 @@
             "name": "Daniel Burman",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg"
+            "image_url": "/storage/people/daniel-burman-ee661071.jpg"
         },
         {
             "id": 584335,
             "name": "Daniel Burman",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg"
+            "image_url": "/storage/people/daniel-burman-ee661071.jpg"
         },
         {
             "id": 947469,
             "name": "Diego Dubcovsky",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg"
+            "image_url": "/storage/people/diego-dubcovsky-2887072a.jpg"
         }
     ],
     "raw": {
@@ -121,7 +127,7 @@
         "original_language": "es",
         "original_title": "Derecho de familia",
         "overview": "Perelman hijo (Daniel Hendler) es un joven que estudia derecho que no quiere parecerse más a su padre (Arturo Goetz), un prestigioso abogado, pero cuanto más trata de diferenciarse, más se parece a él. Como una forma de encontrarse, busca la manera de descubrir qué es lo que más lo representa, y así despegarse de la imagen paterna. Ahora que ya es un adulto, está casado, tiene un hijo y la vida se le presenta en permanente transformación.",
-        "popularity": 1.3588,
+        "popularity": 1.5292,
         "poster_path": "/50lgEhfkMuwLH55EmMnZUNU2lMm.jpg",
         "production_companies": [
             {
@@ -174,7 +180,7 @@
         "tagline": "",
         "title": "Derecho de familia",
         "video": false,
-        "vote_average": 6.2,
+        "vote_average": 6.238,
         "vote_count": 21,
         "credits": {
             "cast": [
@@ -185,7 +191,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Hendler",
                     "original_name": "Daniel Hendler",
-                    "popularity": 2.0036,
+                    "popularity": 0.7411,
                     "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
                     "cast_id": 2,
                     "character": "Ariel Perelman",
@@ -199,7 +205,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.1401,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 3,
                     "character": "Bernardo Perelman",
@@ -213,7 +219,7 @@
                     "known_for_department": "Acting",
                     "name": "Eloy Burman",
                     "original_name": "Eloy Burman",
-                    "popularity": 0.0071,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Gastón Perelman",
@@ -227,7 +233,7 @@
                     "known_for_department": "Acting",
                     "name": "Adriana Aizemberg",
                     "original_name": "Adriana Aizemberg",
-                    "popularity": 0.1208,
+                    "popularity": 0.0912,
                     "profile_path": "/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg",
                     "cast_id": 6,
                     "character": "Norita",
@@ -241,7 +247,7 @@
                     "known_for_department": "Acting",
                     "name": "Julieta Díaz",
                     "original_name": "Julieta Díaz",
-                    "popularity": 0.791,
+                    "popularity": 1.2293,
                     "profile_path": "/9zJGNtye3SXLPRJYZEQhbOZ0r4P.jpg",
                     "cast_id": 7,
                     "character": "Sandra",
@@ -255,7 +261,7 @@
                     "known_for_department": "Acting",
                     "name": "Damián Dreizik",
                     "original_name": "Damián Dreizik",
-                    "popularity": 0.7089,
+                    "popularity": 0.4898,
                     "profile_path": "/dqiMFxYBWO8D500mwGu4R0P0aVe.jpg",
                     "cast_id": 10,
                     "character": "",
@@ -271,7 +277,7 @@
                     "known_for_department": "Directing",
                     "name": "Daniel Burman",
                     "original_name": "Daniel Burman",
-                    "popularity": 0.1668,
+                    "popularity": 0.3039,
                     "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
                     "credit_id": "625f0f5abefb090051f0ed67",
                     "department": "Writing",
@@ -284,7 +290,7 @@
                     "known_for_department": "Directing",
                     "name": "Daniel Burman",
                     "original_name": "Daniel Burman",
-                    "popularity": 0.1668,
+                    "popularity": 0.3039,
                     "profile_path": "/6zriWDd1G7g69q2pWR1UedEc6Cz.jpg",
                     "credit_id": "52fe49e49251416c750d6bc5",
                     "department": "Directing",
@@ -297,7 +303,7 @@
                     "known_for_department": "Production",
                     "name": "Diego Dubcovsky",
                     "original_name": "Diego Dubcovsky",
-                    "popularity": 0.0338,
+                    "popularity": 0.1574,
                     "profile_path": "/tCjE3dclIQ0t0lmHfD8MhbpDnL3.jpg",
                     "credit_id": "63d7868e955c65008c7add60",
                     "department": "Production",

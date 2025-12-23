@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 460031,
-    "cinear_id": null,
     "slug": "sinfonia-para-ana",
     "title": "Sinfonía para Ana",
     "original_title": "Sinfonía para Ana",
@@ -11,8 +10,14 @@
     "year": 2017,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Romance"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
     ],
     "countries": [
         "Argentina"
@@ -20,9 +25,10 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/scnB5N8t3FVNgxgAqOvX8gcdUhc.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/brzXPyLupBw6cS1Ivgd9D3pfK0M.jpg",
+    "poster_url": "/storage/posters/sinfonia-para-ana-7ecd97a2.jpg",
+    "backdrop_url": "/storage/backdrops/sinfonia-para-ana-6b2971ed.jpg",
     "trailer": "https://www.youtube.com/watch?v=JLj5jRNK9dg",
+    "gallery_urls": [],
     "cast": [
         {
             "id": 2068626,
@@ -43,7 +49,7 @@
             "name": "Rafael Federman",
             "character": "Lito",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/pwTrHU1J4eLmxKN2OMitCy5ZrrG.jpg"
+            "image_url": "/storage/people/rafael-federman-e692be1e.jpg"
         },
         {
             "id": 2068629,
@@ -57,14 +63,14 @@
             "name": "Rodrigo Noya",
             "character": "Capi",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/rZDcD3ipaawYtyJ74Iv8Zw133F9.jpg"
+            "image_url": "/storage/people/rodrigo-noya-b189867c.jpg"
         },
         {
             "id": 1036281,
             "name": "Vera Fogwill",
             "character": "Madre de Ana",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg"
+            "image_url": "/storage/people/vera-fogwill-21da2c2d.jpg"
         },
         {
             "id": 2068630,
@@ -92,7 +98,7 @@
             "name": "Manuel Vicente",
             "character": "Profesor de Historia",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/6uA1omUHPYBn6oKN3iRUpyDf5Fy.jpg"
+            "image_url": "/storage/people/manuel-vicente-cc7240a1.jpg"
         },
         {
             "id": 3771546,
@@ -106,7 +112,7 @@
             "name": "Mora Recalde",
             "character": "Isa adulta",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/u3MGGlLmyFw4WZzwI7UIR1lJPGI.jpg"
+            "image_url": "/storage/people/mora-recalde-0d3bc8f2.jpg"
         },
         {
             "id": 2610553,
@@ -127,7 +133,7 @@
             "name": "Sergio Boris",
             "character": "Padre de Lito",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/7gAYXGYklxCUWjW1YZflymI1rQn.jpg"
+            "image_url": "/storage/people/sergio-boris-a7af656a.jpg"
         },
         {
             "id": 3771559,
@@ -148,7 +154,7 @@
             "name": "Juan Luppi",
             "character": "Celador",
             "order": 17,
-            "image_url": "https://image.tmdb.org/t/p/w154/cfJbRMstYNBkUvdV0ls4IIUThyY.jpg"
+            "image_url": "/storage/people/juan-luppi-b9c7c54a.jpg"
         },
         {
             "id": 3771564,
@@ -162,37 +168,30 @@
             "name": "Malena Villa",
             "character": "Vivi",
             "order": 19,
-            "image_url": "https://image.tmdb.org/t/p/w154/zlMqTD3FAm3bgbXnwsJ9ZcFpwT5.jpg"
+            "image_url": "/storage/people/malena-villa-46f71088.jpg"
         }
     ],
     "crew": [
-        {
-            "id": 1336154,
-            "name": "Virna Molina",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/afGwvSkGc1xFfhkoXUBqa4CLHg1.jpg"
-        },
         {
             "id": 1336153,
             "name": "Ernesto Ardito",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/42tiv28Aa9WIugdek5maMBFLmzS.jpg"
+            "image_url": "/storage/people/ernesto-ardito-7aeec138.jpg"
         },
         {
             "id": 1336154,
             "name": "Virna Molina",
-            "department": "Writing",
-            "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/afGwvSkGc1xFfhkoXUBqa4CLHg1.jpg"
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/virna-molina-99fa9438.jpg"
         },
         {
-            "id": 2068632,
-            "name": "Samanta Babic",
-            "department": "Costume & Make-Up",
-            "job": "Costume Design",
-            "image_url": null
+            "id": 1336153,
+            "name": "Ernesto Ardito",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/ernesto-ardito-7aeec138.jpg"
         },
         {
             "id": 2068631,
@@ -202,18 +201,25 @@
             "image_url": null
         },
         {
-            "id": 1336153,
-            "name": "Ernesto Ardito",
+            "id": 1336154,
+            "name": "Virna Molina",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/42tiv28Aa9WIugdek5maMBFLmzS.jpg"
+            "image_url": "/storage/people/virna-molina-99fa9438.jpg"
+        },
+        {
+            "id": 2068632,
+            "name": "Samanta Babic",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design",
+            "image_url": null
         },
         {
             "id": 2822562,
             "name": "Andrés Brandariz",
             "department": "Directing",
             "job": "Assistant Director Trainee",
-            "image_url": "https://image.tmdb.org/t/p/w154/nRHHmNZZbL6Pmgpq1IxaVUMxhYI.jpg"
+            "image_url": "/storage/people/andres-brandariz-7d1a81e7.jpg"
         }
     ],
     "raw": {
@@ -240,7 +246,7 @@
         "original_language": "es",
         "original_title": "Sinfonía para Ana",
         "overview": "Ana e Isa son amigas inseparables y van al tradicional Colegio Nacional de Buenos Aires, en los tiempos previos al Golpe de Estado de 1976. Ambas crecieron con la idea de que hay dos cosas esenciales en la vida: vivir el amor verdadero y cambiar el mundo.  Cuando llega el momento de amar para Ana, las cosas no resultan ser tan claras. La presión de su agrupación por haberse enamorado de un joven de otro partido y su propio miedo al debut sexual, la alejan de Lito y la acercan a Camilo. A partir de allí, nada será igual. Su corazón quedará atrapado entre dos pasiones y la realidad política la obligará -a pesar de sus 15 años- a tomar decisiones irreversibles.",
-        "popularity": 0.589,
+        "popularity": 1.0188,
         "poster_path": "/scnB5N8t3FVNgxgAqOvX8gcdUhc.jpg",
         "production_companies": [],
         "production_countries": [
@@ -274,7 +280,7 @@
                     "known_for_department": "Acting",
                     "name": "Isadora Ardito",
                     "original_name": "Isadora Ardito",
-                    "popularity": 0.0261,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "Ana",
@@ -288,7 +294,7 @@
                     "known_for_department": "Acting",
                     "name": "Rocío Palacín",
                     "original_name": "Rocío Palacín",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "Isa",
@@ -302,7 +308,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Federman",
                     "original_name": "Rafael Federman",
-                    "popularity": 0.9012,
+                    "popularity": 0.5585,
                     "profile_path": "/pwTrHU1J4eLmxKN2OMitCy5ZrrG.jpg",
                     "cast_id": 4,
                     "character": "Lito",
@@ -316,7 +322,7 @@
                     "known_for_department": "Acting",
                     "name": "Ricky Arraga",
                     "original_name": "Ricky Arraga",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "Camilo",
@@ -330,7 +336,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo Noya",
                     "original_name": "Rodrigo Noya",
-                    "popularity": 0.0558,
+                    "popularity": 0.4214,
                     "profile_path": "/rZDcD3ipaawYtyJ74Iv8Zw133F9.jpg",
                     "cast_id": 6,
                     "character": "Capi",
@@ -344,7 +350,7 @@
                     "known_for_department": "Acting",
                     "name": "Vera Fogwill",
                     "original_name": "Vera Fogwill",
-                    "popularity": 0.1297,
+                    "popularity": 0.0933,
                     "profile_path": "/rXnXrPYwfgmGV1PWGNU8PIIYMaw.jpg",
                     "cast_id": 7,
                     "character": "Madre de Ana",
@@ -358,7 +364,7 @@
                     "known_for_department": "Acting",
                     "name": "Javier Urondo",
                     "original_name": "Javier Urondo",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Padre de Ana",
@@ -372,7 +378,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariana Carrizo",
                     "original_name": "Mariana Carrizo",
-                    "popularity": 0.0168,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Rosa",
@@ -386,7 +392,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonor Courtoisie",
                     "original_name": "Leonor Courtoisie",
-                    "popularity": 0.0143,
+                    "popularity": 0.1697,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "China",
@@ -400,7 +406,7 @@
                     "known_for_department": "Acting",
                     "name": "Manuel Vicente",
                     "original_name": "Manuel Vicente",
-                    "popularity": 0.0553,
+                    "popularity": 0.1892,
                     "profile_path": "/6uA1omUHPYBn6oKN3iRUpyDf5Fy.jpg",
                     "cast_id": 15,
                     "character": "Profesor de Historia",
@@ -414,7 +420,7 @@
                     "known_for_department": "Acting",
                     "name": "Andrés Cotton",
                     "original_name": "Andrés Cotton",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "Darío",
@@ -428,7 +434,7 @@
                     "known_for_department": "Acting",
                     "name": "Mora Recalde",
                     "original_name": "Mora Recalde",
-                    "popularity": 0.1226,
+                    "popularity": 0.1147,
                     "profile_path": "/u3MGGlLmyFw4WZzwI7UIR1lJPGI.jpg",
                     "cast_id": 17,
                     "character": "Isa adulta",
@@ -442,7 +448,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcelo Minnino",
                     "original_name": "Marcelo Minnino",
-                    "popularity": 0.0143,
+                    "popularity": 0.0362,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Rector Aragón",
@@ -456,7 +462,7 @@
                     "known_for_department": "Sound",
                     "name": "Federico Marrale",
                     "original_name": "Federico Marrale",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Profesor de Matematicas",
@@ -470,7 +476,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Boris",
                     "original_name": "Sergio Boris",
-                    "popularity": 0.1284,
+                    "popularity": 0.5676,
                     "profile_path": "/7gAYXGYklxCUWjW1YZflymI1rQn.jpg",
                     "cast_id": 20,
                     "character": "Padre de Lito",
@@ -512,7 +518,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Luppi",
                     "original_name": "Juan Luppi",
-                    "popularity": 0.0362,
+                    "popularity": 0.2415,
                     "profile_path": "/cfJbRMstYNBkUvdV0ls4IIUThyY.jpg",
                     "cast_id": 23,
                     "character": "Celador",
@@ -526,7 +532,7 @@
                     "known_for_department": "Acting",
                     "name": "María Viau",
                     "original_name": "María Viau",
-                    "popularity": 0.0286,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "cast_id": 24,
                     "character": "Madre de Camilo",
@@ -540,7 +546,7 @@
                     "known_for_department": "Acting",
                     "name": "Malena Villa",
                     "original_name": "Malena Villa",
-                    "popularity": 0.2459,
+                    "popularity": 0.2408,
                     "profile_path": "/zlMqTD3FAm3bgbXnwsJ9ZcFpwT5.jpg",
                     "cast_id": 25,
                     "character": "Vivi",
@@ -582,7 +588,7 @@
                     "known_for_department": "Acting",
                     "name": "Ramiro  Santos",
                     "original_name": "Ramiro  Santos",
-                    "popularity": 0,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Batata",
@@ -596,7 +602,7 @@
                     "known_for_department": "Acting",
                     "name": "Judith Buchalter",
                     "original_name": "Judith Buchalter",
-                    "popularity": 0.0071,
+                    "popularity": 0.0714,
                     "profile_path": "/fd6ac0v4csfN91QgP4k0zvAPqHc.jpg",
                     "cast_id": 29,
                     "character": "Ofelia Ramos",
@@ -624,7 +630,7 @@
                     "known_for_department": "Acting",
                     "name": "Cecilia Greaves",
                     "original_name": "Cecilia Greaves",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 31,
                     "character": "Gaby",
@@ -706,24 +712,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 1336154,
-                    "known_for_department": "Directing",
-                    "name": "Virna Molina",
-                    "original_name": "Virna Molina",
-                    "popularity": 0.0168,
-                    "profile_path": "/afGwvSkGc1xFfhkoXUBqa4CLHg1.jpg",
-                    "credit_id": "592ffa3192514169b3008a72",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 1336153,
                     "known_for_department": "Directing",
                     "name": "Ernesto Ardito",
                     "original_name": "Ernesto Ardito",
-                    "popularity": 0.0281,
+                    "popularity": 0.0596,
                     "profile_path": "/42tiv28Aa9WIugdek5maMBFLmzS.jpg",
                     "credit_id": "592ffa27c3a368479c008f19",
                     "department": "Directing",
@@ -736,7 +729,46 @@
                     "known_for_department": "Directing",
                     "name": "Virna Molina",
                     "original_name": "Virna Molina",
-                    "popularity": 0.0168,
+                    "popularity": 0.0454,
+                    "profile_path": "/afGwvSkGc1xFfhkoXUBqa4CLHg1.jpg",
+                    "credit_id": "592ffa3192514169b3008a72",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1336153,
+                    "known_for_department": "Directing",
+                    "name": "Ernesto Ardito",
+                    "original_name": "Ernesto Ardito",
+                    "popularity": 0.0596,
+                    "profile_path": "/42tiv28Aa9WIugdek5maMBFLmzS.jpg",
+                    "credit_id": "5b29c3d5c3a36855dc001475",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2068631,
+                    "known_for_department": "Camera",
+                    "name": "Fernando Molina",
+                    "original_name": "Fernando Molina",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "5b29c4210e0a26600500185b",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1336154,
+                    "known_for_department": "Directing",
+                    "name": "Virna Molina",
+                    "original_name": "Virna Molina",
+                    "popularity": 0.0454,
                     "profile_path": "/afGwvSkGc1xFfhkoXUBqa4CLHg1.jpg",
                     "credit_id": "5b29c3e10e0a266008001636",
                     "department": "Writing",
@@ -749,7 +781,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Samanta Babic",
                     "original_name": "Samanta Babic",
-                    "popularity": 0.0143,
+                    "popularity": 0.4493,
                     "profile_path": null,
                     "credit_id": "5b29c43dc3a36855ec00175e",
                     "department": "Costume & Make-Up",
@@ -758,37 +790,11 @@
                 {
                     "adult": false,
                     "gender": 0,
-                    "id": 2068631,
-                    "known_for_department": "Camera",
-                    "name": "Fernando Molina",
-                    "original_name": "Fernando Molina",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "5b29c4210e0a26600500185b",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1336153,
-                    "known_for_department": "Directing",
-                    "name": "Ernesto Ardito",
-                    "original_name": "Ernesto Ardito",
-                    "popularity": 0.0281,
-                    "profile_path": "/42tiv28Aa9WIugdek5maMBFLmzS.jpg",
-                    "credit_id": "5b29c3d5c3a36855dc001475",
-                    "department": "Writing",
-                    "job": "Writer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
                     "id": 2822562,
                     "known_for_department": "Directing",
                     "name": "Andrés Brandariz",
                     "original_name": "Andrés Brandariz",
-                    "popularity": 0.0214,
+                    "popularity": 0.0143,
                     "profile_path": "/nRHHmNZZbL6Pmgpq1IxaVUMxhYI.jpg",
                     "credit_id": "686aefdebf9a5294a851ddeb",
                     "department": "Directing",

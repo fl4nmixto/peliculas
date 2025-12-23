@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 13653,
-    "cinear_id": null,
     "slug": "el-aura",
     "title": "El aura",
     "original_title": "El aura",
@@ -11,8 +10,14 @@
     "year": 2005,
     "tagline": "",
     "genres": [
-        "Drama",
-        "Suspense"
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Suspense"
+        }
     ],
     "countries": [
         "Argentina",
@@ -22,58 +27,61 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/1mHxd9DQLVTLJzWQObgsuewn2kx.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/fvl1geY63c1xoa6r6iRPARGJdJY.jpg",
+    "poster_url": "/storage/posters/el-aura-4afa5d93.jpg",
+    "backdrop_url": "/storage/backdrops/el-aura-cbcfda96.jpg",
     "trailer": "https://www.youtube.com/watch?v=zE-PhxHi618",
+    "gallery_urls": [
+        "/storage/gallery/gallery-1-6f6e11d8.jpg"
+    ],
     "cast": [
         {
             "id": 69310,
             "name": "Ricardo Darín",
             "character": "Esteban Espinosa",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/wP7gyISMcsXLJoInWTjncqhrsAT.jpg"
+            "image_url": "/storage/people/ricardo-darin-ba4272d1.jpg"
         },
         {
             "id": 74909,
             "name": "Dolores Fonzi",
             "character": "Diana",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/4axi3Dz8zKK0b1kk54tPOeywb84.jpg"
+            "image_url": "/storage/people/dolores-fonzi-b25e3402.jpg"
         },
         {
             "id": 74910,
             "name": "Pablo Cedrón",
             "character": "Sosa",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/5Ql1ytFSWqxlz9ZomZ2dKZ7jVKa.jpg"
+            "image_url": "/storage/people/pablo-cedron-aaaaf738.jpg"
         },
         {
             "id": 66957,
             "name": "Nahuel Pérez Biscayart",
             "character": "Julio",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg"
+            "image_url": "/storage/people/nahuel-perez-biscayart-c673b8bd.jpg"
         },
         {
             "id": 74911,
             "name": "Jorge D'Elía",
             "character": "Uriel",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/4BpWiwILV7mmQPCBYS3wy9uZ31x.jpg"
+            "image_url": "/storage/people/jorge-delia-85a96236.jpg"
         },
         {
             "id": 74912,
             "name": "Alejandro Awada",
             "character": "Sontag",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/eSmf8JANABLuxrkJtzQ5JKLbcdI.jpg"
+            "image_url": "/storage/people/alejandro-awada-f064bca8.jpg"
         },
         {
             "id": 1074924,
             "name": "Rafa Castejón",
             "character": "Vega",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/j4NbMvOYWPbCunbvcTcl8rrN5ts.jpg"
+            "image_url": "/storage/people/rafa-castejon-bc4a5497.jpg"
         },
         {
             "id": 1816293,
@@ -87,7 +95,7 @@
             "name": "Walter Reyno",
             "character": "Montero",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/z5aBq2H20BkUpyl2n6PC4E8Qgrj.jpg"
+            "image_url": "/storage/people/walter-reyno-43d493d4.jpg"
         },
         {
             "id": 1816294,
@@ -108,7 +116,7 @@
             "name": "Guido D'Albo",
             "character": "Hotel administrator",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/1BuEfyMaZCfwt4gYtcLMf3fSlXc.jpg"
+            "image_url": "/storage/people/guido-dalbo-fbf4d622.jpg"
         },
         {
             "id": 1816297,
@@ -143,7 +151,7 @@
             "name": "Claudio Rissi",
             "character": "Vega (Voice)",
             "order": 16,
-            "image_url": "https://image.tmdb.org/t/p/w154/szQiObvrLjeJxz7y3yhC7gcs16R.jpg"
+            "image_url": "/storage/people/claudio-rissi-26e9500f.jpg"
         },
         {
             "id": 4082968,
@@ -173,7 +181,7 @@
             "name": "Gerardo Herrero",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/bAJRt3PSM2oL1UuIsyaDsIsS8Gv.jpg"
+            "image_url": "/storage/people/gerardo-herrero-8ab412db.jpg"
         },
         {
             "id": 1816300,
@@ -187,7 +195,7 @@
             "name": "Fabián Bielinsky",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/kbwPla5fQZmN6pr7b6OWjwGJN57.jpg"
+            "image_url": "/storage/people/fabian-bielinsky-d156e851.jpg"
         },
         {
             "id": 1816299,
@@ -208,7 +216,7 @@
             "name": "Fernando Pardo",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/qU4pjTaoJdeNwLp1bKQYQcXHAKd.jpg"
+            "image_url": "/storage/people/fernando-pardo-497faddc.jpg"
         },
         {
             "id": 1801307,
@@ -236,7 +244,7 @@
             "name": "Fabián Bielinsky",
             "department": "Writing",
             "job": "Screenplay",
-            "image_url": "https://image.tmdb.org/t/p/w154/kbwPla5fQZmN6pr7b6OWjwGJN57.jpg"
+            "image_url": "/storage/people/fabian-bielinsky-d156e851.jpg"
         },
         {
             "id": 1056103,
@@ -250,7 +258,7 @@
             "name": "Checco Varese",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/xBrsJ73J7HAPGNXFJNu7fm8izLG.jpg"
+            "image_url": "/storage/people/checco-varese-9e8eca6f.jpg"
         },
         {
             "id": 1805713,
@@ -264,7 +272,7 @@
             "name": "Lucio Godoy",
             "department": "Sound",
             "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/eauIdFrX1aEty7aNyTIiS725tYY.jpg"
+            "image_url": "/storage/people/lucio-godoy-72bde171.jpg"
         },
         {
             "id": 18498,
@@ -298,7 +306,7 @@
         "original_language": "es",
         "original_title": "El aura",
         "overview": "Un introvertido taxidermista tiene una extraña afición: planificar en su mente atracos perfectos, infalibles gracias a su inteligencia, que él considera superior. El azar hace que un día por fin tenga la oportunidad de llevar a cabo su fantasía, aunque el hecho de sufrir de epilepsia vaya a jugar en su contra.",
-        "popularity": 4.6573,
+        "popularity": 5.2068,
         "poster_path": "/1mHxd9DQLVTLJzWQObgsuewn2kx.jpg",
         "production_companies": [
             {
@@ -396,8 +404,8 @@
         "tagline": "",
         "title": "El aura",
         "video": false,
-        "vote_average": 6.951,
-        "vote_count": 213,
+        "vote_average": 6.949,
+        "vote_count": 215,
         "credits": {
             "cast": [
                 {
@@ -407,7 +415,7 @@
                     "known_for_department": "Acting",
                     "name": "Ricardo Darín",
                     "original_name": "Ricardo Darín",
-                    "popularity": 0.9063,
+                    "popularity": 1.5106,
                     "profile_path": "/wP7gyISMcsXLJoInWTjncqhrsAT.jpg",
                     "cast_id": 2,
                     "character": "Esteban Espinosa",
@@ -421,7 +429,7 @@
                     "known_for_department": "Acting",
                     "name": "Dolores Fonzi",
                     "original_name": "Dolores Fonzi",
-                    "popularity": 0.8863,
+                    "popularity": 1.1389,
                     "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
                     "cast_id": 3,
                     "character": "Diana",
@@ -435,7 +443,7 @@
                     "known_for_department": "Acting",
                     "name": "Pablo Cedrón",
                     "original_name": "Pablo Cedrón",
-                    "popularity": 0.1638,
+                    "popularity": 0.479,
                     "profile_path": "/5Ql1ytFSWqxlz9ZomZ2dKZ7jVKa.jpg",
                     "cast_id": 4,
                     "character": "Sosa",
@@ -449,7 +457,7 @@
                     "known_for_department": "Acting",
                     "name": "Nahuel Pérez Biscayart",
                     "original_name": "Nahuel Pérez Biscayart",
-                    "popularity": 0.5225,
+                    "popularity": 0.5583,
                     "profile_path": "/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg",
                     "cast_id": 5,
                     "character": "Julio",
@@ -463,7 +471,7 @@
                     "known_for_department": "Acting",
                     "name": "Jorge D'Elía",
                     "original_name": "Jorge D'Elía",
-                    "popularity": 0.1157,
+                    "popularity": 0.6264,
                     "profile_path": "/4BpWiwILV7mmQPCBYS3wy9uZ31x.jpg",
                     "cast_id": 6,
                     "character": "Uriel",
@@ -477,7 +485,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Awada",
                     "original_name": "Alejandro Awada",
-                    "popularity": 0.1224,
+                    "popularity": 0.3334,
                     "profile_path": "/eSmf8JANABLuxrkJtzQ5JKLbcdI.jpg",
                     "cast_id": 7,
                     "character": "Sontag",
@@ -491,7 +499,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafa Castejón",
                     "original_name": "Rafa Castejón",
-                    "popularity": 0.0772,
+                    "popularity": 0.23,
                     "profile_path": "/j4NbMvOYWPbCunbvcTcl8rrN5ts.jpg",
                     "cast_id": 9,
                     "character": "Vega",
@@ -505,7 +513,7 @@
                     "known_for_department": "Acting",
                     "name": "Manuel Rodal",
                     "original_name": "Manuel Rodal",
-                    "popularity": 0.0379,
+                    "popularity": 0.0809,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Carlos Dietrich",
@@ -519,7 +527,7 @@
                     "known_for_department": "Acting",
                     "name": "Walter Reyno",
                     "original_name": "Walter Reyno",
-                    "popularity": 0.0823,
+                    "popularity": 0.3638,
                     "profile_path": "/z5aBq2H20BkUpyl2n6PC4E8Qgrj.jpg",
                     "cast_id": 11,
                     "character": "Montero",
@@ -533,7 +541,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Gancé",
                     "original_name": "Alejandro Gancé",
-                    "popularity": 0.0261,
+                    "popularity": 0.0868,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "",
@@ -561,7 +569,7 @@
                     "known_for_department": "Acting",
                     "name": "Guido D'Albo",
                     "original_name": "Guido D'Albo",
-                    "popularity": 0.0526,
+                    "popularity": 0.0363,
                     "profile_path": "/1BuEfyMaZCfwt4gYtcLMf3fSlXc.jpg",
                     "cast_id": 14,
                     "character": "Hotel administrator",
@@ -575,7 +583,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Delevin",
                     "original_name": "Daniel Delevin",
-                    "popularity": 0.0339,
+                    "popularity": 0.0534,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "",
@@ -603,7 +611,7 @@
                     "known_for_department": "Acting",
                     "name": "Tatiana Saphir",
                     "original_name": "Tatiana Saphir",
-                    "popularity": 0.0658,
+                    "popularity": 0.1469,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Prostitute",
@@ -617,7 +625,7 @@
                     "known_for_department": "Acting",
                     "name": "Victoria Vescio",
                     "original_name": "Victoria Vescio",
-                    "popularity": 0.0239,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Vanina, the prostitue's daughter",
@@ -631,7 +639,7 @@
                     "known_for_department": "Acting",
                     "name": "Claudio Rissi",
                     "original_name": "Claudio Rissi",
-                    "popularity": 0.6407,
+                    "popularity": 0.3178,
                     "profile_path": "/szQiObvrLjeJxz7y3yhC7gcs16R.jpg",
                     "cast_id": 31,
                     "character": "Vega (Voice)",
@@ -645,7 +653,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Falcone",
                     "original_name": "Carlos Falcone",
-                    "popularity": 0.0453,
+                    "popularity": 0.1135,
                     "profile_path": null,
                     "cast_id": 33,
                     "character": "Delincuente Museo 1",
@@ -659,7 +667,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariana Malamud",
                     "original_name": "Mariana Malamud",
-                    "popularity": 0.0338,
+                    "popularity": 0.0496,
                     "profile_path": null,
                     "cast_id": 34,
                     "character": "",
@@ -687,7 +695,7 @@
                     "known_for_department": "Acting",
                     "name": "José Manuel Espeche",
                     "original_name": "José Manuel Espeche",
-                    "popularity": 0,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "cast_id": 36,
                     "character": "",
@@ -701,7 +709,7 @@
                     "known_for_department": "Acting",
                     "name": "Fernando Migueles",
                     "original_name": "Fernando Migueles",
-                    "popularity": 0.0071,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "cast_id": 37,
                     "character": "",
@@ -729,7 +737,7 @@
                     "known_for_department": "Acting",
                     "name": "Raquel Albéniz",
                     "original_name": "Raquel Albéniz",
-                    "popularity": 0.0214,
+                    "popularity": 0.086,
                     "profile_path": null,
                     "cast_id": 39,
                     "character": "",
@@ -743,7 +751,7 @@
                     "known_for_department": "Acting",
                     "name": "César Bordón",
                     "original_name": "César Bordón",
-                    "popularity": 0.1997,
+                    "popularity": 0.4057,
                     "profile_path": "/apFmSvAaVzZKGpk5H5yVcJtEEdr.jpg",
                     "cast_id": 40,
                     "character": "",
@@ -759,7 +767,7 @@
                     "known_for_department": "Production",
                     "name": "Gerardo Herrero",
                     "original_name": "Gerardo Herrero",
-                    "popularity": 0.4745,
+                    "popularity": 0.5927,
                     "profile_path": "/bAJRt3PSM2oL1UuIsyaDsIsS8Gv.jpg",
                     "credit_id": "63b85b8f735205007dac3d77",
                     "department": "Production",
@@ -772,7 +780,7 @@
                     "known_for_department": "Art",
                     "name": "Fernanda Tripoli",
                     "original_name": "Fernanda Tripoli",
-                    "popularity": 0.0286,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "59178f79925141580d038c3d",
                     "department": "Art",
@@ -785,7 +793,7 @@
                     "known_for_department": "Writing",
                     "name": "Fabián Bielinsky",
                     "original_name": "Fabián Bielinsky",
-                    "popularity": 0.9474,
+                    "popularity": 0.3638,
                     "profile_path": "/kbwPla5fQZmN6pr7b6OWjwGJN57.jpg",
                     "credit_id": "59178e9692514156f5039f9f",
                     "department": "Directing",
@@ -798,7 +806,7 @@
                     "known_for_department": "Production",
                     "name": "Eugenia Levin",
                     "original_name": "Eugenia Levin",
-                    "popularity": 0.0461,
+                    "popularity": 0.1504,
                     "profile_path": null,
                     "credit_id": "59178f44925141580d038c12",
                     "department": "Production",
@@ -811,7 +819,7 @@
                     "known_for_department": "Writing",
                     "name": "Pablo De Santis",
                     "original_name": "Pablo De Santis",
-                    "popularity": 0.0256,
+                    "popularity": 0.155,
                     "profile_path": null,
                     "credit_id": "59178ebac3a36840aa0345f3",
                     "department": "Writing",
@@ -824,7 +832,7 @@
                     "known_for_department": "Editing",
                     "name": "Fernando Pardo",
                     "original_name": "Fernando Pardo",
-                    "popularity": 0.0818,
+                    "popularity": 0.1901,
                     "profile_path": "/qU4pjTaoJdeNwLp1bKQYQcXHAKd.jpg",
                     "credit_id": "59178f38c3a3683a93037088",
                     "department": "Editing",
@@ -837,7 +845,7 @@
                     "known_for_department": "Art",
                     "name": "Mercedes Alfonsín",
                     "original_name": "Mercedes Alfonsín",
-                    "popularity": 0.0214,
+                    "popularity": 0.0363,
                     "profile_path": null,
                     "credit_id": "59178f54c3a3683a93037098",
                     "department": "Art",
@@ -850,7 +858,7 @@
                     "known_for_department": "Editing",
                     "name": "Alejandro Carrillo Penovi",
                     "original_name": "Alejandro Carrillo Penovi",
-                    "popularity": 0.0214,
+                    "popularity": 0.0336,
                     "profile_path": null,
                     "credit_id": "59178f2a92514156f503a00b",
                     "department": "Editing",
@@ -863,7 +871,7 @@
                     "known_for_department": "Art",
                     "name": "Matías Martínez",
                     "original_name": "Matías Martínez",
-                    "popularity": 0.0604,
+                    "popularity": 0.0662,
                     "profile_path": null,
                     "credit_id": "59178f69c3a36840aa03466c",
                     "department": "Art",
@@ -876,7 +884,7 @@
                     "known_for_department": "Writing",
                     "name": "Fabián Bielinsky",
                     "original_name": "Fabián Bielinsky",
-                    "popularity": 0.9474,
+                    "popularity": 0.3638,
                     "profile_path": "/kbwPla5fQZmN6pr7b6OWjwGJN57.jpg",
                     "credit_id": "66b7098cccd436ea22f42719",
                     "department": "Writing",
@@ -889,7 +897,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Marisa Amenta",
                     "original_name": "Marisa Amenta",
-                    "popularity": 0.0546,
+                    "popularity": 0.1522,
                     "profile_path": null,
                     "credit_id": "66b709fc0b3217a94bd773b9",
                     "department": "Costume & Make-Up",
@@ -902,7 +910,7 @@
                     "known_for_department": "Camera",
                     "name": "Checco Varese",
                     "original_name": "Checco Varese",
-                    "popularity": 0.6225,
+                    "popularity": 0.3572,
                     "profile_path": "/xBrsJ73J7HAPGNXFJNu7fm8izLG.jpg",
                     "credit_id": "66b709b98fd5b6a19aa8c31f",
                     "department": "Camera",
@@ -915,7 +923,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Araceli Farace",
                     "original_name": "Araceli Farace",
-                    "popularity": 0.0357,
+                    "popularity": 0.1574,
                     "profile_path": null,
                     "credit_id": "66b70a0d4565e6d9e5596167",
                     "department": "Costume & Make-Up",
@@ -928,7 +936,7 @@
                     "known_for_department": "Sound",
                     "name": "Lucio Godoy",
                     "original_name": "Lucio Godoy",
-                    "popularity": 0.1926,
+                    "popularity": 0.2007,
                     "profile_path": "/eauIdFrX1aEty7aNyTIiS725tYY.jpg",
                     "credit_id": "66b709a2f70044ae95c60e96",
                     "department": "Sound",
@@ -941,7 +949,7 @@
                     "known_for_department": "Costume & Make-Up",
                     "name": "Marisa Urruti",
                     "original_name": "Marisa Urruti",
-                    "popularity": 0.0453,
+                    "popularity": 0.1051,
                     "profile_path": null,
                     "credit_id": "66b709e61f7c188902c60ad2",
                     "department": "Costume & Make-Up",

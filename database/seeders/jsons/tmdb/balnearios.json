@@ -22,23 +22,28 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/jqHoLGPaYJou37YZXy0CytikU2i.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/l20Ync88qQEldfGMnoEnl1UscpB.jpg",
+    "poster_url": "/storage/posters/balnearios-3d68d5c4.jpg",
+    "backdrop_url": "/storage/backdrops/balnearios-ec82f555.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/balnearios-3d68d5c4.jpg",
+        "/storage/gallery/gallery-2-eaaae18d.jpg",
+        "/storage/gallery/gallery-3-56ab3d5f.jpg"
+    ],
     "cast": [
         {
             "id": 2265483,
             "name": "José Palomino",
             "character": "Self (voice)",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/3TTNs97sLq79msl0tPCoSYMYbbh.jpg"
+            "image_url": "/storage/people/jose-palomino-efe10f0e.jpg"
         },
         {
             "id": 66959,
             "name": "Verónica Llinás",
             "character": "Self (voice)",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg"
+            "image_url": "/storage/people/veronica-llinas-bcaa0790.jpg"
         },
         {
             "id": 1957315,
@@ -66,21 +71,21 @@
             "name": "Nicolás Goldbart",
             "character": "Young G.",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg"
+            "image_url": "/storage/people/nicolas-goldbart-d850215c.jpg"
         },
         {
             "id": 935388,
             "name": "Rafael Filippelli",
             "character": "Lawyer",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/7Y9EA5Dc9Z7VAaJcEaZ2hbIx1f5.jpg"
+            "image_url": "/storage/people/rafael-filippelli-f11607cb.jpg"
         },
         {
             "id": 2439028,
             "name": "Ulises de la Orden",
             "character": "Uruguayan",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/yHKEVRyv1I4WRooxTm37lNGsod2.jpg"
+            "image_url": "/storage/people/ulises-de-la-orden-75439f81.jpg"
         },
         {
             "id": 1817493,
@@ -157,7 +162,7 @@
             "name": "Mariano Llinás",
             "character": "Model",
             "order": 18,
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         },
         {
             "id": 2609907,
@@ -173,7 +178,7 @@
             "name": "Mariano Llinás",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         },
         {
             "id": 1791449,
@@ -187,35 +192,35 @@
             "name": "Nicolás Goldbart",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg"
+            "image_url": "/storage/people/nicolas-goldbart-d850215c.jpg"
         },
         {
             "id": 68145,
             "name": "Lucio Bonelli",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg"
+            "image_url": "/storage/people/lucio-bonelli-154ae367.jpg"
         },
         {
             "id": 1293509,
             "name": "Mariano Llinás",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+            "image_url": "/storage/people/mariano-llinas-e3570d76.jpg"
         },
         {
             "id": 1509683,
             "name": "Alejandro Israel",
             "department": "Production",
             "job": "Production Manager",
-            "image_url": "https://image.tmdb.org/t/p/w154/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg"
+            "image_url": "/storage/people/alejandro-israel-26cacdaa.jpg"
         },
         {
-            "id": 1467069,
-            "name": "Guillermo Picco",
+            "id": 1587464,
+            "name": "Gabriel Chwojnik",
             "department": "Sound",
-            "job": "Sound Recordist",
-            "image_url": null
+            "job": "Original Music Composer",
+            "image_url": "/storage/people/gabriel-chwojnik-35051c51.jpg"
         },
         {
             "id": 2609902,
@@ -225,11 +230,11 @@
             "image_url": null
         },
         {
-            "id": 1817498,
-            "name": "Martín Mohadeb",
-            "department": "Camera",
-            "job": "Additional Director of Photography",
-            "image_url": null
+            "id": 1509683,
+            "name": "Alejandro Israel",
+            "department": "Production",
+            "job": "Production Director",
+            "image_url": "/storage/people/alejandro-israel-26cacdaa.jpg"
         },
         {
             "id": 1618439,
@@ -237,20 +242,6 @@
             "department": "Sound",
             "job": "Sound",
             "image_url": null
-        },
-        {
-            "id": 1509683,
-            "name": "Alejandro Israel",
-            "department": "Production",
-            "job": "Production Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg"
-        },
-        {
-            "id": 1706305,
-            "name": "Agustín Mendilaharzu",
-            "department": "Production",
-            "job": "Researcher",
-            "image_url": "https://image.tmdb.org/t/p/w154/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg"
         },
         {
             "id": 2062853,
@@ -267,24 +258,24 @@
             "image_url": null
         },
         {
-            "id": 2609907,
-            "name": "Alejandro Zucco",
-            "department": "Production",
-            "job": "Production Coordinator",
-            "image_url": null
-        },
-        {
-            "id": 1587464,
-            "name": "Gabriel Chwojnik",
-            "department": "Sound",
-            "job": "Original Music Composer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qr3H8IHD78zjroizTiveDc9w7hT.jpg"
-        },
-        {
             "id": 2062851,
             "name": "Ana Mouriño",
             "department": "Sound",
             "job": "Sound Recordist",
+            "image_url": null
+        },
+        {
+            "id": 1467069,
+            "name": "Guillermo Picco",
+            "department": "Sound",
+            "job": "Sound Recordist",
+            "image_url": null
+        },
+        {
+            "id": 1817498,
+            "name": "Martín Mohadeb",
+            "department": "Camera",
+            "job": "Additional Director of Photography",
             "image_url": null
         },
         {
@@ -293,6 +284,20 @@
             "department": "Art",
             "job": "Graphic Designer",
             "image_url": null
+        },
+        {
+            "id": 2609907,
+            "name": "Alejandro Zucco",
+            "department": "Production",
+            "job": "Production Coordinator",
+            "image_url": null
+        },
+        {
+            "id": 1706305,
+            "name": "Agustín Mendilaharzu",
+            "department": "Production",
+            "job": "Researcher",
+            "image_url": "/storage/people/agustin-mendilaharzu-ffd96724.jpg"
         }
     ],
     "raw": {
@@ -315,7 +320,7 @@
         "original_language": "es",
         "original_title": "Balnearios",
         "overview": "Un álbum de historias extrañas y humorísticas sobre pequeños lugares dedicados exclusivamente a la molicie, vacíos en invierno, abarrotados en verano: los balnearios. Ciudades bajo el agua, hoteles de lujo, sirenas, animales marinos, castillos de arena, gente que rinde culto al agua pidiendo salud.",
-        "popularity": 0.7472,
+        "popularity": 0.9937,
         "poster_path": "/jqHoLGPaYJou37YZXy0CytikU2i.jpg",
         "production_companies": [
             {
@@ -356,7 +361,7 @@
                     "known_for_department": "Acting",
                     "name": "José Palomino",
                     "original_name": "José Palomino",
-                    "popularity": 0.1331,
+                    "popularity": 0.1177,
                     "profile_path": "/3TTNs97sLq79msl0tPCoSYMYbbh.jpg",
                     "cast_id": 16,
                     "character": "Self (voice)",
@@ -370,7 +375,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Llinás",
                     "original_name": "Verónica Llinás",
-                    "popularity": 0.3399,
+                    "popularity": 0.4266,
                     "profile_path": "/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg",
                     "cast_id": 17,
                     "character": "Self (voice)",
@@ -384,7 +389,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Natanson",
                     "original_name": "Daniel Natanson",
-                    "popularity": 0.1695,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Self (voice)",
@@ -398,7 +403,7 @@
                     "known_for_department": "Writing",
                     "name": "Mario Mactas",
                     "original_name": "Mario Mactas",
-                    "popularity": 0.1199,
+                    "popularity": 0.0357,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Self (voice)",
@@ -412,7 +417,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo Gamba",
                     "original_name": "Eduardo Gamba",
-                    "popularity": 0.1539,
+                    "popularity": 0.052,
                     "profile_path": null,
                     "cast_id": 22,
                     "character": "Mr. G.",
@@ -426,7 +431,7 @@
                     "known_for_department": "Editing",
                     "name": "Nicolás Goldbart",
                     "original_name": "Nicolás Goldbart",
-                    "popularity": 0.241,
+                    "popularity": 0.0777,
                     "profile_path": "/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg",
                     "cast_id": 23,
                     "character": "Young G.",
@@ -440,7 +445,7 @@
                     "known_for_department": "Directing",
                     "name": "Rafael Filippelli",
                     "original_name": "Rafael Filippelli",
-                    "popularity": 0.1957,
+                    "popularity": 0.0637,
                     "profile_path": "/7Y9EA5Dc9Z7VAaJcEaZ2hbIx1f5.jpg",
                     "cast_id": 24,
                     "character": "Lawyer",
@@ -454,7 +459,7 @@
                     "known_for_department": "Directing",
                     "name": "Ulises de la Orden",
                     "original_name": "Ulises de la Orden",
-                    "popularity": 0.1022,
+                    "popularity": 0.1225,
                     "profile_path": "/yHKEVRyv1I4WRooxTm37lNGsod2.jpg",
                     "cast_id": 25,
                     "character": "Uruguayan",
@@ -468,7 +473,7 @@
                     "known_for_department": "Art",
                     "name": "Astrid Lund Petersen",
                     "original_name": "Astrid Lund Petersen",
-                    "popularity": 0.1016,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "cast_id": 26,
                     "character": "Singer",
@@ -482,7 +487,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Saad",
                     "original_name": "Sergio Saad",
-                    "popularity": 0.0466,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 27,
                     "character": "Sailor",
@@ -496,7 +501,7 @@
                     "known_for_department": "Acting",
                     "name": "Eduardo 'Fatiga' Serrano",
                     "original_name": "Eduardo 'Fatiga' Serrano",
-                    "popularity": 0.0402,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 28,
                     "character": "Lifeguard",
@@ -510,7 +515,7 @@
                     "known_for_department": "Editing",
                     "name": "Wenceslao Bonelli",
                     "original_name": "Wenceslao Bonelli",
-                    "popularity": 0.047,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 29,
                     "character": "Champion",
@@ -524,7 +529,7 @@
                     "known_for_department": "Acting",
                     "name": "Luis Pierucci",
                     "original_name": "Luis Pierucci",
-                    "popularity": 0.061,
+                    "popularity": 0.0663,
                     "profile_path": null,
                     "cast_id": 30,
                     "character": "Guide",
@@ -538,7 +543,7 @@
                     "known_for_department": "Acting",
                     "name": "Ricardo Mannero",
                     "original_name": "Ricardo Mannero",
-                    "popularity": 0.0614,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 31,
                     "character": "Aquanaut",
@@ -552,7 +557,7 @@
                     "known_for_department": "Acting",
                     "name": "Liliana Cuomo",
                     "original_name": "Liliana Cuomo",
-                    "popularity": 0.0618,
+                    "popularity": 0.0409,
                     "profile_path": null,
                     "cast_id": 32,
                     "character": "Mermaid",
@@ -566,7 +571,7 @@
                     "known_for_department": "Acting",
                     "name": "Roberto Edgar Ojeda",
                     "original_name": "Roberto Edgar Ojeda",
-                    "popularity": 0.0409,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 35,
                     "character": "Guitarist #1",
@@ -580,7 +585,7 @@
                     "known_for_department": "Acting",
                     "name": "Osvaldo Lucero",
                     "original_name": "Osvaldo Lucero",
-                    "popularity": 0.0714,
+                    "popularity": 0.0418,
                     "profile_path": null,
                     "cast_id": 36,
                     "character": "Guitarist #2",
@@ -594,7 +599,7 @@
                     "known_for_department": "Acting",
                     "name": "Eugenia Varas",
                     "original_name": "Eugenia Varas",
-                    "popularity": 0.0492,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 37,
                     "character": "Swimmer",
@@ -608,7 +613,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.314,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "cast_id": 38,
                     "character": "Model",
@@ -622,7 +627,7 @@
                     "known_for_department": "Acting",
                     "name": "Alejandro Zucco",
                     "original_name": "Alejandro Zucco",
-                    "popularity": 0.0834,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 40,
                     "character": "Son",
@@ -636,7 +641,7 @@
                     "known_for_department": "Acting",
                     "name": "Liliana Cuomo",
                     "original_name": "Liliana Cuomo",
-                    "popularity": 0.1172,
+                    "popularity": 0.0429,
                     "profile_path": "/4UXHgzfv9bxSddf2b19bByqEpAK.jpg",
                     "cast_id": 41,
                     "character": "Mermaid",
@@ -650,7 +655,7 @@
                     "known_for_department": "Acting",
                     "name": "Francisco Miguel Fernández",
                     "original_name": "Francisco Miguel Fernández",
-                    "popularity": 0.0503,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 42,
                     "character": "Singer",
@@ -666,7 +671,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.314,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "credit_id": "53019a8d92514121951ba206",
                     "department": "Directing",
@@ -679,7 +684,7 @@
                     "known_for_department": "Editing",
                     "name": "Agustín Rolandelli",
                     "original_name": "Agustín Rolandelli",
-                    "popularity": 0.1594,
+                    "popularity": 0.0281,
                     "profile_path": null,
                     "credit_id": "5b07d0e7925141725f00425a",
                     "department": "Editing",
@@ -692,7 +697,7 @@
                     "known_for_department": "Editing",
                     "name": "Nicolás Goldbart",
                     "original_name": "Nicolás Goldbart",
-                    "popularity": 0.241,
+                    "popularity": 0.0777,
                     "profile_path": "/zl5DeFJlclwMkpShPlp7SmuOv3D.jpg",
                     "credit_id": "5b07d0fc925141721200342d",
                     "department": "Editing",
@@ -705,7 +710,7 @@
                     "known_for_department": "Camera",
                     "name": "Lucio Bonelli",
                     "original_name": "Lucio Bonelli",
-                    "popularity": 0.2814,
+                    "popularity": 0.1437,
                     "profile_path": "/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg",
                     "credit_id": "5b07d1150e0a267b5d003bdd",
                     "department": "Camera",
@@ -718,7 +723,7 @@
                     "known_for_department": "Directing",
                     "name": "Mariano Llinás",
                     "original_name": "Mariano Llinás",
-                    "popularity": 0.314,
+                    "popularity": 0.3694,
                     "profile_path": "/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg",
                     "credit_id": "5b07d13c0e0a267b5d003bfb",
                     "department": "Writing",
@@ -731,7 +736,7 @@
                     "known_for_department": "Production",
                     "name": "Alejandro Israel",
                     "original_name": "Alejandro Israel",
-                    "popularity": 0.1805,
+                    "popularity": 0.0512,
                     "profile_path": "/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg",
                     "credit_id": "64cd4e7a8289a001250e648c",
                     "department": "Production",
@@ -740,15 +745,15 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 1467069,
+                    "id": 1587464,
                     "known_for_department": "Sound",
-                    "name": "Guillermo Picco",
-                    "original_name": "Guillermo Picco",
-                    "popularity": 0.1596,
-                    "profile_path": null,
-                    "credit_id": "5e9ef99524f2ce002230aa27",
+                    "name": "Gabriel Chwojnik",
+                    "original_name": "Gabriel Chwojnik",
+                    "popularity": 0.0429,
+                    "profile_path": "/qr3H8IHD78zjroizTiveDc9w7hT.jpg",
+                    "credit_id": "5e9ef5d92790bf001d07df9c",
                     "department": "Sound",
-                    "job": "Sound Recordist"
+                    "job": "Original Music Composer"
                 },
                 {
                     "adult": false,
@@ -757,7 +762,7 @@
                     "known_for_department": "Production",
                     "name": "Manuela Willimburgh",
                     "original_name": "Manuela Willimburgh",
-                    "popularity": 0.0393,
+                    "popularity": 0.0322,
                     "profile_path": null,
                     "credit_id": "5e9ef869eec5b5002141a836",
                     "department": "Production",
@@ -766,37 +771,11 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 1817498,
-                    "known_for_department": "Camera",
-                    "name": "Martín Mohadeb",
-                    "original_name": "Martín Mohadeb",
-                    "popularity": 0.1491,
-                    "profile_path": null,
-                    "credit_id": "5e9ef9f324f2ce002230aa51",
-                    "department": "Camera",
-                    "job": "Additional Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1618439,
-                    "known_for_department": "Sound",
-                    "name": "Federico Esquerro",
-                    "original_name": "Federico Esquerro",
-                    "popularity": 0.1085,
-                    "profile_path": null,
-                    "credit_id": "5e9ef909eec5b5001c41ba72",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
                     "id": 1509683,
                     "known_for_department": "Production",
                     "name": "Alejandro Israel",
                     "original_name": "Alejandro Israel",
-                    "popularity": 0.1805,
+                    "popularity": 0.0512,
                     "profile_path": "/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg",
                     "credit_id": "5e9ef8ae24f2ce002230a937",
                     "department": "Production",
@@ -805,15 +784,15 @@
                 {
                     "adult": false,
                     "gender": 2,
-                    "id": 1706305,
-                    "known_for_department": "Acting",
-                    "name": "Agustín Mendilaharzu",
-                    "original_name": "Agustín Mendilaharzu",
-                    "popularity": 0.1458,
-                    "profile_path": "/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg",
-                    "credit_id": "5e9efb4be63571001ff90cbd",
-                    "department": "Production",
-                    "job": "Researcher"
+                    "id": 1618439,
+                    "known_for_department": "Sound",
+                    "name": "Federico Esquerro",
+                    "original_name": "Federico Esquerro",
+                    "popularity": 0.0311,
+                    "profile_path": null,
+                    "credit_id": "5e9ef909eec5b5001c41ba72",
+                    "department": "Sound",
+                    "job": "Sound"
                 },
                 {
                     "adult": false,
@@ -822,7 +801,7 @@
                     "known_for_department": "Sound",
                     "name": "Fernando Ribero",
                     "original_name": "Fernando Ribero",
-                    "popularity": 0.149,
+                    "popularity": 0.0975,
                     "profile_path": null,
                     "credit_id": "5e9ef91d0ed2ab0026e6f3ae",
                     "department": "Sound",
@@ -835,37 +814,11 @@
                     "known_for_department": "Sound",
                     "name": "Rufino Basavilbaso",
                     "original_name": "Rufino Basavilbaso",
-                    "popularity": 0.1064,
+                    "popularity": 0.0286,
                     "profile_path": null,
                     "credit_id": "5e9ef94cd05a03001cbe64be",
                     "department": "Sound",
                     "job": "Sound Recordist"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2609907,
-                    "known_for_department": "Acting",
-                    "name": "Alejandro Zucco",
-                    "original_name": "Alejandro Zucco",
-                    "popularity": 0.0834,
-                    "profile_path": null,
-                    "credit_id": "5e9efb2ed05a03001cbe658b",
-                    "department": "Production",
-                    "job": "Production Coordinator"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1587464,
-                    "known_for_department": "Sound",
-                    "name": "Gabriel Chwojnik",
-                    "original_name": "Gabriel Chwojnik",
-                    "popularity": 0.1257,
-                    "profile_path": "/qr3H8IHD78zjroizTiveDc9w7hT.jpg",
-                    "credit_id": "5e9ef5d92790bf001d07df9c",
-                    "department": "Sound",
-                    "job": "Original Music Composer"
                 },
                 {
                     "adult": false,
@@ -874,11 +827,37 @@
                     "known_for_department": "Sound",
                     "name": "Ana Mouriño",
                     "original_name": "Ana Mouriño",
-                    "popularity": 0.1161,
+                    "popularity": 0.0239,
                     "profile_path": null,
                     "credit_id": "5e9ef9800f3655001c75aff1",
                     "department": "Sound",
                     "job": "Sound Recordist"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1467069,
+                    "known_for_department": "Sound",
+                    "name": "Guillermo Picco",
+                    "original_name": "Guillermo Picco",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "5e9ef99524f2ce002230aa27",
+                    "department": "Sound",
+                    "job": "Sound Recordist"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1817498,
+                    "known_for_department": "Camera",
+                    "name": "Martín Mohadeb",
+                    "original_name": "Martín Mohadeb",
+                    "popularity": 0.0708,
+                    "profile_path": null,
+                    "credit_id": "5e9ef9f324f2ce002230aa51",
+                    "department": "Camera",
+                    "job": "Additional Director of Photography"
                 },
                 {
                     "adult": false,
@@ -887,11 +866,37 @@
                     "known_for_department": "Art",
                     "name": "Juan Pablo Cambariere",
                     "original_name": "Juan Pablo Cambariere",
-                    "popularity": 0.0311,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "5e9efa0f2790bf002507dd66",
                     "department": "Art",
                     "job": "Graphic Designer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2609907,
+                    "known_for_department": "Acting",
+                    "name": "Alejandro Zucco",
+                    "original_name": "Alejandro Zucco",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "5e9efb2ed05a03001cbe658b",
+                    "department": "Production",
+                    "job": "Production Coordinator"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1706305,
+                    "known_for_department": "Acting",
+                    "name": "Agustín Mendilaharzu",
+                    "original_name": "Agustín Mendilaharzu",
+                    "popularity": 0.0739,
+                    "profile_path": "/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg",
+                    "credit_id": "5e9efb4be63571001ff90cbd",
+                    "department": "Production",
+                    "job": "Researcher"
                 }
             ]
         },

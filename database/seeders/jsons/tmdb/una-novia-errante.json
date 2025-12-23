@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 126679,
-    "cinear_id": null,
     "slug": "una-novia-errante",
     "title": "Una novia errante",
     "original_title": "Una novia errante",
@@ -22,51 +21,54 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/d82WbgWE93nRcUgeZJ45oey6GM3.jpg",
+    "poster_url": "/storage/posters/una-novia-errante-f9081d37.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/una-novia-errante-f9081d37.jpg"
+    ],
     "cast": [
         {
             "id": 556471,
             "name": "Ana Katz",
             "character": "Inés",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 141571,
             "name": "Carlos Portaluppi",
             "character": "Germán",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg"
+            "image_url": "/storage/people/carlos-portaluppi-f4b53627.jpg"
         },
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "Miguel",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 141455,
             "name": "Érica Rivas",
             "character": "Andrea",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg"
+            "image_url": "/storage/people/erica-rivas-8c57b056.jpg"
         },
         {
             "id": 50929,
             "name": "Arturo Goetz",
             "character": "Padre",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 1441996,
             "name": "Violeta Urtizberea",
             "character": "Tati",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/ke5floraEajWG49AgG04N9ViikI.jpg"
+            "image_url": "/storage/people/violeta-urtizberea-e5103581.jpg"
         },
         {
             "id": 1817489,
@@ -80,7 +82,7 @@
             "name": "Marcos Montes",
             "character": "Telephone booth attendant",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/1nhoYiXq6RtXjzRbQRjgVJnoVJb.jpg"
+            "image_url": "/storage/people/marcos-montes-51f787ea.jpg"
         },
         {
             "id": 2285678,
@@ -96,14 +98,14 @@
             "name": "Ana Katz",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 145025,
             "name": "Julieta Zylberberg",
             "department": "Crew",
             "job": "Thanks",
-            "image_url": "https://image.tmdb.org/t/p/w154/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg"
+            "image_url": "/storage/people/julieta-zylberberg-6c8b75b5.jpg"
         },
         {
             "id": 1547607,
@@ -117,14 +119,14 @@
             "name": "Ana Katz",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg"
+            "image_url": "/storage/people/ana-katz-81d52684.jpg"
         },
         {
             "id": 1563684,
             "name": "Inés Bortagaray",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg"
+            "image_url": "/storage/people/ines-bortagaray-5f5ff3dc.jpg"
         },
         {
             "id": 3548370,
@@ -152,21 +154,21 @@
             "name": "Mariela Rípodas",
             "department": "Art",
             "job": "Art Direction",
-            "image_url": "https://image.tmdb.org/t/p/w154/ojXgvhUU9nWEksylfJfhvB9ISUF.jpg"
+            "image_url": "/storage/people/mariela-ripodas-46b9a7cd.jpg"
         },
         {
             "id": 68145,
             "name": "Lucio Bonelli",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg"
+            "image_url": "/storage/people/lucio-bonelli-154ae367.jpg"
         },
         {
             "id": 1386373,
             "name": "Andrés Tambornino",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg"
+            "image_url": "/storage/people/andres-tambornino-4e084b31.jpg"
         },
         {
             "id": 4950836,
@@ -196,7 +198,7 @@
         "original_language": "es",
         "original_title": "Una novia errante",
         "overview": "De camino hacia unas breves vacaciones, una joven pareja mantiene una discusión en un ómnibus. Ella se baja en una de las paradas, pero se da cuenta de que él sigue de viaje. Sola, inicia un tragicómico proceso de introspección.",
-        "popularity": 1.1305,
+        "popularity": 2.3588,
         "poster_path": "/d82WbgWE93nRcUgeZJ45oey6GM3.jpg",
         "production_companies": [
             {
@@ -237,7 +239,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.1962,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "cast_id": 2,
                     "character": "Inés",
@@ -251,7 +253,7 @@
                     "known_for_department": "Acting",
                     "name": "Carlos Portaluppi",
                     "original_name": "Carlos Portaluppi",
-                    "popularity": 0.0967,
+                    "popularity": 0.1445,
                     "profile_path": "/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg",
                     "cast_id": 3,
                     "character": "Germán",
@@ -265,7 +267,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Hendler",
                     "original_name": "Daniel Hendler",
-                    "popularity": 2.0036,
+                    "popularity": 0.7411,
                     "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
                     "cast_id": 4,
                     "character": "Miguel",
@@ -279,7 +281,7 @@
                     "known_for_department": "Acting",
                     "name": "Érica Rivas",
                     "original_name": "Érica Rivas",
-                    "popularity": 0.2963,
+                    "popularity": 0.4028,
                     "profile_path": "/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg",
                     "cast_id": 5,
                     "character": "Andrea",
@@ -293,7 +295,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.1401,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 6,
                     "character": "Padre",
@@ -307,7 +309,7 @@
                     "known_for_department": "Acting",
                     "name": "Violeta Urtizberea",
                     "original_name": "Violeta Urtizberea",
-                    "popularity": 0.5223,
+                    "popularity": 0.3201,
                     "profile_path": "/ke5floraEajWG49AgG04N9ViikI.jpg",
                     "cast_id": 7,
                     "character": "Tati",
@@ -321,7 +323,7 @@
                     "known_for_department": "Acting",
                     "name": "Nicolás Tacconi",
                     "original_name": "Nicolás Tacconi",
-                    "popularity": 0.0338,
+                    "popularity": 0.0416,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Pablo",
@@ -335,7 +337,7 @@
                     "known_for_department": "Acting",
                     "name": "Marcos Montes",
                     "original_name": "Marcos Montes",
-                    "popularity": 0.1257,
+                    "popularity": 0.185,
                     "profile_path": "/1nhoYiXq6RtXjzRbQRjgVJnoVJb.jpg",
                     "cast_id": 9,
                     "character": "Telephone booth attendant",
@@ -349,7 +351,7 @@
                     "known_for_department": "Acting",
                     "name": "Catherine Biquard",
                     "original_name": "Catherine Biquard",
-                    "popularity": 0.0362,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 10,
                     "character": "Lorena",
@@ -365,7 +367,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.1962,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "credit_id": "52fe4ae3c3a368484e16c3a3",
                     "department": "Directing",
@@ -378,7 +380,7 @@
                     "known_for_department": "Acting",
                     "name": "Julieta Zylberberg",
                     "original_name": "Julieta Zylberberg",
-                    "popularity": 0.5385,
+                    "popularity": 0.5373,
                     "profile_path": "/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg",
                     "credit_id": "6504ab2cc1606a00c511c176",
                     "department": "Crew",
@@ -391,7 +393,7 @@
                     "known_for_department": "Directing",
                     "name": "Adriana Vior",
                     "original_name": "Adriana Vior",
-                    "popularity": 0.0416,
+                    "popularity": 0.0755,
                     "profile_path": null,
                     "credit_id": "5cae2c860e0a2626e9c0e115",
                     "department": "Directing",
@@ -404,7 +406,7 @@
                     "known_for_department": "Directing",
                     "name": "Ana Katz",
                     "original_name": "Ana Katz",
-                    "popularity": 1.1962,
+                    "popularity": 0.8508,
                     "profile_path": "/xH0BMPyCnYtJ1TjQua9rDYI6RBe.jpg",
                     "credit_id": "5e1a066e2ea6b90013f1096f",
                     "department": "Writing",
@@ -417,7 +419,7 @@
                     "known_for_department": "Writing",
                     "name": "Inés Bortagaray",
                     "original_name": "Inés Bortagaray",
-                    "popularity": 0.1487,
+                    "popularity": 0.0744,
                     "profile_path": "/uubBUOQK4HFUtiDsCPUkeOATEdZ.jpg",
                     "credit_id": "5e1a06816f43ec001062fa46",
                     "department": "Writing",
@@ -430,7 +432,7 @@
                     "known_for_department": "Production",
                     "name": "Cecilia Felgueras",
                     "original_name": "Cecilia Felgueras",
-                    "popularity": 0.0071,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "66ebb3b92d67799ad3eb725b",
                     "department": "Production",
@@ -443,7 +445,7 @@
                     "known_for_department": "Production",
                     "name": "Carolina Konstantinovsky",
                     "original_name": "Carolina Konstantinovsky",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "66ebb3c65168a896e11fcf4e",
                     "department": "Production",
@@ -456,7 +458,7 @@
                     "known_for_department": "Sound",
                     "name": "Nicolás Villamil",
                     "original_name": "Nicolás Villamil",
-                    "popularity": 0,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "66ebb3da62c4bb18c97476f4",
                     "department": "Sound",
@@ -469,7 +471,7 @@
                     "known_for_department": "Art",
                     "name": "Mariela Rípodas",
                     "original_name": "Mariela Rípodas",
-                    "popularity": 0.0835,
+                    "popularity": 0.2171,
                     "profile_path": "/ojXgvhUU9nWEksylfJfhvB9ISUF.jpg",
                     "credit_id": "66ebb3ea9bd425043074742e",
                     "department": "Art",
@@ -482,7 +484,7 @@
                     "known_for_department": "Camera",
                     "name": "Lucio Bonelli",
                     "original_name": "Lucio Bonelli",
-                    "popularity": 0.0409,
+                    "popularity": 0.1437,
                     "profile_path": "/cZZN1Tz20pS3C3TfVi4ErLDYYyu.jpg",
                     "credit_id": "66ebb3f62d67799ad3eb7271",
                     "department": "Camera",

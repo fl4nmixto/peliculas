@@ -25,30 +25,31 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/5ysQOJ5s7b7ZBTZwCF76pRH2YQg.jpg",
+    "poster_url": "/storage/posters/los-suicidas-af8dfc06.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 131867,
             "name": "Daniel Hendler",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+            "image_url": "/storage/people/daniel-hendler-635df917.jpg"
         },
         {
             "id": 138245,
             "name": "Leonora Balcarce",
             "character": "",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg"
+            "image_url": "/storage/people/leonora-balcarce-e228980e.jpg"
         },
         {
             "id": 1006305,
             "name": "Camila Toker",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg"
+            "image_url": "/storage/people/camila-toker-c61e5f47.jpg"
         },
         {
             "id": 1409128,
@@ -62,7 +63,7 @@
             "name": "Eugenia Alonso",
             "character": "",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/kFr4K0EopeXDmbdjo6YfEsrUfPx.jpg"
+            "image_url": "/storage/people/eugenia-alonso-872abd22.jpg"
         },
         {
             "id": 557724,
@@ -76,14 +77,14 @@
             "name": "Laura Agorreca",
             "character": "",
             "order": 6,
-            "image_url": "https://image.tmdb.org/t/p/w154/aOqS0oFzKFjmKdC4bw9N18zRrbj.jpg"
+            "image_url": "/storage/people/laura-agorreca-622e0e16.jpg"
         },
         {
             "id": 1409129,
             "name": "Liliana Weimer",
             "character": "",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/7Lkj7isLj9nXYopa90eraSGuxhJ.jpg"
+            "image_url": "/storage/people/liliana-weimer-2521a1d2.jpg"
         },
         {
             "id": 1409130,
@@ -99,14 +100,14 @@
             "name": "Juan Villegas",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+            "image_url": "/storage/people/juan-villegas-0917ec9a.jpg"
         },
         {
             "id": 557735,
             "name": "Juan Villegas",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg"
+            "image_url": "/storage/people/juan-villegas-0917ec9a.jpg"
         },
         {
             "id": 1409124,
@@ -147,7 +148,7 @@
         "original_language": "es",
         "original_title": "Los suicidas",
         "overview": "Daniel es un periodista al que le encargan un artículo a partir de la fotografía de un presunto suicida. Al iniciar la investigación, conoce a Marcela, la enigmática fotógrafa que le asignan como compañera, con la que no ha mantenido antes ninguna relación, y de la que comienza lentamente a enamorarse. (FILMAFFINITY)",
-        "popularity": 0.1089,
+        "popularity": 0.091,
         "poster_path": "/5ysQOJ5s7b7ZBTZwCF76pRH2YQg.jpg",
         "production_companies": [
             {
@@ -188,7 +189,7 @@
                     "known_for_department": "Acting",
                     "name": "Daniel Hendler",
                     "original_name": "Daniel Hendler",
-                    "popularity": 0.7267,
+                    "popularity": 0.7411,
                     "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
                     "cast_id": 4,
                     "character": "",
@@ -202,7 +203,7 @@
                     "known_for_department": "Acting",
                     "name": "Leonora Balcarce",
                     "original_name": "Leonora Balcarce",
-                    "popularity": 0.2856,
+                    "popularity": 0.3826,
                     "profile_path": "/lvuNVloFCHlHqpK90sfRTbHI6rx.jpg",
                     "cast_id": 7,
                     "character": "",
@@ -216,7 +217,7 @@
                     "known_for_department": "Directing",
                     "name": "Camila Toker",
                     "original_name": "Camila Toker",
-                    "popularity": 0.103,
+                    "popularity": 0.115,
                     "profile_path": "/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg",
                     "cast_id": 8,
                     "character": "",
@@ -258,7 +259,7 @@
                     "known_for_department": "Acting",
                     "name": "Mario Mahler",
                     "original_name": "Mario Mahler",
-                    "popularity": 0.1813,
+                    "popularity": 0.1243,
                     "profile_path": null,
                     "cast_id": 11,
                     "character": "",
@@ -272,7 +273,7 @@
                     "known_for_department": "Acting",
                     "name": "Laura Agorreca",
                     "original_name": "Laura Agorreca",
-                    "popularity": 0.2368,
+                    "popularity": 0.1828,
                     "profile_path": "/aOqS0oFzKFjmKdC4bw9N18zRrbj.jpg",
                     "cast_id": 12,
                     "character": "",
@@ -286,7 +287,7 @@
                     "known_for_department": "Acting",
                     "name": "Liliana Weimer",
                     "original_name": "Liliana Weimer",
-                    "popularity": 0.1928,
+                    "popularity": 0.1897,
                     "profile_path": "/7Lkj7isLj9nXYopa90eraSGuxhJ.jpg",
                     "cast_id": 13,
                     "character": "",
@@ -300,7 +301,7 @@
                     "known_for_department": "Acting",
                     "name": "Mariel Sánchez",
                     "original_name": "Mariel Sánchez",
-                    "popularity": 0.0071,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "",
@@ -316,7 +317,7 @@
                     "known_for_department": "Directing",
                     "name": "Juan Villegas",
                     "original_name": "Juan Villegas",
-                    "popularity": 0.1485,
+                    "popularity": 0.1634,
                     "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
                     "credit_id": "54aa2f6292514155f2000dd0",
                     "department": "Directing",
@@ -329,7 +330,7 @@
                     "known_for_department": "Directing",
                     "name": "Juan Villegas",
                     "original_name": "Juan Villegas",
-                    "popularity": 0.1485,
+                    "popularity": 0.1634,
                     "profile_path": "/qqTJGgzNBvPWjlp7M3nnrDhfSAM.jpg",
                     "credit_id": "54aa2f6bc3a3680c3000671b",
                     "department": "Writing",
@@ -342,7 +343,7 @@
                     "known_for_department": "Sound",
                     "name": "Guillermo Guareschi",
                     "original_name": "Guillermo Guareschi",
-                    "popularity": 0.0239,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "54aa2f82c3a36824c2000d36",
                     "department": "Sound",
@@ -355,7 +356,7 @@
                     "known_for_department": "Crew",
                     "name": "Paola Rizzi",
                     "original_name": "Paola Rizzi",
-                    "popularity": 0.0838,
+                    "popularity": 0.1505,
                     "profile_path": null,
                     "credit_id": "63ad70805ad76b007dc67811",
                     "department": "Camera",

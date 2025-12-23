@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 743038,
-    "cinear_id": null,
     "slug": "tomando-estado",
     "title": "Tomando estado",
     "original_title": "Tomando estado",
@@ -22,51 +21,52 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/pZ2PrUVZ8Wp5dAxNf9tmTDaUuCZ.jpg",
+    "poster_url": "/storage/posters/tomando-estado-272389a9.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 50928,
             "name": "Germán de Silva",
             "character": "",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+            "image_url": "/storage/people/german-de-silva-dd209247.jpg"
         },
         {
             "id": 1084216,
             "name": "Sergio Podeley",
             "character": "",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/e45vWB2INf2cGiGNVzdgCVjlOOa.jpg"
+            "image_url": "/storage/people/sergio-podeley-c999a5a7.jpg"
         },
         {
             "id": 1555115,
             "name": "Verónica Gerez",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/9TKzflC4US7hJaT9UK5VszXxVda.jpg"
+            "image_url": "/storage/people/veronica-gerez-a32f34b8.jpg"
         },
         {
             "id": 2235630,
             "name": "Chang Sung Kim",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/jATZB8gzgHj6rv5Of4Zvisk4SCc.jpg"
+            "image_url": "/storage/people/chang-sung-kim-89f3a73d.jpg"
         },
         {
             "id": 2683842,
             "name": "Federico Liss",
             "character": "",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/yu4cMp0Chfvl0yn530mNoynAQNo.jpg"
+            "image_url": "/storage/people/federico-liss-463787f5.jpg"
         },
         {
             "id": 1022933,
             "name": "Elvira Onetto",
             "character": "",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg"
+            "image_url": "/storage/people/elvira-onetto-851eb121.jpg"
         },
         {
             "id": 2778661,
@@ -80,42 +80,42 @@
             "name": "Darío Levy",
             "character": "",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/h9vrpIALBX97ifb0U3TuyKS88d1.jpg"
+            "image_url": "/storage/people/dario-levy-c6d725d3.jpg"
         },
         {
             "id": 1184642,
             "name": "Sergio Dioguardi",
             "character": "",
             "order": 8,
-            "image_url": "https://image.tmdb.org/t/p/w154/ftwDggojAAXu64yiyrRCKkr0Vsr.jpg"
+            "image_url": "/storage/people/sergio-dioguardi-0695386e.jpg"
         },
         {
             "id": 1508182,
             "name": "Emilio Bardi",
             "character": "",
             "order": 9,
-            "image_url": "https://image.tmdb.org/t/p/w154/kLfzBBgZ90rz0HWqJ06ubSTJ8G4.jpg"
+            "image_url": "/storage/people/emilio-bardi-4708bd53.jpg"
         },
         {
             "id": 230168,
             "name": "Héctor Bordoni",
             "character": "",
             "order": 10,
-            "image_url": "https://image.tmdb.org/t/p/w154/qtsurPlKOXd7ARLjyTtdqMigCBp.jpg"
+            "image_url": "/storage/people/hector-bordoni-64e732af.jpg"
         },
         {
             "id": 1944653,
             "name": "Martina Garello",
             "character": "",
             "order": 11,
-            "image_url": "https://image.tmdb.org/t/p/w154/aexMJsXihYrjEeL4t4Dgufi3f7p.jpg"
+            "image_url": "/storage/people/martina-garello-1247bdeb.jpg"
         },
         {
             "id": 557727,
             "name": "Javier Niklison",
             "character": "",
             "order": 12,
-            "image_url": "https://image.tmdb.org/t/p/w154/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg"
+            "image_url": "/storage/people/javier-niklison-d8d7cdcb.jpg"
         },
         {
             "id": 1583387,
@@ -129,7 +129,7 @@
             "name": "Ramiro Vayo",
             "character": "",
             "order": 14,
-            "image_url": "https://image.tmdb.org/t/p/w154/jAnz0zd6cO7JzFp3YgXQ5Umk23N.jpg"
+            "image_url": "/storage/people/ramiro-vayo-0e9aa125.jpg"
         }
     ],
     "crew": [
@@ -138,7 +138,7 @@
             "name": "Federico Sosa",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg"
+            "image_url": "/storage/people/federico-sosa-bd458fda.jpg"
         },
         {
             "id": 2439030,
@@ -152,7 +152,7 @@
             "name": "Federico Sosa",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg"
+            "image_url": "/storage/people/federico-sosa-bd458fda.jpg"
         },
         {
             "id": 2238918,
@@ -166,7 +166,7 @@
             "name": "Federico Sosa",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg"
+            "image_url": "/storage/people/federico-sosa-bd458fda.jpg"
         },
         {
             "id": 2778653,
@@ -208,7 +208,7 @@
             "name": "Alberto Ponce",
             "department": "Editing",
             "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/vC3AuindnRvz5NkIP0FAyc7pt0.jpg"
+            "image_url": "/storage/people/alberto-ponce-2de016f5.jpg"
         },
         {
             "id": 2778656,
@@ -238,7 +238,7 @@
         "original_language": "es",
         "original_title": "Tomando estado",
         "overview": "Carlos y Nicola trabajan en la cooperativa eléctrica de un pueblo del interior de la provincia de Buenos Aires. Corre el año 2001 y la crisis que vive el país empieza a notarse en el pueblo, entre reiterados robos de líneas de tensión y recortes presupuestarios. En ese clima inestable dos sucesos los van a hacer replantearse el lugar en el que están parados. La llegada de Victoria, una joven que viene desde la Capital a trabajar en la radio local, trae para Nicola una nueva forma de entender el amor y las relaciones. Mientras que para Carlos la llamada de un viejo compañero de militancia va a revivir un pasado que creía enterrado, junto con los ideales de un país que ya no existe más.",
-        "popularity": 1.042,
+        "popularity": 3.9707,
         "poster_path": "/pZ2PrUVZ8Wp5dAxNf9tmTDaUuCZ.jpg",
         "production_companies": [
             {
@@ -285,7 +285,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.2364,
+                    "popularity": 0.2782,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 13,
                     "character": "",
@@ -299,7 +299,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Podeley",
                     "original_name": "Sergio Podeley",
-                    "popularity": 0.1243,
+                    "popularity": 0.3856,
                     "profile_path": "/e45vWB2INf2cGiGNVzdgCVjlOOa.jpg",
                     "cast_id": 14,
                     "character": "",
@@ -313,7 +313,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Gerez",
                     "original_name": "Verónica Gerez",
-                    "popularity": 0.1125,
+                    "popularity": 0.1979,
                     "profile_path": "/9TKzflC4US7hJaT9UK5VszXxVda.jpg",
                     "cast_id": 15,
                     "character": "",
@@ -327,7 +327,7 @@
                     "known_for_department": "Acting",
                     "name": "Chang Sung Kim",
                     "original_name": "Chang Sung Kim",
-                    "popularity": 0.1753,
+                    "popularity": 0.2879,
                     "profile_path": "/jATZB8gzgHj6rv5Of4Zvisk4SCc.jpg",
                     "cast_id": 16,
                     "character": "",
@@ -341,7 +341,7 @@
                     "known_for_department": "Acting",
                     "name": "Federico Liss",
                     "original_name": "Federico Liss",
-                    "popularity": 0.7918,
+                    "popularity": 0.6071,
                     "profile_path": "/yu4cMp0Chfvl0yn530mNoynAQNo.jpg",
                     "cast_id": 17,
                     "character": "",
@@ -355,7 +355,7 @@
                     "known_for_department": "Acting",
                     "name": "Elvira Onetto",
                     "original_name": "Elvira Onetto",
-                    "popularity": 0.1975,
+                    "popularity": 0.348,
                     "profile_path": "/onfNlZbQgFxMQorLZ08ufMTTKWx.jpg",
                     "cast_id": 18,
                     "character": "",
@@ -383,7 +383,7 @@
                     "known_for_department": "Acting",
                     "name": "Darío Levy",
                     "original_name": "Darío Levy",
-                    "popularity": 0.1639,
+                    "popularity": 0.1184,
                     "profile_path": "/h9vrpIALBX97ifb0U3TuyKS88d1.jpg",
                     "cast_id": 21,
                     "character": "",
@@ -397,7 +397,7 @@
                     "known_for_department": "Acting",
                     "name": "Sergio Dioguardi",
                     "original_name": "Sergio Dioguardi",
-                    "popularity": 0.0509,
+                    "popularity": 0.0809,
                     "profile_path": "/ftwDggojAAXu64yiyrRCKkr0Vsr.jpg",
                     "cast_id": 22,
                     "character": "",
@@ -411,7 +411,7 @@
                     "known_for_department": "Acting",
                     "name": "Emilio Bardi",
                     "original_name": "Emilio Bardi",
-                    "popularity": 0.0847,
+                    "popularity": 0.219,
                     "profile_path": "/kLfzBBgZ90rz0HWqJ06ubSTJ8G4.jpg",
                     "cast_id": 29,
                     "character": "",
@@ -425,7 +425,7 @@
                     "known_for_department": "Acting",
                     "name": "Héctor Bordoni",
                     "original_name": "Héctor Bordoni",
-                    "popularity": 0.2615,
+                    "popularity": 0.2247,
                     "profile_path": "/qtsurPlKOXd7ARLjyTtdqMigCBp.jpg",
                     "cast_id": 24,
                     "character": "",
@@ -439,7 +439,7 @@
                     "known_for_department": "Acting",
                     "name": "Martina Garello",
                     "original_name": "Martina Garello",
-                    "popularity": 0.047,
+                    "popularity": 0.0764,
                     "profile_path": "/aexMJsXihYrjEeL4t4Dgufi3f7p.jpg",
                     "cast_id": 25,
                     "character": "",
@@ -453,7 +453,7 @@
                     "known_for_department": "Acting",
                     "name": "Javier Niklison",
                     "original_name": "Javier Niklison",
-                    "popularity": 0.0281,
+                    "popularity": 0.1669,
                     "profile_path": "/qfj4IOAv5tu41eMBXMSXZu1Elsz.jpg",
                     "cast_id": 26,
                     "character": "",
@@ -467,7 +467,7 @@
                     "known_for_department": "Acting",
                     "name": "Rafael Solano",
                     "original_name": "Rafael Solano",
-                    "popularity": 0.0487,
+                    "popularity": 0.0922,
                     "profile_path": null,
                     "cast_id": 27,
                     "character": "",
@@ -481,7 +481,7 @@
                     "known_for_department": "Acting",
                     "name": "Ramiro Vayo",
                     "original_name": "Ramiro Vayo",
-                    "popularity": 0.0728,
+                    "popularity": 0.2677,
                     "profile_path": "/jAnz0zd6cO7JzFp3YgXQ5Umk23N.jpg",
                     "cast_id": 28,
                     "character": "",
@@ -497,7 +497,7 @@
                     "known_for_department": "Directing",
                     "name": "Federico Sosa",
                     "original_name": "Federico Sosa",
-                    "popularity": 0.0311,
+                    "popularity": 0.0902,
                     "profile_path": "/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg",
                     "credit_id": "5f6056f6069f0e00369e86f2",
                     "department": "Directing",
@@ -523,7 +523,7 @@
                     "known_for_department": "Directing",
                     "name": "Federico Sosa",
                     "original_name": "Federico Sosa",
-                    "popularity": 0.0311,
+                    "popularity": 0.0902,
                     "profile_path": "/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg",
                     "credit_id": "5f605749156cc70035deb408",
                     "department": "Production",
@@ -536,7 +536,7 @@
                     "known_for_department": "Sound",
                     "name": "Pablo Orzeszko",
                     "original_name": "Pablo Orzeszko",
-                    "popularity": 0.0448,
+                    "popularity": 0.0658,
                     "profile_path": null,
                     "credit_id": "5f6057711684f700393c574d",
                     "department": "Sound",
@@ -549,7 +549,7 @@
                     "known_for_department": "Directing",
                     "name": "Federico Sosa",
                     "original_name": "Federico Sosa",
-                    "popularity": 0.0311,
+                    "popularity": 0.0902,
                     "profile_path": "/qGwYFN1X0vxNPpxEcQ4Kj8PIJhn.jpg",
                     "credit_id": "5f6056ee706b9f003605f2d9",
                     "department": "Writing",
@@ -562,7 +562,7 @@
                     "known_for_department": "Production",
                     "name": "Estela Roberta Sánchez",
                     "original_name": "Estela Roberta Sánchez",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5f60573f3123450037683ecd",
                     "department": "Production",
@@ -575,7 +575,7 @@
                     "known_for_department": "Editing",
                     "name": "Laura Palottini",
                     "original_name": "Laura Palottini",
-                    "popularity": 0.0261,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f60575c93388b0036616b1d",
                     "department": "Editing",
@@ -588,7 +588,7 @@
                     "known_for_department": "Production",
                     "name": "Estela Roberta Sánchez",
                     "original_name": "Estela Roberta Sánchez",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5f6057881684f700393c5779",
                     "department": "Art",
@@ -601,7 +601,7 @@
                     "known_for_department": "Production",
                     "name": "Estela Roberta Sánchez",
                     "original_name": "Estela Roberta Sánchez",
-                    "popularity": 0.0143,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "credit_id": "5f605737fd7aa40038e6cb87",
                     "department": "Production",
@@ -614,7 +614,7 @@
                     "known_for_department": "Writing",
                     "name": "Santiago Pedroncini",
                     "original_name": "Santiago Pedroncini",
-                    "popularity": 0.0261,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "5f60577f1684f700393c5776",
                     "department": "Sound",
@@ -627,7 +627,7 @@
                     "known_for_department": "Editing",
                     "name": "Alberto Ponce",
                     "original_name": "Alberto Ponce",
-                    "popularity": 0.0453,
+                    "popularity": 0.0959,
                     "profile_path": "/vC3AuindnRvz5NkIP0FAyc7pt0.jpg",
                     "credit_id": "5f60576693388b0036616b41",
                     "department": "Editing",
@@ -640,7 +640,7 @@
                     "known_for_department": "Editing",
                     "name": "Laura Palottini",
                     "original_name": "Laura Palottini",
-                    "popularity": 0.0261,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "5f605797156cc70038e2a632",
                     "department": "Editing",

@@ -17,42 +17,48 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Germany",
+        "Netherlands",
+        "Qatar"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/13X26kk4pVuIJfW5Y0I9nlcSBEX.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/1uXe0SYwB7ZEHYjpH3SU94eiaR6.jpg",
+    "poster_url": "/storage/posters/camino-a-la-paz-17f09b02.jpg",
+    "backdrop_url": "/storage/backdrops/camino-a-la-paz-f97c6de8.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/camino-a-la-paz-17f09b02.jpg"
+    ],
     "cast": [
         {
             "id": 18478,
             "name": "Rodrigo de la Serna",
             "character": "Sebastian",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/qA1WkjCuoAzY91X3bTALnAI4NU0.jpg"
+            "image_url": "/storage/people/rodrigo-de-la-serna-e18100ee.jpg"
         },
         {
             "id": 1840618,
             "name": "Ernesto Suarez",
             "character": "Khalil",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/aeUBXSW1EsZ5CUxs340vM3UMH8I.jpg"
+            "image_url": "/storage/people/ernesto-suarez-48349243.jpg"
         },
         {
             "id": 1107940,
             "name": "Elisa Carricajo",
             "character": "Jazmin",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg"
+            "image_url": "/storage/people/elisa-carricajo-c99d60f4.jpg"
         },
         {
             "id": 1211665,
             "name": "María Canale",
             "character": "Salma",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/hO5Vdwtmm7GrXagFWc6mXsa8u6z.jpg"
+            "image_url": "/storage/people/maria-canale-c3b07295.jpg"
         },
         {
             "id": 1052181,
@@ -66,7 +72,7 @@
             "name": "Juan Alari",
             "character": "Tete",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/sELsfuwG5pKw7Q2LbiAWDoM8745.jpg"
+            "image_url": "/storage/people/juan-alari-de22bc16.jpg"
         },
         {
             "id": 5400050,
@@ -80,7 +86,7 @@
             "name": "Vanesa Maja",
             "character": "Mujer Inmobiliaria",
             "order": 7,
-            "image_url": "https://image.tmdb.org/t/p/w154/elw6Sy1HXtpTxsDzqXyd3CqDsV4.jpg"
+            "image_url": "/storage/people/vanesa-maja-d0e7da56.jpg"
         },
         {
             "id": 3821870,
@@ -138,7 +144,7 @@
             "name": "Christian Cottet",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/sMVamcn4Q99ISQPDlGx3aG83NxG.jpg"
+            "image_url": "/storage/people/christian-cottet-12bf0d07.jpg"
         },
         {
             "id": 1515468,
@@ -159,14 +165,14 @@
             "name": "Sami Buccella",
             "department": "Sound",
             "job": "Songs",
-            "image_url": "https://image.tmdb.org/t/p/w154/vvcHHwiEMDjY4smlDTt0My1YNbw.jpg"
+            "image_url": "/storage/people/sami-buccella-0a20068e.jpg"
         },
         {
             "id": 1721083,
             "name": "Sebastián Perillo",
             "department": "Production",
             "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/9EDRIbLVPEFsKtp4li8NZ1397Lp.jpg"
+            "image_url": "/storage/people/sebastian-perillo-7f0c5f48.jpg"
         }
     ],
     "raw": {
@@ -192,7 +198,7 @@
         "original_language": "es",
         "original_title": "Camino a La Paz",
         "overview": "Sebastián (Rodrigo de la Serna) es un joven recién casado, fanático de Vox Dei. El protagonista, motivado por una necesidad económica, comienza a trabajar de remisero con su Peugeot 505. En este trabajo conoce a Khalil (Ernesto Suarez), un anciano poco gentil. Juntos emprenderán un largo viaje desde Buenos Aires hasta La Paz (Bolivia), donde se pondrá a prueba la relación de los dos protagonistas. El camino y la mala salud de Khalil les plantearán un viaje plagado de contratiempos.",
-        "popularity": 3.1185,
+        "popularity": 0.8418,
         "poster_path": "/13X26kk4pVuIJfW5Y0I9nlcSBEX.jpg",
         "production_companies": [
             {
@@ -269,7 +275,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo de la Serna",
                     "original_name": "Rodrigo de la Serna",
-                    "popularity": 1.0717,
+                    "popularity": 2.3376,
                     "profile_path": "/qA1WkjCuoAzY91X3bTALnAI4NU0.jpg",
                     "cast_id": 2,
                     "character": "Sebastian",
@@ -283,7 +289,7 @@
                     "known_for_department": "Acting",
                     "name": "Ernesto Suarez",
                     "original_name": "Ernesto Suarez",
-                    "popularity": 0.1725,
+                    "popularity": 0.0701,
                     "profile_path": "/aeUBXSW1EsZ5CUxs340vM3UMH8I.jpg",
                     "cast_id": 3,
                     "character": "Khalil",
@@ -297,7 +303,7 @@
                     "known_for_department": "Acting",
                     "name": "Elisa Carricajo",
                     "original_name": "Elisa Carricajo",
-                    "popularity": 0.2858,
+                    "popularity": 0.2469,
                     "profile_path": "/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg",
                     "cast_id": 4,
                     "character": "Jazmin",
@@ -311,7 +317,7 @@
                     "known_for_department": "Acting",
                     "name": "María Canale",
                     "original_name": "María Canale",
-                    "popularity": 0.2949,
+                    "popularity": 0.1404,
                     "profile_path": "/hO5Vdwtmm7GrXagFWc6mXsa8u6z.jpg",
                     "cast_id": 7,
                     "character": "Salma",
@@ -325,7 +331,7 @@
                     "known_for_department": "Acting",
                     "name": "Alicia Palmes",
                     "original_name": "Alicia Palmes",
-                    "popularity": 0.1736,
+                    "popularity": 0.1267,
                     "profile_path": null,
                     "cast_id": 8,
                     "character": "Habiba",
@@ -339,7 +345,7 @@
                     "known_for_department": "Acting",
                     "name": "Juan Alari",
                     "original_name": "Juan Alari",
-                    "popularity": 0.2338,
+                    "popularity": 0.2383,
                     "profile_path": "/sELsfuwG5pKw7Q2LbiAWDoM8745.jpg",
                     "cast_id": 9,
                     "character": "Tete",
@@ -353,7 +359,7 @@
                     "known_for_department": "Acting",
                     "name": "Khaled Hallar",
                     "original_name": "Khaled Hallar",
-                    "popularity": 0.1414,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 13,
                     "character": "Ayudante Mezquita",
@@ -367,7 +373,7 @@
                     "known_for_department": "Acting",
                     "name": "Vanesa Maja",
                     "original_name": "Vanesa Maja",
-                    "popularity": 0.2224,
+                    "popularity": 0.2105,
                     "profile_path": "/elw6Sy1HXtpTxsDzqXyd3CqDsV4.jpg",
                     "cast_id": 14,
                     "character": "Mujer Inmobiliaria",
@@ -381,7 +387,7 @@
                     "known_for_department": "Acting",
                     "name": "Emiliano Liuzzo",
                     "original_name": "Emiliano Liuzzo",
-                    "popularity": 0.1262,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "Niño pasajero",
@@ -395,7 +401,7 @@
                     "known_for_department": "Acting",
                     "name": "Eric Kaestner",
                     "original_name": "Eric Kaestner",
-                    "popularity": 0.0461,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "Niño pasajero 2",
@@ -409,7 +415,7 @@
                     "known_for_department": "Acting",
                     "name": "Berta Gagliano",
                     "original_name": "Berta Gagliano",
-                    "popularity": 0.0929,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 17,
                     "character": "Mujer pasajera",
@@ -423,7 +429,7 @@
                     "known_for_department": "Acting",
                     "name": "Gastón Gandolfi",
                     "original_name": "Gastón Gandolfi",
-                    "popularity": 0.0989,
+                    "popularity": 0.0071,
                     "profile_path": null,
                     "cast_id": 18,
                     "character": "Ajib",
@@ -437,7 +443,7 @@
                     "known_for_department": "Acting",
                     "name": "Abdul Rajman Colombo",
                     "original_name": "Abdul Rajman Colombo",
-                    "popularity": 0.0733,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Abdul Rajman",
@@ -451,7 +457,7 @@
                     "known_for_department": "Acting",
                     "name": "Habiba Sanabria",
                     "original_name": "Habiba Sanabria",
-                    "popularity": 0.0638,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 20,
                     "character": "Dincer",
@@ -465,7 +471,7 @@
                     "known_for_department": "Acting",
                     "name": "Ernesto Ocampo",
                     "original_name": "Ernesto Ocampo",
-                    "popularity": 0.0456,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 21,
                     "character": "Baba",
@@ -481,7 +487,7 @@
                     "known_for_department": "Crew",
                     "name": "Christian Cottet",
                     "original_name": "Christian Cottet",
-                    "popularity": 0.1493,
+                    "popularity": 0.0286,
                     "profile_path": "/sMVamcn4Q99ISQPDlGx3aG83NxG.jpg",
                     "credit_id": "61bd9641f28838008fd286c7",
                     "department": "Camera",
@@ -494,7 +500,7 @@
                     "known_for_department": "Writing",
                     "name": "Francisco Varone",
                     "original_name": "Francisco Varone",
-                    "popularity": 0.1768,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "560719dc9251413064002986",
                     "department": "Writing",
@@ -507,7 +513,7 @@
                     "known_for_department": "Writing",
                     "name": "Francisco Varone",
                     "original_name": "Francisco Varone",
-                    "popularity": 0.1768,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "credit_id": "560719ccc3a368120b002f05",
                     "department": "Directing",
@@ -520,7 +526,7 @@
                     "known_for_department": "Sound",
                     "name": "Sami Buccella",
                     "original_name": "Sami Buccella",
-                    "popularity": 0.1126,
+                    "popularity": 0.0264,
                     "profile_path": "/vvcHHwiEMDjY4smlDTt0My1YNbw.jpg",
                     "credit_id": "65a5c91f17c443012d5a4a96",
                     "department": "Sound",
@@ -533,7 +539,7 @@
                     "known_for_department": "Production",
                     "name": "Sebastián Perillo",
                     "original_name": "Sebastián Perillo",
-                    "popularity": 0.0674,
+                    "popularity": 0.0286,
                     "profile_path": "/9EDRIbLVPEFsKtp4li8NZ1397Lp.jpg",
                     "credit_id": "662a505443cd54011e84750f",
                     "department": "Production",

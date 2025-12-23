@@ -1,14 +1,13 @@
 {
     "source": "tmdb",
     "tmdb_id": 6636,
-    "cinear_id": null,
     "slug": "el-asaltante",
     "title": "El asaltante",
     "original_title": "El asaltante",
     "overview": "Un hombre ejecuta un plan que estuvo preparando minuciosamente. Mientras la cámara lo sigue en prácticamente todos sus movimientos, el espectador se convierte en testigo privilegiado de momentos íntimos de ansiedad, solapada desesperación, o del instante que precede una decisión de vida o muerte.",
     "runtime": 67,
     "release_date": "2017-04-01",
-    "year": 2007,
+    "year": 2017,
     "tagline": "",
     "genres": [
         {
@@ -22,44 +21,47 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/mJ7YX5VvHdTurXVgnTcXfXe6ZQy.jpg",
+    "poster_url": "/storage/posters/el-asaltante-65a03f26.jpg",
+    "backdrop_url": "/storage/backdrops/el-asaltante-2e33a8d7.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/backdrops/el-asaltante-2e33a8d7.jpg"
+    ],
     "cast": [
         {
             "id": 50929,
             "name": "Arturo Goetz",
             "character": "Ramos",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/4brLvP9TetqocMItnp93XRO3tIh.jpg"
+            "image_url": "/storage/people/arturo-goetz-fa249bf9.jpg"
         },
         {
             "id": 50931,
             "name": "Bárbara Lombardo",
             "character": "Mesera",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/fPyrrbeWN1P83FOr9XkaIinyMy2.jpg"
+            "image_url": "/storage/people/barbara-lombardo-f547bbe6.jpg"
         },
         {
             "id": 50927,
             "name": "Guillermo Arengo",
             "character": "",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg"
+            "image_url": "/storage/people/guillermo-arengo-09a08f58.jpg"
         },
         {
             "id": 50930,
             "name": "Maya Lesca",
             "character": "",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/cWpF1RMrTKMWYvCRnyCVGIlXJKY.jpg"
+            "image_url": "/storage/people/maya-lesca-0b7fd69c.jpg"
         },
         {
             "id": 50928,
             "name": "Germán de Silva",
             "character": "",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+            "image_url": "/storage/people/german-de-silva-dd209247.jpg"
         },
         {
             "id": 50932,
@@ -96,7 +98,7 @@
             "name": "Pablo Fendrik",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+            "image_url": "/storage/people/pablo-fendrik-d9e3d751.jpg"
         },
         {
             "id": 50925,
@@ -110,7 +112,7 @@
             "name": "Pablo Fendrik",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg"
+            "image_url": "/storage/people/pablo-fendrik-d9e3d751.jpg"
         }
     ],
     "raw": {
@@ -133,7 +135,7 @@
         "original_language": "es",
         "original_title": "El asaltante",
         "overview": "Un hombre ejecuta un plan que estuvo preparando minuciosamente. Mientras la cámara lo sigue en prácticamente todos sus movimientos, el espectador se convierte en testigo privilegiado de momentos íntimos de ansiedad, solapada desesperación, o del instante que precede una decisión de vida o muerte.",
-        "popularity": 0.1304,
+        "popularity": 0.556,
         "poster_path": "/nI7fpYioLcumBOIH0PMPDKxeqZc.jpg",
         "production_companies": [
             {
@@ -174,7 +176,7 @@
                     "known_for_department": "Acting",
                     "name": "Arturo Goetz",
                     "original_name": "Arturo Goetz",
-                    "popularity": 0.1401,
+                    "popularity": 0.3175,
                     "profile_path": "/4brLvP9TetqocMItnp93XRO3tIh.jpg",
                     "cast_id": 9,
                     "character": "Ramos",
@@ -188,7 +190,7 @@
                     "known_for_department": "Acting",
                     "name": "Bárbara Lombardo",
                     "original_name": "Bárbara Lombardo",
-                    "popularity": 0.3256,
+                    "popularity": 0.3678,
                     "profile_path": "/fPyrrbeWN1P83FOr9XkaIinyMy2.jpg",
                     "cast_id": 11,
                     "character": "Mesera",
@@ -202,7 +204,7 @@
                     "known_for_department": "Acting",
                     "name": "Guillermo Arengo",
                     "original_name": "Guillermo Arengo",
-                    "popularity": 0.2539,
+                    "popularity": 0.4644,
                     "profile_path": "/qXIlj1TSV6YLb67xhPwxv6eAdzL.jpg",
                     "cast_id": 7,
                     "character": "",
@@ -216,7 +218,7 @@
                     "known_for_department": "Acting",
                     "name": "Maya Lesca",
                     "original_name": "Maya Lesca",
-                    "popularity": 0.0214,
+                    "popularity": 0.0453,
                     "profile_path": "/cWpF1RMrTKMWYvCRnyCVGIlXJKY.jpg",
                     "cast_id": 10,
                     "character": "",
@@ -230,7 +232,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.2364,
+                    "popularity": 0.2782,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 8,
                     "character": "",
@@ -244,7 +246,7 @@
                     "known_for_department": "Acting",
                     "name": "Verónica Piaggio",
                     "original_name": "Verónica Piaggio",
-                    "popularity": 0.0214,
+                    "popularity": 0.128,
                     "profile_path": null,
                     "cast_id": 12,
                     "character": "",
@@ -260,7 +262,7 @@
                     "known_for_department": "Art",
                     "name": "Victoría Pedemonte",
                     "original_name": "Victoría Pedemonte",
-                    "popularity": 0.0071,
+                    "popularity": 0.0143,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f80925a3",
                     "department": "Art",
@@ -273,7 +275,7 @@
                     "known_for_department": "Production",
                     "name": "Juan Pablo Gugliotta",
                     "original_name": "Juan Pablo Gugliotta",
-                    "popularity": 0.0432,
+                    "popularity": 0.1232,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f8092591",
                     "department": "Production",
@@ -286,7 +288,7 @@
                     "known_for_department": "Camera",
                     "name": "Cobi Migliora",
                     "original_name": "Cobi Migliora",
-                    "popularity": 0,
+                    "popularity": 0.0404,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f8092597",
                     "department": "Camera",
@@ -299,7 +301,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Fendrik",
                     "original_name": "Pablo Fendrik",
-                    "popularity": 0.0362,
+                    "popularity": 0.4356,
                     "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
                     "credit_id": "52fe4460c3a36847f8092585",
                     "department": "Directing",
@@ -312,7 +314,7 @@
                     "known_for_department": "Editing",
                     "name": "Leandro Aste",
                     "original_name": "Leandro Aste",
-                    "popularity": 0.0482,
+                    "popularity": 0.0803,
                     "profile_path": null,
                     "credit_id": "52fe4460c3a36847f809259d",
                     "department": "Editing",
@@ -325,7 +327,7 @@
                     "known_for_department": "Directing",
                     "name": "Pablo Fendrik",
                     "original_name": "Pablo Fendrik",
-                    "popularity": 0.0362,
+                    "popularity": 0.4356,
                     "profile_path": "/dAOQSYjJSXcS5SvnBuTTsFTi7ZH.jpg",
                     "credit_id": "5e1c4dee6a300b00115e1566",
                     "department": "Writing",

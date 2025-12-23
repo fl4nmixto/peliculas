@@ -26,9 +26,10 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/4lu9oJgRLbyR6IUsRfSvsfSh7VK.jpg",
+    "poster_url": "/storage/posters/de-caravana-2e29becc.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1821739,
@@ -70,7 +71,7 @@
             "name": "La Mona Jiménez",
             "character": "La Mona (uncredited)",
             "order": 5,
-            "image_url": "https://image.tmdb.org/t/p/w154/d5XZJLZfFjKjL0tJ5t94eBLGsZy.jpg"
+            "image_url": "/storage/people/la-mona-jimenez-375126ff.jpg"
         }
     ],
     "crew": [
@@ -79,20 +80,13 @@
             "name": "Marcos Rostagno",
             "department": "Camera",
             "job": "Camera Operator",
-            "image_url": "https://image.tmdb.org/t/p/w154/k5XjbD1mjquCOCSEB0xjMDYJQBo.jpg"
+            "image_url": "/storage/people/marcos-rostagno-a2d200ef.jpg"
         },
         {
             "id": 1821743,
             "name": "Rosendo Ruíz",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": null
-        },
-        {
-            "id": 1821744,
-            "name": "Rafael Caivano",
-            "department": "Sound",
-            "job": "Music",
+            "department": "Writing",
+            "job": "Writer",
             "image_url": null
         },
         {
@@ -105,8 +99,8 @@
         {
             "id": 1821743,
             "name": "Rosendo Ruíz",
-            "department": "Writing",
-            "job": "Writer",
+            "department": "Directing",
+            "job": "Director",
             "image_url": null
         },
         {
@@ -119,6 +113,13 @@
         {
             "id": 1821745,
             "name": "Andrés Oddone",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 1821744,
+            "name": "Rafael Caivano",
             "department": "Sound",
             "job": "Music",
             "image_url": null
@@ -155,7 +156,7 @@
         "original_language": "es",
         "original_title": "De caravana",
         "overview": "Corriendo a contrarreloj, Juan Cruz prepara su obra para una prestigiosa competencia de fotografía, cuando sus jefes en la agencia de publicidad se empeñan en arrancarlo tanto de esa tarea como de su mundo \"natural\", el de la clase alta cordobesa. La misión consiste en zambullirse en un recital de la Mona Jiménez, y capturar el espíritu de la noche cuartetera con su cámara. Pero una vez en el populoso local bailable, quedará inesperadamente encadenado a una complicada serie de eventos que comienza por conocer a Sara...",
-        "popularity": 0.3345,
+        "popularity": 1.3112,
         "poster_path": "/4lu9oJgRLbyR6IUsRfSvsfSh7VK.jpg",
         "production_companies": [
             {
@@ -216,7 +217,7 @@
                     "known_for_department": "Acting",
                     "name": "Yohana Pereyra",
                     "original_name": "Yohana Pereyra",
-                    "popularity": 0.0286,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 2,
                     "character": "Sara",
@@ -230,7 +231,7 @@
                     "known_for_department": "Acting",
                     "name": "Martín Rena",
                     "original_name": "Martín Rena",
-                    "popularity": 0.1614,
+                    "popularity": 0.1152,
                     "profile_path": null,
                     "cast_id": 3,
                     "character": "Penélope",
@@ -244,7 +245,7 @@
                     "known_for_department": "Acting",
                     "name": "Rodrigo Savina",
                     "original_name": "Rodrigo Savina",
-                    "popularity": 0.0143,
+                    "popularity": 0,
                     "profile_path": null,
                     "cast_id": 4,
                     "character": "Maxtor",
@@ -258,7 +259,7 @@
                     "known_for_department": "Acting",
                     "name": "Gustavo Almada",
                     "original_name": "Gustavo Almada",
-                    "popularity": 0.0071,
+                    "popularity": 0.0281,
                     "profile_path": null,
                     "cast_id": 5,
                     "character": "Laucha",
@@ -272,7 +273,7 @@
                     "known_for_department": "Acting",
                     "name": "La Mona Jiménez",
                     "original_name": "La Mona Jiménez",
-                    "popularity": 0.0286,
+                    "popularity": 0.0143,
                     "profile_path": "/d5XZJLZfFjKjL0tJ5t94eBLGsZy.jpg",
                     "cast_id": 6,
                     "character": "La Mona (uncredited)",
@@ -288,7 +289,7 @@
                     "known_for_department": "Camera",
                     "name": "Marcos Rostagno",
                     "original_name": "Marcos Rostagno",
-                    "popularity": 0.0857,
+                    "popularity": 0.0429,
                     "profile_path": "/k5XjbD1mjquCOCSEB0xjMDYJQBo.jpg",
                     "credit_id": "6553ad75ac416100ad277ec7",
                     "department": "Camera",
@@ -301,24 +302,11 @@
                     "known_for_department": "Directing",
                     "name": "Rosendo Ruíz",
                     "original_name": "Rosendo Ruíz",
-                    "popularity": 0.0655,
+                    "popularity": 0.1175,
                     "profile_path": null,
-                    "credit_id": "5923431892514105100021f1",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1821744,
-                    "known_for_department": "Sound",
-                    "name": "Rafael Caivano",
-                    "original_name": "Rafael Caivano",
-                    "popularity": 0.0261,
-                    "profile_path": null,
-                    "credit_id": "59234349c3a36804910008f6",
-                    "department": "Sound",
-                    "job": "Music"
+                    "credit_id": "59234322c3a36804a30009c9",
+                    "department": "Writing",
+                    "job": "Writer"
                 },
                 {
                     "adult": false,
@@ -340,11 +328,11 @@
                     "known_for_department": "Directing",
                     "name": "Rosendo Ruíz",
                     "original_name": "Rosendo Ruíz",
-                    "popularity": 0.0655,
+                    "popularity": 0.1175,
                     "profile_path": null,
-                    "credit_id": "59234322c3a36804a30009c9",
-                    "department": "Writing",
-                    "job": "Writer"
+                    "credit_id": "5923431892514105100021f1",
+                    "department": "Directing",
+                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -353,7 +341,7 @@
                     "known_for_department": "Directing",
                     "name": "Rosendo Ruíz",
                     "original_name": "Rosendo Ruíz",
-                    "popularity": 0.0655,
+                    "popularity": 0.1175,
                     "profile_path": null,
                     "credit_id": "59234337c3a368044d000a2f",
                     "department": "Production",
@@ -366,9 +354,22 @@
                     "known_for_department": "Sound",
                     "name": "Andrés Oddone",
                     "original_name": "Andrés Oddone",
-                    "popularity": 0.0261,
+                    "popularity": 0,
                     "profile_path": null,
                     "credit_id": "59234357c3a36804960009f0",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1821744,
+                    "known_for_department": "Sound",
+                    "name": "Rafael Caivano",
+                    "original_name": "Rafael Caivano",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "59234349c3a36804910008f6",
                     "department": "Sound",
                     "job": "Music"
                 },
@@ -379,7 +380,7 @@
                     "known_for_department": "Camera",
                     "name": "Pablo González Galetto",
                     "original_name": "Pablo González Galetto",
-                    "popularity": 0.0239,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "credit_id": "5fb5b0453a48c5003d87389f",
                     "department": "Camera",

@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 472033,
-    "cinear_id": null,
     "slug": "el-futuro-que-viene",
     "title": "El futuro que viene",
     "original_title": "El futuro que viene",
@@ -11,7 +10,10 @@
     "year": 2017,
     "tagline": "Una amiga es para siempre.",
     "genres": [
-        "Drama"
+        {
+            "id": 18,
+            "name": "Drama"
+        }
     ],
     "countries": [
         "Argentina"
@@ -19,37 +21,40 @@
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/wNGmx7UYigC7ccij0sZuAfhCUW8.jpg",
-    "backdrop_url": "https://image.tmdb.org/t/p/w154/ptmXU5ZBg9D2rnMWmG1rWztnoSm.jpg",
+    "poster_url": "/storage/posters/el-futuro-que-viene-54d54fda.jpg",
+    "backdrop_url": "/storage/backdrops/el-futuro-que-viene-2bb0d254.jpg",
     "trailer": null,
+    "gallery_urls": [
+        "/storage/gallery/gallery-1-b7a616db.jpg"
+    ],
     "cast": [
         {
             "id": 74909,
             "name": "Dolores Fonzi",
             "character": "Romina",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/4axi3Dz8zKK0b1kk54tPOeywb84.jpg"
+            "image_url": "/storage/people/dolores-fonzi-b25e3402.jpg"
         },
         {
             "id": 1086355,
             "name": "Pilar Gamboa",
             "character": "Florencia",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
+            "image_url": "/storage/people/pilar-gamboa-92778784.jpg"
         },
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Julián",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 72128,
             "name": "José María Yázpik",
             "character": "Pedro",
             "order": 3,
-            "image_url": "https://image.tmdb.org/t/p/w154/1IjbKEx6ExJy7LRaK3cBHJyosUt.jpg"
+            "image_url": "/storage/people/jose-maria-yazpik-69fe1a25.jpg"
         },
         {
             "id": 1464652,
@@ -89,17 +94,45 @@
     ],
     "crew": [
         {
+            "id": 1874541,
+            "name": "Constanza Novick",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": null
+        },
+        {
+            "id": 961177,
+            "name": "Rosario Suárez",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/rosario-suarez-e97934e8.jpg"
+        },
+        {
+            "id": 1874544,
+            "name": "Gonzalo Del Val",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": null
+        },
+        {
+            "id": 1002601,
+            "name": "Lisandro Alonso",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": "/storage/people/lisandro-alonso-d71fbdf4.jpg"
+        },
+        {
+            "id": 1002601,
+            "name": "Lisandro Alonso",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/lisandro-alonso-d71fbdf4.jpg"
+        },
+        {
             "id": 1874548,
             "name": "Luciana Quartaruolo",
             "department": "Art",
             "job": "Production Design",
-            "image_url": null
-        },
-        {
-            "id": 1202720,
-            "name": "Catriel Vildosola",
-            "department": "Sound",
-            "job": "Sound",
             "image_url": null
         },
         {
@@ -110,46 +143,18 @@
             "image_url": null
         },
         {
-            "id": 961177,
-            "name": "Rosario Suárez",
-            "department": "Editing",
-            "job": "Editor",
-            "image_url": "https://image.tmdb.org/t/p/w154/m6WYSuNhlLDZ2PXYH9Y5G68u14U.jpg"
-        },
-        {
-            "id": 1002601,
-            "name": "Lisandro Alonso",
-            "department": "Production",
-            "job": "Executive Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg"
-        },
-        {
-            "id": 1874544,
-            "name": "Gonzalo Del Val",
-            "department": "Editing",
-            "job": "Editor",
+            "id": 1202720,
+            "name": "Catriel Vildosola",
+            "department": "Sound",
+            "job": "Sound",
             "image_url": null
-        },
-        {
-            "id": 1874541,
-            "name": "Constanza Novick",
-            "department": "Directing",
-            "job": "Director",
-            "image_url": null
-        },
-        {
-            "id": 1002601,
-            "name": "Lisandro Alonso",
-            "department": "Production",
-            "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg"
         },
         {
             "id": 557711,
             "name": "Julián Apezteguia",
             "department": "Camera",
             "job": "Director of Photography",
-            "image_url": "https://image.tmdb.org/t/p/w154/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg"
+            "image_url": "/storage/people/julian-apezteguia-371ea092.jpg"
         }
     ],
     "raw": {
@@ -172,7 +177,7 @@
         "original_language": "es",
         "original_title": "El futuro que viene",
         "overview": "Romina y Flor son dos amigas inseparables que atraviesan todo juntas, desde el primer amor hasta el primer divorcio. Pero a medida que pasa el tiempo, los desencuentros se acentúan y los problemas crecen.",
-        "popularity": 0.6906,
+        "popularity": 0.1567,
         "poster_path": "/wNGmx7UYigC7ccij0sZuAfhCUW8.jpg",
         "production_companies": [
             {
@@ -219,7 +224,7 @@
                     "known_for_department": "Acting",
                     "name": "Dolores Fonzi",
                     "original_name": "Dolores Fonzi",
-                    "popularity": 1.0147,
+                    "popularity": 1.1389,
                     "profile_path": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
                     "cast_id": 0,
                     "character": "Romina",
@@ -233,7 +238,7 @@
                     "known_for_department": "Acting",
                     "name": "Pilar Gamboa",
                     "original_name": "Pilar Gamboa",
-                    "popularity": 0.6689,
+                    "popularity": 0.5142,
                     "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg",
                     "cast_id": 1,
                     "character": "Florencia",
@@ -247,7 +252,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.2283,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 13,
                     "character": "Julián",
@@ -261,7 +266,7 @@
                     "known_for_department": "Acting",
                     "name": "José María Yázpik",
                     "original_name": "José María Yázpik",
-                    "popularity": 0.7688,
+                    "popularity": 0.5236,
                     "profile_path": "/1IjbKEx6ExJy7LRaK3cBHJyosUt.jpg",
                     "cast_id": 12,
                     "character": "Pedro",
@@ -275,7 +280,7 @@
                     "known_for_department": "Directing",
                     "name": "Federico León",
                     "original_name": "Federico León",
-                    "popularity": 0.0168,
+                    "popularity": 0.1225,
                     "profile_path": null,
                     "cast_id": 19,
                     "character": "Juan",
@@ -289,7 +294,7 @@
                     "known_for_department": "Acting",
                     "name": "Violeta Narvay",
                     "original_name": "Violeta Narvay",
-                    "popularity": 0.0071,
+                    "popularity": 0.051,
                     "profile_path": null,
                     "cast_id": 16,
                     "character": "Anita",
@@ -303,7 +308,7 @@
                     "known_for_department": "Acting",
                     "name": "Sofía Podlischevsky",
                     "original_name": "Sofía Podlischevsky",
-                    "popularity": 0.0071,
+                    "popularity": 0.0214,
                     "profile_path": null,
                     "cast_id": 17,
                     "character": "Inés",
@@ -317,7 +322,7 @@
                     "known_for_department": "Acting",
                     "name": "Victoria Parrado",
                     "original_name": "Victoria Parrado",
-                    "popularity": 0.0388,
+                    "popularity": 0.0311,
                     "profile_path": null,
                     "cast_id": 14,
                     "character": "Romina Niña",
@@ -331,7 +336,7 @@
                     "known_for_department": "Acting",
                     "name": "Charo Dolz Doval",
                     "original_name": "Charo Dolz Doval",
-                    "popularity": 0.0214,
+                    "popularity": 0.0168,
                     "profile_path": null,
                     "cast_id": 15,
                     "character": "Florencia Niña",
@@ -342,42 +347,16 @@
             "crew": [
                 {
                     "adult": false,
-                    "gender": 1,
-                    "id": 1874548,
-                    "known_for_department": "Art",
-                    "name": "Luciana Quartaruolo",
-                    "original_name": "Luciana Quartaruolo",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "599c46499251410e67016010",
-                    "department": "Art",
-                    "job": "Production Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1202720,
-                    "known_for_department": "Sound",
-                    "name": "Catriel Vildosola",
-                    "original_name": "Catriel Vildosola",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "599c466dc3a36822f3014bfd",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
                     "gender": 0,
                     "id": 1874541,
                     "known_for_department": "Writing",
                     "name": "Constanza Novick",
                     "original_name": "Constanza Novick",
-                    "popularity": 0.0493,
+                    "popularity": 0.0646,
                     "profile_path": null,
-                    "credit_id": "599c4656c3a36822f3014bd8",
-                    "department": "Writing",
-                    "job": "Writer"
+                    "credit_id": "599c45f69251410e5a0165d2",
+                    "department": "Directing",
+                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -386,24 +365,11 @@
                     "known_for_department": "Editing",
                     "name": "Rosario Suárez",
                     "original_name": "Rosario Suárez",
-                    "popularity": 0.0448,
+                    "popularity": 0.12,
                     "profile_path": "/m6WYSuNhlLDZ2PXYH9Y5G68u14U.jpg",
                     "credit_id": "599c4612c3a36822e60151d3",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1002601,
-                    "known_for_department": "Directing",
-                    "name": "Lisandro Alonso",
-                    "original_name": "Lisandro Alonso",
-                    "popularity": 0.3176,
-                    "profile_path": "/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg",
-                    "credit_id": "599c462c9251410e6d0162bc",
-                    "department": "Production",
-                    "job": "Executive Producer"
                 },
                 {
                     "adult": false,
@@ -412,24 +378,11 @@
                     "known_for_department": "Editing",
                     "name": "Gonzalo Del Val",
                     "original_name": "Gonzalo Del Val",
-                    "popularity": 0,
+                    "popularity": 0.0256,
                     "profile_path": null,
                     "credit_id": "599c461e9251410e71016d95",
                     "department": "Editing",
                     "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1874541,
-                    "known_for_department": "Writing",
-                    "name": "Constanza Novick",
-                    "original_name": "Constanza Novick",
-                    "popularity": 0.0493,
-                    "profile_path": null,
-                    "credit_id": "599c45f69251410e5a0165d2",
-                    "department": "Directing",
-                    "job": "Director"
                 },
                 {
                     "adult": false,
@@ -438,11 +391,63 @@
                     "known_for_department": "Directing",
                     "name": "Lisandro Alonso",
                     "original_name": "Lisandro Alonso",
-                    "popularity": 0.3176,
+                    "popularity": 0.1852,
+                    "profile_path": "/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg",
+                    "credit_id": "599c462c9251410e6d0162bc",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1002601,
+                    "known_for_department": "Directing",
+                    "name": "Lisandro Alonso",
+                    "original_name": "Lisandro Alonso",
+                    "popularity": 0.1852,
                     "profile_path": "/2qGH9y9mz6kOZfrvo9QuUMmSX3Q.jpg",
                     "credit_id": "599c4639c3a36878b300b89e",
                     "department": "Production",
                     "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1874548,
+                    "known_for_department": "Art",
+                    "name": "Luciana Quartaruolo",
+                    "original_name": "Luciana Quartaruolo",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "599c46499251410e67016010",
+                    "department": "Art",
+                    "job": "Production Design"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1874541,
+                    "known_for_department": "Writing",
+                    "name": "Constanza Novick",
+                    "original_name": "Constanza Novick",
+                    "popularity": 0.0646,
+                    "profile_path": null,
+                    "credit_id": "599c4656c3a36822f3014bd8",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 1202720,
+                    "known_for_department": "Sound",
+                    "name": "Catriel Vildosola",
+                    "original_name": "Catriel Vildosola",
+                    "popularity": 0.0629,
+                    "profile_path": null,
+                    "credit_id": "599c466dc3a36822f3014bfd",
+                    "department": "Sound",
+                    "job": "Sound"
                 },
                 {
                     "adult": false,
@@ -451,7 +456,7 @@
                     "known_for_department": "Camera",
                     "name": "Julián Apezteguia",
                     "original_name": "Julián Apezteguia",
-                    "popularity": 0.0445,
+                    "popularity": 0.0389,
                     "profile_path": "/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg",
                     "credit_id": "5a8aa3e4c3a368633907ad2d",
                     "department": "Camera",

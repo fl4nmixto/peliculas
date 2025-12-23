@@ -1,7 +1,6 @@
 {
     "source": "tmdb",
     "tmdb_id": 155382,
-    "cinear_id": null,
     "slug": "un-mundo-misterioso",
     "title": "Un mundo misterioso",
     "original_title": "Un mundo misterioso",
@@ -17,35 +16,38 @@
         }
     ],
     "countries": [
-        "Argentina"
+        "Argentina",
+        "Switzerland",
+        "Uruguay"
     ],
     "spoken_languages": [
         "Español"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/w154/6BTDDI104m9VYcciouAwO3TUa3L.jpg",
+    "poster_url": "/storage/posters/un-mundo-misterioso-f90f0174.jpg",
     "backdrop_url": null,
     "trailer": null,
+    "gallery_urls": [],
     "cast": [
         {
             "id": 1086358,
             "name": "Esteban Bigliardi",
             "character": "Boris",
             "order": 0,
-            "image_url": "https://image.tmdb.org/t/p/w154/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
+            "image_url": "/storage/people/esteban-bigliardi-2a9eb27c.jpg"
         },
         {
             "id": 1193612,
             "name": "Cecilia Rainero",
             "character": "Ana",
             "order": 1,
-            "image_url": "https://image.tmdb.org/t/p/w154/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
+            "image_url": "/storage/people/cecilia-rainero-9b4f72ab.jpg"
         },
         {
             "id": 50928,
             "name": "Germán de Silva",
             "character": "Héctor",
             "order": 2,
-            "image_url": "https://image.tmdb.org/t/p/w154/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg"
+            "image_url": "/storage/people/german-de-silva-dd209247.jpg"
         },
         {
             "id": 1261876,
@@ -59,7 +61,7 @@
             "name": "Rosario Bléfari",
             "character": "Ingrid",
             "order": 4,
-            "image_url": "https://image.tmdb.org/t/p/w154/jBD4TakwNUMSNX1hC8CrumCu9Le.jpg"
+            "image_url": "/storage/people/rosario-blefari-baaf3c5a.jpg"
         },
         {
             "id": 4332517,
@@ -89,7 +91,7 @@
             "name": "Rodrigo Moreno",
             "department": "Directing",
             "job": "Director",
-            "image_url": "https://image.tmdb.org/t/p/w154/ffrwertO1hAdl8H7wxIlbqWHzby.jpg"
+            "image_url": "/storage/people/rodrigo-moreno-dd2eff31.jpg"
         },
         {
             "id": 1892589,
@@ -99,8 +101,8 @@
             "image_url": null
         },
         {
-            "id": 3976158,
-            "name": "Anne Tetzlaff",
+            "id": 123353,
+            "name": "Benny Drechsel",
             "department": "Production",
             "job": "Co-Producer",
             "image_url": null
@@ -110,7 +112,7 @@
             "name": "Hernán Musaluppi",
             "department": "Production",
             "job": "Producer",
-            "image_url": "https://image.tmdb.org/t/p/w154/yWIcXaKPKMAMOAwhjkIeu7aGbhB.jpg"
+            "image_url": "/storage/people/hernan-musaluppi-c1fd814f.jpg"
         },
         {
             "id": 123357,
@@ -120,8 +122,8 @@
             "image_url": null
         },
         {
-            "id": 123353,
-            "name": "Benny Drechsel",
+            "id": 3976158,
+            "name": "Anne Tetzlaff",
             "department": "Production",
             "job": "Co-Producer",
             "image_url": null
@@ -145,21 +147,21 @@
             "name": "Gonzalo Delgado",
             "department": "Costume & Make-Up",
             "job": "Costume Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 116585,
             "name": "Gonzalo Delgado",
             "department": "Art",
             "job": "Production Design",
-            "image_url": "https://image.tmdb.org/t/p/w154/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg"
+            "image_url": "/storage/people/gonzalo-delgado-e2d78a6c.jpg"
         },
         {
             "id": 1022649,
             "name": "Rodrigo Moreno",
             "department": "Writing",
             "job": "Writer",
-            "image_url": "https://image.tmdb.org/t/p/w154/ffrwertO1hAdl8H7wxIlbqWHzby.jpg"
+            "image_url": "/storage/people/rodrigo-moreno-dd2eff31.jpg"
         }
     ],
     "raw": {
@@ -184,7 +186,7 @@
         "original_language": "es",
         "original_title": "Un mundo misterioso",
         "overview": "Cuenta la historia de Boris y Ana, que han pasado los treinta años de edad y conviven en un departamento desde hace seis y ahora necesitan estar solos. Boris protagoniza un errático periplo urbano que incluye vida en hotel, compra de automóvil rumano, encuentro con compañero de primaria, desencuentro con algunas otras mujeres y el intento reiterado de volver con Ana.",
-        "popularity": 0.1939,
+        "popularity": 0.8539,
         "poster_path": "/6BTDDI104m9VYcciouAwO3TUa3L.jpg",
         "production_companies": [
             {
@@ -263,7 +265,7 @@
                     "known_for_department": "Acting",
                     "name": "Esteban Bigliardi",
                     "original_name": "Esteban Bigliardi",
-                    "popularity": 0.3146,
+                    "popularity": 0.2328,
                     "profile_path": "/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg",
                     "cast_id": 7,
                     "character": "Boris",
@@ -277,7 +279,7 @@
                     "known_for_department": "Acting",
                     "name": "Cecilia Rainero",
                     "original_name": "Cecilia Rainero",
-                    "popularity": 0.0596,
+                    "popularity": 0.1126,
                     "profile_path": "/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg",
                     "cast_id": 3,
                     "character": "Ana",
@@ -291,7 +293,7 @@
                     "known_for_department": "Acting",
                     "name": "Germán de Silva",
                     "original_name": "Germán de Silva",
-                    "popularity": 0.2364,
+                    "popularity": 0.2782,
                     "profile_path": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
                     "cast_id": 6,
                     "character": "Héctor",
@@ -319,7 +321,7 @@
                     "known_for_department": "Acting",
                     "name": "Rosario Bléfari",
                     "original_name": "Rosario Bléfari",
-                    "popularity": 0.0702,
+                    "popularity": 0.0461,
                     "profile_path": "/jBD4TakwNUMSNX1hC8CrumCu9Le.jpg",
                     "cast_id": 4,
                     "character": "Ingrid",
@@ -333,7 +335,7 @@
                     "known_for_department": "Acting",
                     "name": "Oviedo. Hernán",
                     "original_name": "Oviedo. Hernán",
-                    "popularity": 0.055,
+                    "popularity": 0.0261,
                     "profile_path": null,
                     "cast_id": 20,
                     "character": "",
@@ -347,7 +349,7 @@
                     "known_for_department": "Acting",
                     "name": "Lucrecia Oviedo",
                     "original_name": "Lucrecia Oviedo",
-                    "popularity": 0.0495,
+                    "popularity": 0.1728,
                     "profile_path": null,
                     "cast_id": 21,
                     "character": "",
@@ -361,7 +363,7 @@
                     "known_for_department": "Acting",
                     "name": "Bárbara Hang",
                     "original_name": "Bárbara Hang",
-                    "popularity": 0.0286,
+                    "popularity": 0.0589,
                     "profile_path": null,
                     "cast_id": 22,
                     "character": "",
@@ -377,7 +379,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Moreno",
                     "original_name": "Rodrigo Moreno",
-                    "popularity": 0.0675,
+                    "popularity": 0.2732,
                     "profile_path": "/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
                     "credit_id": "52fe4b7b9251416c910dbdc1",
                     "department": "Directing",
@@ -390,7 +392,7 @@
                     "known_for_department": "Production",
                     "name": "Natacha Cervi",
                     "original_name": "Natacha Cervi",
-                    "popularity": 0.0261,
+                    "popularity": 0.1892,
                     "profile_path": null,
                     "credit_id": "641c967f24b33300d7261b02",
                     "department": "Production",
@@ -398,14 +400,14 @@
                 },
                 {
                     "adult": false,
-                    "gender": 0,
-                    "id": 3976158,
+                    "gender": 2,
+                    "id": 123353,
                     "known_for_department": "Production",
-                    "name": "Anne Tetzlaff",
-                    "original_name": "Anne Tetzlaff",
-                    "popularity": 0.0071,
+                    "name": "Benny Drechsel",
+                    "original_name": "Benny Drechsel",
+                    "popularity": 0.2459,
                     "profile_path": null,
-                    "credit_id": "641c971c142ef100837f89bd",
+                    "credit_id": "641c96b4d75bd624a58159f2",
                     "department": "Production",
                     "job": "Co-Producer"
                 },
@@ -416,7 +418,7 @@
                     "known_for_department": "Production",
                     "name": "Hernán Musaluppi",
                     "original_name": "Hernán Musaluppi",
-                    "popularity": 0.0543,
+                    "popularity": 0.0445,
                     "profile_path": "/yWIcXaKPKMAMOAwhjkIeu7aGbhB.jpg",
                     "credit_id": "641c96cd95c0af00f70877e0",
                     "department": "Production",
@@ -429,7 +431,7 @@
                     "known_for_department": "Production",
                     "name": "Karsten Stöter",
                     "original_name": "Karsten Stöter",
-                    "popularity": 0.0882,
+                    "popularity": 0.2112,
                     "profile_path": null,
                     "credit_id": "641c96edd75bd624d5358e26",
                     "department": "Production",
@@ -437,14 +439,14 @@
                 },
                 {
                     "adult": false,
-                    "gender": 2,
-                    "id": 123353,
+                    "gender": 0,
+                    "id": 3976158,
                     "known_for_department": "Production",
-                    "name": "Benny Drechsel",
-                    "original_name": "Benny Drechsel",
-                    "popularity": 0.0388,
+                    "name": "Anne Tetzlaff",
+                    "original_name": "Anne Tetzlaff",
+                    "popularity": 0.0429,
                     "profile_path": null,
-                    "credit_id": "641c96b4d75bd624a58159f2",
+                    "credit_id": "641c971c142ef100837f89bd",
                     "department": "Production",
                     "job": "Co-Producer"
                 },
@@ -455,7 +457,7 @@
                     "known_for_department": "Camera",
                     "name": "Gustavo Biazzi",
                     "original_name": "Gustavo Biazzi",
-                    "popularity": 0.0338,
+                    "popularity": 0.0546,
                     "profile_path": null,
                     "credit_id": "641c9732d75bd624d5358e40",
                     "department": "Camera",
@@ -468,7 +470,7 @@
                     "known_for_department": "Editing",
                     "name": "Martín Mainoli",
                     "original_name": "Martín Mainoli",
-                    "popularity": 0.0338,
+                    "popularity": 0.0952,
                     "profile_path": null,
                     "credit_id": "641c974fb9a0bd007ba8a952",
                     "department": "Editing",
@@ -481,7 +483,7 @@
                     "known_for_department": "Writing",
                     "name": "Gonzalo Delgado",
                     "original_name": "Gonzalo Delgado",
-                    "popularity": 0.1975,
+                    "popularity": 0.2768,
                     "profile_path": "/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg",
                     "credit_id": "64b4a017e0ca7f01442aac4d",
                     "department": "Costume & Make-Up",
@@ -494,7 +496,7 @@
                     "known_for_department": "Writing",
                     "name": "Gonzalo Delgado",
                     "original_name": "Gonzalo Delgado",
-                    "popularity": 0.1975,
+                    "popularity": 0.2768,
                     "profile_path": "/4Df5pflVHCRwyXlbH9dWHOjhE5n.jpg",
                     "credit_id": "64b4a235629b2c01024280a7",
                     "department": "Art",
@@ -507,7 +509,7 @@
                     "known_for_department": "Directing",
                     "name": "Rodrigo Moreno",
                     "original_name": "Rodrigo Moreno",
-                    "popularity": 0.0675,
+                    "popularity": 0.2732,
                     "profile_path": "/ffrwertO1hAdl8H7wxIlbqWHzby.jpg",
                     "credit_id": "5eef3119b0cd200035b68f14",
                     "department": "Writing",

@@ -69,7 +69,6 @@
                     @endif
                 </dl>
                 @endif
-                <p><span class="text-slate-400">Clasificación:</span> {{ $movie->rating ?? 'Sin información' }}</p>
                 @if ($movie->trailer_embed_url)
                 <div class="mt-4 w-full overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-inner">
                     <div class="relative w-full" style="padding-bottom: 56.25%;">

@@ -1,0 +1,89 @@
+{
+    "source": "tmdb",
+    "tmdb_id": null,
+    "slug": "conurban-woman",
+    "title": "Conurban Woman",
+    "original_title": "Conurban Woman",
+    "overview": "El amor por sobre toda diferencia social.",
+    "runtime": null,
+    "release_date": null,
+    "year": 2024,
+    "tagline": "El amor por sobre toda diferencia social",
+    "genres": [
+        {
+            "id": 10402,
+            "name": "Música"
+        }
+    ],
+    "countries": ["Argentina"],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "/storage/posters/conurban-woman.jpg",
+    "backdrop_url": null,
+    "trailer": null,
+    "cast": [],
+    "crew": [
+        {
+            "id": 1731976,
+            "name": "Flan Mixto",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/flan-mixto.jpg"
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10402,
+                "name": "Música"
+            }
+        ],
+        "homepage": "",
+        "id": null,
+        "imdb_id": null,
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Conurban Woman",
+        "overview": "",
+        "popularity": null,
+        "poster_path": null,
+        "production_companies": [
+        ],
+        "production_countries": [],
+        "release_date": null,
+        "revenue": null,
+        "runtime": null,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Conurban Woman",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "credits": {
+            "cast": [],
+            "crew": []
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": []
+        }
+    }
+}

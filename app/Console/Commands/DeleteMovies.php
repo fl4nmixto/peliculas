@@ -28,6 +28,7 @@ class DeleteMovies extends Command
     protected array $slugs = [
         'cronica-de-una-fuga',
         'el-descanso',
+        'iniciales-sg',
         'la-nube',
         'un-pogrom-en-buenos-aires',
     ];

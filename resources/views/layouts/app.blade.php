@@ -9,6 +9,11 @@
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap"
             rel="stylesheet"
         />
+        <link
+            rel="icon"
+            type="image/jpeg"
+            href="{{ asset('storage/mosfilm.jpg') }}"
+        />
         @vite(['resources/css/app.css'])
         @stack('head')
     </head>

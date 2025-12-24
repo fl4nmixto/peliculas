@@ -28,6 +28,23 @@
                     Participó en {{ $uniqueMoviesCount }}
                     {{ \Illuminate\Support\Str::plural('producción', $uniqueMoviesCount) }} del catálogo.
                 </p>
+                <div class="mt-2 flex flex-wrap items-center gap-3">
+                    <button
+                        type="button"
+                        class="flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-white transition hover:border-sky-300 hover:bg-white/[0.08] hover:text-sky-300"
+                        data-share-button
+                        data-share-url="{{ url()->current() }}"
+                        data-share-title="{{ $person->name }}"
+                        data-share-text="Descubre a {{ $person->name }} en el catálogo"
+                        data-share-status-id="person-share-status"
+                        aria-label="Compartir {{ $person->name }}">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M7 8l-4 4 4 4M3 12h12a6 6 0 010 12" />
+                        </svg>
+                        <span>Compartir</span>
+                    </button>
+                    <span id="person-share-status" class="min-h-[1.25rem] text-[0.7rem] text-slate-400"></span>
+                </div>
             </div>
             <p class="text-sm text-slate-200">{{ $person->bio ?? '' }}</p>
             @php
@@ -81,4 +98,55 @@
         @endforeach
     </div>
 </section>
+@push('scripts')
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const shareButtons = document.querySelectorAll('[data-share-button]');
+        shareButtons.forEach((button) => {
+            const statusId = button.dataset.shareStatusId;
+            const statusEl = statusId ? document.getElementById(statusId) : null;
+            let statusTimeout;
+
+            const setStatus = (message, isError = false) => {
+                if (!statusEl) {
+                    return;
+                }
+                statusEl.textContent = message;
+                statusEl.classList.toggle('text-rose-300', isError);
+                statusEl.classList.toggle('text-slate-400', !isError);
+                clearTimeout(statusTimeout);
+                statusTimeout = setTimeout(() => {
+                    statusEl.textContent = '';
+                }, 2500);
+            };
+
+            button.addEventListener('click', async () => {
+                const payload = {
+                    title: button.dataset.shareTitle || '',
+                    text: button.dataset.shareText || '',
+                    url: button.dataset.shareUrl || window.location.href,
+                };
+
+                try {
+                    if (navigator.share) {
+                        await navigator.share(payload);
+                        setStatus('Compartido');
+                        return;
+                    }
+
+                    if (navigator.clipboard?.writeText) {
+                        await navigator.clipboard.writeText(payload.url);
+                        setStatus('Enlace copiado');
+                        return;
+                    }
+
+                    setStatus('No se pudo compartir', true);
+                } catch (error) {
+                    setStatus('No se pudo compartir', true);
+                }
+            });
+        });
+    });
+</script>
+@endpush
 @endsection

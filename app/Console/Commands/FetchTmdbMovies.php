@@ -22,11 +22,12 @@ class FetchTmdbMovies extends Command
     protected array $imageCache = [];
 
     protected const MOVIES = [
+        /*
+        ['title' => 'Flipper', 'year'=> 2021],
         ['title' => 'Bahía Blanca', 'year'=> 2021],
         ['title' => 'Elda y los monstruos', 'year'=> 2023],
         ['title' => 'Puan', 'year'=> 2023],
         ['title' => 'NEY: Nosotros, ellos y yo', 'year'=> 2015],
-        /*
         ['title' => '76-89-03'],
         ['title' => '1976', 'year' => 2022],
         ['title' => 'Acné', 'year' => 2008],

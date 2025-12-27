@@ -1,0 +1,741 @@
+{
+    "source": "tmdb",
+    "tmdb_id": 879885,
+    "slug": "flipper",
+    "title": "Flipper",
+    "original_title": "Flipper",
+    "overview": "Tres historias absurdas de amor y crimen. Un hombre roba el anillo de diamantes de su esposa y lo vende para comprar un flipper. Tres amigas viajan a la costa para comprar un flipper pero son estafadas y reciben una ayuda impensada. Una mujer mata accidentalmente a su amante, desecha el cuerpo y luego se entera que él podría tener diamantes encima.",
+    "runtime": 123,
+    "release_date": "2021-10-07",
+    "year": 2021,
+    "tagline": "",
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedia"
+        },
+        {
+            "id": 10402,
+            "name": "Música"
+        }
+    ],
+    "countries": [
+        "Argentina"
+    ],
+    "spoken_languages": [
+        "Español"
+    ],
+    "poster_url": "/storage/posters/flipper-3b0402d2.jpg",
+    "backdrop_url": "/storage/backdrops/flipper-4fa59793.jpg",
+    "trailer": null,
+    "gallery_urls": [
+        "/storage/posters/flipper-3b0402d2.jpg",
+        "/storage/gallery/gallery-2-08be8516.jpg"
+    ],
+    "cast": [
+        {
+            "id": 3254396,
+            "name": "Piru Lasta",
+            "character": "Laura / Cata",
+            "order": 0,
+            "image_url": null
+        },
+        {
+            "id": 995388,
+            "name": "Fabián Arenillas",
+            "character": "Marcos / Nacho / Roger",
+            "order": 1,
+            "image_url": "/storage/people/fabian-arenillas-ca924edb.jpg"
+        },
+        {
+            "id": 1086354,
+            "name": "María Villar",
+            "character": "Gladys / Nacha / Mimí",
+            "order": 2,
+            "image_url": "/storage/people/maria-villar-64cf6e57.jpg"
+        },
+        {
+            "id": 2441165,
+            "name": "Julieta Tramanzoli",
+            "character": "Ana / Greta",
+            "order": 3,
+            "image_url": "/storage/people/julieta-tramanzoli-5341d9b7.jpg"
+        },
+        {
+            "id": 3254391,
+            "name": "Nacho Pérez Cortés",
+            "character": "Mozo / Damián",
+            "order": 4,
+            "image_url": null
+        },
+        {
+            "id": 3254394,
+            "name": "María Jantus",
+            "character": "Muchacha / Claudia",
+            "order": 5,
+            "image_url": null
+        },
+        {
+            "id": 2010534,
+            "name": "Paulo Pécora",
+            "character": "Suicida / Esteban",
+            "order": 6,
+            "image_url": "/storage/people/paulo-pecora-ac419dc7.jpg"
+        },
+        {
+            "id": 2507445,
+            "name": "Sonia Zavaleta",
+            "character": "Ezcurra / Paula",
+            "order": 7,
+            "image_url": null
+        },
+        {
+            "id": 2242698,
+            "name": "Daniel Alvaredo",
+            "character": "Carlos",
+            "order": 8,
+            "image_url": "/storage/people/daniel-alvaredo-970e5b65.jpg"
+        },
+        {
+            "id": 3254402,
+            "name": "Julia Zanettini",
+            "character": "Carolina",
+            "order": 9,
+            "image_url": null
+        },
+        {
+            "id": 2684952,
+            "name": "Jenni Merla",
+            "character": "Joyera",
+            "order": 10,
+            "image_url": "/storage/people/jenni-merla-cc9cc178.jpg"
+        },
+        {
+            "id": 2156656,
+            "name": "Claudia Schijman",
+            "character": "Elvira",
+            "order": 11,
+            "image_url": null
+        },
+        {
+            "id": 2374321,
+            "name": "Bernardo Szulanski",
+            "character": "Taller de autos",
+            "order": 12,
+            "image_url": null
+        },
+        {
+            "id": 1172385,
+            "name": "Mónica Lairana",
+            "character": "Suicida",
+            "order": 13,
+            "image_url": "/storage/people/monica-lairana-e88a8613.jpg"
+        }
+    ],
+    "crew": [
+        {
+            "id": 2678000,
+            "name": "Juan Scaiola",
+            "department": "Camera",
+            "job": "Director of Photography",
+            "image_url": null
+        },
+        {
+            "id": 2374321,
+            "name": "Bernardo Szulanski",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": null
+        },
+        {
+            "id": 2156658,
+            "name": "Matías Szulanski",
+            "department": "Production",
+            "job": "Producer",
+            "image_url": "/storage/people/matias-szulanski-ca41ce85.jpg"
+        },
+        {
+            "id": 2092144,
+            "name": "Mariana Sanguinetti",
+            "department": "Directing",
+            "job": "Assistant Director",
+            "image_url": null
+        },
+        {
+            "id": 1583373,
+            "name": "Sandra Iurcovich",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": null
+        },
+        {
+            "id": 3254384,
+            "name": "Sheila Szulanski",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer",
+            "image_url": null
+        },
+        {
+            "id": 2374321,
+            "name": "Bernardo Szulanski",
+            "department": "Production",
+            "job": "Executive Producer",
+            "image_url": null
+        },
+        {
+            "id": 2156658,
+            "name": "Matías Szulanski",
+            "department": "Editing",
+            "job": "Editor",
+            "image_url": "/storage/people/matias-szulanski-ca41ce85.jpg"
+        },
+        {
+            "id": 2156658,
+            "name": "Matías Szulanski",
+            "department": "Writing",
+            "job": "Writer",
+            "image_url": "/storage/people/matias-szulanski-ca41ce85.jpg"
+        },
+        {
+            "id": 574183,
+            "name": "Pablo Isola",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 2874221,
+            "name": "Constanza Pugliese",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair",
+            "image_url": null
+        },
+        {
+            "id": 2156659,
+            "name": "Carlos Páez",
+            "department": "Sound",
+            "job": "Music",
+            "image_url": null
+        },
+        {
+            "id": 2260320,
+            "name": "Lucía Lalor",
+            "department": "Art",
+            "job": "Art Direction",
+            "image_url": "/storage/people/lucia-lalor-a768dc97.jpg"
+        },
+        {
+            "id": 2156658,
+            "name": "Matías Szulanski",
+            "department": "Directing",
+            "job": "Director",
+            "image_url": "/storage/people/matias-szulanski-ca41ce85.jpg"
+        },
+        {
+            "id": 2456723,
+            "name": "Juan Silva",
+            "department": "Sound",
+            "job": "Sound",
+            "image_url": null
+        },
+        {
+            "id": 3254386,
+            "name": "Viktor Kruger",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair",
+            "image_url": null
+        }
+    ],
+    "raw": {
+        "adult": false,
+        "backdrop_path": "/yUuZou3sBiKibR4HFMAKQAcX1oR.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedia"
+            }
+        ],
+        "homepage": "",
+        "id": 879885,
+        "imdb_id": "tt15455500",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Flipper",
+        "overview": "Tres historias absurdas de amor y crimen. Un hombre roba el anillo de diamantes de su esposa y lo vende para comprar un flipper. Tres amigas viajan a la costa para comprar un flipper pero son estafadas y reciben una ayuda impensada. Una mujer mata accidentalmente a su amante, desecha el cuerpo y luego se entera que él podría tener diamantes encima.",
+        "popularity": 0.662,
+        "poster_path": "/woDNm33hT6U1cDhk7llMSoAxagw.jpg",
+        "production_companies": [
+            {
+                "id": 121381,
+                "logo_path": null,
+                "name": "Kligger",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2021-10-07",
+        "revenue": 0,
+        "runtime": 123,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Flipper",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1,
+        "credits": {
+            "cast": [
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 3254396,
+                    "known_for_department": "Acting",
+                    "name": "Piru Lasta",
+                    "original_name": "Piru Lasta",
+                    "popularity": 0.0409,
+                    "profile_path": null,
+                    "cast_id": 23,
+                    "character": "Laura / Cata",
+                    "credit_id": "6156601daf58cb00654097a1",
+                    "order": 0
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 995388,
+                    "known_for_department": "Acting",
+                    "name": "Fabián Arenillas",
+                    "original_name": "Fabián Arenillas",
+                    "popularity": 0.3362,
+                    "profile_path": "/cc4sLjGi1gCp5uhJjtiPpNYXBtr.jpg",
+                    "cast_id": 19,
+                    "character": "Marcos / Nacho / Roger",
+                    "credit_id": "61565fa9e18b970042e91160",
+                    "order": 1
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1086354,
+                    "known_for_department": "Acting",
+                    "name": "María Villar",
+                    "original_name": "María Villar",
+                    "popularity": 0.2203,
+                    "profile_path": "/nXBZSpS6prrTuCXoN8c5XkzrSU6.jpg",
+                    "cast_id": 29,
+                    "character": "Gladys / Nacha / Mimí",
+                    "credit_id": "615660911c6329008417c31e",
+                    "order": 2
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2441165,
+                    "known_for_department": "Acting",
+                    "name": "Julieta Tramanzoli",
+                    "original_name": "Julieta Tramanzoli",
+                    "popularity": 0.0453,
+                    "profile_path": "/AuI69q2ajg800np34BAzgq06CPS.jpg",
+                    "cast_id": 28,
+                    "character": "Ana / Greta",
+                    "credit_id": "615660711c6329008417c2a6",
+                    "order": 3
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3254391,
+                    "known_for_department": "Acting",
+                    "name": "Nacho Pérez Cortés",
+                    "original_name": "Nacho Pérez Cortés",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 20,
+                    "character": "Mozo / Damián",
+                    "credit_id": "61565fd141465c0062c76206",
+                    "order": 4
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3254394,
+                    "known_for_department": "Acting",
+                    "name": "María Jantus",
+                    "original_name": "María Jantus",
+                    "popularity": 0.0598,
+                    "profile_path": null,
+                    "cast_id": 21,
+                    "character": "Muchacha / Claudia",
+                    "credit_id": "61565fe681c7be008e0c92b3",
+                    "order": 5
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2010534,
+                    "known_for_department": "Directing",
+                    "name": "Paulo Pécora",
+                    "original_name": "Paulo Pécora",
+                    "popularity": 0.1372,
+                    "profile_path": "/blyrSixYsuZGeKeLxgEc1DwoxJ6.jpg",
+                    "cast_id": 25,
+                    "character": "Suicida / Esteban",
+                    "credit_id": "6156604041465c00290b3540",
+                    "order": 6
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2507445,
+                    "known_for_department": "Acting",
+                    "name": "Sonia Zavaleta",
+                    "original_name": "Sonia Zavaleta",
+                    "popularity": 0.0381,
+                    "profile_path": null,
+                    "cast_id": 31,
+                    "character": "Ezcurra / Paula",
+                    "credit_id": "615660b2dd731b0029b94837",
+                    "order": 7
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2242698,
+                    "known_for_department": "Acting",
+                    "name": "Daniel Alvaredo",
+                    "original_name": "Daniel Alvaredo",
+                    "popularity": 0.0393,
+                    "profile_path": "/fU5a69eQCiIrgTgd0XckFF7CLBT.jpg",
+                    "cast_id": 18,
+                    "character": "Carlos",
+                    "credit_id": "61565f9441465c00290b3304",
+                    "order": 8
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3254402,
+                    "known_for_department": "Acting",
+                    "name": "Julia Zanettini",
+                    "original_name": "Julia Zanettini",
+                    "popularity": 0.0168,
+                    "profile_path": null,
+                    "cast_id": 30,
+                    "character": "Carolina",
+                    "credit_id": "615660a2f04d010063d784a3",
+                    "order": 9
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2684952,
+                    "known_for_department": "Acting",
+                    "name": "Jenni Merla",
+                    "original_name": "Jenni Merla",
+                    "popularity": 0.0993,
+                    "profile_path": "/rhP17anI4zjE0s74Xjjtw85vriW.jpg",
+                    "cast_id": 24,
+                    "character": "Joyera",
+                    "credit_id": "6156602be18b97008c9b5406",
+                    "order": 10
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2156656,
+                    "known_for_department": "Acting",
+                    "name": "Claudia Schijman",
+                    "original_name": "Claudia Schijman",
+                    "popularity": 0.0902,
+                    "profile_path": null,
+                    "cast_id": 26,
+                    "character": "Elvira",
+                    "credit_id": "61566052eb14fa00627bac6d",
+                    "order": 11
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2374321,
+                    "known_for_department": "Production",
+                    "name": "Bernardo Szulanski",
+                    "original_name": "Bernardo Szulanski",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "cast_id": 27,
+                    "character": "Taller de autos",
+                    "credit_id": "6156606281c7be0025d98a64",
+                    "order": 12
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 1172385,
+                    "known_for_department": "Acting",
+                    "name": "Mónica Lairana",
+                    "original_name": "Mónica Lairana",
+                    "popularity": 0.2114,
+                    "profile_path": "/wkzvk6lQeKKesQmp4PUGgNXtn2w.jpg",
+                    "cast_id": 22,
+                    "character": "Suicida",
+                    "credit_id": "61565ff7dcb6a300434d5dd1",
+                    "order": 13
+                }
+            ],
+            "crew": [
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2678000,
+                    "known_for_department": "Lighting",
+                    "name": "Juan Scaiola",
+                    "original_name": "Juan Scaiola",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "61565e69e18b97006292f10c",
+                    "department": "Camera",
+                    "job": "Director of Photography"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2374321,
+                    "known_for_department": "Production",
+                    "name": "Bernardo Szulanski",
+                    "original_name": "Bernardo Szulanski",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "61565f018741c400420bf561",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2156658,
+                    "known_for_department": "Directing",
+                    "name": "Matías Szulanski",
+                    "original_name": "Matías Szulanski",
+                    "popularity": 0.0297,
+                    "profile_path": "/utZTVCJX7hjMx2M6oFvFqErtaVH.jpg",
+                    "credit_id": "61565ef38e2ba6008bdcb0b9",
+                    "department": "Production",
+                    "job": "Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2092144,
+                    "known_for_department": "Directing",
+                    "name": "Mariana Sanguinetti",
+                    "original_name": "Mariana Sanguinetti",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "61565e5ba4af8f008e979f80",
+                    "department": "Directing",
+                    "job": "Assistant Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 1583373,
+                    "known_for_department": "Art",
+                    "name": "Sandra Iurcovich",
+                    "original_name": "Sandra Iurcovich",
+                    "popularity": 0.0143,
+                    "profile_path": null,
+                    "credit_id": "61565ed6e18b97008c9b50b1",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3254384,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Sheila Szulanski",
+                    "original_name": "Sheila Szulanski",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "61565f1981c7be008e0c8f48",
+                    "department": "Costume & Make-Up",
+                    "job": "Costume Designer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2374321,
+                    "known_for_department": "Production",
+                    "name": "Bernardo Szulanski",
+                    "original_name": "Bernardo Szulanski",
+                    "popularity": 0.0214,
+                    "profile_path": null,
+                    "credit_id": "61565f30e18b97008c9b517f",
+                    "department": "Production",
+                    "job": "Executive Producer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2156658,
+                    "known_for_department": "Directing",
+                    "name": "Matías Szulanski",
+                    "original_name": "Matías Szulanski",
+                    "popularity": 0.0297,
+                    "profile_path": "/utZTVCJX7hjMx2M6oFvFqErtaVH.jpg",
+                    "credit_id": "61565ea2eb14fa008c0b4b4c",
+                    "department": "Editing",
+                    "job": "Editor"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2156658,
+                    "known_for_department": "Directing",
+                    "name": "Matías Szulanski",
+                    "original_name": "Matías Szulanski",
+                    "popularity": 0.0297,
+                    "profile_path": "/utZTVCJX7hjMx2M6oFvFqErtaVH.jpg",
+                    "credit_id": "61565e45eb14fa008c0b4a3f",
+                    "department": "Writing",
+                    "job": "Writer"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 574183,
+                    "known_for_department": "Sound",
+                    "name": "Pablo Isola",
+                    "original_name": "Pablo Isola",
+                    "popularity": 0.0725,
+                    "profile_path": null,
+                    "credit_id": "61565e84904f6d00431935b2",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2874221,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Constanza Pugliese",
+                    "original_name": "Constanza Pugliese",
+                    "popularity": 0.0596,
+                    "profile_path": null,
+                    "credit_id": "61565f4241465c008d02e776",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup & Hair"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2156659,
+                    "known_for_department": "Sound",
+                    "name": "Carlos Páez",
+                    "original_name": "Carlos Páez",
+                    "popularity": 0.3262,
+                    "profile_path": null,
+                    "credit_id": "61565e7807e281004464a933",
+                    "department": "Sound",
+                    "job": "Music"
+                },
+                {
+                    "adult": false,
+                    "gender": 1,
+                    "id": 2260320,
+                    "known_for_department": "Art",
+                    "name": "Lucía Lalor",
+                    "original_name": "Lucía Lalor",
+                    "popularity": 0.0071,
+                    "profile_path": "/nEU5WHAUN7seWKBmw3tcmRqhOrL.jpg",
+                    "credit_id": "61565ec6d2147c00633154f9",
+                    "department": "Art",
+                    "job": "Art Direction"
+                },
+                {
+                    "adult": false,
+                    "gender": 2,
+                    "id": 2156658,
+                    "known_for_department": "Directing",
+                    "name": "Matías Szulanski",
+                    "original_name": "Matías Szulanski",
+                    "popularity": 0.0297,
+                    "profile_path": "/utZTVCJX7hjMx2M6oFvFqErtaVH.jpg",
+                    "credit_id": "61565e0edd731b008b8f7f42",
+                    "department": "Directing",
+                    "job": "Director"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 2456723,
+                    "known_for_department": "Sound",
+                    "name": "Juan Silva",
+                    "original_name": "Juan Silva",
+                    "popularity": 0,
+                    "profile_path": null,
+                    "credit_id": "61565e9581c7be00649ef184",
+                    "department": "Sound",
+                    "job": "Sound"
+                },
+                {
+                    "adult": false,
+                    "gender": 0,
+                    "id": 3254386,
+                    "known_for_department": "Costume & Make-Up",
+                    "name": "Viktor Kruger",
+                    "original_name": "Viktor Kruger",
+                    "popularity": 0.0071,
+                    "profile_path": null,
+                    "credit_id": "61565f59f04d010091d2328b",
+                    "department": "Costume & Make-Up",
+                    "job": "Makeup & Hair"
+                }
+            ]
+        },
+        "videos": {
+            "results": []
+        },
+        "images": {
+            "backdrops": [],
+            "logos": [],
+            "posters": [
+                {
+                    "aspect_ratio": 0.7,
+                    "height": 1536,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/woDNm33hT6U1cDhk7llMSoAxagw.jpg",
+                    "vote_average": 3.334,
+                    "vote_count": 1,
+                    "width": 1075
+                },
+                {
+                    "aspect_ratio": 0.667,
+                    "height": 750,
+                    "iso_3166_1": "ES",
+                    "iso_639_1": "es",
+                    "file_path": "/h7tk6gqlXLN0d0qGrZ3pQudiFs2.jpg",
+                    "vote_average": 0,
+                    "vote_count": 0,
+                    "width": 500
+                }
+            ]
+        }
+    }
+}

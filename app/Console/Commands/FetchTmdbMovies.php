@@ -23,6 +23,7 @@ class FetchTmdbMovies extends Command
 
     protected const MOVIES = [
         /*
+        ['title' => 'La larga noche de Francisco Sanctis'],
         ['title' => 'Flipper', 'year'=> 2021],
         ['title' => 'Bahía Blanca', 'year'=> 2021],
         ['title' => 'Elda y los monstruos', 'year'=> 2023],
